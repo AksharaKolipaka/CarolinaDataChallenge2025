@@ -4,15 +4,10 @@ library(plotly)
 library(DT)
 library(shinythemes)
 
-# ======================
-# Load Data
-# ======================
+
 championship <- read_csv("space_economy_championship.csv", show_col_types = FALSE)
 df <- read_csv("all_tables_combined.csv", show_col_types = FALSE)
 
-# ======================
-# UI
-# ======================
 ui <- navbarPage(
   title = "🚀 Space Economy Hunger Games: Capitol Broadcast",
   theme = shinytheme("cyborg"),
@@ -51,7 +46,6 @@ ui <- navbarPage(
     )
   ),
   
-  # ----------------------
   tabPanel("🏠 Home",
            fluidPage(
              div(class="box",
@@ -71,7 +65,6 @@ ui <- navbarPage(
            )
   ),
   
-  # ----------------------
   tabPanel("🏆 Rankings",
            fluidPage(
              div(class="box",
@@ -81,7 +74,6 @@ ui <- navbarPage(
            )
   ),
   
-  # ----------------------
   tabPanel("🔥 Arena Race",
            fluidPage(
              div(class="box",
@@ -91,7 +83,6 @@ ui <- navbarPage(
            )
   ),
   
-  # ----------------------
   tabPanel("📊 Strength Profiles",
            fluidPage(
              div(class="box",
@@ -101,7 +92,6 @@ ui <- navbarPage(
            )
   ),
   
-  # ----------------------
   tabPanel("🎴 Tribute Cards",
            fluidPage(
              h3("Meet the District Tributes"),
@@ -110,9 +100,6 @@ ui <- navbarPage(
   )
 )
 
-# ======================
-# SERVER
-# ======================
 server <- function(input, output, session) {
   
   # Rankings Table
@@ -220,7 +207,5 @@ server <- function(input, output, session) {
   })
 }
 
-# ======================
-# Run App
-# ======================
+
 shinyApp(ui, server)
