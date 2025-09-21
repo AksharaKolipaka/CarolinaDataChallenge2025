@@ -1,0 +1,297 @@
+---
+title: "Space Economy Districts - Simplified Analysis"
+author: "Space Economy Analyst"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+## Load Required Libraries
+
+```{r libraries}
+library(tidyverse)
+library(janitor)
+library(readr)
+library(knitr)
+```
+
+## 1. Data Import and Cleaning Functions
+
+```{r import_functions}
+# Function to read and clean individual CSV files
+read_and_clean_table <- function(file_path, table_name) {
+  
+  # Read CSV
+  raw_data <- read_csv(file_path, show_col_types = FALSE)
+  
+  # Get years from row 5
+  years <- raw_data[5, 3:ncol(raw_data)] %>% 
+    unlist() %>% 
+    as.character() %>% 
+    na.omit()
+  
+  # Clean data starting from row 6
+  clean_data <- raw_data %>%
+    slice(6:n()) %>%
+    select(1:(length(years) + 2)) %>%
+    set_names(c("row_id", "industry", years)) %>%
+    filter(!is.na(industry), 
+           !str_detect(industry, "^\\.\\.\\.$")) %>%
+    mutate(table_name = table_name) %>%
+    # Convert year columns to numeric
+    mutate(across(all_of(years), ~as.numeric(str_replace_all(.x, "[^0-9.-]", "")))) %>%
+    # Remove empty rows
+    filter(if_any(all_of(years), ~!is.na(.x) & .x != 0))
+  
+  return(clean_data)
+}
+
+# Import all business tables
+import_all_tables <- function() {
+  
+  table_files <- list(
+    "Business_Table 1.csv" = "real_value_added",
+    "Business_Table 2.csv" = "current_value_added", 
+    "Business_Table 3.csv" = "price_indexes",
+    "Business_Table 4.csv" = "real_gross_output",
+    "Business_Table 5.csv" = "current_gross_output",
+    "Business_Table 6.csv" = "gross_output_price_indexes",
+    "Business_Table 7.csv" = "employment",
+    "Business_Table 8.csv" = "compensation"
+  )
+  
+  # Read each table separately
+  all_tables <- map2(names(table_files), table_files, 
+                     ~read_and_clean_table(.x, .y))
+  names(all_tables) <- table_files
+  
+  return(all_tables)
+}
+```
+
+## 2. District Classification System
+
+```{r district_system}
+# Define the 13 Hunger Games Districts
+create_district_definitions <- function() {
+  tibble(
+    district_number = 1:13,
+    district_name = c(
+      "Luxury", "Weapons", "Technology", "Maritime", "Power", 
+      "Transportation", "Lumber", "Textiles", "Grain", 
+      "Livestock", "Agriculture", "Mining", "Underground"
+    ),
+    district_keywords = c(
+      "Satellite,Communication,Broadcasting,Telecommunication,Tourism,Wireless",
+      "Defense,Military,Weapon,Aerospace Defense,Missile,Combat",
+      "Computer,Software,Semiconductor,Electronic,Data Processing,Internet",
+      "Water,Ship,Maritime,Ocean,Marine,Navigation,Coastal",
+      "Electric,Power,Utilities,Energy,Solar,Oil,Gas",
+      "Transportation,Logistics,Warehousing,Courier,Air,Transit",
+      "Wood,Forestry,Paper,Earth Observation,Mapping,Geospatial",
+      "Textile,Apparel,Manufacturing,Materials,Chemical,Plastics",
+      "Food,Agriculture,Crop,Grain,Beverage,Processing",
+      "Animal,Livestock,Biological,Life Sciences,Medical,Pharmaceutical",
+      "Environmental,Climate,Weather,Atmospheric,Conservation",
+      "Mining,Extraction,Coal,Metal,Mineral,Quarrying",
+      "Other,Miscellaneous,Unknown,Research,Development"
+    )
+  )
+}
+
+# Function to classify industries into districts
+classify_industries <- function(industries) {
+  
+  districts <- create_district_definitions()
+  
+  # Create industry classification
+  industry_classification <- tibble(
+    industry = industries,
+    industry_clean = str_trim(str_to_title(industries)),
+    district_number = NA_integer_,
+    district_name = NA_character_
+  )
+  
+  # Classify each industry
+  for(i in 1:nrow(industry_classification)) {
+    industry_text <- tolower(industry_classification$industry_clean[i])
+    best_match <- 13  # Default to District 13 (Underground)
+    best_score <- 0
+    
+    for(d in 1:12) {  # Check districts 1-12
+      keywords <- str_split(districts$district_keywords[d], ",")[[1]]
+      keywords <- tolower(str_trim(keywords))
+      
+      # Calculate match score
+      matches <- sum(str_detect(industry_text, keywords))
+      if(matches > best_score) {
+        best_score <- matches
+        best_match <- d
+      }
+    }
+    
+    industry_classification$district_number[i] <- best_match
+    industry_classification$district_name[i] <- districts$district_name[best_match]
+  }
+  
+  return(industry_classification)
+}
+```
+
+## 3. Process Data
+
+```{r process_data}
+# Import all tables
+cat("Importing business tables...\n")
+business_tables <- import_all_tables()
+
+# Get unique industries from all tables
+all_industries <- unique(unlist(map(business_tables, ~.x$industry)))
+cat("Total unique industries found:", length(all_industries), "\n\n")
+
+# Classify industries into districts
+cat("Classifying industries into 13 districts...\n")
+industry_to_district <- classify_industries(all_industries)
+
+# Display district distribution
+district_summary <- industry_to_district %>%
+  count(district_number, district_name) %>%
+  arrange(district_number)
+
+kable(district_summary, 
+      caption = "Industry Distribution Across Districts",
+      col.names = c("District #", "District Name", "Number of Industries"))
+```
+
+## 4. Clean Business Tables for Analysis
+
+```{r clean_tables}
+# Function to clean each business table for analysis
+clean_business_table <- function(table_data, industry_mapping) {
+  
+  # Get year columns
+  year_cols <- names(table_data)[str_detect(names(table_data), "^20")]
+  
+  # Join with district mapping
+  cleaned <- table_data %>%
+    left_join(industry_mapping %>% 
+              select(industry, district_number, district_name),
+              by = "industry") %>%
+    # Reshape to long format for easier analysis
+    pivot_longer(cols = all_of(year_cols),
+                 names_to = "year",
+                 values_to = "value") %>%
+    mutate(year = as.numeric(year),
+           value = as.numeric(value)) %>%
+    filter(!is.na(value)) %>%
+    select(table_name, industry, district_number, district_name, 
+           year, value)
+  
+  return(cleaned)
+}
+
+# Clean all business tables
+cleaned_business_tables <- map(business_tables, 
+                               ~clean_business_table(.x, industry_to_district))
+
+# Combine into a single analysis dataset
+analysis_dataset <- bind_rows(cleaned_business_tables)
+
+cat("\nCleaned data summary:\n")
+cat("Total records:", nrow(analysis_dataset), "\n")
+cat("Years covered:", min(analysis_dataset$year), "-", max(analysis_dataset$year), "\n")
+cat("Tables included:", length(unique(analysis_dataset$table_name)), "\n")
+```
+
+## 5. Create Summary Tables
+
+```{r summary_tables}
+# Create district performance summary for each business table
+district_performance <- analysis_dataset %>%
+  filter(year == max(year)) %>%  # Latest year only
+  group_by(table_name, district_number, district_name) %>%
+  summarise(
+    total_value = sum(value, na.rm = TRUE),
+    avg_value = mean(value, na.rm = TRUE),
+    industry_count = n_distinct(industry),
+    .groups = "drop"
+  ) %>%
+  arrange(table_name, desc(total_value))
+
+# Display top districts by real value added
+top_districts <- district_performance %>%
+  filter(table_name == "real_value_added") %>%
+  arrange(desc(total_value)) %>%
+  head(10)
+
+kable(top_districts,
+      caption = "Top 10 Districts by Real Value Added (Latest Year)",
+      col.names = c("Table", "District #", "District Name", 
+                   "Total Value", "Avg Value", "Industries"),
+      digits = 0)
+```
+
+## 6. Export Results
+
+```{r export_results}
+# 1. Industry to District Mapping (Main Request)
+write_csv(industry_to_district, "industry_district_mapping.csv")
+cat("\nExported: industry_district_mapping.csv\n")
+
+# Display sample of the mapping
+cat("\nSample of Industry to District Mapping:\n")
+industry_to_district %>%
+  arrange(district_number) %>%
+  head(20) %>%
+  kable(caption = "Industry to District Assignments (First 20)")
+
+# 2. Cleaned Business Tables (Saved separately for further analysis)
+for(table_name in names(cleaned_business_tables)) {
+  filename <- paste0("cleaned_", table_name, ".csv")
+  write_csv(cleaned_business_tables[[table_name]], filename)
+  cat("Exported:", filename, "\n")
+}
+
+# 3. Combined analysis dataset
+write_csv(analysis_dataset, "all_tables_combined.csv")
+cat("Exported: all_tables_combined.csv\n")
+
+# 4. District definitions reference
+write_csv(create_district_definitions(), "district_definitions.csv")
+cat("Exported: district_definitions.csv\n")
+
+cat("\n=== DATA PROCESSING COMPLETE ===\n")
+cat("Main outputs:\n")
+cat("1. industry_district_mapping.csv - Shows which industry went to which district\n")
+cat("2. cleaned_[table_name].csv - Individual cleaned business tables\n")
+cat("3. all_tables_combined.csv - All tables combined for analysis\n")
+cat("4. district_definitions.csv - District reference information\n")
+```
+
+## 7. Quick Data Validation
+
+```{r validation}
+# Check for unclassified industries
+unclassified <- industry_to_district %>%
+  filter(district_number == 13) %>%
+  nrow()
+
+cat("\nData Quality Check:\n")
+cat("Total industries:", nrow(industry_to_district), "\n")
+cat("Classified to specific districts (1-12):", 
+    nrow(industry_to_district) - unclassified, "\n")
+cat("Unclassified (District 13):", unclassified, "\n")
+cat("Classification rate:", 
+    round((1 - unclassified/nrow(industry_to_district)) * 100, 1), "%\n")
+
+# Show district balance
+cat("\nDistrict Balance:\n")
+industry_to_district %>%
+  count(district_name) %>%
+  mutate(percentage = round(n/sum(n) * 100, 1)) %>%
+  arrange(desc(n)) %>%
+  kable(col.names = c("District", "Industries", "Percentage"))
+```

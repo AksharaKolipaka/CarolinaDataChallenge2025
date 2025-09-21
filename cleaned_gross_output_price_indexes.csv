@@ -1,0 +1,1141 @@
+table_name,industry,district_number,district_name,year,value
+gross_output_price_indexes,Space economy1,13,Underground,2012,103.656
+gross_output_price_indexes,Space economy1,13,Underground,2013,102.525
+gross_output_price_indexes,Space economy1,13,Underground,2014,101.143
+gross_output_price_indexes,Space economy1,13,Underground,2015,99.775
+gross_output_price_indexes,Space economy1,13,Underground,2016,99.159
+gross_output_price_indexes,Space economy1,13,Underground,2017,100
+gross_output_price_indexes,Space economy1,13,Underground,2018,101.822
+gross_output_price_indexes,Space economy1,13,Underground,2019,103.843
+gross_output_price_indexes,Space economy1,13,Underground,2020,104.588
+gross_output_price_indexes,Space economy1,13,Underground,2021,110.39
+gross_output_price_indexes,Space economy1,13,Underground,2022,115.408
+gross_output_price_indexes,Space economy1,13,Underground,2023,119.198
+gross_output_price_indexes,Private industries,13,Underground,2012,105.696
+gross_output_price_indexes,Private industries,13,Underground,2013,104.063
+gross_output_price_indexes,Private industries,13,Underground,2014,102.025
+gross_output_price_indexes,Private industries,13,Underground,2015,100.329
+gross_output_price_indexes,Private industries,13,Underground,2016,99.403
+gross_output_price_indexes,Private industries,13,Underground,2017,100
+gross_output_price_indexes,Private industries,13,Underground,2018,101.551
+gross_output_price_indexes,Private industries,13,Underground,2019,103.61
+gross_output_price_indexes,Private industries,13,Underground,2020,104.367
+gross_output_price_indexes,Private industries,13,Underground,2021,110.827
+gross_output_price_indexes,Private industries,13,Underground,2022,115.488
+gross_output_price_indexes,Private industries,13,Underground,2023,119.001
+gross_output_price_indexes,Mining,12,Mining,2012,92.8
+gross_output_price_indexes,Mining,12,Mining,2013,93.932
+gross_output_price_indexes,Mining,12,Mining,2014,96.155
+gross_output_price_indexes,Mining,12,Mining,2015,98.58
+gross_output_price_indexes,Mining,12,Mining,2016,97.098
+gross_output_price_indexes,Mining,12,Mining,2017,100
+gross_output_price_indexes,Mining,12,Mining,2018,103.326
+gross_output_price_indexes,Mining,12,Mining,2019,104.856
+gross_output_price_indexes,Mining,12,Mining,2020,108.712
+gross_output_price_indexes,Mining,12,Mining,2021,110.872
+gross_output_price_indexes,Mining,12,Mining,2022,113.527
+gross_output_price_indexes,Mining,12,Mining,2023,115.574
+gross_output_price_indexes,Oil and gas extraction,5,Power,2012,92.792
+gross_output_price_indexes,Oil and gas extraction,5,Power,2013,93.931
+gross_output_price_indexes,Oil and gas extraction,5,Power,2014,96.161
+gross_output_price_indexes,Oil and gas extraction,5,Power,2015,98.591
+gross_output_price_indexes,Oil and gas extraction,5,Power,2016,97.108
+gross_output_price_indexes,Oil and gas extraction,5,Power,2017,100
+gross_output_price_indexes,Oil and gas extraction,5,Power,2018,103.279
+gross_output_price_indexes,Oil and gas extraction,5,Power,2019,104.767
+gross_output_price_indexes,Oil and gas extraction,5,Power,2020,108.436
+gross_output_price_indexes,Oil and gas extraction,5,Power,2021,110.386
+gross_output_price_indexes,Oil and gas extraction,5,Power,2022,112.92
+gross_output_price_indexes,Oil and gas extraction,5,Power,2023,114.906
+gross_output_price_indexes,"Mining, except oil and gas",5,Power,2012,92.656
+gross_output_price_indexes,"Mining, except oil and gas",5,Power,2013,93.806
+gross_output_price_indexes,"Mining, except oil and gas",5,Power,2014,96.042
+gross_output_price_indexes,"Mining, except oil and gas",5,Power,2015,98.479
+gross_output_price_indexes,"Mining, except oil and gas",5,Power,2016,96.994
+gross_output_price_indexes,"Mining, except oil and gas",5,Power,2017,100
+gross_output_price_indexes,"Mining, except oil and gas",5,Power,2018,103.601
+gross_output_price_indexes,"Mining, except oil and gas",5,Power,2019,105.366
+gross_output_price_indexes,"Mining, except oil and gas",5,Power,2020,110.087
+gross_output_price_indexes,"Mining, except oil and gas",5,Power,2021,113.214
+gross_output_price_indexes,"Mining, except oil and gas",5,Power,2022,116.477
+gross_output_price_indexes,"Mining, except oil and gas",5,Power,2023,118.829
+gross_output_price_indexes,Support activities for mining,12,Mining,2012,92.85
+gross_output_price_indexes,Support activities for mining,12,Mining,2013,93.963
+gross_output_price_indexes,Support activities for mining,12,Mining,2014,96.167
+gross_output_price_indexes,Support activities for mining,12,Mining,2015,98.577
+gross_output_price_indexes,Support activities for mining,12,Mining,2016,97.096
+gross_output_price_indexes,Support activities for mining,12,Mining,2017,100
+gross_output_price_indexes,Support activities for mining,12,Mining,2018,103.37
+gross_output_price_indexes,Support activities for mining,12,Mining,2019,104.942
+gross_output_price_indexes,Support activities for mining,12,Mining,2020,109.022
+gross_output_price_indexes,Support activities for mining,12,Mining,2021,111.438
+gross_output_price_indexes,Support activities for mining,12,Mining,2022,114.229
+gross_output_price_indexes,Support activities for mining,12,Mining,2023,116.343
+gross_output_price_indexes,Utilities,5,Power,2012,100.661
+gross_output_price_indexes,Utilities,5,Power,2013,100.104
+gross_output_price_indexes,Utilities,5,Power,2014,99.833
+gross_output_price_indexes,Utilities,5,Power,2015,100.297
+gross_output_price_indexes,Utilities,5,Power,2016,99.188
+gross_output_price_indexes,Utilities,5,Power,2017,100
+gross_output_price_indexes,Utilities,5,Power,2018,100.171
+gross_output_price_indexes,Utilities,5,Power,2019,99.942
+gross_output_price_indexes,Utilities,5,Power,2020,99.913
+gross_output_price_indexes,Utilities,5,Power,2021,99.509
+gross_output_price_indexes,Utilities,5,Power,2022,101.024
+gross_output_price_indexes,Utilities,5,Power,2023,102.055
+gross_output_price_indexes,Construction,13,Underground,2012,90.721
+gross_output_price_indexes,Construction,13,Underground,2013,92.654
+gross_output_price_indexes,Construction,13,Underground,2014,94.648
+gross_output_price_indexes,Construction,13,Underground,2015,95.775
+gross_output_price_indexes,Construction,13,Underground,2016,96.933
+gross_output_price_indexes,Construction,13,Underground,2017,100
+gross_output_price_indexes,Construction,13,Underground,2018,104.38
+gross_output_price_indexes,Construction,13,Underground,2019,109.268
+gross_output_price_indexes,Construction,13,Underground,2020,112.897
+gross_output_price_indexes,Construction,13,Underground,2021,119.671
+gross_output_price_indexes,Construction,13,Underground,2022,135.532
+gross_output_price_indexes,Construction,13,Underground,2023,142.181
+gross_output_price_indexes,Manufacturing,8,Textiles,2012,126.702
+gross_output_price_indexes,Manufacturing,8,Textiles,2013,123.769
+gross_output_price_indexes,Manufacturing,8,Textiles,2014,117.436
+gross_output_price_indexes,Manufacturing,8,Textiles,2015,109.796
+gross_output_price_indexes,Manufacturing,8,Textiles,2016,102.411
+gross_output_price_indexes,Manufacturing,8,Textiles,2017,100
+gross_output_price_indexes,Manufacturing,8,Textiles,2018,97.435
+gross_output_price_indexes,Manufacturing,8,Textiles,2019,95.755
+gross_output_price_indexes,Manufacturing,8,Textiles,2020,94.854
+gross_output_price_indexes,Manufacturing,8,Textiles,2021,94.386
+gross_output_price_indexes,Manufacturing,8,Textiles,2022,96.275
+gross_output_price_indexes,Manufacturing,8,Textiles,2023,97.786
+gross_output_price_indexes,Durable goods,13,Underground,2012,127.086
+gross_output_price_indexes,Durable goods,13,Underground,2013,124.096
+gross_output_price_indexes,Durable goods,13,Underground,2014,117.622
+gross_output_price_indexes,Durable goods,13,Underground,2015,109.873
+gross_output_price_indexes,Durable goods,13,Underground,2016,102.449
+gross_output_price_indexes,Durable goods,13,Underground,2017,100
+gross_output_price_indexes,Durable goods,13,Underground,2018,97.394
+gross_output_price_indexes,Durable goods,13,Underground,2019,95.695
+gross_output_price_indexes,Durable goods,13,Underground,2020,94.769
+gross_output_price_indexes,Durable goods,13,Underground,2021,94.285
+gross_output_price_indexes,Durable goods,13,Underground,2022,96.167
+gross_output_price_indexes,Durable goods,13,Underground,2023,97.673
+gross_output_price_indexes,Wood products,7,Lumber,2012,92.506
+gross_output_price_indexes,Wood products,7,Lumber,2013,93.661
+gross_output_price_indexes,Wood products,7,Lumber,2014,95.891
+gross_output_price_indexes,Wood products,7,Lumber,2015,98.305
+gross_output_price_indexes,Wood products,7,Lumber,2016,96.99
+gross_output_price_indexes,Wood products,7,Lumber,2017,100
+gross_output_price_indexes,Wood products,7,Lumber,2018,103.58
+gross_output_price_indexes,Wood products,7,Lumber,2019,105.44
+gross_output_price_indexes,Wood products,7,Lumber,2020,110.223
+gross_output_price_indexes,Wood products,7,Lumber,2021,113.515
+gross_output_price_indexes,Wood products,7,Lumber,2022,117.056
+gross_output_price_indexes,Wood products,7,Lumber,2023,119.529
+gross_output_price_indexes,Nonmetallic mineral products,12,Mining,2012,92.643
+gross_output_price_indexes,Nonmetallic mineral products,12,Mining,2013,93.792
+gross_output_price_indexes,Nonmetallic mineral products,12,Mining,2014,96.033
+gross_output_price_indexes,Nonmetallic mineral products,12,Mining,2015,98.474
+gross_output_price_indexes,Nonmetallic mineral products,12,Mining,2016,96.992
+gross_output_price_indexes,Nonmetallic mineral products,12,Mining,2017,100
+gross_output_price_indexes,Nonmetallic mineral products,12,Mining,2018,103.634
+gross_output_price_indexes,Nonmetallic mineral products,12,Mining,2019,105.443
+gross_output_price_indexes,Nonmetallic mineral products,12,Mining,2020,110.349
+gross_output_price_indexes,Nonmetallic mineral products,12,Mining,2021,113.724
+gross_output_price_indexes,Nonmetallic mineral products,12,Mining,2022,117.135
+gross_output_price_indexes,Nonmetallic mineral products,12,Mining,2023,119.555
+gross_output_price_indexes,Primary metals,12,Mining,2012,93.131
+gross_output_price_indexes,Primary metals,12,Mining,2013,95.855
+gross_output_price_indexes,Primary metals,12,Mining,2014,97.193
+gross_output_price_indexes,Primary metals,12,Mining,2015,100.372
+gross_output_price_indexes,Primary metals,12,Mining,2016,98.614
+gross_output_price_indexes,Primary metals,12,Mining,2017,100
+gross_output_price_indexes,Primary metals,12,Mining,2018,108.306
+gross_output_price_indexes,Primary metals,12,Mining,2019,109.145
+gross_output_price_indexes,Primary metals,12,Mining,2020,114.077
+gross_output_price_indexes,Primary metals,12,Mining,2021,140.205
+gross_output_price_indexes,Primary metals,12,Mining,2022,139.611
+gross_output_price_indexes,Primary metals,12,Mining,2023,139.884
+gross_output_price_indexes,Fabricated metal products,12,Mining,2012,92.623
+gross_output_price_indexes,Fabricated metal products,12,Mining,2013,93.88
+gross_output_price_indexes,Fabricated metal products,12,Mining,2014,96.1
+gross_output_price_indexes,Fabricated metal products,12,Mining,2015,98.471
+gross_output_price_indexes,Fabricated metal products,12,Mining,2016,97.2
+gross_output_price_indexes,Fabricated metal products,12,Mining,2017,100
+gross_output_price_indexes,Fabricated metal products,12,Mining,2018,103.957
+gross_output_price_indexes,Fabricated metal products,12,Mining,2019,105.896
+gross_output_price_indexes,Fabricated metal products,12,Mining,2020,110.629
+gross_output_price_indexes,Fabricated metal products,12,Mining,2021,115.697
+gross_output_price_indexes,Fabricated metal products,12,Mining,2022,119.119
+gross_output_price_indexes,Fabricated metal products,12,Mining,2023,121.507
+gross_output_price_indexes,Machinery,13,Underground,2012,93.527
+gross_output_price_indexes,Machinery,13,Underground,2013,94.669
+gross_output_price_indexes,Machinery,13,Underground,2014,96.649
+gross_output_price_indexes,Machinery,13,Underground,2015,98.61
+gross_output_price_indexes,Machinery,13,Underground,2016,97.514
+gross_output_price_indexes,Machinery,13,Underground,2017,100
+gross_output_price_indexes,Machinery,13,Underground,2018,103.017
+gross_output_price_indexes,Machinery,13,Underground,2019,104.553
+gross_output_price_indexes,Machinery,13,Underground,2020,108.01
+gross_output_price_indexes,Machinery,13,Underground,2021,110.502
+gross_output_price_indexes,Machinery,13,Underground,2022,113.667
+gross_output_price_indexes,Machinery,13,Underground,2023,116.484
+gross_output_price_indexes,Computer and electronic products2,3,Technology,2012,156.929
+gross_output_price_indexes,Computer and electronic products2,3,Technology,2013,149.444
+gross_output_price_indexes,Computer and electronic products2,3,Technology,2014,134.223
+gross_output_price_indexes,Computer and electronic products2,3,Technology,2015,118.041
+gross_output_price_indexes,Computer and electronic products2,3,Technology,2016,104.99
+gross_output_price_indexes,Computer and electronic products2,3,Technology,2017,100
+gross_output_price_indexes,Computer and electronic products2,3,Technology,2018,94.625
+gross_output_price_indexes,Computer and electronic products2,3,Technology,2019,90.908
+gross_output_price_indexes,Computer and electronic products2,3,Technology,2020,88.493
+gross_output_price_indexes,Computer and electronic products2,3,Technology,2021,85.913
+gross_output_price_indexes,Computer and electronic products2,3,Technology,2022,85.798
+gross_output_price_indexes,Computer and electronic products2,3,Technology,2023,85.91
+gross_output_price_indexes,"Electrical equipment, appliances, and components",5,Power,2012,101.908
+gross_output_price_indexes,"Electrical equipment, appliances, and components",5,Power,2013,96.894
+gross_output_price_indexes,"Electrical equipment, appliances, and components",5,Power,2014,95.459
+gross_output_price_indexes,"Electrical equipment, appliances, and components",5,Power,2015,96.922
+gross_output_price_indexes,"Electrical equipment, appliances, and components",5,Power,2016,97.459
+gross_output_price_indexes,"Electrical equipment, appliances, and components",5,Power,2017,100
+gross_output_price_indexes,"Electrical equipment, appliances, and components",5,Power,2018,102.257
+gross_output_price_indexes,"Electrical equipment, appliances, and components",5,Power,2019,107.617
+gross_output_price_indexes,"Electrical equipment, appliances, and components",5,Power,2020,110.71
+gross_output_price_indexes,"Electrical equipment, appliances, and components",5,Power,2021,129.608
+gross_output_price_indexes,"Electrical equipment, appliances, and components",5,Power,2022,137.516
+gross_output_price_indexes,"Electrical equipment, appliances, and components",5,Power,2023,143.938
+gross_output_price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2012,110.09
+gross_output_price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2013,109.404
+gross_output_price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2014,106.378
+gross_output_price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2015,101.438
+gross_output_price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2016,100.68
+gross_output_price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2017,100
+gross_output_price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2018,99.448
+gross_output_price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2019,100.036
+gross_output_price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2020,97.629
+gross_output_price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2021,98.252
+gross_output_price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2022,104.975
+gross_output_price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2023,105.011
+gross_output_price_indexes,Other transportation equipment3,6,Transportation,2012,96.726
+gross_output_price_indexes,Other transportation equipment3,6,Transportation,2013,98.015
+gross_output_price_indexes,Other transportation equipment3,6,Transportation,2014,99.508
+gross_output_price_indexes,Other transportation equipment3,6,Transportation,2015,99.866
+gross_output_price_indexes,Other transportation equipment3,6,Transportation,2016,99.233
+gross_output_price_indexes,Other transportation equipment3,6,Transportation,2017,100
+gross_output_price_indexes,Other transportation equipment3,6,Transportation,2018,101.057
+gross_output_price_indexes,Other transportation equipment3,6,Transportation,2019,102.009
+gross_output_price_indexes,Other transportation equipment3,6,Transportation,2020,102.932
+gross_output_price_indexes,Other transportation equipment3,6,Transportation,2021,105.087
+gross_output_price_indexes,Other transportation equipment3,6,Transportation,2022,110.03
+gross_output_price_indexes,Other transportation equipment3,6,Transportation,2023,113.519
+gross_output_price_indexes,Furniture and related products,13,Underground,2012,92.693
+gross_output_price_indexes,Furniture and related products,13,Underground,2013,93.835
+gross_output_price_indexes,Furniture and related products,13,Underground,2014,96.07
+gross_output_price_indexes,Furniture and related products,13,Underground,2015,98.5
+gross_output_price_indexes,Furniture and related products,13,Underground,2016,97.018
+gross_output_price_indexes,Furniture and related products,13,Underground,2017,100
+gross_output_price_indexes,Furniture and related products,13,Underground,2018,103.598
+gross_output_price_indexes,Furniture and related products,13,Underground,2019,105.365
+gross_output_price_indexes,Furniture and related products,13,Underground,2020,110.196
+gross_output_price_indexes,Furniture and related products,13,Underground,2021,113.457
+gross_output_price_indexes,Furniture and related products,13,Underground,2022,116.764
+gross_output_price_indexes,Furniture and related products,13,Underground,2023,119.131
+gross_output_price_indexes,Miscellaneous manufacturing,8,Textiles,2012,92.624
+gross_output_price_indexes,Miscellaneous manufacturing,8,Textiles,2013,93.77
+gross_output_price_indexes,Miscellaneous manufacturing,8,Textiles,2014,96.008
+gross_output_price_indexes,Miscellaneous manufacturing,8,Textiles,2015,98.44
+gross_output_price_indexes,Miscellaneous manufacturing,8,Textiles,2016,96.988
+gross_output_price_indexes,Miscellaneous manufacturing,8,Textiles,2017,100
+gross_output_price_indexes,Miscellaneous manufacturing,8,Textiles,2018,103.635
+gross_output_price_indexes,Miscellaneous manufacturing,8,Textiles,2019,105.448
+gross_output_price_indexes,Miscellaneous manufacturing,8,Textiles,2020,110.348
+gross_output_price_indexes,Miscellaneous manufacturing,8,Textiles,2021,113.752
+gross_output_price_indexes,Miscellaneous manufacturing,8,Textiles,2022,117.195
+gross_output_price_indexes,Miscellaneous manufacturing,8,Textiles,2023,119.622
+gross_output_price_indexes,Nondurable goods,13,Underground,2012,96.47
+gross_output_price_indexes,Nondurable goods,13,Underground,2013,96.692
+gross_output_price_indexes,Nondurable goods,13,Underground,2014,98.32
+gross_output_price_indexes,Nondurable goods,13,Underground,2015,99.65
+gross_output_price_indexes,Nondurable goods,13,Underground,2016,97.361
+gross_output_price_indexes,Nondurable goods,13,Underground,2017,100
+gross_output_price_indexes,Nondurable goods,13,Underground,2018,103.26
+gross_output_price_indexes,Nondurable goods,13,Underground,2019,104.759
+gross_output_price_indexes,Nondurable goods,13,Underground,2020,109.264
+gross_output_price_indexes,Nondurable goods,13,Underground,2021,112.286
+gross_output_price_indexes,Nondurable goods,13,Underground,2022,115.518
+gross_output_price_indexes,Nondurable goods,13,Underground,2023,117.834
+gross_output_price_indexes,Food and beverage and tobacco products,9,Grain,2012,92.629
+gross_output_price_indexes,Food and beverage and tobacco products,9,Grain,2013,93.78
+gross_output_price_indexes,Food and beverage and tobacco products,9,Grain,2014,96.024
+gross_output_price_indexes,Food and beverage and tobacco products,9,Grain,2015,98.468
+gross_output_price_indexes,Food and beverage and tobacco products,9,Grain,2016,96.983
+gross_output_price_indexes,Food and beverage and tobacco products,9,Grain,2017,100
+gross_output_price_indexes,Food and beverage and tobacco products,9,Grain,2018,103.644
+gross_output_price_indexes,Food and beverage and tobacco products,9,Grain,2019,105.45
+gross_output_price_indexes,Food and beverage and tobacco products,9,Grain,2020,110.362
+gross_output_price_indexes,Food and beverage and tobacco products,9,Grain,2021,113.717
+gross_output_price_indexes,Food and beverage and tobacco products,9,Grain,2022,117.121
+gross_output_price_indexes,Food and beverage and tobacco products,9,Grain,2023,119.537
+gross_output_price_indexes,Textile mills and textile product mills,8,Textiles,2012,92.638
+gross_output_price_indexes,Textile mills and textile product mills,8,Textiles,2013,93.787
+gross_output_price_indexes,Textile mills and textile product mills,8,Textiles,2014,96.028
+gross_output_price_indexes,Textile mills and textile product mills,8,Textiles,2015,98.469
+gross_output_price_indexes,Textile mills and textile product mills,8,Textiles,2016,96.984
+gross_output_price_indexes,Textile mills and textile product mills,8,Textiles,2017,100
+gross_output_price_indexes,Textile mills and textile product mills,8,Textiles,2018,103.643
+gross_output_price_indexes,Textile mills and textile product mills,8,Textiles,2019,105.45
+gross_output_price_indexes,Textile mills and textile product mills,8,Textiles,2020,110.365
+gross_output_price_indexes,Textile mills and textile product mills,8,Textiles,2021,113.717
+gross_output_price_indexes,Textile mills and textile product mills,8,Textiles,2022,117.116
+gross_output_price_indexes,Textile mills and textile product mills,8,Textiles,2023,119.531
+gross_output_price_indexes,Apparel and leather and allied products,8,Textiles,2012,92.613
+gross_output_price_indexes,Apparel and leather and allied products,8,Textiles,2013,93.826
+gross_output_price_indexes,Apparel and leather and allied products,8,Textiles,2014,96.054
+gross_output_price_indexes,Apparel and leather and allied products,8,Textiles,2015,98.48
+gross_output_price_indexes,Apparel and leather and allied products,8,Textiles,2016,97.001
+gross_output_price_indexes,Apparel and leather and allied products,8,Textiles,2017,100
+gross_output_price_indexes,Apparel and leather and allied products,8,Textiles,2018,103.626
+gross_output_price_indexes,Apparel and leather and allied products,8,Textiles,2019,105.425
+gross_output_price_indexes,Apparel and leather and allied products,8,Textiles,2020,110.308
+gross_output_price_indexes,Apparel and leather and allied products,8,Textiles,2021,113.604
+gross_output_price_indexes,Apparel and leather and allied products,8,Textiles,2022,116.984
+gross_output_price_indexes,Apparel and leather and allied products,8,Textiles,2023,119.4
+gross_output_price_indexes,Paper products,7,Lumber,2012,92.677
+gross_output_price_indexes,Paper products,7,Lumber,2013,93.823
+gross_output_price_indexes,Paper products,7,Lumber,2014,96.061
+gross_output_price_indexes,Paper products,7,Lumber,2015,98.49
+gross_output_price_indexes,Paper products,7,Lumber,2016,97.002
+gross_output_price_indexes,Paper products,7,Lumber,2017,100
+gross_output_price_indexes,Paper products,7,Lumber,2018,103.624
+gross_output_price_indexes,Paper products,7,Lumber,2019,105.425
+gross_output_price_indexes,Paper products,7,Lumber,2020,110.294
+gross_output_price_indexes,Paper products,7,Lumber,2021,113.604
+gross_output_price_indexes,Paper products,7,Lumber,2022,117.008
+gross_output_price_indexes,Paper products,7,Lumber,2023,119.424
+gross_output_price_indexes,Printing and related support activities,13,Underground,2012,93.133
+gross_output_price_indexes,Printing and related support activities,13,Underground,2013,94.261
+gross_output_price_indexes,Printing and related support activities,13,Underground,2014,96.47
+gross_output_price_indexes,Printing and related support activities,13,Underground,2015,98.805
+gross_output_price_indexes,Printing and related support activities,13,Underground,2016,97.346
+gross_output_price_indexes,Printing and related support activities,13,Underground,2017,100
+gross_output_price_indexes,Printing and related support activities,13,Underground,2018,103.201
+gross_output_price_indexes,Printing and related support activities,13,Underground,2019,104.825
+gross_output_price_indexes,Printing and related support activities,13,Underground,2020,109.167
+gross_output_price_indexes,Printing and related support activities,13,Underground,2021,111.783
+gross_output_price_indexes,Printing and related support activities,13,Underground,2022,114.706
+gross_output_price_indexes,Printing and related support activities,13,Underground,2023,116.873
+gross_output_price_indexes,Petroleum and coal products,12,Mining,2012,92.714
+gross_output_price_indexes,Petroleum and coal products,12,Mining,2013,93.859
+gross_output_price_indexes,Petroleum and coal products,12,Mining,2014,96.088
+gross_output_price_indexes,Petroleum and coal products,12,Mining,2015,98.502
+gross_output_price_indexes,Petroleum and coal products,12,Mining,2016,97.021
+gross_output_price_indexes,Petroleum and coal products,12,Mining,2017,100
+gross_output_price_indexes,Petroleum and coal products,12,Mining,2018,103.616
+gross_output_price_indexes,Petroleum and coal products,12,Mining,2019,105.42
+gross_output_price_indexes,Petroleum and coal products,12,Mining,2020,110.319
+gross_output_price_indexes,Petroleum and coal products,12,Mining,2021,113.657
+gross_output_price_indexes,Petroleum and coal products,12,Mining,2022,117.047
+gross_output_price_indexes,Petroleum and coal products,12,Mining,2023,119.457
+gross_output_price_indexes,Chemical products,8,Textiles,2012,206.931
+gross_output_price_indexes,Chemical products,8,Textiles,2013,189.784
+gross_output_price_indexes,Chemical products,8,Textiles,2014,160.302
+gross_output_price_indexes,Chemical products,8,Textiles,2015,130.804
+gross_output_price_indexes,Chemical products,8,Textiles,2016,108.656
+gross_output_price_indexes,Chemical products,8,Textiles,2017,100
+gross_output_price_indexes,Chemical products,8,Textiles,2018,91.648
+gross_output_price_indexes,Chemical products,8,Textiles,2019,84.413
+gross_output_price_indexes,Chemical products,8,Textiles,2020,79.408
+gross_output_price_indexes,Chemical products,8,Textiles,2021,74.889
+gross_output_price_indexes,Chemical products,8,Textiles,2022,73.16
+gross_output_price_indexes,Chemical products,8,Textiles,2023,72.582
+gross_output_price_indexes,Plastics and rubber products,8,Textiles,2012,92.457
+gross_output_price_indexes,Plastics and rubber products,8,Textiles,2013,93.617
+gross_output_price_indexes,Plastics and rubber products,8,Textiles,2014,95.848
+gross_output_price_indexes,Plastics and rubber products,8,Textiles,2015,98.259
+gross_output_price_indexes,Plastics and rubber products,8,Textiles,2016,96.969
+gross_output_price_indexes,Plastics and rubber products,8,Textiles,2017,100
+gross_output_price_indexes,Plastics and rubber products,8,Textiles,2018,103.611
+gross_output_price_indexes,Plastics and rubber products,8,Textiles,2019,105.462
+gross_output_price_indexes,Plastics and rubber products,8,Textiles,2020,110.31
+gross_output_price_indexes,Plastics and rubber products,8,Textiles,2021,113.617
+gross_output_price_indexes,Plastics and rubber products,8,Textiles,2022,117.147
+gross_output_price_indexes,Plastics and rubber products,8,Textiles,2023,119.609
+gross_output_price_indexes,Wholesale trade,13,Underground,2012,104.674
+gross_output_price_indexes,Wholesale trade,13,Underground,2013,98.298
+gross_output_price_indexes,Wholesale trade,13,Underground,2014,95.604
+gross_output_price_indexes,Wholesale trade,13,Underground,2015,96.712
+gross_output_price_indexes,Wholesale trade,13,Underground,2016,97.649
+gross_output_price_indexes,Wholesale trade,13,Underground,2017,100
+gross_output_price_indexes,Wholesale trade,13,Underground,2018,102.323
+gross_output_price_indexes,Wholesale trade,13,Underground,2019,107.806
+gross_output_price_indexes,Wholesale trade,13,Underground,2020,110.398
+gross_output_price_indexes,Wholesale trade,13,Underground,2021,132.48
+gross_output_price_indexes,Wholesale trade,13,Underground,2022,141.396
+gross_output_price_indexes,Wholesale trade,13,Underground,2023,148.847
+gross_output_price_indexes,Retail trade,13,Underground,2012,88.263
+gross_output_price_indexes,Retail trade,13,Underground,2013,97.871
+gross_output_price_indexes,Retail trade,13,Underground,2014,97.908
+gross_output_price_indexes,Retail trade,13,Underground,2015,96.808
+gross_output_price_indexes,Retail trade,13,Underground,2016,92.674
+gross_output_price_indexes,Retail trade,13,Underground,2017,100
+gross_output_price_indexes,Retail trade,13,Underground,2018,99.719
+gross_output_price_indexes,Retail trade,13,Underground,2019,91.552
+gross_output_price_indexes,Retail trade,13,Underground,2020,97.1
+gross_output_price_indexes,Retail trade,13,Underground,2021,104.166
+gross_output_price_indexes,Retail trade,13,Underground,2022,98.605
+gross_output_price_indexes,Retail trade,13,Underground,2023,104.25
+gross_output_price_indexes,Motor vehicle and parts dealers,13,Underground,2012,99.96
+gross_output_price_indexes,Motor vehicle and parts dealers,13,Underground,2013,104.093
+gross_output_price_indexes,Motor vehicle and parts dealers,13,Underground,2014,100.506
+gross_output_price_indexes,Motor vehicle and parts dealers,13,Underground,2015,98.357
+gross_output_price_indexes,Motor vehicle and parts dealers,13,Underground,2016,99.417
+gross_output_price_indexes,Motor vehicle and parts dealers,13,Underground,2017,100
+gross_output_price_indexes,Motor vehicle and parts dealers,13,Underground,2018,100.504
+gross_output_price_indexes,Motor vehicle and parts dealers,13,Underground,2019,101.495
+gross_output_price_indexes,Motor vehicle and parts dealers,13,Underground,2020,103.013
+gross_output_price_indexes,Motor vehicle and parts dealers,13,Underground,2021,109.609
+gross_output_price_indexes,Motor vehicle and parts dealers,13,Underground,2022,123.813
+gross_output_price_indexes,Motor vehicle and parts dealers,13,Underground,2023,118.975
+gross_output_price_indexes,Food and beverage stores,9,Grain,2012,85.696
+gross_output_price_indexes,Food and beverage stores,9,Grain,2013,87.772
+gross_output_price_indexes,Food and beverage stores,9,Grain,2014,91.4
+gross_output_price_indexes,Food and beverage stores,9,Grain,2015,96.047
+gross_output_price_indexes,Food and beverage stores,9,Grain,2016,99.298
+gross_output_price_indexes,Food and beverage stores,9,Grain,2017,100
+gross_output_price_indexes,Food and beverage stores,9,Grain,2018,103.228
+gross_output_price_indexes,Food and beverage stores,9,Grain,2019,105.43
+gross_output_price_indexes,Food and beverage stores,9,Grain,2020,109.091
+gross_output_price_indexes,Food and beverage stores,9,Grain,2021,110.338
+gross_output_price_indexes,Food and beverage stores,9,Grain,2022,124.438
+gross_output_price_indexes,Food and beverage stores,9,Grain,2023,137.007
+gross_output_price_indexes,General merchandise stores,13,Underground,2012,98.985
+gross_output_price_indexes,General merchandise stores,13,Underground,2013,99.619
+gross_output_price_indexes,General merchandise stores,13,Underground,2014,101.565
+gross_output_price_indexes,General merchandise stores,13,Underground,2015,101.819
+gross_output_price_indexes,General merchandise stores,13,Underground,2016,101.626
+gross_output_price_indexes,General merchandise stores,13,Underground,2017,100
+gross_output_price_indexes,General merchandise stores,13,Underground,2018,99.229
+gross_output_price_indexes,General merchandise stores,13,Underground,2019,103.306
+gross_output_price_indexes,General merchandise stores,13,Underground,2020,99.671
+gross_output_price_indexes,General merchandise stores,13,Underground,2021,104.169
+gross_output_price_indexes,General merchandise stores,13,Underground,2022,124.119
+gross_output_price_indexes,General merchandise stores,13,Underground,2023,132.304
+gross_output_price_indexes,Other retail,13,Underground,2012,86.626
+gross_output_price_indexes,Other retail,13,Underground,2013,97.619
+gross_output_price_indexes,Other retail,13,Underground,2014,97.355
+gross_output_price_indexes,Other retail,13,Underground,2015,96.034
+gross_output_price_indexes,Other retail,13,Underground,2016,91.315
+gross_output_price_indexes,Other retail,13,Underground,2017,100
+gross_output_price_indexes,Other retail,13,Underground,2018,99.787
+gross_output_price_indexes,Other retail,13,Underground,2019,89.732
+gross_output_price_indexes,Other retail,13,Underground,2020,96.723
+gross_output_price_indexes,Other retail,13,Underground,2021,104.228
+gross_output_price_indexes,Other retail,13,Underground,2022,94.986
+gross_output_price_indexes,Other retail,13,Underground,2023,100.288
+gross_output_price_indexes,Transportation and warehousing,6,Transportation,2012,101.268
+gross_output_price_indexes,Transportation and warehousing,6,Transportation,2013,101.216
+gross_output_price_indexes,Transportation and warehousing,6,Transportation,2014,102.559
+gross_output_price_indexes,Transportation and warehousing,6,Transportation,2015,99.892
+gross_output_price_indexes,Transportation and warehousing,6,Transportation,2016,98.403
+gross_output_price_indexes,Transportation and warehousing,6,Transportation,2017,100
+gross_output_price_indexes,Transportation and warehousing,6,Transportation,2018,104.595
+gross_output_price_indexes,Transportation and warehousing,6,Transportation,2019,107.517
+gross_output_price_indexes,Transportation and warehousing,6,Transportation,2020,104.662
+gross_output_price_indexes,Transportation and warehousing,6,Transportation,2021,114.74
+gross_output_price_indexes,Transportation and warehousing,6,Transportation,2022,136.22
+gross_output_price_indexes,Transportation and warehousing,6,Transportation,2023,134.114
+gross_output_price_indexes,Air transportation,6,Transportation,2012,105.72
+gross_output_price_indexes,Air transportation,6,Transportation,2013,104.356
+gross_output_price_indexes,Air transportation,6,Transportation,2014,105.373
+gross_output_price_indexes,Air transportation,6,Transportation,2015,101.74
+gross_output_price_indexes,Air transportation,6,Transportation,2016,99.261
+gross_output_price_indexes,Air transportation,6,Transportation,2017,100
+gross_output_price_indexes,Air transportation,6,Transportation,2018,102.16
+gross_output_price_indexes,Air transportation,6,Transportation,2019,105.472
+gross_output_price_indexes,Air transportation,6,Transportation,2020,97.55
+gross_output_price_indexes,Air transportation,6,Transportation,2021,99.277
+gross_output_price_indexes,Air transportation,6,Transportation,2022,115.449
+gross_output_price_indexes,Air transportation,6,Transportation,2023,118.073
+gross_output_price_indexes,Rail transportation,6,Transportation,2012,98.248
+gross_output_price_indexes,Rail transportation,6,Transportation,2013,100.439
+gross_output_price_indexes,Rail transportation,6,Transportation,2014,101.759
+gross_output_price_indexes,Rail transportation,6,Transportation,2015,98.724
+gross_output_price_indexes,Rail transportation,6,Transportation,2016,97.2
+gross_output_price_indexes,Rail transportation,6,Transportation,2017,100
+gross_output_price_indexes,Rail transportation,6,Transportation,2018,103.889
+gross_output_price_indexes,Rail transportation,6,Transportation,2019,105.777
+gross_output_price_indexes,Rail transportation,6,Transportation,2020,108.097
+gross_output_price_indexes,Rail transportation,6,Transportation,2021,111.669
+gross_output_price_indexes,Rail transportation,6,Transportation,2022,118.729
+gross_output_price_indexes,Rail transportation,6,Transportation,2023,121.019
+gross_output_price_indexes,Water transportation,4,Maritime,2012,97.405
+gross_output_price_indexes,Water transportation,4,Maritime,2013,97.119
+gross_output_price_indexes,Water transportation,4,Maritime,2014,102.198
+gross_output_price_indexes,Water transportation,4,Maritime,2015,100.97
+gross_output_price_indexes,Water transportation,4,Maritime,2016,94.592
+gross_output_price_indexes,Water transportation,4,Maritime,2017,100
+gross_output_price_indexes,Water transportation,4,Maritime,2018,106.713
+gross_output_price_indexes,Water transportation,4,Maritime,2019,111.996
+gross_output_price_indexes,Water transportation,4,Maritime,2020,107.417
+gross_output_price_indexes,Water transportation,4,Maritime,2021,119.255
+gross_output_price_indexes,Water transportation,4,Maritime,2022,138.827
+gross_output_price_indexes,Water transportation,4,Maritime,2023,140.255
+gross_output_price_indexes,Truck transportation,6,Transportation,2012,97.334
+gross_output_price_indexes,Truck transportation,6,Transportation,2013,98.747
+gross_output_price_indexes,Truck transportation,6,Transportation,2014,100.378
+gross_output_price_indexes,Truck transportation,6,Transportation,2015,98.493
+gross_output_price_indexes,Truck transportation,6,Transportation,2016,97.816
+gross_output_price_indexes,Truck transportation,6,Transportation,2017,100
+gross_output_price_indexes,Truck transportation,6,Transportation,2018,106.534
+gross_output_price_indexes,Truck transportation,6,Transportation,2019,109.136
+gross_output_price_indexes,Truck transportation,6,Transportation,2020,108.631
+gross_output_price_indexes,Truck transportation,6,Transportation,2021,122.573
+gross_output_price_indexes,Truck transportation,6,Transportation,2022,146.999
+gross_output_price_indexes,Truck transportation,6,Transportation,2023,139.401
+gross_output_price_indexes,Transit and ground passenger transportation,6,Transportation,2012,87.416
+gross_output_price_indexes,Transit and ground passenger transportation,6,Transportation,2013,91.275
+gross_output_price_indexes,Transit and ground passenger transportation,6,Transportation,2014,91.97
+gross_output_price_indexes,Transit and ground passenger transportation,6,Transportation,2015,92.822
+gross_output_price_indexes,Transit and ground passenger transportation,6,Transportation,2016,96.812
+gross_output_price_indexes,Transit and ground passenger transportation,6,Transportation,2017,100
+gross_output_price_indexes,Transit and ground passenger transportation,6,Transportation,2018,103.614
+gross_output_price_indexes,Transit and ground passenger transportation,6,Transportation,2019,105.403
+gross_output_price_indexes,Transit and ground passenger transportation,6,Transportation,2020,110.23
+gross_output_price_indexes,Transit and ground passenger transportation,6,Transportation,2021,112.908
+gross_output_price_indexes,Transit and ground passenger transportation,6,Transportation,2022,115.915
+gross_output_price_indexes,Transit and ground passenger transportation,6,Transportation,2023,117.608
+gross_output_price_indexes,Pipeline transportation,6,Transportation,2012,98.654
+gross_output_price_indexes,Pipeline transportation,6,Transportation,2013,97.895
+gross_output_price_indexes,Pipeline transportation,6,Transportation,2014,97.939
+gross_output_price_indexes,Pipeline transportation,6,Transportation,2015,98.613
+gross_output_price_indexes,Pipeline transportation,6,Transportation,2016,97.215
+gross_output_price_indexes,Pipeline transportation,6,Transportation,2017,100
+gross_output_price_indexes,Pipeline transportation,6,Transportation,2018,103.407
+gross_output_price_indexes,Pipeline transportation,6,Transportation,2019,105.054
+gross_output_price_indexes,Pipeline transportation,6,Transportation,2020,109.38
+gross_output_price_indexes,Pipeline transportation,6,Transportation,2021,112.269
+gross_output_price_indexes,Pipeline transportation,6,Transportation,2022,115.42
+gross_output_price_indexes,Pipeline transportation,6,Transportation,2023,117.668
+gross_output_price_indexes,Other transportation and support activities,6,Transportation,2012,94.178
+gross_output_price_indexes,Other transportation and support activities,6,Transportation,2013,94.628
+gross_output_price_indexes,Other transportation and support activities,6,Transportation,2014,95.981
+gross_output_price_indexes,Other transportation and support activities,6,Transportation,2015,94.65
+gross_output_price_indexes,Other transportation and support activities,6,Transportation,2016,96.453
+gross_output_price_indexes,Other transportation and support activities,6,Transportation,2017,100
+gross_output_price_indexes,Other transportation and support activities,6,Transportation,2018,103.98
+gross_output_price_indexes,Other transportation and support activities,6,Transportation,2019,107.302
+gross_output_price_indexes,Other transportation and support activities,6,Transportation,2020,110.907
+gross_output_price_indexes,Other transportation and support activities,6,Transportation,2021,117.524
+gross_output_price_indexes,Other transportation and support activities,6,Transportation,2022,130.16
+gross_output_price_indexes,Other transportation and support activities,6,Transportation,2023,133.667
+gross_output_price_indexes,Warehousing and storage,6,Transportation,2012,97.325
+gross_output_price_indexes,Warehousing and storage,6,Transportation,2013,98.56
+gross_output_price_indexes,Warehousing and storage,6,Transportation,2014,100.018
+gross_output_price_indexes,Warehousing and storage,6,Transportation,2015,98.583
+gross_output_price_indexes,Warehousing and storage,6,Transportation,2016,97.583
+gross_output_price_indexes,Warehousing and storage,6,Transportation,2017,100
+gross_output_price_indexes,Warehousing and storage,6,Transportation,2018,103.672
+gross_output_price_indexes,Warehousing and storage,6,Transportation,2019,105.289
+gross_output_price_indexes,Warehousing and storage,6,Transportation,2020,107.877
+gross_output_price_indexes,Warehousing and storage,6,Transportation,2021,112.635
+gross_output_price_indexes,Warehousing and storage,6,Transportation,2022,119.673
+gross_output_price_indexes,Warehousing and storage,6,Transportation,2023,119.449
+gross_output_price_indexes,Information,13,Underground,2012,94.547
+gross_output_price_indexes,Information,13,Underground,2013,95.445
+gross_output_price_indexes,Information,13,Underground,2014,95.844
+gross_output_price_indexes,Information,13,Underground,2015,96.051
+gross_output_price_indexes,Information,13,Underground,2016,98.753
+gross_output_price_indexes,Information,13,Underground,2017,100
+gross_output_price_indexes,Information,13,Underground,2018,104.045
+gross_output_price_indexes,Information,13,Underground,2019,107.281
+gross_output_price_indexes,Information,13,Underground,2020,107.737
+gross_output_price_indexes,Information,13,Underground,2021,110.804
+gross_output_price_indexes,Information,13,Underground,2022,115.175
+gross_output_price_indexes,Information,13,Underground,2023,118.424
+gross_output_price_indexes,"Publishing industries, except internet (includes software)",3,Technology,2012,96.157
+gross_output_price_indexes,"Publishing industries, except internet (includes software)",3,Technology,2013,97.646
+gross_output_price_indexes,"Publishing industries, except internet (includes software)",3,Technology,2014,99.31
+gross_output_price_indexes,"Publishing industries, except internet (includes software)",3,Technology,2015,99.746
+gross_output_price_indexes,"Publishing industries, except internet (includes software)",3,Technology,2016,98.232
+gross_output_price_indexes,"Publishing industries, except internet (includes software)",3,Technology,2017,100
+gross_output_price_indexes,"Publishing industries, except internet (includes software)",3,Technology,2018,101.855
+gross_output_price_indexes,"Publishing industries, except internet (includes software)",3,Technology,2019,102.463
+gross_output_price_indexes,"Publishing industries, except internet (includes software)",3,Technology,2020,104.303
+gross_output_price_indexes,"Publishing industries, except internet (includes software)",3,Technology,2021,104.85
+gross_output_price_indexes,"Publishing industries, except internet (includes software)",3,Technology,2022,105.254
+gross_output_price_indexes,"Publishing industries, except internet (includes software)",3,Technology,2023,106.578
+gross_output_price_indexes,Motion picture and sound recording industries,13,Underground,2012,91.567
+gross_output_price_indexes,Motion picture and sound recording industries,13,Underground,2013,93.77
+gross_output_price_indexes,Motion picture and sound recording industries,13,Underground,2014,95.881
+gross_output_price_indexes,Motion picture and sound recording industries,13,Underground,2015,98.052
+gross_output_price_indexes,Motion picture and sound recording industries,13,Underground,2016,96.143
+gross_output_price_indexes,Motion picture and sound recording industries,13,Underground,2017,100
+gross_output_price_indexes,Motion picture and sound recording industries,13,Underground,2018,103.295
+gross_output_price_indexes,Motion picture and sound recording industries,13,Underground,2019,103.319
+gross_output_price_indexes,Motion picture and sound recording industries,13,Underground,2020,108.617
+gross_output_price_indexes,Motion picture and sound recording industries,13,Underground,2021,111.844
+gross_output_price_indexes,Motion picture and sound recording industries,13,Underground,2022,113.375
+gross_output_price_indexes,Motion picture and sound recording industries,13,Underground,2023,116.169
+gross_output_price_indexes,Broadcasting and telecommunications4,1,Luxury,2012,94.599
+gross_output_price_indexes,Broadcasting and telecommunications4,1,Luxury,2013,95.488
+gross_output_price_indexes,Broadcasting and telecommunications4,1,Luxury,2014,95.86
+gross_output_price_indexes,Broadcasting and telecommunications4,1,Luxury,2015,96.04
+gross_output_price_indexes,Broadcasting and telecommunications4,1,Luxury,2016,98.797
+gross_output_price_indexes,Broadcasting and telecommunications4,1,Luxury,2017,100
+gross_output_price_indexes,Broadcasting and telecommunications4,1,Luxury,2018,104.038
+gross_output_price_indexes,Broadcasting and telecommunications4,1,Luxury,2019,107.296
+gross_output_price_indexes,Broadcasting and telecommunications4,1,Luxury,2020,107.677
+gross_output_price_indexes,Broadcasting and telecommunications4,1,Luxury,2021,110.729
+gross_output_price_indexes,Broadcasting and telecommunications4,1,Luxury,2022,115.124
+gross_output_price_indexes,Broadcasting and telecommunications4,1,Luxury,2023,118.248
+gross_output_price_indexes,"Data processing, internet publishing, and other information services",3,Technology,2012,90.717
+gross_output_price_indexes,"Data processing, internet publishing, and other information services",3,Technology,2013,91.926
+gross_output_price_indexes,"Data processing, internet publishing, and other information services",3,Technology,2014,93.551
+gross_output_price_indexes,"Data processing, internet publishing, and other information services",3,Technology,2015,95.238
+gross_output_price_indexes,"Data processing, internet publishing, and other information services",3,Technology,2016,96.936
+gross_output_price_indexes,"Data processing, internet publishing, and other information services",3,Technology,2017,100
+gross_output_price_indexes,"Data processing, internet publishing, and other information services",3,Technology,2018,104.929
+gross_output_price_indexes,"Data processing, internet publishing, and other information services",3,Technology,2019,107.966
+gross_output_price_indexes,"Data processing, internet publishing, and other information services",3,Technology,2020,111.008
+gross_output_price_indexes,"Data processing, internet publishing, and other information services",3,Technology,2021,115.299
+gross_output_price_indexes,"Data processing, internet publishing, and other information services",3,Technology,2022,120.068
+gross_output_price_indexes,"Data processing, internet publishing, and other information services",3,Technology,2023,128.013
+gross_output_price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2012,95.344
+gross_output_price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2013,95.895
+gross_output_price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2014,96.999
+gross_output_price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2015,98.791
+gross_output_price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2016,99.302
+gross_output_price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2017,100
+gross_output_price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2018,101.195
+gross_output_price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2019,103.081
+gross_output_price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2020,107.194
+gross_output_price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2021,109.184
+gross_output_price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2022,113.837
+gross_output_price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2023,121.885
+gross_output_price_indexes,Finance and insurance,13,Underground,2012,95.315
+gross_output_price_indexes,Finance and insurance,13,Underground,2013,95.867
+gross_output_price_indexes,Finance and insurance,13,Underground,2014,96.974
+gross_output_price_indexes,Finance and insurance,13,Underground,2015,98.777
+gross_output_price_indexes,Finance and insurance,13,Underground,2016,99.313
+gross_output_price_indexes,Finance and insurance,13,Underground,2017,100
+gross_output_price_indexes,Finance and insurance,13,Underground,2018,101.188
+gross_output_price_indexes,Finance and insurance,13,Underground,2019,103.108
+gross_output_price_indexes,Finance and insurance,13,Underground,2020,107.324
+gross_output_price_indexes,Finance and insurance,13,Underground,2021,109.293
+gross_output_price_indexes,Finance and insurance,13,Underground,2022,113.924
+gross_output_price_indexes,Finance and insurance,13,Underground,2023,122.112
+gross_output_price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2012,100.015
+gross_output_price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2013,99.501
+gross_output_price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2014,99.5
+gross_output_price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2015,99.935
+gross_output_price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2016,98.587
+gross_output_price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2017,100
+gross_output_price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2018,101.238
+gross_output_price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2019,101.546
+gross_output_price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2020,103.353
+gross_output_price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2021,104.294
+gross_output_price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2022,106.244
+gross_output_price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2023,107.91
+gross_output_price_indexes,"Securities, commodity contracts, and investments",13,Underground,2012,97.525
+gross_output_price_indexes,"Securities, commodity contracts, and investments",13,Underground,2013,97.362
+gross_output_price_indexes,"Securities, commodity contracts, and investments",13,Underground,2014,98.245
+gross_output_price_indexes,"Securities, commodity contracts, and investments",13,Underground,2015,99.291
+gross_output_price_indexes,"Securities, commodity contracts, and investments",13,Underground,2016,97.947
+gross_output_price_indexes,"Securities, commodity contracts, and investments",13,Underground,2017,100
+gross_output_price_indexes,"Securities, commodity contracts, and investments",13,Underground,2018,102.205
+gross_output_price_indexes,"Securities, commodity contracts, and investments",13,Underground,2019,102.736
+gross_output_price_indexes,"Securities, commodity contracts, and investments",13,Underground,2020,105.291
+gross_output_price_indexes,"Securities, commodity contracts, and investments",13,Underground,2021,106.768
+gross_output_price_indexes,"Securities, commodity contracts, and investments",13,Underground,2022,108.913
+gross_output_price_indexes,"Securities, commodity contracts, and investments",13,Underground,2023,110.72
+gross_output_price_indexes,Insurance carriers and related activities,13,Underground,2012,95.137
+gross_output_price_indexes,Insurance carriers and related activities,13,Underground,2013,95.738
+gross_output_price_indexes,Insurance carriers and related activities,13,Underground,2014,96.903
+gross_output_price_indexes,Insurance carriers and related activities,13,Underground,2015,98.805
+gross_output_price_indexes,Insurance carriers and related activities,13,Underground,2016,99.542
+gross_output_price_indexes,Insurance carriers and related activities,13,Underground,2017,100
+gross_output_price_indexes,Insurance carriers and related activities,13,Underground,2018,101.035
+gross_output_price_indexes,Insurance carriers and related activities,13,Underground,2019,103.182
+gross_output_price_indexes,Insurance carriers and related activities,13,Underground,2020,107.834
+gross_output_price_indexes,Insurance carriers and related activities,13,Underground,2021,110.043
+gross_output_price_indexes,Insurance carriers and related activities,13,Underground,2022,115.294
+gross_output_price_indexes,Insurance carriers and related activities,13,Underground,2023,124.501
+gross_output_price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2012,98.065
+gross_output_price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2013,97.904
+gross_output_price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2014,98.304
+gross_output_price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2015,99.141
+gross_output_price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2016,97.756
+gross_output_price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2017,100
+gross_output_price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2018,103.09
+gross_output_price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2019,104.128
+gross_output_price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2020,105.691
+gross_output_price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2021,105.588
+gross_output_price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2022,106.757
+gross_output_price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2023,108.07
+gross_output_price_indexes,Real estate and rental and leasing,13,Underground,2012,98.604
+gross_output_price_indexes,Real estate and rental and leasing,13,Underground,2013,98.961
+gross_output_price_indexes,Real estate and rental and leasing,13,Underground,2014,99.598
+gross_output_price_indexes,Real estate and rental and leasing,13,Underground,2015,100.077
+gross_output_price_indexes,Real estate and rental and leasing,13,Underground,2016,98.671
+gross_output_price_indexes,Real estate and rental and leasing,13,Underground,2017,100
+gross_output_price_indexes,Real estate and rental and leasing,13,Underground,2018,101.486
+gross_output_price_indexes,Real estate and rental and leasing,13,Underground,2019,102.329
+gross_output_price_indexes,Real estate and rental and leasing,13,Underground,2020,104.308
+gross_output_price_indexes,Real estate and rental and leasing,13,Underground,2021,106.61
+gross_output_price_indexes,Real estate and rental and leasing,13,Underground,2022,111.542
+gross_output_price_indexes,Real estate and rental and leasing,13,Underground,2023,114.757
+gross_output_price_indexes,Real estate,13,Underground,2012,98.487
+gross_output_price_indexes,Real estate,13,Underground,2013,98.389
+gross_output_price_indexes,Real estate,13,Underground,2014,98.866
+gross_output_price_indexes,Real estate,13,Underground,2015,99.63
+gross_output_price_indexes,Real estate,13,Underground,2016,98.26
+gross_output_price_indexes,Real estate,13,Underground,2017,100
+gross_output_price_indexes,Real estate,13,Underground,2018,102.105
+gross_output_price_indexes,Real estate,13,Underground,2019,102.975
+gross_output_price_indexes,Real estate,13,Underground,2020,106.102
+gross_output_price_indexes,Real estate,13,Underground,2021,107.987
+gross_output_price_indexes,Real estate,13,Underground,2022,110.254
+gross_output_price_indexes,Real estate,13,Underground,2023,112.101
+gross_output_price_indexes,Housing,13,Underground,2012,98.879
+gross_output_price_indexes,Housing,13,Underground,2013,98.852
+gross_output_price_indexes,Housing,13,Underground,2014,99.26
+gross_output_price_indexes,Housing,13,Underground,2015,99.863
+gross_output_price_indexes,Housing,13,Underground,2016,98.514
+gross_output_price_indexes,Housing,13,Underground,2017,100
+gross_output_price_indexes,Housing,13,Underground,2018,101.791
+gross_output_price_indexes,Housing,13,Underground,2019,102.469
+gross_output_price_indexes,Housing,13,Underground,2020,105.218
+gross_output_price_indexes,Housing,13,Underground,2021,106.697
+gross_output_price_indexes,Housing,13,Underground,2022,108.683
+gross_output_price_indexes,Housing,13,Underground,2023,110.405
+gross_output_price_indexes,Other real estate,13,Underground,2012,98.384
+gross_output_price_indexes,Other real estate,13,Underground,2013,98.276
+gross_output_price_indexes,Other real estate,13,Underground,2014,98.769
+gross_output_price_indexes,Other real estate,13,Underground,2015,99.57
+gross_output_price_indexes,Other real estate,13,Underground,2016,98.196
+gross_output_price_indexes,Other real estate,13,Underground,2017,100
+gross_output_price_indexes,Other real estate,13,Underground,2018,102.186
+gross_output_price_indexes,Other real estate,13,Underground,2019,103.105
+gross_output_price_indexes,Other real estate,13,Underground,2020,106.33
+gross_output_price_indexes,Other real estate,13,Underground,2021,108.318
+gross_output_price_indexes,Other real estate,13,Underground,2022,110.661
+gross_output_price_indexes,Other real estate,13,Underground,2023,112.543
+gross_output_price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2012,98.963
+gross_output_price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2013,99.561
+gross_output_price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2014,100.291
+gross_output_price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2015,100.545
+gross_output_price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2016,99.103
+gross_output_price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2017,100
+gross_output_price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2018,100.698
+gross_output_price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2019,101.513
+gross_output_price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2020,101.814
+gross_output_price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2021,104.81
+gross_output_price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2022,113.736
+gross_output_price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2023,118.996
+gross_output_price_indexes,Professional and business services,13,Underground,2012,93.053
+gross_output_price_indexes,Professional and business services,13,Underground,2013,94.194
+gross_output_price_indexes,Professional and business services,13,Underground,2014,95.962
+gross_output_price_indexes,Professional and business services,13,Underground,2015,98.246
+gross_output_price_indexes,Professional and business services,13,Underground,2016,97.436
+gross_output_price_indexes,Professional and business services,13,Underground,2017,100
+gross_output_price_indexes,Professional and business services,13,Underground,2018,103.024
+gross_output_price_indexes,Professional and business services,13,Underground,2019,104.659
+gross_output_price_indexes,Professional and business services,13,Underground,2020,108.12
+gross_output_price_indexes,Professional and business services,13,Underground,2021,110.675
+gross_output_price_indexes,Professional and business services,13,Underground,2022,113.943
+gross_output_price_indexes,Professional and business services,13,Underground,2023,116.384
+gross_output_price_indexes,"Professional, scientific, and technical services",13,Underground,2012,93.006
+gross_output_price_indexes,"Professional, scientific, and technical services",13,Underground,2013,94.156
+gross_output_price_indexes,"Professional, scientific, and technical services",13,Underground,2014,95.925
+gross_output_price_indexes,"Professional, scientific, and technical services",13,Underground,2015,98.219
+gross_output_price_indexes,"Professional, scientific, and technical services",13,Underground,2016,97.427
+gross_output_price_indexes,"Professional, scientific, and technical services",13,Underground,2017,100
+gross_output_price_indexes,"Professional, scientific, and technical services",13,Underground,2018,103.036
+gross_output_price_indexes,"Professional, scientific, and technical services",13,Underground,2019,104.685
+gross_output_price_indexes,"Professional, scientific, and technical services",13,Underground,2020,108.151
+gross_output_price_indexes,"Professional, scientific, and technical services",13,Underground,2021,110.728
+gross_output_price_indexes,"Professional, scientific, and technical services",13,Underground,2022,114.022
+gross_output_price_indexes,"Professional, scientific, and technical services",13,Underground,2023,116.477
+gross_output_price_indexes,Legal services,13,Underground,2012,101.45
+gross_output_price_indexes,Legal services,13,Underground,2013,100.9
+gross_output_price_indexes,Legal services,13,Underground,2014,100.761
+gross_output_price_indexes,Legal services,13,Underground,2015,100.983
+gross_output_price_indexes,Legal services,13,Underground,2016,99.68
+gross_output_price_indexes,Legal services,13,Underground,2017,100
+gross_output_price_indexes,Legal services,13,Underground,2018,99.977
+gross_output_price_indexes,Legal services,13,Underground,2019,99.589
+gross_output_price_indexes,Legal services,13,Underground,2020,99.636
+gross_output_price_indexes,Legal services,13,Underground,2021,98.708
+gross_output_price_indexes,Legal services,13,Underground,2022,99.303
+gross_output_price_indexes,Legal services,13,Underground,2023,100.276
+gross_output_price_indexes,Computer systems design and related services,3,Technology,2012,102.172
+gross_output_price_indexes,Computer systems design and related services,3,Technology,2013,102.019
+gross_output_price_indexes,Computer systems design and related services,3,Technology,2014,101.909
+gross_output_price_indexes,Computer systems design and related services,3,Technology,2015,101.759
+gross_output_price_indexes,Computer systems design and related services,3,Technology,2016,100.564
+gross_output_price_indexes,Computer systems design and related services,3,Technology,2017,100
+gross_output_price_indexes,Computer systems design and related services,3,Technology,2018,99.102
+gross_output_price_indexes,Computer systems design and related services,3,Technology,2019,97.643
+gross_output_price_indexes,Computer systems design and related services,3,Technology,2020,96.278
+gross_output_price_indexes,Computer systems design and related services,3,Technology,2021,94.286
+gross_output_price_indexes,Computer systems design and related services,3,Technology,2022,93.628
+gross_output_price_indexes,Computer systems design and related services,3,Technology,2023,94.211
+gross_output_price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2012,92.447
+gross_output_price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2013,93.668
+gross_output_price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2014,95.525
+gross_output_price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2015,97.952
+gross_output_price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2016,97.186
+gross_output_price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2017,100
+gross_output_price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2018,103.376
+gross_output_price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2019,105.282
+gross_output_price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2020,109.188
+gross_output_price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2021,112.259
+gross_output_price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2022,115.994
+gross_output_price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2023,118.639
+gross_output_price_indexes,Management of companies and enterprises,13,Underground,2012,94.407
+gross_output_price_indexes,Management of companies and enterprises,13,Underground,2013,95.274
+gross_output_price_indexes,Management of companies and enterprises,13,Underground,2014,97.095
+gross_output_price_indexes,Management of companies and enterprises,13,Underground,2015,99.004
+gross_output_price_indexes,Management of companies and enterprises,13,Underground,2016,97.566
+gross_output_price_indexes,Management of companies and enterprises,13,Underground,2017,100
+gross_output_price_indexes,Management of companies and enterprises,13,Underground,2018,102.78
+gross_output_price_indexes,Management of companies and enterprises,13,Underground,2019,104.035
+gross_output_price_indexes,Management of companies and enterprises,13,Underground,2020,107.57
+gross_output_price_indexes,Management of companies and enterprises,13,Underground,2021,109.411
+gross_output_price_indexes,Management of companies and enterprises,13,Underground,2022,111.641
+gross_output_price_indexes,Management of companies and enterprises,13,Underground,2023,113.49
+gross_output_price_indexes,Administrative and waste management services,13,Underground,2012,96.85
+gross_output_price_indexes,Administrative and waste management services,13,Underground,2013,96.626
+gross_output_price_indexes,Administrative and waste management services,13,Underground,2014,97.734
+gross_output_price_indexes,Administrative and waste management services,13,Underground,2015,99.334
+gross_output_price_indexes,Administrative and waste management services,13,Underground,2016,98.022
+gross_output_price_indexes,Administrative and waste management services,13,Underground,2017,100
+gross_output_price_indexes,Administrative and waste management services,13,Underground,2018,102.405
+gross_output_price_indexes,Administrative and waste management services,13,Underground,2019,103.349
+gross_output_price_indexes,Administrative and waste management services,13,Underground,2020,106.257
+gross_output_price_indexes,Administrative and waste management services,13,Underground,2021,107.902
+gross_output_price_indexes,Administrative and waste management services,13,Underground,2022,110.026
+gross_output_price_indexes,Administrative and waste management services,13,Underground,2023,111.908
+gross_output_price_indexes,Administrative and support services,13,Underground,2012,96.837
+gross_output_price_indexes,Administrative and support services,13,Underground,2013,96.615
+gross_output_price_indexes,Administrative and support services,13,Underground,2014,97.728
+gross_output_price_indexes,Administrative and support services,13,Underground,2015,99.333
+gross_output_price_indexes,Administrative and support services,13,Underground,2016,98.02
+gross_output_price_indexes,Administrative and support services,13,Underground,2017,100
+gross_output_price_indexes,Administrative and support services,13,Underground,2018,102.407
+gross_output_price_indexes,Administrative and support services,13,Underground,2019,103.352
+gross_output_price_indexes,Administrative and support services,13,Underground,2020,106.262
+gross_output_price_indexes,Administrative and support services,13,Underground,2021,107.909
+gross_output_price_indexes,Administrative and support services,13,Underground,2022,110.035
+gross_output_price_indexes,Administrative and support services,13,Underground,2023,111.918
+gross_output_price_indexes,Waste management and remediation services,13,Underground,2012,103.513
+gross_output_price_indexes,Waste management and remediation services,13,Underground,2013,102.895
+gross_output_price_indexes,Waste management and remediation services,13,Underground,2014,101.984
+gross_output_price_indexes,Waste management and remediation services,13,Underground,2015,101.273
+gross_output_price_indexes,Waste management and remediation services,13,Underground,2016,100.162
+gross_output_price_indexes,Waste management and remediation services,13,Underground,2017,100
+gross_output_price_indexes,Waste management and remediation services,13,Underground,2018,100.016
+gross_output_price_indexes,Waste management and remediation services,13,Underground,2019,99.527
+gross_output_price_indexes,Waste management and remediation services,13,Underground,2020,99.333
+gross_output_price_indexes,Waste management and remediation services,13,Underground,2021,98.085
+gross_output_price_indexes,Waste management and remediation services,13,Underground,2022,98.212
+gross_output_price_indexes,Waste management and remediation services,13,Underground,2023,98.852
+gross_output_price_indexes,"Educational services, health care, and social assistance",13,Underground,2012,95.167
+gross_output_price_indexes,"Educational services, health care, and social assistance",13,Underground,2013,96.515
+gross_output_price_indexes,"Educational services, health care, and social assistance",13,Underground,2014,98.612
+gross_output_price_indexes,"Educational services, health care, and social assistance",13,Underground,2015,97.011
+gross_output_price_indexes,"Educational services, health care, and social assistance",13,Underground,2016,98.117
+gross_output_price_indexes,"Educational services, health care, and social assistance",13,Underground,2017,100
+gross_output_price_indexes,"Educational services, health care, and social assistance",13,Underground,2018,102.843
+gross_output_price_indexes,"Educational services, health care, and social assistance",13,Underground,2019,104.328
+gross_output_price_indexes,"Educational services, health care, and social assistance",13,Underground,2020,105.272
+gross_output_price_indexes,"Educational services, health care, and social assistance",13,Underground,2021,106.407
+gross_output_price_indexes,"Educational services, health care, and social assistance",13,Underground,2022,110.094
+gross_output_price_indexes,"Educational services, health care, and social assistance",13,Underground,2023,112.822
+gross_output_price_indexes,Educational services,13,Underground,2012,95.224
+gross_output_price_indexes,Educational services,13,Underground,2013,96.589
+gross_output_price_indexes,Educational services,13,Underground,2014,98.69
+gross_output_price_indexes,Educational services,13,Underground,2015,96.924
+gross_output_price_indexes,Educational services,13,Underground,2016,98.154
+gross_output_price_indexes,Educational services,13,Underground,2017,100
+gross_output_price_indexes,Educational services,13,Underground,2018,102.826
+gross_output_price_indexes,Educational services,13,Underground,2019,104.309
+gross_output_price_indexes,Educational services,13,Underground,2020,105.166
+gross_output_price_indexes,Educational services,13,Underground,2021,106.262
+gross_output_price_indexes,Educational services,13,Underground,2022,109.998
+gross_output_price_indexes,Educational services,13,Underground,2023,112.759
+gross_output_price_indexes,Health care and social assistance,13,Underground,2012,93.737
+gross_output_price_indexes,Health care and social assistance,13,Underground,2013,94.709
+gross_output_price_indexes,Health care and social assistance,13,Underground,2014,96.711
+gross_output_price_indexes,Health care and social assistance,13,Underground,2015,98.867
+gross_output_price_indexes,Health care and social assistance,13,Underground,2016,97.413
+gross_output_price_indexes,Health care and social assistance,13,Underground,2017,100
+gross_output_price_indexes,Health care and social assistance,13,Underground,2018,103.157
+gross_output_price_indexes,Health care and social assistance,13,Underground,2019,104.664
+gross_output_price_indexes,Health care and social assistance,13,Underground,2020,108.458
+gross_output_price_indexes,Health care and social assistance,13,Underground,2021,110.83
+gross_output_price_indexes,Health care and social assistance,13,Underground,2022,113.868
+gross_output_price_indexes,Health care and social assistance,13,Underground,2023,116.095
+gross_output_price_indexes,Ambulatory health care services,13,Underground,2012,102.913
+gross_output_price_indexes,Ambulatory health care services,13,Underground,2013,102.011
+gross_output_price_indexes,Ambulatory health care services,13,Underground,2014,101.438
+gross_output_price_indexes,Ambulatory health care services,13,Underground,2015,100.958
+gross_output_price_indexes,Ambulatory health care services,13,Underground,2016,99.714
+gross_output_price_indexes,Ambulatory health care services,13,Underground,2017,100
+gross_output_price_indexes,Ambulatory health care services,13,Underground,2018,100.221
+gross_output_price_indexes,Ambulatory health care services,13,Underground,2019,100.015
+gross_output_price_indexes,Ambulatory health care services,13,Underground,2020,100.071
+gross_output_price_indexes,Ambulatory health care services,13,Underground,2021,99.075
+gross_output_price_indexes,Ambulatory health care services,13,Underground,2022,99.644
+gross_output_price_indexes,Ambulatory health care services,13,Underground,2023,100.522
+gross_output_price_indexes,Hospitals,13,Underground,2012,93.458
+gross_output_price_indexes,Hospitals,13,Underground,2013,94.477
+gross_output_price_indexes,Hospitals,13,Underground,2014,96.541
+gross_output_price_indexes,Hospitals,13,Underground,2015,98.77
+gross_output_price_indexes,Hospitals,13,Underground,2016,97.308
+gross_output_price_indexes,Hospitals,13,Underground,2017,100
+gross_output_price_indexes,Hospitals,13,Underground,2018,103.275
+gross_output_price_indexes,Hospitals,13,Underground,2019,104.855
+gross_output_price_indexes,Hospitals,13,Underground,2020,108.896
+gross_output_price_indexes,Hospitals,13,Underground,2021,111.486
+gross_output_price_indexes,Hospitals,13,Underground,2022,114.612
+gross_output_price_indexes,Hospitals,13,Underground,2023,116.885
+gross_output_price_indexes,Nursing and residential care facilities,13,Underground,2012,100.85
+gross_output_price_indexes,Nursing and residential care facilities,13,Underground,2013,100.439
+gross_output_price_indexes,Nursing and residential care facilities,13,Underground,2014,100.363
+gross_output_price_indexes,Nursing and residential care facilities,13,Underground,2015,100.527
+gross_output_price_indexes,Nursing and residential care facilities,13,Underground,2016,99.213
+gross_output_price_indexes,Nursing and residential care facilities,13,Underground,2017,100
+gross_output_price_indexes,Nursing and residential care facilities,13,Underground,2018,100.623
+gross_output_price_indexes,Nursing and residential care facilities,13,Underground,2019,100.653
+gross_output_price_indexes,Nursing and residential care facilities,13,Underground,2020,101.202
+gross_output_price_indexes,Nursing and residential care facilities,13,Underground,2021,100.624
+gross_output_price_indexes,Nursing and residential care facilities,13,Underground,2022,101.476
+gross_output_price_indexes,Nursing and residential care facilities,13,Underground,2023,102.512
+gross_output_price_indexes,Social assistance,13,Underground,2012,104.079
+gross_output_price_indexes,Social assistance,13,Underground,2013,103.237
+gross_output_price_indexes,Social assistance,13,Underground,2014,102.499
+gross_output_price_indexes,Social assistance,13,Underground,2015,101.742
+gross_output_price_indexes,Social assistance,13,Underground,2016,100.605
+gross_output_price_indexes,Social assistance,13,Underground,2017,100
+gross_output_price_indexes,Social assistance,13,Underground,2018,99.196
+gross_output_price_indexes,Social assistance,13,Underground,2019,98.23
+gross_output_price_indexes,Social assistance,13,Underground,2020,97.059
+gross_output_price_indexes,Social assistance,13,Underground,2021,95.289
+gross_output_price_indexes,Social assistance,13,Underground,2022,95.247
+gross_output_price_indexes,Social assistance,13,Underground,2023,95.786
+gross_output_price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2012,90.796
+gross_output_price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2013,92.607
+gross_output_price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2014,94.152
+gross_output_price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2015,95.985
+gross_output_price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2016,97.625
+gross_output_price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2017,100
+gross_output_price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2018,100.546
+gross_output_price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2019,102.335
+gross_output_price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2020,105.318
+gross_output_price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2021,108.437
+gross_output_price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2022,114.732
+gross_output_price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2023,121.007
+gross_output_price_indexes,"Arts, entertainment, and recreation",13,Underground,2012,90.605
+gross_output_price_indexes,"Arts, entertainment, and recreation",13,Underground,2013,92.456
+gross_output_price_indexes,"Arts, entertainment, and recreation",13,Underground,2014,94.03
+gross_output_price_indexes,"Arts, entertainment, and recreation",13,Underground,2015,95.875
+gross_output_price_indexes,"Arts, entertainment, and recreation",13,Underground,2016,97.56
+gross_output_price_indexes,"Arts, entertainment, and recreation",13,Underground,2017,100
+gross_output_price_indexes,"Arts, entertainment, and recreation",13,Underground,2018,100.587
+gross_output_price_indexes,"Arts, entertainment, and recreation",13,Underground,2019,102.416
+gross_output_price_indexes,"Arts, entertainment, and recreation",13,Underground,2020,105.45
+gross_output_price_indexes,"Arts, entertainment, and recreation",13,Underground,2021,108.619
+gross_output_price_indexes,"Arts, entertainment, and recreation",13,Underground,2022,115.035
+gross_output_price_indexes,"Arts, entertainment, and recreation",13,Underground,2023,121.478
+gross_output_price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2012,90.578
+gross_output_price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2013,92.444
+gross_output_price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2014,94.021
+gross_output_price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2015,95.87
+gross_output_price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2016,97.555
+gross_output_price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2017,100
+gross_output_price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2018,100.588
+gross_output_price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2019,102.419
+gross_output_price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2020,105.461
+gross_output_price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2021,108.634
+gross_output_price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2022,115.062
+gross_output_price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2023,121.521
+gross_output_price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2012,101.095
+gross_output_price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2013,97.603
+gross_output_price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2014,98.063
+gross_output_price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2015,98.492
+gross_output_price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2016,100.165
+gross_output_price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2017,100
+gross_output_price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2018,100.328
+gross_output_price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2019,100.878
+gross_output_price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2020,99.863
+gross_output_price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2021,100.737
+gross_output_price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2022,101.685
+gross_output_price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2023,101.699
+gross_output_price_indexes,Accommodation and food services,9,Grain,2012,99.377
+gross_output_price_indexes,Accommodation and food services,9,Grain,2013,99.746
+gross_output_price_indexes,Accommodation and food services,9,Grain,2014,100.209
+gross_output_price_indexes,Accommodation and food services,9,Grain,2015,101.578
+gross_output_price_indexes,Accommodation and food services,9,Grain,2016,101.244
+gross_output_price_indexes,Accommodation and food services,9,Grain,2017,100
+gross_output_price_indexes,Accommodation and food services,9,Grain,2018,98.096
+gross_output_price_indexes,Accommodation and food services,9,Grain,2019,97.64
+gross_output_price_indexes,Accommodation and food services,9,Grain,2020,96.904
+gross_output_price_indexes,Accommodation and food services,9,Grain,2021,96.008
+gross_output_price_indexes,Accommodation and food services,9,Grain,2022,95.747
+gross_output_price_indexes,Accommodation and food services,9,Grain,2023,95.505
+gross_output_price_indexes,Accommodation,13,Underground,2012,99.411
+gross_output_price_indexes,Accommodation,13,Underground,2013,99.782
+gross_output_price_indexes,Accommodation,13,Underground,2014,100.243
+gross_output_price_indexes,Accommodation,13,Underground,2015,101.605
+gross_output_price_indexes,Accommodation,13,Underground,2016,101.258
+gross_output_price_indexes,Accommodation,13,Underground,2017,100
+gross_output_price_indexes,Accommodation,13,Underground,2018,98.081
+gross_output_price_indexes,Accommodation,13,Underground,2019,97.63
+gross_output_price_indexes,Accommodation,13,Underground,2020,96.87
+gross_output_price_indexes,Accommodation,13,Underground,2021,95.945
+gross_output_price_indexes,Accommodation,13,Underground,2022,95.61
+gross_output_price_indexes,Accommodation,13,Underground,2023,95.364
+gross_output_price_indexes,Food services and drinking places,9,Grain,2012,93.531
+gross_output_price_indexes,Food services and drinking places,9,Grain,2013,93.54
+gross_output_price_indexes,Food services and drinking places,9,Grain,2014,94.535
+gross_output_price_indexes,Food services and drinking places,9,Grain,2015,97.513
+gross_output_price_indexes,Food services and drinking places,9,Grain,2016,99.236
+gross_output_price_indexes,Food services and drinking places,9,Grain,2017,100
+gross_output_price_indexes,Food services and drinking places,9,Grain,2018,100.315
+gross_output_price_indexes,Food services and drinking places,9,Grain,2019,99.171
+gross_output_price_indexes,Food services and drinking places,9,Grain,2020,100.641
+gross_output_price_indexes,Food services and drinking places,9,Grain,2021,101.855
+gross_output_price_indexes,Food services and drinking places,9,Grain,2022,107.392
+gross_output_price_indexes,Food services and drinking places,9,Grain,2023,107.535
+gross_output_price_indexes,"Other services, except government",13,Underground,2012,98.453
+gross_output_price_indexes,"Other services, except government",13,Underground,2013,100.445
+gross_output_price_indexes,"Other services, except government",13,Underground,2014,100.385
+gross_output_price_indexes,"Other services, except government",13,Underground,2015,99.619
+gross_output_price_indexes,"Other services, except government",13,Underground,2016,97.461
+gross_output_price_indexes,"Other services, except government",13,Underground,2017,100
+gross_output_price_indexes,"Other services, except government",13,Underground,2018,98.885
+gross_output_price_indexes,"Other services, except government",13,Underground,2019,92.726
+gross_output_price_indexes,"Other services, except government",13,Underground,2020,94.665
+gross_output_price_indexes,"Other services, except government",13,Underground,2021,95.205
+gross_output_price_indexes,"Other services, except government",13,Underground,2022,91.521
+gross_output_price_indexes,"Other services, except government",13,Underground,2023,94.285
+gross_output_price_indexes,Government5,13,Underground,2012,93.049
+gross_output_price_indexes,Government5,13,Underground,2013,94.417
+gross_output_price_indexes,Government5,13,Underground,2014,96.434
+gross_output_price_indexes,Government5,13,Underground,2015,96.807
+gross_output_price_indexes,Government5,13,Underground,2016,97.845
+gross_output_price_indexes,Government5,13,Underground,2017,100
+gross_output_price_indexes,Government5,13,Underground,2018,103.276
+gross_output_price_indexes,Government5,13,Underground,2019,105.098
+gross_output_price_indexes,Government5,13,Underground,2020,105.789
+gross_output_price_indexes,Government5,13,Underground,2021,108.716
+gross_output_price_indexes,Government5,13,Underground,2022,115.262
+gross_output_price_indexes,Government5,13,Underground,2023,120.205
+gross_output_price_indexes,Federal,13,Underground,2012,92.541
+gross_output_price_indexes,Federal,13,Underground,2013,93.878
+gross_output_price_indexes,Federal,13,Underground,2014,95.916
+gross_output_price_indexes,Federal,13,Underground,2015,96.638
+gross_output_price_indexes,Federal,13,Underground,2016,97.8
+gross_output_price_indexes,Federal,13,Underground,2017,100
+gross_output_price_indexes,Federal,13,Underground,2018,103.277
+gross_output_price_indexes,Federal,13,Underground,2019,105.132
+gross_output_price_indexes,Federal,13,Underground,2020,105.821
+gross_output_price_indexes,Federal,13,Underground,2021,108.96
+gross_output_price_indexes,Federal,13,Underground,2022,115.802
+gross_output_price_indexes,Federal,13,Underground,2023,121.014
+gross_output_price_indexes,General government,13,Underground,2012,92.54
+gross_output_price_indexes,General government,13,Underground,2013,93.877
+gross_output_price_indexes,General government,13,Underground,2014,95.916
+gross_output_price_indexes,General government,13,Underground,2015,96.637
+gross_output_price_indexes,General government,13,Underground,2016,97.8
+gross_output_price_indexes,General government,13,Underground,2017,100
+gross_output_price_indexes,General government,13,Underground,2018,103.278
+gross_output_price_indexes,General government,13,Underground,2019,105.132
+gross_output_price_indexes,General government,13,Underground,2020,105.822
+gross_output_price_indexes,General government,13,Underground,2021,108.962
+gross_output_price_indexes,General government,13,Underground,2022,115.804
+gross_output_price_indexes,General government,13,Underground,2023,121.017
+gross_output_price_indexes,National defense,2,Weapons,2012,96.072
+gross_output_price_indexes,National defense,2,Weapons,2013,96.359
+gross_output_price_indexes,National defense,2,Weapons,2014,97.81
+gross_output_price_indexes,National defense,2,Weapons,2015,97.73
+gross_output_price_indexes,National defense,2,Weapons,2016,98.405
+gross_output_price_indexes,National defense,2,Weapons,2017,100
+gross_output_price_indexes,National defense,2,Weapons,2018,102.675
+gross_output_price_indexes,National defense,2,Weapons,2019,103.867
+gross_output_price_indexes,National defense,2,Weapons,2020,104.768
+gross_output_price_indexes,National defense,2,Weapons,2021,107.561
+gross_output_price_indexes,National defense,2,Weapons,2022,117.461
+gross_output_price_indexes,National defense,2,Weapons,2023,121.498
+gross_output_price_indexes,Nondefense,2,Weapons,2012,91.695
+gross_output_price_indexes,Nondefense,2,Weapons,2013,93.281
+gross_output_price_indexes,Nondefense,2,Weapons,2014,95.459
+gross_output_price_indexes,Nondefense,2,Weapons,2015,96.367
+gross_output_price_indexes,Nondefense,2,Weapons,2016,97.647
+gross_output_price_indexes,Nondefense,2,Weapons,2017,100
+gross_output_price_indexes,Nondefense,2,Weapons,2018,103.435
+gross_output_price_indexes,Nondefense,2,Weapons,2019,105.465
+gross_output_price_indexes,Nondefense,2,Weapons,2020,106.095
+gross_output_price_indexes,Nondefense,2,Weapons,2021,109.35
+gross_output_price_indexes,Nondefense,2,Weapons,2022,115.048
+gross_output_price_indexes,Nondefense,2,Weapons,2023,120.75
+gross_output_price_indexes,Government enterprises,13,Underground,2012,103.859
+gross_output_price_indexes,Government enterprises,13,Underground,2013,103.825
+gross_output_price_indexes,Government enterprises,13,Underground,2014,103.939
+gross_output_price_indexes,Government enterprises,13,Underground,2015,103.312
+gross_output_price_indexes,Government enterprises,13,Underground,2016,102.363
+gross_output_price_indexes,Government enterprises,13,Underground,2017,100
+gross_output_price_indexes,Government enterprises,13,Underground,2018,98.392
+gross_output_price_indexes,Government enterprises,13,Underground,2019,99.37
+gross_output_price_indexes,Government enterprises,13,Underground,2020,95.927
+gross_output_price_indexes,Government enterprises,13,Underground,2021,94.643
+gross_output_price_indexes,Government enterprises,13,Underground,2022,99.234
+gross_output_price_indexes,Government enterprises,13,Underground,2023,102.302
+gross_output_price_indexes,State and local,13,Underground,2012,99.139
+gross_output_price_indexes,State and local,13,Underground,2013,100.862
+gross_output_price_indexes,State and local,13,Underground,2014,102.622
+gross_output_price_indexes,State and local,13,Underground,2015,98.837
+gross_output_price_indexes,State and local,13,Underground,2016,98.39
+gross_output_price_indexes,State and local,13,Underground,2017,100
+gross_output_price_indexes,State and local,13,Underground,2018,103.266
+gross_output_price_indexes,State and local,13,Underground,2019,104.714
+gross_output_price_indexes,State and local,13,Underground,2020,105.428
+gross_output_price_indexes,State and local,13,Underground,2021,106.159
+gross_output_price_indexes,State and local,13,Underground,2022,109.835
+gross_output_price_indexes,State and local,13,Underground,2023,112.41
+gross_output_price_indexes,General government,13,Underground,2012,99.139
+gross_output_price_indexes,General government,13,Underground,2013,100.862
+gross_output_price_indexes,General government,13,Underground,2014,102.622
+gross_output_price_indexes,General government,13,Underground,2015,98.837
+gross_output_price_indexes,General government,13,Underground,2016,98.39
+gross_output_price_indexes,General government,13,Underground,2017,100
+gross_output_price_indexes,General government,13,Underground,2018,103.266
+gross_output_price_indexes,General government,13,Underground,2019,104.714
+gross_output_price_indexes,General government,13,Underground,2020,105.428
+gross_output_price_indexes,General government,13,Underground,2021,106.159
+gross_output_price_indexes,General government,13,Underground,2022,109.835
+gross_output_price_indexes,General government,13,Underground,2023,112.41
+gross_output_price_indexes,Government enterprises,13,Underground,2012,102.304
+gross_output_price_indexes,Government enterprises,13,Underground,2013,103.26
+gross_output_price_indexes,Government enterprises,13,Underground,2014,100.312
+gross_output_price_indexes,Government enterprises,13,Underground,2015,98.214
+gross_output_price_indexes,Government enterprises,13,Underground,2016,96.794
+gross_output_price_indexes,Government enterprises,13,Underground,2017,100
+gross_output_price_indexes,Government enterprises,13,Underground,2018,105.265
+gross_output_price_indexes,Government enterprises,13,Underground,2019,107.807
+gross_output_price_indexes,Government enterprises,13,Underground,2020,108.068
+gross_output_price_indexes,Government enterprises,13,Underground,2021,113.234
+gross_output_price_indexes,Government enterprises,13,Underground,2022,123.916
+gross_output_price_indexes,Government enterprises,13,Underground,2023,126.645
+gross_output_price_indexes,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2012,108.335
+gross_output_price_indexes,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2013,106.349
+gross_output_price_indexes,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2014,104.159
+gross_output_price_indexes,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2015,101.927
+gross_output_price_indexes,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2016,99.652
+gross_output_price_indexes,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2017,100
+gross_output_price_indexes,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2018,100.82
+gross_output_price_indexes,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2019,102.31
+gross_output_price_indexes,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2020,103.154
+gross_output_price_indexes,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2021,109.332
+gross_output_price_indexes,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2022,114.234
+gross_output_price_indexes,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2023,118.04
