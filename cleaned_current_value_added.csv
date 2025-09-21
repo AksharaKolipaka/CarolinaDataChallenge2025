@@ -1,184 +1,184 @@
 table_name,industry,district_number,district_name,year,value
-current_value_added,Space economy1,13,Underground,2012,110992
-current_value_added,Space economy1,13,Underground,2013,118492
-current_value_added,Space economy1,13,Underground,2014,116827
-current_value_added,Space economy1,13,Underground,2015,123034
-current_value_added,Space economy1,13,Underground,2016,122521
-current_value_added,Space economy1,13,Underground,2017,122183
-current_value_added,Space economy1,13,Underground,2018,121296
-current_value_added,Space economy1,13,Underground,2019,128189
-current_value_added,Space economy1,13,Underground,2020,124239
-current_value_added,Space economy1,13,Underground,2021,125219
-current_value_added,Space economy1,13,Underground,2022,134077
-current_value_added,Space economy1,13,Underground,2023,142526
-current_value_added,Private industries,13,Underground,2012,90312
-current_value_added,Private industries,13,Underground,2013,97511
-current_value_added,Private industries,13,Underground,2014,95054
-current_value_added,Private industries,13,Underground,2015,100521
-current_value_added,Private industries,13,Underground,2016,99501
-current_value_added,Private industries,13,Underground,2017,98699
-current_value_added,Private industries,13,Underground,2018,96277
-current_value_added,Private industries,13,Underground,2019,100522
-current_value_added,Private industries,13,Underground,2020,96800
-current_value_added,Private industries,13,Underground,2021,97034
-current_value_added,Private industries,13,Underground,2022,102731
-current_value_added,Private industries,13,Underground,2023,106924
-current_value_added,Mining,12,Mining,2012,50
-current_value_added,Mining,12,Mining,2013,39
-current_value_added,Mining,12,Mining,2014,50
-current_value_added,Mining,12,Mining,2015,45
-current_value_added,Mining,12,Mining,2016,25
-current_value_added,Mining,12,Mining,2017,10
-current_value_added,Mining,12,Mining,2018,4
-current_value_added,Mining,12,Mining,2019,6
-current_value_added,Mining,12,Mining,2020,2
-current_value_added,Mining,12,Mining,2021,2
-current_value_added,Mining,12,Mining,2022,2
-current_value_added,Mining,12,Mining,2023,2
-current_value_added,Oil and gas extraction,5,Power,2012,37
-current_value_added,Oil and gas extraction,5,Power,2013,29
-current_value_added,Oil and gas extraction,5,Power,2014,37
-current_value_added,Oil and gas extraction,5,Power,2015,32
-current_value_added,Oil and gas extraction,5,Power,2016,18
-current_value_added,Oil and gas extraction,5,Power,2017,6
-current_value_added,Oil and gas extraction,5,Power,2018,3
-current_value_added,Oil and gas extraction,5,Power,2019,4
-current_value_added,Oil and gas extraction,5,Power,2020,1
-current_value_added,Oil and gas extraction,5,Power,2021,2
-current_value_added,Oil and gas extraction,5,Power,2022,1
-current_value_added,Oil and gas extraction,5,Power,2023,1
-current_value_added,"Mining, except oil and gas",5,Power,2012,0
-current_value_added,"Mining, except oil and gas",5,Power,2013,0
-current_value_added,"Mining, except oil and gas",5,Power,2014,0
-current_value_added,"Mining, except oil and gas",5,Power,2015,1
-current_value_added,"Mining, except oil and gas",5,Power,2016,1
-current_value_added,"Mining, except oil and gas",5,Power,2017,1
-current_value_added,"Mining, except oil and gas",5,Power,2018,0
-current_value_added,"Mining, except oil and gas",5,Power,2019,0
-current_value_added,"Mining, except oil and gas",5,Power,2020,0
-current_value_added,"Mining, except oil and gas",5,Power,2021,0
-current_value_added,"Mining, except oil and gas",5,Power,2022,0
-current_value_added,"Mining, except oil and gas",5,Power,2023,0
-current_value_added,Support activities for mining,12,Mining,2012,13
-current_value_added,Support activities for mining,12,Mining,2013,10
-current_value_added,Support activities for mining,12,Mining,2014,13
-current_value_added,Support activities for mining,12,Mining,2015,12
-current_value_added,Support activities for mining,12,Mining,2016,7
-current_value_added,Support activities for mining,12,Mining,2017,3
-current_value_added,Support activities for mining,12,Mining,2018,1
-current_value_added,Support activities for mining,12,Mining,2019,2
-current_value_added,Support activities for mining,12,Mining,2020,1
-current_value_added,Support activities for mining,12,Mining,2021,1
-current_value_added,Support activities for mining,12,Mining,2022,1
-current_value_added,Support activities for mining,12,Mining,2023,1
-current_value_added,Utilities,5,Power,2012,1
-current_value_added,Utilities,5,Power,2013,1
-current_value_added,Utilities,5,Power,2014,1
-current_value_added,Utilities,5,Power,2015,2
-current_value_added,Utilities,5,Power,2016,2
-current_value_added,Utilities,5,Power,2017,2
-current_value_added,Utilities,5,Power,2018,2
-current_value_added,Utilities,5,Power,2019,1
-current_value_added,Utilities,5,Power,2020,1
-current_value_added,Utilities,5,Power,2021,2
-current_value_added,Utilities,5,Power,2022,2
-current_value_added,Utilities,5,Power,2023,1
-current_value_added,Construction,13,Underground,2012,229
-current_value_added,Construction,13,Underground,2013,212
-current_value_added,Construction,13,Underground,2014,316
-current_value_added,Construction,13,Underground,2015,383
-current_value_added,Construction,13,Underground,2016,392
-current_value_added,Construction,13,Underground,2017,585
-current_value_added,Construction,13,Underground,2018,372
-current_value_added,Construction,13,Underground,2019,1152
-current_value_added,Construction,13,Underground,2020,992
-current_value_added,Construction,13,Underground,2021,617
-current_value_added,Construction,13,Underground,2022,842
-current_value_added,Construction,13,Underground,2023,943
-current_value_added,Manufacturing,8,Textiles,2012,34461
-current_value_added,Manufacturing,8,Textiles,2013,36744
-current_value_added,Manufacturing,8,Textiles,2014,34351
-current_value_added,Manufacturing,8,Textiles,2015,33630
-current_value_added,Manufacturing,8,Textiles,2016,33706
-current_value_added,Manufacturing,8,Textiles,2017,32514
-current_value_added,Manufacturing,8,Textiles,2018,32100
-current_value_added,Manufacturing,8,Textiles,2019,34946
-current_value_added,Manufacturing,8,Textiles,2020,32618
-current_value_added,Manufacturing,8,Textiles,2021,34186
-current_value_added,Manufacturing,8,Textiles,2022,34427
-current_value_added,Manufacturing,8,Textiles,2023,35345
-current_value_added,Durable goods,13,Underground,2012,34033
-current_value_added,Durable goods,13,Underground,2013,36246
-current_value_added,Durable goods,13,Underground,2014,33866
-current_value_added,Durable goods,13,Underground,2015,33418
-current_value_added,Durable goods,13,Underground,2016,33470
-current_value_added,Durable goods,13,Underground,2017,32295
-current_value_added,Durable goods,13,Underground,2018,31877
-current_value_added,Durable goods,13,Underground,2019,34765
-current_value_added,Durable goods,13,Underground,2020,32440
-current_value_added,Durable goods,13,Underground,2021,33985
-current_value_added,Durable goods,13,Underground,2022,34172
-current_value_added,Durable goods,13,Underground,2023,35090
-current_value_added,Wood products,7,Lumber,2012,20
-current_value_added,Wood products,7,Lumber,2013,12
-current_value_added,Wood products,7,Lumber,2014,19
-current_value_added,Wood products,7,Lumber,2015,5
-current_value_added,Wood products,7,Lumber,2016,5
-current_value_added,Wood products,7,Lumber,2017,4
-current_value_added,Wood products,7,Lumber,2018,5
-current_value_added,Wood products,7,Lumber,2019,4
-current_value_added,Wood products,7,Lumber,2020,3
-current_value_added,Wood products,7,Lumber,2021,8
-current_value_added,Wood products,7,Lumber,2022,6
-current_value_added,Wood products,7,Lumber,2023,6
-current_value_added,Nonmetallic mineral products,12,Mining,2012,51
-current_value_added,Nonmetallic mineral products,12,Mining,2013,60
-current_value_added,Nonmetallic mineral products,12,Mining,2014,64
-current_value_added,Nonmetallic mineral products,12,Mining,2015,27
-current_value_added,Nonmetallic mineral products,12,Mining,2016,28
-current_value_added,Nonmetallic mineral products,12,Mining,2017,27
-current_value_added,Nonmetallic mineral products,12,Mining,2018,29
-current_value_added,Nonmetallic mineral products,12,Mining,2019,26
-current_value_added,Nonmetallic mineral products,12,Mining,2020,26
-current_value_added,Nonmetallic mineral products,12,Mining,2021,26
-current_value_added,Nonmetallic mineral products,12,Mining,2022,29
-current_value_added,Nonmetallic mineral products,12,Mining,2023,29
-current_value_added,Primary metals,12,Mining,2012,47
-current_value_added,Primary metals,12,Mining,2013,51
-current_value_added,Primary metals,12,Mining,2014,80
-current_value_added,Primary metals,12,Mining,2015,69
-current_value_added,Primary metals,12,Mining,2016,48
-current_value_added,Primary metals,12,Mining,2017,45
-current_value_added,Primary metals,12,Mining,2018,36
-current_value_added,Primary metals,12,Mining,2019,31
-current_value_added,Primary metals,12,Mining,2020,35
-current_value_added,Primary metals,12,Mining,2021,37
-current_value_added,Primary metals,12,Mining,2022,44
-current_value_added,Primary metals,12,Mining,2023,43
-current_value_added,Fabricated metal products,12,Mining,2012,243
-current_value_added,Fabricated metal products,12,Mining,2013,419
-current_value_added,Fabricated metal products,12,Mining,2014,314
-current_value_added,Fabricated metal products,12,Mining,2015,360
-current_value_added,Fabricated metal products,12,Mining,2016,314
-current_value_added,Fabricated metal products,12,Mining,2017,266
-current_value_added,Fabricated metal products,12,Mining,2018,188
-current_value_added,Fabricated metal products,12,Mining,2019,179
-current_value_added,Fabricated metal products,12,Mining,2020,182
-current_value_added,Fabricated metal products,12,Mining,2021,239
-current_value_added,Fabricated metal products,12,Mining,2022,261
-current_value_added,Fabricated metal products,12,Mining,2023,265
-current_value_added,Machinery,13,Underground,2012,779
-current_value_added,Machinery,13,Underground,2013,753
-current_value_added,Machinery,13,Underground,2014,707
-current_value_added,Machinery,13,Underground,2015,429
-current_value_added,Machinery,13,Underground,2016,422
-current_value_added,Machinery,13,Underground,2017,402
-current_value_added,Machinery,13,Underground,2018,424
-current_value_added,Machinery,13,Underground,2019,398
-current_value_added,Machinery,13,Underground,2020,379
-current_value_added,Machinery,13,Underground,2021,452
-current_value_added,Machinery,13,Underground,2022,514
-current_value_added,Machinery,13,Underground,2023,522
+current_value_added,Space economy1,13,NA,2012,110992
+current_value_added,Space economy1,13,NA,2013,118492
+current_value_added,Space economy1,13,NA,2014,116827
+current_value_added,Space economy1,13,NA,2015,123034
+current_value_added,Space economy1,13,NA,2016,122521
+current_value_added,Space economy1,13,NA,2017,122183
+current_value_added,Space economy1,13,NA,2018,121296
+current_value_added,Space economy1,13,NA,2019,128189
+current_value_added,Space economy1,13,NA,2020,124239
+current_value_added,Space economy1,13,NA,2021,125219
+current_value_added,Space economy1,13,NA,2022,134077
+current_value_added,Space economy1,13,NA,2023,142526
+current_value_added,Private industries,13,NA,2012,90312
+current_value_added,Private industries,13,NA,2013,97511
+current_value_added,Private industries,13,NA,2014,95054
+current_value_added,Private industries,13,NA,2015,100521
+current_value_added,Private industries,13,NA,2016,99501
+current_value_added,Private industries,13,NA,2017,98699
+current_value_added,Private industries,13,NA,2018,96277
+current_value_added,Private industries,13,NA,2019,100522
+current_value_added,Private industries,13,NA,2020,96800
+current_value_added,Private industries,13,NA,2021,97034
+current_value_added,Private industries,13,NA,2022,102731
+current_value_added,Private industries,13,NA,2023,106924
+current_value_added,Mining,11,Mining,2012,50
+current_value_added,Mining,11,Mining,2013,39
+current_value_added,Mining,11,Mining,2014,50
+current_value_added,Mining,11,Mining,2015,45
+current_value_added,Mining,11,Mining,2016,25
+current_value_added,Mining,11,Mining,2017,10
+current_value_added,Mining,11,Mining,2018,4
+current_value_added,Mining,11,Mining,2019,6
+current_value_added,Mining,11,Mining,2020,2
+current_value_added,Mining,11,Mining,2021,2
+current_value_added,Mining,11,Mining,2022,2
+current_value_added,Mining,11,Mining,2023,2
+current_value_added,Oil and gas extraction,4,Power,2012,37
+current_value_added,Oil and gas extraction,4,Power,2013,29
+current_value_added,Oil and gas extraction,4,Power,2014,37
+current_value_added,Oil and gas extraction,4,Power,2015,32
+current_value_added,Oil and gas extraction,4,Power,2016,18
+current_value_added,Oil and gas extraction,4,Power,2017,6
+current_value_added,Oil and gas extraction,4,Power,2018,3
+current_value_added,Oil and gas extraction,4,Power,2019,4
+current_value_added,Oil and gas extraction,4,Power,2020,1
+current_value_added,Oil and gas extraction,4,Power,2021,2
+current_value_added,Oil and gas extraction,4,Power,2022,1
+current_value_added,Oil and gas extraction,4,Power,2023,1
+current_value_added,"Mining, except oil and gas",4,Power,2012,0
+current_value_added,"Mining, except oil and gas",4,Power,2013,0
+current_value_added,"Mining, except oil and gas",4,Power,2014,0
+current_value_added,"Mining, except oil and gas",4,Power,2015,1
+current_value_added,"Mining, except oil and gas",4,Power,2016,1
+current_value_added,"Mining, except oil and gas",4,Power,2017,1
+current_value_added,"Mining, except oil and gas",4,Power,2018,0
+current_value_added,"Mining, except oil and gas",4,Power,2019,0
+current_value_added,"Mining, except oil and gas",4,Power,2020,0
+current_value_added,"Mining, except oil and gas",4,Power,2021,0
+current_value_added,"Mining, except oil and gas",4,Power,2022,0
+current_value_added,"Mining, except oil and gas",4,Power,2023,0
+current_value_added,Support activities for mining,11,Mining,2012,13
+current_value_added,Support activities for mining,11,Mining,2013,10
+current_value_added,Support activities for mining,11,Mining,2014,13
+current_value_added,Support activities for mining,11,Mining,2015,12
+current_value_added,Support activities for mining,11,Mining,2016,7
+current_value_added,Support activities for mining,11,Mining,2017,3
+current_value_added,Support activities for mining,11,Mining,2018,1
+current_value_added,Support activities for mining,11,Mining,2019,2
+current_value_added,Support activities for mining,11,Mining,2020,1
+current_value_added,Support activities for mining,11,Mining,2021,1
+current_value_added,Support activities for mining,11,Mining,2022,1
+current_value_added,Support activities for mining,11,Mining,2023,1
+current_value_added,Utilities,4,Power,2012,1
+current_value_added,Utilities,4,Power,2013,1
+current_value_added,Utilities,4,Power,2014,1
+current_value_added,Utilities,4,Power,2015,2
+current_value_added,Utilities,4,Power,2016,2
+current_value_added,Utilities,4,Power,2017,2
+current_value_added,Utilities,4,Power,2018,2
+current_value_added,Utilities,4,Power,2019,1
+current_value_added,Utilities,4,Power,2020,1
+current_value_added,Utilities,4,Power,2021,2
+current_value_added,Utilities,4,Power,2022,2
+current_value_added,Utilities,4,Power,2023,1
+current_value_added,Construction,13,NA,2012,229
+current_value_added,Construction,13,NA,2013,212
+current_value_added,Construction,13,NA,2014,316
+current_value_added,Construction,13,NA,2015,383
+current_value_added,Construction,13,NA,2016,392
+current_value_added,Construction,13,NA,2017,585
+current_value_added,Construction,13,NA,2018,372
+current_value_added,Construction,13,NA,2019,1152
+current_value_added,Construction,13,NA,2020,992
+current_value_added,Construction,13,NA,2021,617
+current_value_added,Construction,13,NA,2022,842
+current_value_added,Construction,13,NA,2023,943
+current_value_added,Manufacturing,7,Textiles,2012,34461
+current_value_added,Manufacturing,7,Textiles,2013,36744
+current_value_added,Manufacturing,7,Textiles,2014,34351
+current_value_added,Manufacturing,7,Textiles,2015,33630
+current_value_added,Manufacturing,7,Textiles,2016,33706
+current_value_added,Manufacturing,7,Textiles,2017,32514
+current_value_added,Manufacturing,7,Textiles,2018,32100
+current_value_added,Manufacturing,7,Textiles,2019,34946
+current_value_added,Manufacturing,7,Textiles,2020,32618
+current_value_added,Manufacturing,7,Textiles,2021,34186
+current_value_added,Manufacturing,7,Textiles,2022,34427
+current_value_added,Manufacturing,7,Textiles,2023,35345
+current_value_added,Durable goods,13,NA,2012,34033
+current_value_added,Durable goods,13,NA,2013,36246
+current_value_added,Durable goods,13,NA,2014,33866
+current_value_added,Durable goods,13,NA,2015,33418
+current_value_added,Durable goods,13,NA,2016,33470
+current_value_added,Durable goods,13,NA,2017,32295
+current_value_added,Durable goods,13,NA,2018,31877
+current_value_added,Durable goods,13,NA,2019,34765
+current_value_added,Durable goods,13,NA,2020,32440
+current_value_added,Durable goods,13,NA,2021,33985
+current_value_added,Durable goods,13,NA,2022,34172
+current_value_added,Durable goods,13,NA,2023,35090
+current_value_added,Wood products,6,Lumber,2012,20
+current_value_added,Wood products,6,Lumber,2013,12
+current_value_added,Wood products,6,Lumber,2014,19
+current_value_added,Wood products,6,Lumber,2015,5
+current_value_added,Wood products,6,Lumber,2016,5
+current_value_added,Wood products,6,Lumber,2017,4
+current_value_added,Wood products,6,Lumber,2018,5
+current_value_added,Wood products,6,Lumber,2019,4
+current_value_added,Wood products,6,Lumber,2020,3
+current_value_added,Wood products,6,Lumber,2021,8
+current_value_added,Wood products,6,Lumber,2022,6
+current_value_added,Wood products,6,Lumber,2023,6
+current_value_added,Nonmetallic mineral products,11,Mining,2012,51
+current_value_added,Nonmetallic mineral products,11,Mining,2013,60
+current_value_added,Nonmetallic mineral products,11,Mining,2014,64
+current_value_added,Nonmetallic mineral products,11,Mining,2015,27
+current_value_added,Nonmetallic mineral products,11,Mining,2016,28
+current_value_added,Nonmetallic mineral products,11,Mining,2017,27
+current_value_added,Nonmetallic mineral products,11,Mining,2018,29
+current_value_added,Nonmetallic mineral products,11,Mining,2019,26
+current_value_added,Nonmetallic mineral products,11,Mining,2020,26
+current_value_added,Nonmetallic mineral products,11,Mining,2021,26
+current_value_added,Nonmetallic mineral products,11,Mining,2022,29
+current_value_added,Nonmetallic mineral products,11,Mining,2023,29
+current_value_added,Primary metals,11,Mining,2012,47
+current_value_added,Primary metals,11,Mining,2013,51
+current_value_added,Primary metals,11,Mining,2014,80
+current_value_added,Primary metals,11,Mining,2015,69
+current_value_added,Primary metals,11,Mining,2016,48
+current_value_added,Primary metals,11,Mining,2017,45
+current_value_added,Primary metals,11,Mining,2018,36
+current_value_added,Primary metals,11,Mining,2019,31
+current_value_added,Primary metals,11,Mining,2020,35
+current_value_added,Primary metals,11,Mining,2021,37
+current_value_added,Primary metals,11,Mining,2022,44
+current_value_added,Primary metals,11,Mining,2023,43
+current_value_added,Fabricated metal products,11,Mining,2012,243
+current_value_added,Fabricated metal products,11,Mining,2013,419
+current_value_added,Fabricated metal products,11,Mining,2014,314
+current_value_added,Fabricated metal products,11,Mining,2015,360
+current_value_added,Fabricated metal products,11,Mining,2016,314
+current_value_added,Fabricated metal products,11,Mining,2017,266
+current_value_added,Fabricated metal products,11,Mining,2018,188
+current_value_added,Fabricated metal products,11,Mining,2019,179
+current_value_added,Fabricated metal products,11,Mining,2020,182
+current_value_added,Fabricated metal products,11,Mining,2021,239
+current_value_added,Fabricated metal products,11,Mining,2022,261
+current_value_added,Fabricated metal products,11,Mining,2023,265
+current_value_added,Machinery,13,NA,2012,779
+current_value_added,Machinery,13,NA,2013,753
+current_value_added,Machinery,13,NA,2014,707
+current_value_added,Machinery,13,NA,2015,429
+current_value_added,Machinery,13,NA,2016,422
+current_value_added,Machinery,13,NA,2017,402
+current_value_added,Machinery,13,NA,2018,424
+current_value_added,Machinery,13,NA,2019,398
+current_value_added,Machinery,13,NA,2020,379
+current_value_added,Machinery,13,NA,2021,452
+current_value_added,Machinery,13,NA,2022,514
+current_value_added,Machinery,13,NA,2023,522
 current_value_added,Computer and electronic products2,3,Technology,2012,21899
 current_value_added,Computer and electronic products2,3,Technology,2013,22602
 current_value_added,Computer and electronic products2,3,Technology,2014,20089
@@ -191,366 +191,366 @@ current_value_added,Computer and electronic products2,3,Technology,2020,19152
 current_value_added,Computer and electronic products2,3,Technology,2021,20759
 current_value_added,Computer and electronic products2,3,Technology,2022,20685
 current_value_added,Computer and electronic products2,3,Technology,2023,20361
-current_value_added,"Electrical equipment, appliances, and components",5,Power,2012,635
-current_value_added,"Electrical equipment, appliances, and components",5,Power,2013,754
-current_value_added,"Electrical equipment, appliances, and components",5,Power,2014,757
-current_value_added,"Electrical equipment, appliances, and components",5,Power,2015,663
-current_value_added,"Electrical equipment, appliances, and components",5,Power,2016,701
-current_value_added,"Electrical equipment, appliances, and components",5,Power,2017,622
-current_value_added,"Electrical equipment, appliances, and components",5,Power,2018,654
-current_value_added,"Electrical equipment, appliances, and components",5,Power,2019,603
-current_value_added,"Electrical equipment, appliances, and components",5,Power,2020,522
-current_value_added,"Electrical equipment, appliances, and components",5,Power,2021,527
-current_value_added,"Electrical equipment, appliances, and components",5,Power,2022,603
-current_value_added,"Electrical equipment, appliances, and components",5,Power,2023,628
-current_value_added,"Motor vehicles, bodies and trailers, and parts",13,Underground,2012,2
-current_value_added,"Motor vehicles, bodies and trailers, and parts",13,Underground,2013,2
-current_value_added,"Motor vehicles, bodies and trailers, and parts",13,Underground,2014,2
-current_value_added,"Motor vehicles, bodies and trailers, and parts",13,Underground,2015,2
-current_value_added,"Motor vehicles, bodies and trailers, and parts",13,Underground,2016,2
-current_value_added,"Motor vehicles, bodies and trailers, and parts",13,Underground,2017,2
-current_value_added,"Motor vehicles, bodies and trailers, and parts",13,Underground,2018,1
-current_value_added,"Motor vehicles, bodies and trailers, and parts",13,Underground,2019,1
-current_value_added,"Motor vehicles, bodies and trailers, and parts",13,Underground,2020,1
-current_value_added,"Motor vehicles, bodies and trailers, and parts",13,Underground,2021,1
-current_value_added,"Motor vehicles, bodies and trailers, and parts",13,Underground,2022,2
-current_value_added,"Motor vehicles, bodies and trailers, and parts",13,Underground,2023,1
-current_value_added,Other transportation equipment3,6,Transportation,2012,9798
-current_value_added,Other transportation equipment3,6,Transportation,2013,10838
-current_value_added,Other transportation equipment3,6,Transportation,2014,11135
-current_value_added,Other transportation equipment3,6,Transportation,2015,11641
-current_value_added,Other transportation equipment3,6,Transportation,2016,9720
-current_value_added,Other transportation equipment3,6,Transportation,2017,8848
-current_value_added,Other transportation equipment3,6,Transportation,2018,9366
-current_value_added,Other transportation equipment3,6,Transportation,2019,12704
-current_value_added,Other transportation equipment3,6,Transportation,2020,11802
-current_value_added,Other transportation equipment3,6,Transportation,2021,11523
-current_value_added,Other transportation equipment3,6,Transportation,2022,11498
-current_value_added,Other transportation equipment3,6,Transportation,2023,12699
-current_value_added,Furniture and related products,13,Underground,2012,16
-current_value_added,Furniture and related products,13,Underground,2013,21
-current_value_added,Furniture and related products,13,Underground,2014,20
-current_value_added,Furniture and related products,13,Underground,2015,11
-current_value_added,Furniture and related products,13,Underground,2016,9
-current_value_added,Furniture and related products,13,Underground,2017,10
-current_value_added,Furniture and related products,13,Underground,2018,9
-current_value_added,Furniture and related products,13,Underground,2019,8
-current_value_added,Furniture and related products,13,Underground,2020,9
-current_value_added,Furniture and related products,13,Underground,2021,8
-current_value_added,Furniture and related products,13,Underground,2022,9
-current_value_added,Furniture and related products,13,Underground,2023,9
-current_value_added,Miscellaneous manufacturing,8,Textiles,2012,543
-current_value_added,Miscellaneous manufacturing,8,Textiles,2013,734
-current_value_added,Miscellaneous manufacturing,8,Textiles,2014,679
-current_value_added,Miscellaneous manufacturing,8,Textiles,2015,342
-current_value_added,Miscellaneous manufacturing,8,Textiles,2016,350
-current_value_added,Miscellaneous manufacturing,8,Textiles,2017,363
-current_value_added,Miscellaneous manufacturing,8,Textiles,2018,391
-current_value_added,Miscellaneous manufacturing,8,Textiles,2019,359
-current_value_added,Miscellaneous manufacturing,8,Textiles,2020,328
-current_value_added,Miscellaneous manufacturing,8,Textiles,2021,406
-current_value_added,Miscellaneous manufacturing,8,Textiles,2022,521
-current_value_added,Miscellaneous manufacturing,8,Textiles,2023,525
-current_value_added,Nondurable goods,13,Underground,2012,427
-current_value_added,Nondurable goods,13,Underground,2013,498
-current_value_added,Nondurable goods,13,Underground,2014,485
-current_value_added,Nondurable goods,13,Underground,2015,211
-current_value_added,Nondurable goods,13,Underground,2016,236
-current_value_added,Nondurable goods,13,Underground,2017,218
-current_value_added,Nondurable goods,13,Underground,2018,223
-current_value_added,Nondurable goods,13,Underground,2019,181
-current_value_added,Nondurable goods,13,Underground,2020,178
-current_value_added,Nondurable goods,13,Underground,2021,200
-current_value_added,Nondurable goods,13,Underground,2022,255
-current_value_added,Nondurable goods,13,Underground,2023,256
-current_value_added,Food and beverage and tobacco products,9,Grain,2012,211
-current_value_added,Food and beverage and tobacco products,9,Grain,2013,291
-current_value_added,Food and beverage and tobacco products,9,Grain,2014,298
-current_value_added,Food and beverage and tobacco products,9,Grain,2015,131
-current_value_added,Food and beverage and tobacco products,9,Grain,2016,131
-current_value_added,Food and beverage and tobacco products,9,Grain,2017,118
-current_value_added,Food and beverage and tobacco products,9,Grain,2018,120
-current_value_added,Food and beverage and tobacco products,9,Grain,2019,91
-current_value_added,Food and beverage and tobacco products,9,Grain,2020,101
-current_value_added,Food and beverage and tobacco products,9,Grain,2021,113
-current_value_added,Food and beverage and tobacco products,9,Grain,2022,153
-current_value_added,Food and beverage and tobacco products,9,Grain,2023,154
-current_value_added,Textile mills and textile product mills,8,Textiles,2012,8
-current_value_added,Textile mills and textile product mills,8,Textiles,2013,12
-current_value_added,Textile mills and textile product mills,8,Textiles,2014,11
-current_value_added,Textile mills and textile product mills,8,Textiles,2015,6
-current_value_added,Textile mills and textile product mills,8,Textiles,2016,9
-current_value_added,Textile mills and textile product mills,8,Textiles,2017,7
-current_value_added,Textile mills and textile product mills,8,Textiles,2018,8
-current_value_added,Textile mills and textile product mills,8,Textiles,2019,6
-current_value_added,Textile mills and textile product mills,8,Textiles,2020,5
-current_value_added,Textile mills and textile product mills,8,Textiles,2021,5
-current_value_added,Textile mills and textile product mills,8,Textiles,2022,7
-current_value_added,Textile mills and textile product mills,8,Textiles,2023,7
-current_value_added,Apparel and leather and allied products,8,Textiles,2012,2
-current_value_added,Apparel and leather and allied products,8,Textiles,2013,6
-current_value_added,Apparel and leather and allied products,8,Textiles,2014,6
-current_value_added,Apparel and leather and allied products,8,Textiles,2015,3
-current_value_added,Apparel and leather and allied products,8,Textiles,2016,5
-current_value_added,Apparel and leather and allied products,8,Textiles,2017,4
-current_value_added,Apparel and leather and allied products,8,Textiles,2018,4
-current_value_added,Apparel and leather and allied products,8,Textiles,2019,3
-current_value_added,Apparel and leather and allied products,8,Textiles,2020,3
-current_value_added,Apparel and leather and allied products,8,Textiles,2021,3
-current_value_added,Apparel and leather and allied products,8,Textiles,2022,4
-current_value_added,Apparel and leather and allied products,8,Textiles,2023,4
-current_value_added,Paper products,7,Lumber,2012,9
-current_value_added,Paper products,7,Lumber,2013,34
-current_value_added,Paper products,7,Lumber,2014,27
-current_value_added,Paper products,7,Lumber,2015,14
-current_value_added,Paper products,7,Lumber,2016,17
-current_value_added,Paper products,7,Lumber,2017,24
-current_value_added,Paper products,7,Lumber,2018,18
-current_value_added,Paper products,7,Lumber,2019,17
-current_value_added,Paper products,7,Lumber,2020,13
-current_value_added,Paper products,7,Lumber,2021,18
-current_value_added,Paper products,7,Lumber,2022,19
-current_value_added,Paper products,7,Lumber,2023,19
-current_value_added,Printing and related support activities,13,Underground,2012,3
-current_value_added,Printing and related support activities,13,Underground,2013,2
-current_value_added,Printing and related support activities,13,Underground,2014,2
-current_value_added,Printing and related support activities,13,Underground,2015,1
-current_value_added,Printing and related support activities,13,Underground,2016,1
-current_value_added,Printing and related support activities,13,Underground,2017,1
-current_value_added,Printing and related support activities,13,Underground,2018,1
-current_value_added,Printing and related support activities,13,Underground,2019,1
-current_value_added,Printing and related support activities,13,Underground,2020,1
-current_value_added,Printing and related support activities,13,Underground,2021,1
-current_value_added,Printing and related support activities,13,Underground,2022,1
-current_value_added,Printing and related support activities,13,Underground,2023,1
-current_value_added,Petroleum and coal products,12,Mining,2012,43
-current_value_added,Petroleum and coal products,12,Mining,2013,13
-current_value_added,Petroleum and coal products,12,Mining,2014,12
-current_value_added,Petroleum and coal products,12,Mining,2015,5
-current_value_added,Petroleum and coal products,12,Mining,2016,9
-current_value_added,Petroleum and coal products,12,Mining,2017,7
-current_value_added,Petroleum and coal products,12,Mining,2018,29
-current_value_added,Petroleum and coal products,12,Mining,2019,23
-current_value_added,Petroleum and coal products,12,Mining,2020,21
-current_value_added,Petroleum and coal products,12,Mining,2021,18
-current_value_added,Petroleum and coal products,12,Mining,2022,19
-current_value_added,Petroleum and coal products,12,Mining,2023,19
-current_value_added,Chemical products,8,Textiles,2012,50
-current_value_added,Chemical products,8,Textiles,2013,13
-current_value_added,Chemical products,8,Textiles,2014,12
-current_value_added,Chemical products,8,Textiles,2015,11
-current_value_added,Chemical products,8,Textiles,2016,7
-current_value_added,Chemical products,8,Textiles,2017,6
-current_value_added,Chemical products,8,Textiles,2018,5
-current_value_added,Chemical products,8,Textiles,2019,5
-current_value_added,Chemical products,8,Textiles,2020,5
-current_value_added,Chemical products,8,Textiles,2021,5
-current_value_added,Chemical products,8,Textiles,2022,6
-current_value_added,Chemical products,8,Textiles,2023,5
-current_value_added,Plastics and rubber products,8,Textiles,2012,102
-current_value_added,Plastics and rubber products,8,Textiles,2013,126
-current_value_added,Plastics and rubber products,8,Textiles,2014,117
-current_value_added,Plastics and rubber products,8,Textiles,2015,39
-current_value_added,Plastics and rubber products,8,Textiles,2016,57
-current_value_added,Plastics and rubber products,8,Textiles,2017,52
-current_value_added,Plastics and rubber products,8,Textiles,2018,39
-current_value_added,Plastics and rubber products,8,Textiles,2019,34
-current_value_added,Plastics and rubber products,8,Textiles,2020,29
-current_value_added,Plastics and rubber products,8,Textiles,2021,36
-current_value_added,Plastics and rubber products,8,Textiles,2022,46
-current_value_added,Plastics and rubber products,8,Textiles,2023,46
-current_value_added,Wholesale trade,13,Underground,2012,16804
-current_value_added,Wholesale trade,13,Underground,2013,17443
-current_value_added,Wholesale trade,13,Underground,2014,17997
-current_value_added,Wholesale trade,13,Underground,2015,20548
-current_value_added,Wholesale trade,13,Underground,2016,21122
-current_value_added,Wholesale trade,13,Underground,2017,21736
-current_value_added,Wholesale trade,13,Underground,2018,22086
-current_value_added,Wholesale trade,13,Underground,2019,21546
-current_value_added,Wholesale trade,13,Underground,2020,23218
-current_value_added,Wholesale trade,13,Underground,2021,22996
-current_value_added,Wholesale trade,13,Underground,2022,26000
-current_value_added,Wholesale trade,13,Underground,2023,27134
-current_value_added,Retail trade,13,Underground,2012,190
-current_value_added,Retail trade,13,Underground,2013,244
-current_value_added,Retail trade,13,Underground,2014,256
-current_value_added,Retail trade,13,Underground,2015,321
-current_value_added,Retail trade,13,Underground,2016,437
-current_value_added,Retail trade,13,Underground,2017,379
-current_value_added,Retail trade,13,Underground,2018,438
-current_value_added,Retail trade,13,Underground,2019,591
-current_value_added,Retail trade,13,Underground,2020,387
-current_value_added,Retail trade,13,Underground,2021,587
-current_value_added,Retail trade,13,Underground,2022,565
-current_value_added,Retail trade,13,Underground,2023,637
-current_value_added,Motor vehicle and parts dealers,13,Underground,2012,1
-current_value_added,Motor vehicle and parts dealers,13,Underground,2013,1
-current_value_added,Motor vehicle and parts dealers,13,Underground,2014,1
-current_value_added,Motor vehicle and parts dealers,13,Underground,2015,1
-current_value_added,Motor vehicle and parts dealers,13,Underground,2016,1
-current_value_added,Motor vehicle and parts dealers,13,Underground,2017,0
-current_value_added,Motor vehicle and parts dealers,13,Underground,2018,0
-current_value_added,Motor vehicle and parts dealers,13,Underground,2019,0
-current_value_added,Motor vehicle and parts dealers,13,Underground,2020,1
-current_value_added,Motor vehicle and parts dealers,13,Underground,2021,1
-current_value_added,Motor vehicle and parts dealers,13,Underground,2022,1
-current_value_added,Motor vehicle and parts dealers,13,Underground,2023,1
-current_value_added,Food and beverage stores,9,Grain,2012,1
-current_value_added,Food and beverage stores,9,Grain,2013,1
-current_value_added,Food and beverage stores,9,Grain,2014,1
-current_value_added,Food and beverage stores,9,Grain,2015,1
-current_value_added,Food and beverage stores,9,Grain,2016,1
-current_value_added,Food and beverage stores,9,Grain,2017,1
-current_value_added,Food and beverage stores,9,Grain,2018,1
-current_value_added,Food and beverage stores,9,Grain,2019,1
-current_value_added,Food and beverage stores,9,Grain,2020,1
-current_value_added,Food and beverage stores,9,Grain,2021,1
-current_value_added,Food and beverage stores,9,Grain,2022,1
-current_value_added,Food and beverage stores,9,Grain,2023,1
-current_value_added,General merchandise stores,13,Underground,2012,24
-current_value_added,General merchandise stores,13,Underground,2013,28
-current_value_added,General merchandise stores,13,Underground,2014,30
-current_value_added,General merchandise stores,13,Underground,2015,34
-current_value_added,General merchandise stores,13,Underground,2016,48
-current_value_added,General merchandise stores,13,Underground,2017,42
-current_value_added,General merchandise stores,13,Underground,2018,49
-current_value_added,General merchandise stores,13,Underground,2019,70
-current_value_added,General merchandise stores,13,Underground,2020,51
-current_value_added,General merchandise stores,13,Underground,2021,68
-current_value_added,General merchandise stores,13,Underground,2022,73
-current_value_added,General merchandise stores,13,Underground,2023,82
-current_value_added,Other retail,13,Underground,2012,165
-current_value_added,Other retail,13,Underground,2013,214
-current_value_added,Other retail,13,Underground,2014,225
-current_value_added,Other retail,13,Underground,2015,286
-current_value_added,Other retail,13,Underground,2016,387
-current_value_added,Other retail,13,Underground,2017,335
-current_value_added,Other retail,13,Underground,2018,387
-current_value_added,Other retail,13,Underground,2019,519
-current_value_added,Other retail,13,Underground,2020,335
-current_value_added,Other retail,13,Underground,2021,517
-current_value_added,Other retail,13,Underground,2022,490
-current_value_added,Other retail,13,Underground,2023,553
-current_value_added,Transportation and warehousing,6,Transportation,2012,833
-current_value_added,Transportation and warehousing,6,Transportation,2013,751
-current_value_added,Transportation and warehousing,6,Transportation,2014,686
-current_value_added,Transportation and warehousing,6,Transportation,2015,708
-current_value_added,Transportation and warehousing,6,Transportation,2016,754
-current_value_added,Transportation and warehousing,6,Transportation,2017,729
-current_value_added,Transportation and warehousing,6,Transportation,2018,883
-current_value_added,Transportation and warehousing,6,Transportation,2019,746
-current_value_added,Transportation and warehousing,6,Transportation,2020,681
-current_value_added,Transportation and warehousing,6,Transportation,2021,694
-current_value_added,Transportation and warehousing,6,Transportation,2022,1239
-current_value_added,Transportation and warehousing,6,Transportation,2023,1280
-current_value_added,Air transportation,6,Transportation,2012,457
-current_value_added,Air transportation,6,Transportation,2013,377
-current_value_added,Air transportation,6,Transportation,2014,301
-current_value_added,Air transportation,6,Transportation,2015,341
-current_value_added,Air transportation,6,Transportation,2016,358
-current_value_added,Air transportation,6,Transportation,2017,291
-current_value_added,Air transportation,6,Transportation,2018,412
-current_value_added,Air transportation,6,Transportation,2019,263
-current_value_added,Air transportation,6,Transportation,2020,191
-current_value_added,Air transportation,6,Transportation,2021,161
-current_value_added,Air transportation,6,Transportation,2022,564
-current_value_added,Air transportation,6,Transportation,2023,669
-current_value_added,Rail transportation,6,Transportation,2012,2
-current_value_added,Rail transportation,6,Transportation,2013,1
-current_value_added,Rail transportation,6,Transportation,2014,1
-current_value_added,Rail transportation,6,Transportation,2015,1
-current_value_added,Rail transportation,6,Transportation,2016,2
-current_value_added,Rail transportation,6,Transportation,2017,3
-current_value_added,Rail transportation,6,Transportation,2018,3
-current_value_added,Rail transportation,6,Transportation,2019,3
-current_value_added,Rail transportation,6,Transportation,2020,3
-current_value_added,Rail transportation,6,Transportation,2021,4
-current_value_added,Rail transportation,6,Transportation,2022,5
-current_value_added,Rail transportation,6,Transportation,2023,3
-current_value_added,Water transportation,4,Maritime,2012,0
-current_value_added,Water transportation,4,Maritime,2013,1
-current_value_added,Water transportation,4,Maritime,2014,1
-current_value_added,Water transportation,4,Maritime,2015,1
-current_value_added,Water transportation,4,Maritime,2016,1
-current_value_added,Water transportation,4,Maritime,2017,0
-current_value_added,Water transportation,4,Maritime,2018,1
-current_value_added,Water transportation,4,Maritime,2019,1
-current_value_added,Water transportation,4,Maritime,2020,1
-current_value_added,Water transportation,4,Maritime,2021,1
-current_value_added,Water transportation,4,Maritime,2022,0
-current_value_added,Water transportation,4,Maritime,2023,0
-current_value_added,Truck transportation,6,Transportation,2012,348
-current_value_added,Truck transportation,6,Transportation,2013,356
-current_value_added,Truck transportation,6,Transportation,2014,372
-current_value_added,Truck transportation,6,Transportation,2015,355
-current_value_added,Truck transportation,6,Transportation,2016,368
-current_value_added,Truck transportation,6,Transportation,2017,416
-current_value_added,Truck transportation,6,Transportation,2018,451
-current_value_added,Truck transportation,6,Transportation,2019,436
-current_value_added,Truck transportation,6,Transportation,2020,452
-current_value_added,Truck transportation,6,Transportation,2021,503
-current_value_added,Truck transportation,6,Transportation,2022,641
-current_value_added,Truck transportation,6,Transportation,2023,577
-current_value_added,Transit and ground passenger transportation,6,Transportation,2012,0
-current_value_added,Transit and ground passenger transportation,6,Transportation,2013,0
-current_value_added,Transit and ground passenger transportation,6,Transportation,2014,0
-current_value_added,Transit and ground passenger transportation,6,Transportation,2015,0
-current_value_added,Transit and ground passenger transportation,6,Transportation,2016,0
-current_value_added,Transit and ground passenger transportation,6,Transportation,2017,0
-current_value_added,Transit and ground passenger transportation,6,Transportation,2018,0
-current_value_added,Transit and ground passenger transportation,6,Transportation,2019,1
-current_value_added,Transit and ground passenger transportation,6,Transportation,2020,0
-current_value_added,Transit and ground passenger transportation,6,Transportation,2021,0
-current_value_added,Transit and ground passenger transportation,6,Transportation,2022,0
-current_value_added,Transit and ground passenger transportation,6,Transportation,2023,1
-current_value_added,Pipeline transportation,6,Transportation,2012,0
-current_value_added,Pipeline transportation,6,Transportation,2013,0
-current_value_added,Pipeline transportation,6,Transportation,2014,0
-current_value_added,Pipeline transportation,6,Transportation,2015,0
-current_value_added,Pipeline transportation,6,Transportation,2016,1
-current_value_added,Pipeline transportation,6,Transportation,2017,2
-current_value_added,Pipeline transportation,6,Transportation,2018,2
-current_value_added,Pipeline transportation,6,Transportation,2019,2
-current_value_added,Pipeline transportation,6,Transportation,2020,1
-current_value_added,Pipeline transportation,6,Transportation,2021,1
-current_value_added,Pipeline transportation,6,Transportation,2022,1
-current_value_added,Pipeline transportation,6,Transportation,2023,1
-current_value_added,Other transportation and support activities,6,Transportation,2012,21
-current_value_added,Other transportation and support activities,6,Transportation,2013,13
-current_value_added,Other transportation and support activities,6,Transportation,2014,8
-current_value_added,Other transportation and support activities,6,Transportation,2015,7
-current_value_added,Other transportation and support activities,6,Transportation,2016,20
-current_value_added,Other transportation and support activities,6,Transportation,2017,13
-current_value_added,Other transportation and support activities,6,Transportation,2018,12
-current_value_added,Other transportation and support activities,6,Transportation,2019,36
-current_value_added,Other transportation and support activities,6,Transportation,2020,31
-current_value_added,Other transportation and support activities,6,Transportation,2021,20
-current_value_added,Other transportation and support activities,6,Transportation,2022,23
-current_value_added,Other transportation and support activities,6,Transportation,2023,26
-current_value_added,Warehousing and storage,6,Transportation,2012,4
-current_value_added,Warehousing and storage,6,Transportation,2013,3
-current_value_added,Warehousing and storage,6,Transportation,2014,3
-current_value_added,Warehousing and storage,6,Transportation,2015,2
-current_value_added,Warehousing and storage,6,Transportation,2016,3
-current_value_added,Warehousing and storage,6,Transportation,2017,4
-current_value_added,Warehousing and storage,6,Transportation,2018,4
-current_value_added,Warehousing and storage,6,Transportation,2019,4
-current_value_added,Warehousing and storage,6,Transportation,2020,3
-current_value_added,Warehousing and storage,6,Transportation,2021,3
-current_value_added,Warehousing and storage,6,Transportation,2022,4
-current_value_added,Warehousing and storage,6,Transportation,2023,4
-current_value_added,Information,13,Underground,2012,29778
-current_value_added,Information,13,Underground,2013,33865
-current_value_added,Information,13,Underground,2014,33128
-current_value_added,Information,13,Underground,2015,35700
-current_value_added,Information,13,Underground,2016,34120
-current_value_added,Information,13,Underground,2017,33759
-current_value_added,Information,13,Underground,2018,31603
-current_value_added,Information,13,Underground,2019,32257
-current_value_added,Information,13,Underground,2020,29746
-current_value_added,Information,13,Underground,2021,27937
-current_value_added,Information,13,Underground,2022,26849
-current_value_added,Information,13,Underground,2023,27669
+current_value_added,"Electrical equipment, appliances, and components",4,Power,2012,635
+current_value_added,"Electrical equipment, appliances, and components",4,Power,2013,754
+current_value_added,"Electrical equipment, appliances, and components",4,Power,2014,757
+current_value_added,"Electrical equipment, appliances, and components",4,Power,2015,663
+current_value_added,"Electrical equipment, appliances, and components",4,Power,2016,701
+current_value_added,"Electrical equipment, appliances, and components",4,Power,2017,622
+current_value_added,"Electrical equipment, appliances, and components",4,Power,2018,654
+current_value_added,"Electrical equipment, appliances, and components",4,Power,2019,603
+current_value_added,"Electrical equipment, appliances, and components",4,Power,2020,522
+current_value_added,"Electrical equipment, appliances, and components",4,Power,2021,527
+current_value_added,"Electrical equipment, appliances, and components",4,Power,2022,603
+current_value_added,"Electrical equipment, appliances, and components",4,Power,2023,628
+current_value_added,"Motor vehicles, bodies and trailers, and parts",13,NA,2012,2
+current_value_added,"Motor vehicles, bodies and trailers, and parts",13,NA,2013,2
+current_value_added,"Motor vehicles, bodies and trailers, and parts",13,NA,2014,2
+current_value_added,"Motor vehicles, bodies and trailers, and parts",13,NA,2015,2
+current_value_added,"Motor vehicles, bodies and trailers, and parts",13,NA,2016,2
+current_value_added,"Motor vehicles, bodies and trailers, and parts",13,NA,2017,2
+current_value_added,"Motor vehicles, bodies and trailers, and parts",13,NA,2018,1
+current_value_added,"Motor vehicles, bodies and trailers, and parts",13,NA,2019,1
+current_value_added,"Motor vehicles, bodies and trailers, and parts",13,NA,2020,1
+current_value_added,"Motor vehicles, bodies and trailers, and parts",13,NA,2021,1
+current_value_added,"Motor vehicles, bodies and trailers, and parts",13,NA,2022,2
+current_value_added,"Motor vehicles, bodies and trailers, and parts",13,NA,2023,1
+current_value_added,Other transportation equipment3,5,Transportation,2012,9798
+current_value_added,Other transportation equipment3,5,Transportation,2013,10838
+current_value_added,Other transportation equipment3,5,Transportation,2014,11135
+current_value_added,Other transportation equipment3,5,Transportation,2015,11641
+current_value_added,Other transportation equipment3,5,Transportation,2016,9720
+current_value_added,Other transportation equipment3,5,Transportation,2017,8848
+current_value_added,Other transportation equipment3,5,Transportation,2018,9366
+current_value_added,Other transportation equipment3,5,Transportation,2019,12704
+current_value_added,Other transportation equipment3,5,Transportation,2020,11802
+current_value_added,Other transportation equipment3,5,Transportation,2021,11523
+current_value_added,Other transportation equipment3,5,Transportation,2022,11498
+current_value_added,Other transportation equipment3,5,Transportation,2023,12699
+current_value_added,Furniture and related products,13,NA,2012,16
+current_value_added,Furniture and related products,13,NA,2013,21
+current_value_added,Furniture and related products,13,NA,2014,20
+current_value_added,Furniture and related products,13,NA,2015,11
+current_value_added,Furniture and related products,13,NA,2016,9
+current_value_added,Furniture and related products,13,NA,2017,10
+current_value_added,Furniture and related products,13,NA,2018,9
+current_value_added,Furniture and related products,13,NA,2019,8
+current_value_added,Furniture and related products,13,NA,2020,9
+current_value_added,Furniture and related products,13,NA,2021,8
+current_value_added,Furniture and related products,13,NA,2022,9
+current_value_added,Furniture and related products,13,NA,2023,9
+current_value_added,Miscellaneous manufacturing,7,Textiles,2012,543
+current_value_added,Miscellaneous manufacturing,7,Textiles,2013,734
+current_value_added,Miscellaneous manufacturing,7,Textiles,2014,679
+current_value_added,Miscellaneous manufacturing,7,Textiles,2015,342
+current_value_added,Miscellaneous manufacturing,7,Textiles,2016,350
+current_value_added,Miscellaneous manufacturing,7,Textiles,2017,363
+current_value_added,Miscellaneous manufacturing,7,Textiles,2018,391
+current_value_added,Miscellaneous manufacturing,7,Textiles,2019,359
+current_value_added,Miscellaneous manufacturing,7,Textiles,2020,328
+current_value_added,Miscellaneous manufacturing,7,Textiles,2021,406
+current_value_added,Miscellaneous manufacturing,7,Textiles,2022,521
+current_value_added,Miscellaneous manufacturing,7,Textiles,2023,525
+current_value_added,Nondurable goods,13,NA,2012,427
+current_value_added,Nondurable goods,13,NA,2013,498
+current_value_added,Nondurable goods,13,NA,2014,485
+current_value_added,Nondurable goods,13,NA,2015,211
+current_value_added,Nondurable goods,13,NA,2016,236
+current_value_added,Nondurable goods,13,NA,2017,218
+current_value_added,Nondurable goods,13,NA,2018,223
+current_value_added,Nondurable goods,13,NA,2019,181
+current_value_added,Nondurable goods,13,NA,2020,178
+current_value_added,Nondurable goods,13,NA,2021,200
+current_value_added,Nondurable goods,13,NA,2022,255
+current_value_added,Nondurable goods,13,NA,2023,256
+current_value_added,Food and beverage and tobacco products,8,Grain,2012,211
+current_value_added,Food and beverage and tobacco products,8,Grain,2013,291
+current_value_added,Food and beverage and tobacco products,8,Grain,2014,298
+current_value_added,Food and beverage and tobacco products,8,Grain,2015,131
+current_value_added,Food and beverage and tobacco products,8,Grain,2016,131
+current_value_added,Food and beverage and tobacco products,8,Grain,2017,118
+current_value_added,Food and beverage and tobacco products,8,Grain,2018,120
+current_value_added,Food and beverage and tobacco products,8,Grain,2019,91
+current_value_added,Food and beverage and tobacco products,8,Grain,2020,101
+current_value_added,Food and beverage and tobacco products,8,Grain,2021,113
+current_value_added,Food and beverage and tobacco products,8,Grain,2022,153
+current_value_added,Food and beverage and tobacco products,8,Grain,2023,154
+current_value_added,Textile mills and textile product mills,7,Textiles,2012,8
+current_value_added,Textile mills and textile product mills,7,Textiles,2013,12
+current_value_added,Textile mills and textile product mills,7,Textiles,2014,11
+current_value_added,Textile mills and textile product mills,7,Textiles,2015,6
+current_value_added,Textile mills and textile product mills,7,Textiles,2016,9
+current_value_added,Textile mills and textile product mills,7,Textiles,2017,7
+current_value_added,Textile mills and textile product mills,7,Textiles,2018,8
+current_value_added,Textile mills and textile product mills,7,Textiles,2019,6
+current_value_added,Textile mills and textile product mills,7,Textiles,2020,5
+current_value_added,Textile mills and textile product mills,7,Textiles,2021,5
+current_value_added,Textile mills and textile product mills,7,Textiles,2022,7
+current_value_added,Textile mills and textile product mills,7,Textiles,2023,7
+current_value_added,Apparel and leather and allied products,7,Textiles,2012,2
+current_value_added,Apparel and leather and allied products,7,Textiles,2013,6
+current_value_added,Apparel and leather and allied products,7,Textiles,2014,6
+current_value_added,Apparel and leather and allied products,7,Textiles,2015,3
+current_value_added,Apparel and leather and allied products,7,Textiles,2016,5
+current_value_added,Apparel and leather and allied products,7,Textiles,2017,4
+current_value_added,Apparel and leather and allied products,7,Textiles,2018,4
+current_value_added,Apparel and leather and allied products,7,Textiles,2019,3
+current_value_added,Apparel and leather and allied products,7,Textiles,2020,3
+current_value_added,Apparel and leather and allied products,7,Textiles,2021,3
+current_value_added,Apparel and leather and allied products,7,Textiles,2022,4
+current_value_added,Apparel and leather and allied products,7,Textiles,2023,4
+current_value_added,Paper products,6,Lumber,2012,9
+current_value_added,Paper products,6,Lumber,2013,34
+current_value_added,Paper products,6,Lumber,2014,27
+current_value_added,Paper products,6,Lumber,2015,14
+current_value_added,Paper products,6,Lumber,2016,17
+current_value_added,Paper products,6,Lumber,2017,24
+current_value_added,Paper products,6,Lumber,2018,18
+current_value_added,Paper products,6,Lumber,2019,17
+current_value_added,Paper products,6,Lumber,2020,13
+current_value_added,Paper products,6,Lumber,2021,18
+current_value_added,Paper products,6,Lumber,2022,19
+current_value_added,Paper products,6,Lumber,2023,19
+current_value_added,Printing and related support activities,13,NA,2012,3
+current_value_added,Printing and related support activities,13,NA,2013,2
+current_value_added,Printing and related support activities,13,NA,2014,2
+current_value_added,Printing and related support activities,13,NA,2015,1
+current_value_added,Printing and related support activities,13,NA,2016,1
+current_value_added,Printing and related support activities,13,NA,2017,1
+current_value_added,Printing and related support activities,13,NA,2018,1
+current_value_added,Printing and related support activities,13,NA,2019,1
+current_value_added,Printing and related support activities,13,NA,2020,1
+current_value_added,Printing and related support activities,13,NA,2021,1
+current_value_added,Printing and related support activities,13,NA,2022,1
+current_value_added,Printing and related support activities,13,NA,2023,1
+current_value_added,Petroleum and coal products,11,Mining,2012,43
+current_value_added,Petroleum and coal products,11,Mining,2013,13
+current_value_added,Petroleum and coal products,11,Mining,2014,12
+current_value_added,Petroleum and coal products,11,Mining,2015,5
+current_value_added,Petroleum and coal products,11,Mining,2016,9
+current_value_added,Petroleum and coal products,11,Mining,2017,7
+current_value_added,Petroleum and coal products,11,Mining,2018,29
+current_value_added,Petroleum and coal products,11,Mining,2019,23
+current_value_added,Petroleum and coal products,11,Mining,2020,21
+current_value_added,Petroleum and coal products,11,Mining,2021,18
+current_value_added,Petroleum and coal products,11,Mining,2022,19
+current_value_added,Petroleum and coal products,11,Mining,2023,19
+current_value_added,Chemical products,7,Textiles,2012,50
+current_value_added,Chemical products,7,Textiles,2013,13
+current_value_added,Chemical products,7,Textiles,2014,12
+current_value_added,Chemical products,7,Textiles,2015,11
+current_value_added,Chemical products,7,Textiles,2016,7
+current_value_added,Chemical products,7,Textiles,2017,6
+current_value_added,Chemical products,7,Textiles,2018,5
+current_value_added,Chemical products,7,Textiles,2019,5
+current_value_added,Chemical products,7,Textiles,2020,5
+current_value_added,Chemical products,7,Textiles,2021,5
+current_value_added,Chemical products,7,Textiles,2022,6
+current_value_added,Chemical products,7,Textiles,2023,5
+current_value_added,Plastics and rubber products,7,Textiles,2012,102
+current_value_added,Plastics and rubber products,7,Textiles,2013,126
+current_value_added,Plastics and rubber products,7,Textiles,2014,117
+current_value_added,Plastics and rubber products,7,Textiles,2015,39
+current_value_added,Plastics and rubber products,7,Textiles,2016,57
+current_value_added,Plastics and rubber products,7,Textiles,2017,52
+current_value_added,Plastics and rubber products,7,Textiles,2018,39
+current_value_added,Plastics and rubber products,7,Textiles,2019,34
+current_value_added,Plastics and rubber products,7,Textiles,2020,29
+current_value_added,Plastics and rubber products,7,Textiles,2021,36
+current_value_added,Plastics and rubber products,7,Textiles,2022,46
+current_value_added,Plastics and rubber products,7,Textiles,2023,46
+current_value_added,Wholesale trade,13,NA,2012,16804
+current_value_added,Wholesale trade,13,NA,2013,17443
+current_value_added,Wholesale trade,13,NA,2014,17997
+current_value_added,Wholesale trade,13,NA,2015,20548
+current_value_added,Wholesale trade,13,NA,2016,21122
+current_value_added,Wholesale trade,13,NA,2017,21736
+current_value_added,Wholesale trade,13,NA,2018,22086
+current_value_added,Wholesale trade,13,NA,2019,21546
+current_value_added,Wholesale trade,13,NA,2020,23218
+current_value_added,Wholesale trade,13,NA,2021,22996
+current_value_added,Wholesale trade,13,NA,2022,26000
+current_value_added,Wholesale trade,13,NA,2023,27134
+current_value_added,Retail trade,13,NA,2012,190
+current_value_added,Retail trade,13,NA,2013,244
+current_value_added,Retail trade,13,NA,2014,256
+current_value_added,Retail trade,13,NA,2015,321
+current_value_added,Retail trade,13,NA,2016,437
+current_value_added,Retail trade,13,NA,2017,379
+current_value_added,Retail trade,13,NA,2018,438
+current_value_added,Retail trade,13,NA,2019,591
+current_value_added,Retail trade,13,NA,2020,387
+current_value_added,Retail trade,13,NA,2021,587
+current_value_added,Retail trade,13,NA,2022,565
+current_value_added,Retail trade,13,NA,2023,637
+current_value_added,Motor vehicle and parts dealers,13,NA,2012,1
+current_value_added,Motor vehicle and parts dealers,13,NA,2013,1
+current_value_added,Motor vehicle and parts dealers,13,NA,2014,1
+current_value_added,Motor vehicle and parts dealers,13,NA,2015,1
+current_value_added,Motor vehicle and parts dealers,13,NA,2016,1
+current_value_added,Motor vehicle and parts dealers,13,NA,2017,0
+current_value_added,Motor vehicle and parts dealers,13,NA,2018,0
+current_value_added,Motor vehicle and parts dealers,13,NA,2019,0
+current_value_added,Motor vehicle and parts dealers,13,NA,2020,1
+current_value_added,Motor vehicle and parts dealers,13,NA,2021,1
+current_value_added,Motor vehicle and parts dealers,13,NA,2022,1
+current_value_added,Motor vehicle and parts dealers,13,NA,2023,1
+current_value_added,Food and beverage stores,8,Grain,2012,1
+current_value_added,Food and beverage stores,8,Grain,2013,1
+current_value_added,Food and beverage stores,8,Grain,2014,1
+current_value_added,Food and beverage stores,8,Grain,2015,1
+current_value_added,Food and beverage stores,8,Grain,2016,1
+current_value_added,Food and beverage stores,8,Grain,2017,1
+current_value_added,Food and beverage stores,8,Grain,2018,1
+current_value_added,Food and beverage stores,8,Grain,2019,1
+current_value_added,Food and beverage stores,8,Grain,2020,1
+current_value_added,Food and beverage stores,8,Grain,2021,1
+current_value_added,Food and beverage stores,8,Grain,2022,1
+current_value_added,Food and beverage stores,8,Grain,2023,1
+current_value_added,General merchandise stores,13,NA,2012,24
+current_value_added,General merchandise stores,13,NA,2013,28
+current_value_added,General merchandise stores,13,NA,2014,30
+current_value_added,General merchandise stores,13,NA,2015,34
+current_value_added,General merchandise stores,13,NA,2016,48
+current_value_added,General merchandise stores,13,NA,2017,42
+current_value_added,General merchandise stores,13,NA,2018,49
+current_value_added,General merchandise stores,13,NA,2019,70
+current_value_added,General merchandise stores,13,NA,2020,51
+current_value_added,General merchandise stores,13,NA,2021,68
+current_value_added,General merchandise stores,13,NA,2022,73
+current_value_added,General merchandise stores,13,NA,2023,82
+current_value_added,Other retail,12,Underground,2012,165
+current_value_added,Other retail,12,Underground,2013,214
+current_value_added,Other retail,12,Underground,2014,225
+current_value_added,Other retail,12,Underground,2015,286
+current_value_added,Other retail,12,Underground,2016,387
+current_value_added,Other retail,12,Underground,2017,335
+current_value_added,Other retail,12,Underground,2018,387
+current_value_added,Other retail,12,Underground,2019,519
+current_value_added,Other retail,12,Underground,2020,335
+current_value_added,Other retail,12,Underground,2021,517
+current_value_added,Other retail,12,Underground,2022,490
+current_value_added,Other retail,12,Underground,2023,553
+current_value_added,Transportation and warehousing,5,Transportation,2012,833
+current_value_added,Transportation and warehousing,5,Transportation,2013,751
+current_value_added,Transportation and warehousing,5,Transportation,2014,686
+current_value_added,Transportation and warehousing,5,Transportation,2015,708
+current_value_added,Transportation and warehousing,5,Transportation,2016,754
+current_value_added,Transportation and warehousing,5,Transportation,2017,729
+current_value_added,Transportation and warehousing,5,Transportation,2018,883
+current_value_added,Transportation and warehousing,5,Transportation,2019,746
+current_value_added,Transportation and warehousing,5,Transportation,2020,681
+current_value_added,Transportation and warehousing,5,Transportation,2021,694
+current_value_added,Transportation and warehousing,5,Transportation,2022,1239
+current_value_added,Transportation and warehousing,5,Transportation,2023,1280
+current_value_added,Air transportation,5,Transportation,2012,457
+current_value_added,Air transportation,5,Transportation,2013,377
+current_value_added,Air transportation,5,Transportation,2014,301
+current_value_added,Air transportation,5,Transportation,2015,341
+current_value_added,Air transportation,5,Transportation,2016,358
+current_value_added,Air transportation,5,Transportation,2017,291
+current_value_added,Air transportation,5,Transportation,2018,412
+current_value_added,Air transportation,5,Transportation,2019,263
+current_value_added,Air transportation,5,Transportation,2020,191
+current_value_added,Air transportation,5,Transportation,2021,161
+current_value_added,Air transportation,5,Transportation,2022,564
+current_value_added,Air transportation,5,Transportation,2023,669
+current_value_added,Rail transportation,5,Transportation,2012,2
+current_value_added,Rail transportation,5,Transportation,2013,1
+current_value_added,Rail transportation,5,Transportation,2014,1
+current_value_added,Rail transportation,5,Transportation,2015,1
+current_value_added,Rail transportation,5,Transportation,2016,2
+current_value_added,Rail transportation,5,Transportation,2017,3
+current_value_added,Rail transportation,5,Transportation,2018,3
+current_value_added,Rail transportation,5,Transportation,2019,3
+current_value_added,Rail transportation,5,Transportation,2020,3
+current_value_added,Rail transportation,5,Transportation,2021,4
+current_value_added,Rail transportation,5,Transportation,2022,5
+current_value_added,Rail transportation,5,Transportation,2023,3
+current_value_added,Water transportation,5,Transportation,2012,0
+current_value_added,Water transportation,5,Transportation,2013,1
+current_value_added,Water transportation,5,Transportation,2014,1
+current_value_added,Water transportation,5,Transportation,2015,1
+current_value_added,Water transportation,5,Transportation,2016,1
+current_value_added,Water transportation,5,Transportation,2017,0
+current_value_added,Water transportation,5,Transportation,2018,1
+current_value_added,Water transportation,5,Transportation,2019,1
+current_value_added,Water transportation,5,Transportation,2020,1
+current_value_added,Water transportation,5,Transportation,2021,1
+current_value_added,Water transportation,5,Transportation,2022,0
+current_value_added,Water transportation,5,Transportation,2023,0
+current_value_added,Truck transportation,5,Transportation,2012,348
+current_value_added,Truck transportation,5,Transportation,2013,356
+current_value_added,Truck transportation,5,Transportation,2014,372
+current_value_added,Truck transportation,5,Transportation,2015,355
+current_value_added,Truck transportation,5,Transportation,2016,368
+current_value_added,Truck transportation,5,Transportation,2017,416
+current_value_added,Truck transportation,5,Transportation,2018,451
+current_value_added,Truck transportation,5,Transportation,2019,436
+current_value_added,Truck transportation,5,Transportation,2020,452
+current_value_added,Truck transportation,5,Transportation,2021,503
+current_value_added,Truck transportation,5,Transportation,2022,641
+current_value_added,Truck transportation,5,Transportation,2023,577
+current_value_added,Transit and ground passenger transportation,5,Transportation,2012,0
+current_value_added,Transit and ground passenger transportation,5,Transportation,2013,0
+current_value_added,Transit and ground passenger transportation,5,Transportation,2014,0
+current_value_added,Transit and ground passenger transportation,5,Transportation,2015,0
+current_value_added,Transit and ground passenger transportation,5,Transportation,2016,0
+current_value_added,Transit and ground passenger transportation,5,Transportation,2017,0
+current_value_added,Transit and ground passenger transportation,5,Transportation,2018,0
+current_value_added,Transit and ground passenger transportation,5,Transportation,2019,1
+current_value_added,Transit and ground passenger transportation,5,Transportation,2020,0
+current_value_added,Transit and ground passenger transportation,5,Transportation,2021,0
+current_value_added,Transit and ground passenger transportation,5,Transportation,2022,0
+current_value_added,Transit and ground passenger transportation,5,Transportation,2023,1
+current_value_added,Pipeline transportation,5,Transportation,2012,0
+current_value_added,Pipeline transportation,5,Transportation,2013,0
+current_value_added,Pipeline transportation,5,Transportation,2014,0
+current_value_added,Pipeline transportation,5,Transportation,2015,0
+current_value_added,Pipeline transportation,5,Transportation,2016,1
+current_value_added,Pipeline transportation,5,Transportation,2017,2
+current_value_added,Pipeline transportation,5,Transportation,2018,2
+current_value_added,Pipeline transportation,5,Transportation,2019,2
+current_value_added,Pipeline transportation,5,Transportation,2020,1
+current_value_added,Pipeline transportation,5,Transportation,2021,1
+current_value_added,Pipeline transportation,5,Transportation,2022,1
+current_value_added,Pipeline transportation,5,Transportation,2023,1
+current_value_added,Other transportation and support activities,5,Transportation,2012,21
+current_value_added,Other transportation and support activities,5,Transportation,2013,13
+current_value_added,Other transportation and support activities,5,Transportation,2014,8
+current_value_added,Other transportation and support activities,5,Transportation,2015,7
+current_value_added,Other transportation and support activities,5,Transportation,2016,20
+current_value_added,Other transportation and support activities,5,Transportation,2017,13
+current_value_added,Other transportation and support activities,5,Transportation,2018,12
+current_value_added,Other transportation and support activities,5,Transportation,2019,36
+current_value_added,Other transportation and support activities,5,Transportation,2020,31
+current_value_added,Other transportation and support activities,5,Transportation,2021,20
+current_value_added,Other transportation and support activities,5,Transportation,2022,23
+current_value_added,Other transportation and support activities,5,Transportation,2023,26
+current_value_added,Warehousing and storage,5,Transportation,2012,4
+current_value_added,Warehousing and storage,5,Transportation,2013,3
+current_value_added,Warehousing and storage,5,Transportation,2014,3
+current_value_added,Warehousing and storage,5,Transportation,2015,2
+current_value_added,Warehousing and storage,5,Transportation,2016,3
+current_value_added,Warehousing and storage,5,Transportation,2017,4
+current_value_added,Warehousing and storage,5,Transportation,2018,4
+current_value_added,Warehousing and storage,5,Transportation,2019,4
+current_value_added,Warehousing and storage,5,Transportation,2020,3
+current_value_added,Warehousing and storage,5,Transportation,2021,3
+current_value_added,Warehousing and storage,5,Transportation,2022,4
+current_value_added,Warehousing and storage,5,Transportation,2023,4
+current_value_added,Information,13,NA,2012,29778
+current_value_added,Information,13,NA,2013,33865
+current_value_added,Information,13,NA,2014,33128
+current_value_added,Information,13,NA,2015,35700
+current_value_added,Information,13,NA,2016,34120
+current_value_added,Information,13,NA,2017,33759
+current_value_added,Information,13,NA,2018,31603
+current_value_added,Information,13,NA,2019,32257
+current_value_added,Information,13,NA,2020,29746
+current_value_added,Information,13,NA,2021,27937
+current_value_added,Information,13,NA,2022,26849
+current_value_added,Information,13,NA,2023,27669
 current_value_added,"Publishing industries, except internet (includes software)",3,Technology,2012,297
 current_value_added,"Publishing industries, except internet (includes software)",3,Technology,2013,277
 current_value_added,"Publishing industries, except internet (includes software)",3,Technology,2014,252
@@ -563,18 +563,18 @@ current_value_added,"Publishing industries, except internet (includes software)"
 current_value_added,"Publishing industries, except internet (includes software)",3,Technology,2021,281
 current_value_added,"Publishing industries, except internet (includes software)",3,Technology,2022,317
 current_value_added,"Publishing industries, except internet (includes software)",3,Technology,2023,392
-current_value_added,Motion picture and sound recording industries,13,Underground,2012,37
-current_value_added,Motion picture and sound recording industries,13,Underground,2013,41
-current_value_added,Motion picture and sound recording industries,13,Underground,2014,39
-current_value_added,Motion picture and sound recording industries,13,Underground,2015,39
-current_value_added,Motion picture and sound recording industries,13,Underground,2016,36
-current_value_added,Motion picture and sound recording industries,13,Underground,2017,43
-current_value_added,Motion picture and sound recording industries,13,Underground,2018,39
-current_value_added,Motion picture and sound recording industries,13,Underground,2019,46
-current_value_added,Motion picture and sound recording industries,13,Underground,2020,37
-current_value_added,Motion picture and sound recording industries,13,Underground,2021,38
-current_value_added,Motion picture and sound recording industries,13,Underground,2022,43
-current_value_added,Motion picture and sound recording industries,13,Underground,2023,51
+current_value_added,Motion picture and sound recording industries,13,NA,2012,37
+current_value_added,Motion picture and sound recording industries,13,NA,2013,41
+current_value_added,Motion picture and sound recording industries,13,NA,2014,39
+current_value_added,Motion picture and sound recording industries,13,NA,2015,39
+current_value_added,Motion picture and sound recording industries,13,NA,2016,36
+current_value_added,Motion picture and sound recording industries,13,NA,2017,43
+current_value_added,Motion picture and sound recording industries,13,NA,2018,39
+current_value_added,Motion picture and sound recording industries,13,NA,2019,46
+current_value_added,Motion picture and sound recording industries,13,NA,2020,37
+current_value_added,Motion picture and sound recording industries,13,NA,2021,38
+current_value_added,Motion picture and sound recording industries,13,NA,2022,43
+current_value_added,Motion picture and sound recording industries,13,NA,2023,51
 current_value_added,Broadcasting and telecommunications4,1,Luxury,2012,29130
 current_value_added,Broadcasting and telecommunications4,1,Luxury,2013,32882
 current_value_added,Broadcasting and telecommunications4,1,Luxury,2014,32177
@@ -599,162 +599,162 @@ current_value_added,"Data processing, internet publishing, and other information
 current_value_added,"Data processing, internet publishing, and other information services",3,Technology,2021,1029
 current_value_added,"Data processing, internet publishing, and other information services",3,Technology,2022,1126
 current_value_added,"Data processing, internet publishing, and other information services",3,Technology,2023,1238
-current_value_added,"Finance, insurance, real estate, rental, and leasing",13,Underground,2012,236
-current_value_added,"Finance, insurance, real estate, rental, and leasing",13,Underground,2013,140
-current_value_added,"Finance, insurance, real estate, rental, and leasing",13,Underground,2014,128
-current_value_added,"Finance, insurance, real estate, rental, and leasing",13,Underground,2015,208
-current_value_added,"Finance, insurance, real estate, rental, and leasing",13,Underground,2016,254
-current_value_added,"Finance, insurance, real estate, rental, and leasing",13,Underground,2017,220
-current_value_added,"Finance, insurance, real estate, rental, and leasing",13,Underground,2018,155
-current_value_added,"Finance, insurance, real estate, rental, and leasing",13,Underground,2019,136
-current_value_added,"Finance, insurance, real estate, rental, and leasing",13,Underground,2020,105
-current_value_added,"Finance, insurance, real estate, rental, and leasing",13,Underground,2021,123
-current_value_added,"Finance, insurance, real estate, rental, and leasing",13,Underground,2022,214
-current_value_added,"Finance, insurance, real estate, rental, and leasing",13,Underground,2023,231
-current_value_added,Finance and insurance,13,Underground,2012,234
-current_value_added,Finance and insurance,13,Underground,2013,139
-current_value_added,Finance and insurance,13,Underground,2014,126
-current_value_added,Finance and insurance,13,Underground,2015,205
-current_value_added,Finance and insurance,13,Underground,2016,249
-current_value_added,Finance and insurance,13,Underground,2017,214
-current_value_added,Finance and insurance,13,Underground,2018,150
-current_value_added,Finance and insurance,13,Underground,2019,129
-current_value_added,Finance and insurance,13,Underground,2020,96
-current_value_added,Finance and insurance,13,Underground,2021,115
-current_value_added,Finance and insurance,13,Underground,2022,205
-current_value_added,Finance and insurance,13,Underground,2023,222
-current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2012,12
-current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2013,11
-current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2014,10
-current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2015,18
-current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2016,28
-current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2017,28
-current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2018,20
-current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2019,19
-current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2020,17
-current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2021,28
-current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2022,28
-current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2023,28
-current_value_added,"Securities, commodity contracts, and investments",13,Underground,2012,5
-current_value_added,"Securities, commodity contracts, and investments",13,Underground,2013,6
-current_value_added,"Securities, commodity contracts, and investments",13,Underground,2014,7
-current_value_added,"Securities, commodity contracts, and investments",13,Underground,2015,8
-current_value_added,"Securities, commodity contracts, and investments",13,Underground,2016,12
-current_value_added,"Securities, commodity contracts, and investments",13,Underground,2017,40
-current_value_added,"Securities, commodity contracts, and investments",13,Underground,2018,10
-current_value_added,"Securities, commodity contracts, and investments",13,Underground,2019,9
-current_value_added,"Securities, commodity contracts, and investments",13,Underground,2020,11
-current_value_added,"Securities, commodity contracts, and investments",13,Underground,2021,13
-current_value_added,"Securities, commodity contracts, and investments",13,Underground,2022,14
-current_value_added,"Securities, commodity contracts, and investments",13,Underground,2023,15
-current_value_added,Insurance carriers and related activities,13,Underground,2012,217
-current_value_added,Insurance carriers and related activities,13,Underground,2013,122
-current_value_added,Insurance carriers and related activities,13,Underground,2014,110
-current_value_added,Insurance carriers and related activities,13,Underground,2015,178
-current_value_added,Insurance carriers and related activities,13,Underground,2016,209
-current_value_added,Insurance carriers and related activities,13,Underground,2017,145
-current_value_added,Insurance carriers and related activities,13,Underground,2018,121
-current_value_added,Insurance carriers and related activities,13,Underground,2019,102
-current_value_added,Insurance carriers and related activities,13,Underground,2020,68
-current_value_added,Insurance carriers and related activities,13,Underground,2021,74
-current_value_added,Insurance carriers and related activities,13,Underground,2022,163
-current_value_added,Insurance carriers and related activities,13,Underground,2023,178
-current_value_added,Real estate and rental and leasing,13,Underground,2012,1
-current_value_added,Real estate and rental and leasing,13,Underground,2013,2
-current_value_added,Real estate and rental and leasing,13,Underground,2014,2
-current_value_added,Real estate and rental and leasing,13,Underground,2015,3
-current_value_added,Real estate and rental and leasing,13,Underground,2016,5
-current_value_added,Real estate and rental and leasing,13,Underground,2017,6
-current_value_added,Real estate and rental and leasing,13,Underground,2018,6
-current_value_added,Real estate and rental and leasing,13,Underground,2019,7
-current_value_added,Real estate and rental and leasing,13,Underground,2020,9
-current_value_added,Real estate and rental and leasing,13,Underground,2021,8
-current_value_added,Real estate and rental and leasing,13,Underground,2022,9
-current_value_added,Real estate and rental and leasing,13,Underground,2023,9
-current_value_added,Real estate,13,Underground,2012,0
-current_value_added,Real estate,13,Underground,2013,1
-current_value_added,Real estate,13,Underground,2014,1
-current_value_added,Real estate,13,Underground,2015,2
-current_value_added,Real estate,13,Underground,2016,3
-current_value_added,Real estate,13,Underground,2017,3
-current_value_added,Real estate,13,Underground,2018,4
-current_value_added,Real estate,13,Underground,2019,4
-current_value_added,Real estate,13,Underground,2020,6
-current_value_added,Real estate,13,Underground,2021,5
-current_value_added,Real estate,13,Underground,2022,6
-current_value_added,Real estate,13,Underground,2023,6
-current_value_added,Housing,13,Underground,2012,0
-current_value_added,Housing,13,Underground,2013,0
-current_value_added,Housing,13,Underground,2014,0
-current_value_added,Housing,13,Underground,2015,0
-current_value_added,Housing,13,Underground,2016,1
-current_value_added,Housing,13,Underground,2017,1
-current_value_added,Housing,13,Underground,2018,1
-current_value_added,Housing,13,Underground,2019,1
-current_value_added,Housing,13,Underground,2020,1
-current_value_added,Housing,13,Underground,2021,1
-current_value_added,Housing,13,Underground,2022,1
-current_value_added,Housing,13,Underground,2023,1
-current_value_added,Other real estate,13,Underground,2012,0
-current_value_added,Other real estate,13,Underground,2013,0
-current_value_added,Other real estate,13,Underground,2014,1
-current_value_added,Other real estate,13,Underground,2015,1
-current_value_added,Other real estate,13,Underground,2016,2
-current_value_added,Other real estate,13,Underground,2017,3
-current_value_added,Other real estate,13,Underground,2018,3
-current_value_added,Other real estate,13,Underground,2019,3
-current_value_added,Other real estate,13,Underground,2020,5
-current_value_added,Other real estate,13,Underground,2021,4
-current_value_added,Other real estate,13,Underground,2022,4
-current_value_added,Other real estate,13,Underground,2023,4
-current_value_added,Rental and leasing services and lessors of intangible assets,13,Underground,2012,1
-current_value_added,Rental and leasing services and lessors of intangible assets,13,Underground,2013,1
-current_value_added,Rental and leasing services and lessors of intangible assets,13,Underground,2014,1
-current_value_added,Rental and leasing services and lessors of intangible assets,13,Underground,2015,2
-current_value_added,Rental and leasing services and lessors of intangible assets,13,Underground,2016,2
-current_value_added,Rental and leasing services and lessors of intangible assets,13,Underground,2017,3
-current_value_added,Rental and leasing services and lessors of intangible assets,13,Underground,2018,2
-current_value_added,Rental and leasing services and lessors of intangible assets,13,Underground,2019,3
-current_value_added,Rental and leasing services and lessors of intangible assets,13,Underground,2020,3
-current_value_added,Rental and leasing services and lessors of intangible assets,13,Underground,2021,3
-current_value_added,Rental and leasing services and lessors of intangible assets,13,Underground,2022,3
-current_value_added,Rental and leasing services and lessors of intangible assets,13,Underground,2023,3
-current_value_added,Professional and business services,13,Underground,2012,6015
-current_value_added,Professional and business services,13,Underground,2013,6406
-current_value_added,Professional and business services,13,Underground,2014,6522
-current_value_added,Professional and business services,13,Underground,2015,7275
-current_value_added,Professional and business services,13,Underground,2016,7026
-current_value_added,Professional and business services,13,Underground,2017,7153
-current_value_added,Professional and business services,13,Underground,2018,6774
-current_value_added,Professional and business services,13,Underground,2019,7125
-current_value_added,Professional and business services,13,Underground,2020,6795
-current_value_added,Professional and business services,13,Underground,2021,7565
-current_value_added,Professional and business services,13,Underground,2022,9802
-current_value_added,Professional and business services,13,Underground,2023,10118
-current_value_added,"Professional, scientific, and technical services",13,Underground,2012,5833
-current_value_added,"Professional, scientific, and technical services",13,Underground,2013,6198
-current_value_added,"Professional, scientific, and technical services",13,Underground,2014,6346
-current_value_added,"Professional, scientific, and technical services",13,Underground,2015,7043
-current_value_added,"Professional, scientific, and technical services",13,Underground,2016,6694
-current_value_added,"Professional, scientific, and technical services",13,Underground,2017,6853
-current_value_added,"Professional, scientific, and technical services",13,Underground,2018,6515
-current_value_added,"Professional, scientific, and technical services",13,Underground,2019,6842
-current_value_added,"Professional, scientific, and technical services",13,Underground,2020,6534
-current_value_added,"Professional, scientific, and technical services",13,Underground,2021,7293
-current_value_added,"Professional, scientific, and technical services",13,Underground,2022,9490
-current_value_added,"Professional, scientific, and technical services",13,Underground,2023,9765
-current_value_added,Legal services,13,Underground,2012,1
-current_value_added,Legal services,13,Underground,2013,1
-current_value_added,Legal services,13,Underground,2014,1
-current_value_added,Legal services,13,Underground,2015,1
-current_value_added,Legal services,13,Underground,2016,2
-current_value_added,Legal services,13,Underground,2017,2
-current_value_added,Legal services,13,Underground,2018,1
-current_value_added,Legal services,13,Underground,2019,1
-current_value_added,Legal services,13,Underground,2020,1
-current_value_added,Legal services,13,Underground,2021,2
-current_value_added,Legal services,13,Underground,2022,2
-current_value_added,Legal services,13,Underground,2023,2
+current_value_added,"Finance, insurance, real estate, rental, and leasing",13,NA,2012,236
+current_value_added,"Finance, insurance, real estate, rental, and leasing",13,NA,2013,140
+current_value_added,"Finance, insurance, real estate, rental, and leasing",13,NA,2014,128
+current_value_added,"Finance, insurance, real estate, rental, and leasing",13,NA,2015,208
+current_value_added,"Finance, insurance, real estate, rental, and leasing",13,NA,2016,254
+current_value_added,"Finance, insurance, real estate, rental, and leasing",13,NA,2017,220
+current_value_added,"Finance, insurance, real estate, rental, and leasing",13,NA,2018,155
+current_value_added,"Finance, insurance, real estate, rental, and leasing",13,NA,2019,136
+current_value_added,"Finance, insurance, real estate, rental, and leasing",13,NA,2020,105
+current_value_added,"Finance, insurance, real estate, rental, and leasing",13,NA,2021,123
+current_value_added,"Finance, insurance, real estate, rental, and leasing",13,NA,2022,214
+current_value_added,"Finance, insurance, real estate, rental, and leasing",13,NA,2023,231
+current_value_added,Finance and insurance,13,NA,2012,234
+current_value_added,Finance and insurance,13,NA,2013,139
+current_value_added,Finance and insurance,13,NA,2014,126
+current_value_added,Finance and insurance,13,NA,2015,205
+current_value_added,Finance and insurance,13,NA,2016,249
+current_value_added,Finance and insurance,13,NA,2017,214
+current_value_added,Finance and insurance,13,NA,2018,150
+current_value_added,Finance and insurance,13,NA,2019,129
+current_value_added,Finance and insurance,13,NA,2020,96
+current_value_added,Finance and insurance,13,NA,2021,115
+current_value_added,Finance and insurance,13,NA,2022,205
+current_value_added,Finance and insurance,13,NA,2023,222
+current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2012,12
+current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2013,11
+current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2014,10
+current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2015,18
+current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2016,28
+current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2017,28
+current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2018,20
+current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2019,19
+current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2020,17
+current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2021,28
+current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2022,28
+current_value_added,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2023,28
+current_value_added,"Securities, commodity contracts, and investments",13,NA,2012,5
+current_value_added,"Securities, commodity contracts, and investments",13,NA,2013,6
+current_value_added,"Securities, commodity contracts, and investments",13,NA,2014,7
+current_value_added,"Securities, commodity contracts, and investments",13,NA,2015,8
+current_value_added,"Securities, commodity contracts, and investments",13,NA,2016,12
+current_value_added,"Securities, commodity contracts, and investments",13,NA,2017,40
+current_value_added,"Securities, commodity contracts, and investments",13,NA,2018,10
+current_value_added,"Securities, commodity contracts, and investments",13,NA,2019,9
+current_value_added,"Securities, commodity contracts, and investments",13,NA,2020,11
+current_value_added,"Securities, commodity contracts, and investments",13,NA,2021,13
+current_value_added,"Securities, commodity contracts, and investments",13,NA,2022,14
+current_value_added,"Securities, commodity contracts, and investments",13,NA,2023,15
+current_value_added,Insurance carriers and related activities,13,NA,2012,217
+current_value_added,Insurance carriers and related activities,13,NA,2013,122
+current_value_added,Insurance carriers and related activities,13,NA,2014,110
+current_value_added,Insurance carriers and related activities,13,NA,2015,178
+current_value_added,Insurance carriers and related activities,13,NA,2016,209
+current_value_added,Insurance carriers and related activities,13,NA,2017,145
+current_value_added,Insurance carriers and related activities,13,NA,2018,121
+current_value_added,Insurance carriers and related activities,13,NA,2019,102
+current_value_added,Insurance carriers and related activities,13,NA,2020,68
+current_value_added,Insurance carriers and related activities,13,NA,2021,74
+current_value_added,Insurance carriers and related activities,13,NA,2022,163
+current_value_added,Insurance carriers and related activities,13,NA,2023,178
+current_value_added,Real estate and rental and leasing,13,NA,2012,1
+current_value_added,Real estate and rental and leasing,13,NA,2013,2
+current_value_added,Real estate and rental and leasing,13,NA,2014,2
+current_value_added,Real estate and rental and leasing,13,NA,2015,3
+current_value_added,Real estate and rental and leasing,13,NA,2016,5
+current_value_added,Real estate and rental and leasing,13,NA,2017,6
+current_value_added,Real estate and rental and leasing,13,NA,2018,6
+current_value_added,Real estate and rental and leasing,13,NA,2019,7
+current_value_added,Real estate and rental and leasing,13,NA,2020,9
+current_value_added,Real estate and rental and leasing,13,NA,2021,8
+current_value_added,Real estate and rental and leasing,13,NA,2022,9
+current_value_added,Real estate and rental and leasing,13,NA,2023,9
+current_value_added,Real estate,13,NA,2012,0
+current_value_added,Real estate,13,NA,2013,1
+current_value_added,Real estate,13,NA,2014,1
+current_value_added,Real estate,13,NA,2015,2
+current_value_added,Real estate,13,NA,2016,3
+current_value_added,Real estate,13,NA,2017,3
+current_value_added,Real estate,13,NA,2018,4
+current_value_added,Real estate,13,NA,2019,4
+current_value_added,Real estate,13,NA,2020,6
+current_value_added,Real estate,13,NA,2021,5
+current_value_added,Real estate,13,NA,2022,6
+current_value_added,Real estate,13,NA,2023,6
+current_value_added,Housing,13,NA,2012,0
+current_value_added,Housing,13,NA,2013,0
+current_value_added,Housing,13,NA,2014,0
+current_value_added,Housing,13,NA,2015,0
+current_value_added,Housing,13,NA,2016,1
+current_value_added,Housing,13,NA,2017,1
+current_value_added,Housing,13,NA,2018,1
+current_value_added,Housing,13,NA,2019,1
+current_value_added,Housing,13,NA,2020,1
+current_value_added,Housing,13,NA,2021,1
+current_value_added,Housing,13,NA,2022,1
+current_value_added,Housing,13,NA,2023,1
+current_value_added,Other real estate,12,Underground,2012,0
+current_value_added,Other real estate,12,Underground,2013,0
+current_value_added,Other real estate,12,Underground,2014,1
+current_value_added,Other real estate,12,Underground,2015,1
+current_value_added,Other real estate,12,Underground,2016,2
+current_value_added,Other real estate,12,Underground,2017,3
+current_value_added,Other real estate,12,Underground,2018,3
+current_value_added,Other real estate,12,Underground,2019,3
+current_value_added,Other real estate,12,Underground,2020,5
+current_value_added,Other real estate,12,Underground,2021,4
+current_value_added,Other real estate,12,Underground,2022,4
+current_value_added,Other real estate,12,Underground,2023,4
+current_value_added,Rental and leasing services and lessors of intangible assets,13,NA,2012,1
+current_value_added,Rental and leasing services and lessors of intangible assets,13,NA,2013,1
+current_value_added,Rental and leasing services and lessors of intangible assets,13,NA,2014,1
+current_value_added,Rental and leasing services and lessors of intangible assets,13,NA,2015,2
+current_value_added,Rental and leasing services and lessors of intangible assets,13,NA,2016,2
+current_value_added,Rental and leasing services and lessors of intangible assets,13,NA,2017,3
+current_value_added,Rental and leasing services and lessors of intangible assets,13,NA,2018,2
+current_value_added,Rental and leasing services and lessors of intangible assets,13,NA,2019,3
+current_value_added,Rental and leasing services and lessors of intangible assets,13,NA,2020,3
+current_value_added,Rental and leasing services and lessors of intangible assets,13,NA,2021,3
+current_value_added,Rental and leasing services and lessors of intangible assets,13,NA,2022,3
+current_value_added,Rental and leasing services and lessors of intangible assets,13,NA,2023,3
+current_value_added,Professional and business services,13,NA,2012,6015
+current_value_added,Professional and business services,13,NA,2013,6406
+current_value_added,Professional and business services,13,NA,2014,6522
+current_value_added,Professional and business services,13,NA,2015,7275
+current_value_added,Professional and business services,13,NA,2016,7026
+current_value_added,Professional and business services,13,NA,2017,7153
+current_value_added,Professional and business services,13,NA,2018,6774
+current_value_added,Professional and business services,13,NA,2019,7125
+current_value_added,Professional and business services,13,NA,2020,6795
+current_value_added,Professional and business services,13,NA,2021,7565
+current_value_added,Professional and business services,13,NA,2022,9802
+current_value_added,Professional and business services,13,NA,2023,10118
+current_value_added,"Professional, scientific, and technical services",13,NA,2012,5833
+current_value_added,"Professional, scientific, and technical services",13,NA,2013,6198
+current_value_added,"Professional, scientific, and technical services",13,NA,2014,6346
+current_value_added,"Professional, scientific, and technical services",13,NA,2015,7043
+current_value_added,"Professional, scientific, and technical services",13,NA,2016,6694
+current_value_added,"Professional, scientific, and technical services",13,NA,2017,6853
+current_value_added,"Professional, scientific, and technical services",13,NA,2018,6515
+current_value_added,"Professional, scientific, and technical services",13,NA,2019,6842
+current_value_added,"Professional, scientific, and technical services",13,NA,2020,6534
+current_value_added,"Professional, scientific, and technical services",13,NA,2021,7293
+current_value_added,"Professional, scientific, and technical services",13,NA,2022,9490
+current_value_added,"Professional, scientific, and technical services",13,NA,2023,9765
+current_value_added,Legal services,13,NA,2012,1
+current_value_added,Legal services,13,NA,2013,1
+current_value_added,Legal services,13,NA,2014,1
+current_value_added,Legal services,13,NA,2015,1
+current_value_added,Legal services,13,NA,2016,2
+current_value_added,Legal services,13,NA,2017,2
+current_value_added,Legal services,13,NA,2018,1
+current_value_added,Legal services,13,NA,2019,1
+current_value_added,Legal services,13,NA,2020,1
+current_value_added,Legal services,13,NA,2021,2
+current_value_added,Legal services,13,NA,2022,2
+current_value_added,Legal services,13,NA,2023,2
 current_value_added,Computer systems design and related services,3,Technology,2012,526
 current_value_added,Computer systems design and related services,3,Technology,2013,373
 current_value_added,Computer systems design and related services,3,Technology,2014,413
@@ -767,222 +767,222 @@ current_value_added,Computer systems design and related services,3,Technology,20
 current_value_added,Computer systems design and related services,3,Technology,2021,860
 current_value_added,Computer systems design and related services,3,Technology,2022,953
 current_value_added,Computer systems design and related services,3,Technology,2023,873
-current_value_added,"Miscellaneous professional, scientific, and technical services",13,Underground,2012,5307
-current_value_added,"Miscellaneous professional, scientific, and technical services",13,Underground,2013,5824
-current_value_added,"Miscellaneous professional, scientific, and technical services",13,Underground,2014,5932
-current_value_added,"Miscellaneous professional, scientific, and technical services",13,Underground,2015,6532
-current_value_added,"Miscellaneous professional, scientific, and technical services",13,Underground,2016,6170
-current_value_added,"Miscellaneous professional, scientific, and technical services",13,Underground,2017,6121
-current_value_added,"Miscellaneous professional, scientific, and technical services",13,Underground,2018,5913
-current_value_added,"Miscellaneous professional, scientific, and technical services",13,Underground,2019,6197
-current_value_added,"Miscellaneous professional, scientific, and technical services",13,Underground,2020,5879
-current_value_added,"Miscellaneous professional, scientific, and technical services",13,Underground,2021,6431
-current_value_added,"Miscellaneous professional, scientific, and technical services",13,Underground,2022,8535
-current_value_added,"Miscellaneous professional, scientific, and technical services",13,Underground,2023,8890
-current_value_added,Management of companies and enterprises,13,Underground,2012,162
-current_value_added,Management of companies and enterprises,13,Underground,2013,170
-current_value_added,Management of companies and enterprises,13,Underground,2014,119
-current_value_added,Management of companies and enterprises,13,Underground,2015,155
-current_value_added,Management of companies and enterprises,13,Underground,2016,236
-current_value_added,Management of companies and enterprises,13,Underground,2017,191
-current_value_added,Management of companies and enterprises,13,Underground,2018,159
-current_value_added,Management of companies and enterprises,13,Underground,2019,179
-current_value_added,Management of companies and enterprises,13,Underground,2020,157
-current_value_added,Management of companies and enterprises,13,Underground,2021,159
-current_value_added,Management of companies and enterprises,13,Underground,2022,171
-current_value_added,Management of companies and enterprises,13,Underground,2023,193
-current_value_added,Administrative and waste management services,13,Underground,2012,20
-current_value_added,Administrative and waste management services,13,Underground,2013,38
-current_value_added,Administrative and waste management services,13,Underground,2014,57
-current_value_added,Administrative and waste management services,13,Underground,2015,77
-current_value_added,Administrative and waste management services,13,Underground,2016,96
-current_value_added,Administrative and waste management services,13,Underground,2017,109
-current_value_added,Administrative and waste management services,13,Underground,2018,101
-current_value_added,Administrative and waste management services,13,Underground,2019,105
-current_value_added,Administrative and waste management services,13,Underground,2020,103
-current_value_added,Administrative and waste management services,13,Underground,2021,113
-current_value_added,Administrative and waste management services,13,Underground,2022,141
-current_value_added,Administrative and waste management services,13,Underground,2023,160
-current_value_added,Administrative and support services,13,Underground,2012,20
-current_value_added,Administrative and support services,13,Underground,2013,38
-current_value_added,Administrative and support services,13,Underground,2014,57
-current_value_added,Administrative and support services,13,Underground,2015,77
-current_value_added,Administrative and support services,13,Underground,2016,96
-current_value_added,Administrative and support services,13,Underground,2017,109
-current_value_added,Administrative and support services,13,Underground,2018,101
-current_value_added,Administrative and support services,13,Underground,2019,104
-current_value_added,Administrative and support services,13,Underground,2020,103
-current_value_added,Administrative and support services,13,Underground,2021,113
-current_value_added,Administrative and support services,13,Underground,2022,141
-current_value_added,Administrative and support services,13,Underground,2023,160
-current_value_added,"Educational services, health care, and social assistance",13,Underground,2012,1638
-current_value_added,"Educational services, health care, and social assistance",13,Underground,2013,1581
-current_value_added,"Educational services, health care, and social assistance",13,Underground,2014,1524
-current_value_added,"Educational services, health care, and social assistance",13,Underground,2015,1618
-current_value_added,"Educational services, health care, and social assistance",13,Underground,2016,1564
-current_value_added,"Educational services, health care, and social assistance",13,Underground,2017,1506
-current_value_added,"Educational services, health care, and social assistance",13,Underground,2018,1751
-current_value_added,"Educational services, health care, and social assistance",13,Underground,2019,1905
-current_value_added,"Educational services, health care, and social assistance",13,Underground,2020,2136
-current_value_added,"Educational services, health care, and social assistance",13,Underground,2021,2227
-current_value_added,"Educational services, health care, and social assistance",13,Underground,2022,2695
-current_value_added,"Educational services, health care, and social assistance",13,Underground,2023,3444
-current_value_added,Educational services,13,Underground,2012,1565
-current_value_added,Educational services,13,Underground,2013,1508
-current_value_added,Educational services,13,Underground,2014,1462
-current_value_added,Educational services,13,Underground,2015,1544
-current_value_added,Educational services,13,Underground,2016,1487
-current_value_added,Educational services,13,Underground,2017,1424
-current_value_added,Educational services,13,Underground,2018,1661
-current_value_added,Educational services,13,Underground,2019,1829
-current_value_added,Educational services,13,Underground,2020,2094
-current_value_added,Educational services,13,Underground,2021,2137
-current_value_added,Educational services,13,Underground,2022,2434
-current_value_added,Educational services,13,Underground,2023,3347
-current_value_added,Health care and social assistance,13,Underground,2012,73
-current_value_added,Health care and social assistance,13,Underground,2013,74
-current_value_added,Health care and social assistance,13,Underground,2014,62
-current_value_added,Health care and social assistance,13,Underground,2015,73
-current_value_added,Health care and social assistance,13,Underground,2016,77
-current_value_added,Health care and social assistance,13,Underground,2017,82
-current_value_added,Health care and social assistance,13,Underground,2018,90
-current_value_added,Health care and social assistance,13,Underground,2019,76
-current_value_added,Health care and social assistance,13,Underground,2020,42
-current_value_added,Health care and social assistance,13,Underground,2021,90
-current_value_added,Health care and social assistance,13,Underground,2022,261
-current_value_added,Health care and social assistance,13,Underground,2023,97
-current_value_added,Ambulatory health care services,13,Underground,2012,2
-current_value_added,Ambulatory health care services,13,Underground,2013,2
-current_value_added,Ambulatory health care services,13,Underground,2014,2
-current_value_added,Ambulatory health care services,13,Underground,2015,2
-current_value_added,Ambulatory health care services,13,Underground,2016,4
-current_value_added,Ambulatory health care services,13,Underground,2017,4
-current_value_added,Ambulatory health care services,13,Underground,2018,3
-current_value_added,Ambulatory health care services,13,Underground,2019,4
-current_value_added,Ambulatory health care services,13,Underground,2020,3
-current_value_added,Ambulatory health care services,13,Underground,2021,4
-current_value_added,Ambulatory health care services,13,Underground,2022,4
-current_value_added,Ambulatory health care services,13,Underground,2023,4
-current_value_added,Hospitals,13,Underground,2012,70
-current_value_added,Hospitals,13,Underground,2013,71
-current_value_added,Hospitals,13,Underground,2014,60
-current_value_added,Hospitals,13,Underground,2015,70
-current_value_added,Hospitals,13,Underground,2016,73
-current_value_added,Hospitals,13,Underground,2017,78
-current_value_added,Hospitals,13,Underground,2018,86
-current_value_added,Hospitals,13,Underground,2019,72
-current_value_added,Hospitals,13,Underground,2020,39
-current_value_added,Hospitals,13,Underground,2021,86
-current_value_added,Hospitals,13,Underground,2022,256
-current_value_added,Hospitals,13,Underground,2023,92
-current_value_added,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2012,73
-current_value_added,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2013,81
-current_value_added,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2014,90
-current_value_added,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2015,81
-current_value_added,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2016,94
-current_value_added,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2017,102
-current_value_added,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2018,105
-current_value_added,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2019,108
-current_value_added,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2020,113
-current_value_added,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2021,93
-current_value_added,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2022,89
-current_value_added,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2023,114
-current_value_added,"Arts, entertainment, and recreation",13,Underground,2012,70
-current_value_added,"Arts, entertainment, and recreation",13,Underground,2013,77
-current_value_added,"Arts, entertainment, and recreation",13,Underground,2014,86
-current_value_added,"Arts, entertainment, and recreation",13,Underground,2015,78
-current_value_added,"Arts, entertainment, and recreation",13,Underground,2016,91
-current_value_added,"Arts, entertainment, and recreation",13,Underground,2017,99
-current_value_added,"Arts, entertainment, and recreation",13,Underground,2018,102
-current_value_added,"Arts, entertainment, and recreation",13,Underground,2019,104
-current_value_added,"Arts, entertainment, and recreation",13,Underground,2020,111
-current_value_added,"Arts, entertainment, and recreation",13,Underground,2021,90
-current_value_added,"Arts, entertainment, and recreation",13,Underground,2022,86
-current_value_added,"Arts, entertainment, and recreation",13,Underground,2023,109
-current_value_added,"Performing arts, spectator sports, museums, and related activities",13,Underground,2012,70
-current_value_added,"Performing arts, spectator sports, museums, and related activities",13,Underground,2013,77
-current_value_added,"Performing arts, spectator sports, museums, and related activities",13,Underground,2014,86
-current_value_added,"Performing arts, spectator sports, museums, and related activities",13,Underground,2015,77
-current_value_added,"Performing arts, spectator sports, museums, and related activities",13,Underground,2016,91
-current_value_added,"Performing arts, spectator sports, museums, and related activities",13,Underground,2017,99
-current_value_added,"Performing arts, spectator sports, museums, and related activities",13,Underground,2018,102
-current_value_added,"Performing arts, spectator sports, museums, and related activities",13,Underground,2019,104
-current_value_added,"Performing arts, spectator sports, museums, and related activities",13,Underground,2020,111
-current_value_added,"Performing arts, spectator sports, museums, and related activities",13,Underground,2021,90
-current_value_added,"Performing arts, spectator sports, museums, and related activities",13,Underground,2022,85
-current_value_added,"Performing arts, spectator sports, museums, and related activities",13,Underground,2023,109
-current_value_added,Accommodation and food services,9,Grain,2012,3
-current_value_added,Accommodation and food services,9,Grain,2013,4
-current_value_added,Accommodation and food services,9,Grain,2014,4
-current_value_added,Accommodation and food services,9,Grain,2015,4
-current_value_added,Accommodation and food services,9,Grain,2016,3
-current_value_added,Accommodation and food services,9,Grain,2017,3
-current_value_added,Accommodation and food services,9,Grain,2018,3
-current_value_added,Accommodation and food services,9,Grain,2019,3
-current_value_added,Accommodation and food services,9,Grain,2020,2
-current_value_added,Accommodation and food services,9,Grain,2021,2
-current_value_added,Accommodation and food services,9,Grain,2022,3
-current_value_added,Accommodation and food services,9,Grain,2023,5
-current_value_added,Accommodation,13,Underground,2012,3
-current_value_added,Accommodation,13,Underground,2013,4
-current_value_added,Accommodation,13,Underground,2014,4
-current_value_added,Accommodation,13,Underground,2015,4
-current_value_added,Accommodation,13,Underground,2016,3
-current_value_added,Accommodation,13,Underground,2017,3
-current_value_added,Accommodation,13,Underground,2018,3
-current_value_added,Accommodation,13,Underground,2019,3
-current_value_added,Accommodation,13,Underground,2020,2
-current_value_added,Accommodation,13,Underground,2021,2
-current_value_added,Accommodation,13,Underground,2022,3
-current_value_added,Accommodation,13,Underground,2023,5
-current_value_added,"Other services, except government",13,Underground,2012,3
-current_value_added,"Other services, except government",13,Underground,2013,4
-current_value_added,"Other services, except government",13,Underground,2014,4
-current_value_added,"Other services, except government",13,Underground,2015,4
-current_value_added,"Other services, except government",13,Underground,2016,5
-current_value_added,"Other services, except government",13,Underground,2017,5
-current_value_added,"Other services, except government",13,Underground,2018,4
-current_value_added,"Other services, except government",13,Underground,2019,5
-current_value_added,"Other services, except government",13,Underground,2020,5
-current_value_added,"Other services, except government",13,Underground,2021,5
-current_value_added,"Other services, except government",13,Underground,2022,6
-current_value_added,"Other services, except government",13,Underground,2023,6
-current_value_added,Government5,13,Underground,2012,20680
-current_value_added,Government5,13,Underground,2013,20981
-current_value_added,Government5,13,Underground,2014,21773
-current_value_added,Government5,13,Underground,2015,22513
-current_value_added,Government5,13,Underground,2016,23020
-current_value_added,Government5,13,Underground,2017,23485
-current_value_added,Government5,13,Underground,2018,25019
-current_value_added,Government5,13,Underground,2019,27666
-current_value_added,Government5,13,Underground,2020,27439
-current_value_added,Government5,13,Underground,2021,28184
-current_value_added,Government5,13,Underground,2022,31346
-current_value_added,Government5,13,Underground,2023,35602
-current_value_added,Federal,13,Underground,2012,18663
-current_value_added,Federal,13,Underground,2013,19126
-current_value_added,Federal,13,Underground,2014,19962
-current_value_added,Federal,13,Underground,2015,20648
-current_value_added,Federal,13,Underground,2016,21250
-current_value_added,Federal,13,Underground,2017,21806
-current_value_added,Federal,13,Underground,2018,23137
-current_value_added,Federal,13,Underground,2019,25564
-current_value_added,Federal,13,Underground,2020,25041
-current_value_added,Federal,13,Underground,2021,25679
-current_value_added,Federal,13,Underground,2022,28393
-current_value_added,Federal,13,Underground,2023,32050
-current_value_added,General government,13,Underground,2012,18660
-current_value_added,General government,13,Underground,2013,19124
-current_value_added,General government,13,Underground,2014,19959
-current_value_added,General government,13,Underground,2015,20645
-current_value_added,General government,13,Underground,2016,21247
-current_value_added,General government,13,Underground,2017,21803
-current_value_added,General government,13,Underground,2018,23134
-current_value_added,General government,13,Underground,2019,25561
-current_value_added,General government,13,Underground,2020,25039
-current_value_added,General government,13,Underground,2021,25669
-current_value_added,General government,13,Underground,2022,28390
-current_value_added,General government,13,Underground,2023,32047
+current_value_added,"Miscellaneous professional, scientific, and technical services",12,Underground,2012,5307
+current_value_added,"Miscellaneous professional, scientific, and technical services",12,Underground,2013,5824
+current_value_added,"Miscellaneous professional, scientific, and technical services",12,Underground,2014,5932
+current_value_added,"Miscellaneous professional, scientific, and technical services",12,Underground,2015,6532
+current_value_added,"Miscellaneous professional, scientific, and technical services",12,Underground,2016,6170
+current_value_added,"Miscellaneous professional, scientific, and technical services",12,Underground,2017,6121
+current_value_added,"Miscellaneous professional, scientific, and technical services",12,Underground,2018,5913
+current_value_added,"Miscellaneous professional, scientific, and technical services",12,Underground,2019,6197
+current_value_added,"Miscellaneous professional, scientific, and technical services",12,Underground,2020,5879
+current_value_added,"Miscellaneous professional, scientific, and technical services",12,Underground,2021,6431
+current_value_added,"Miscellaneous professional, scientific, and technical services",12,Underground,2022,8535
+current_value_added,"Miscellaneous professional, scientific, and technical services",12,Underground,2023,8890
+current_value_added,Management of companies and enterprises,13,NA,2012,162
+current_value_added,Management of companies and enterprises,13,NA,2013,170
+current_value_added,Management of companies and enterprises,13,NA,2014,119
+current_value_added,Management of companies and enterprises,13,NA,2015,155
+current_value_added,Management of companies and enterprises,13,NA,2016,236
+current_value_added,Management of companies and enterprises,13,NA,2017,191
+current_value_added,Management of companies and enterprises,13,NA,2018,159
+current_value_added,Management of companies and enterprises,13,NA,2019,179
+current_value_added,Management of companies and enterprises,13,NA,2020,157
+current_value_added,Management of companies and enterprises,13,NA,2021,159
+current_value_added,Management of companies and enterprises,13,NA,2022,171
+current_value_added,Management of companies and enterprises,13,NA,2023,193
+current_value_added,Administrative and waste management services,13,NA,2012,20
+current_value_added,Administrative and waste management services,13,NA,2013,38
+current_value_added,Administrative and waste management services,13,NA,2014,57
+current_value_added,Administrative and waste management services,13,NA,2015,77
+current_value_added,Administrative and waste management services,13,NA,2016,96
+current_value_added,Administrative and waste management services,13,NA,2017,109
+current_value_added,Administrative and waste management services,13,NA,2018,101
+current_value_added,Administrative and waste management services,13,NA,2019,105
+current_value_added,Administrative and waste management services,13,NA,2020,103
+current_value_added,Administrative and waste management services,13,NA,2021,113
+current_value_added,Administrative and waste management services,13,NA,2022,141
+current_value_added,Administrative and waste management services,13,NA,2023,160
+current_value_added,Administrative and support services,13,NA,2012,20
+current_value_added,Administrative and support services,13,NA,2013,38
+current_value_added,Administrative and support services,13,NA,2014,57
+current_value_added,Administrative and support services,13,NA,2015,77
+current_value_added,Administrative and support services,13,NA,2016,96
+current_value_added,Administrative and support services,13,NA,2017,109
+current_value_added,Administrative and support services,13,NA,2018,101
+current_value_added,Administrative and support services,13,NA,2019,104
+current_value_added,Administrative and support services,13,NA,2020,103
+current_value_added,Administrative and support services,13,NA,2021,113
+current_value_added,Administrative and support services,13,NA,2022,141
+current_value_added,Administrative and support services,13,NA,2023,160
+current_value_added,"Educational services, health care, and social assistance",13,NA,2012,1638
+current_value_added,"Educational services, health care, and social assistance",13,NA,2013,1581
+current_value_added,"Educational services, health care, and social assistance",13,NA,2014,1524
+current_value_added,"Educational services, health care, and social assistance",13,NA,2015,1618
+current_value_added,"Educational services, health care, and social assistance",13,NA,2016,1564
+current_value_added,"Educational services, health care, and social assistance",13,NA,2017,1506
+current_value_added,"Educational services, health care, and social assistance",13,NA,2018,1751
+current_value_added,"Educational services, health care, and social assistance",13,NA,2019,1905
+current_value_added,"Educational services, health care, and social assistance",13,NA,2020,2136
+current_value_added,"Educational services, health care, and social assistance",13,NA,2021,2227
+current_value_added,"Educational services, health care, and social assistance",13,NA,2022,2695
+current_value_added,"Educational services, health care, and social assistance",13,NA,2023,3444
+current_value_added,Educational services,13,NA,2012,1565
+current_value_added,Educational services,13,NA,2013,1508
+current_value_added,Educational services,13,NA,2014,1462
+current_value_added,Educational services,13,NA,2015,1544
+current_value_added,Educational services,13,NA,2016,1487
+current_value_added,Educational services,13,NA,2017,1424
+current_value_added,Educational services,13,NA,2018,1661
+current_value_added,Educational services,13,NA,2019,1829
+current_value_added,Educational services,13,NA,2020,2094
+current_value_added,Educational services,13,NA,2021,2137
+current_value_added,Educational services,13,NA,2022,2434
+current_value_added,Educational services,13,NA,2023,3347
+current_value_added,Health care and social assistance,13,NA,2012,73
+current_value_added,Health care and social assistance,13,NA,2013,74
+current_value_added,Health care and social assistance,13,NA,2014,62
+current_value_added,Health care and social assistance,13,NA,2015,73
+current_value_added,Health care and social assistance,13,NA,2016,77
+current_value_added,Health care and social assistance,13,NA,2017,82
+current_value_added,Health care and social assistance,13,NA,2018,90
+current_value_added,Health care and social assistance,13,NA,2019,76
+current_value_added,Health care and social assistance,13,NA,2020,42
+current_value_added,Health care and social assistance,13,NA,2021,90
+current_value_added,Health care and social assistance,13,NA,2022,261
+current_value_added,Health care and social assistance,13,NA,2023,97
+current_value_added,Ambulatory health care services,13,NA,2012,2
+current_value_added,Ambulatory health care services,13,NA,2013,2
+current_value_added,Ambulatory health care services,13,NA,2014,2
+current_value_added,Ambulatory health care services,13,NA,2015,2
+current_value_added,Ambulatory health care services,13,NA,2016,4
+current_value_added,Ambulatory health care services,13,NA,2017,4
+current_value_added,Ambulatory health care services,13,NA,2018,3
+current_value_added,Ambulatory health care services,13,NA,2019,4
+current_value_added,Ambulatory health care services,13,NA,2020,3
+current_value_added,Ambulatory health care services,13,NA,2021,4
+current_value_added,Ambulatory health care services,13,NA,2022,4
+current_value_added,Ambulatory health care services,13,NA,2023,4
+current_value_added,Hospitals,13,NA,2012,70
+current_value_added,Hospitals,13,NA,2013,71
+current_value_added,Hospitals,13,NA,2014,60
+current_value_added,Hospitals,13,NA,2015,70
+current_value_added,Hospitals,13,NA,2016,73
+current_value_added,Hospitals,13,NA,2017,78
+current_value_added,Hospitals,13,NA,2018,86
+current_value_added,Hospitals,13,NA,2019,72
+current_value_added,Hospitals,13,NA,2020,39
+current_value_added,Hospitals,13,NA,2021,86
+current_value_added,Hospitals,13,NA,2022,256
+current_value_added,Hospitals,13,NA,2023,92
+current_value_added,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2012,73
+current_value_added,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2013,81
+current_value_added,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2014,90
+current_value_added,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2015,81
+current_value_added,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2016,94
+current_value_added,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2017,102
+current_value_added,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2018,105
+current_value_added,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2019,108
+current_value_added,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2020,113
+current_value_added,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2021,93
+current_value_added,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2022,89
+current_value_added,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2023,114
+current_value_added,"Arts, entertainment, and recreation",13,NA,2012,70
+current_value_added,"Arts, entertainment, and recreation",13,NA,2013,77
+current_value_added,"Arts, entertainment, and recreation",13,NA,2014,86
+current_value_added,"Arts, entertainment, and recreation",13,NA,2015,78
+current_value_added,"Arts, entertainment, and recreation",13,NA,2016,91
+current_value_added,"Arts, entertainment, and recreation",13,NA,2017,99
+current_value_added,"Arts, entertainment, and recreation",13,NA,2018,102
+current_value_added,"Arts, entertainment, and recreation",13,NA,2019,104
+current_value_added,"Arts, entertainment, and recreation",13,NA,2020,111
+current_value_added,"Arts, entertainment, and recreation",13,NA,2021,90
+current_value_added,"Arts, entertainment, and recreation",13,NA,2022,86
+current_value_added,"Arts, entertainment, and recreation",13,NA,2023,109
+current_value_added,"Performing arts, spectator sports, museums, and related activities",13,NA,2012,70
+current_value_added,"Performing arts, spectator sports, museums, and related activities",13,NA,2013,77
+current_value_added,"Performing arts, spectator sports, museums, and related activities",13,NA,2014,86
+current_value_added,"Performing arts, spectator sports, museums, and related activities",13,NA,2015,77
+current_value_added,"Performing arts, spectator sports, museums, and related activities",13,NA,2016,91
+current_value_added,"Performing arts, spectator sports, museums, and related activities",13,NA,2017,99
+current_value_added,"Performing arts, spectator sports, museums, and related activities",13,NA,2018,102
+current_value_added,"Performing arts, spectator sports, museums, and related activities",13,NA,2019,104
+current_value_added,"Performing arts, spectator sports, museums, and related activities",13,NA,2020,111
+current_value_added,"Performing arts, spectator sports, museums, and related activities",13,NA,2021,90
+current_value_added,"Performing arts, spectator sports, museums, and related activities",13,NA,2022,85
+current_value_added,"Performing arts, spectator sports, museums, and related activities",13,NA,2023,109
+current_value_added,Accommodation and food services,8,Grain,2012,3
+current_value_added,Accommodation and food services,8,Grain,2013,4
+current_value_added,Accommodation and food services,8,Grain,2014,4
+current_value_added,Accommodation and food services,8,Grain,2015,4
+current_value_added,Accommodation and food services,8,Grain,2016,3
+current_value_added,Accommodation and food services,8,Grain,2017,3
+current_value_added,Accommodation and food services,8,Grain,2018,3
+current_value_added,Accommodation and food services,8,Grain,2019,3
+current_value_added,Accommodation and food services,8,Grain,2020,2
+current_value_added,Accommodation and food services,8,Grain,2021,2
+current_value_added,Accommodation and food services,8,Grain,2022,3
+current_value_added,Accommodation and food services,8,Grain,2023,5
+current_value_added,Accommodation,13,NA,2012,3
+current_value_added,Accommodation,13,NA,2013,4
+current_value_added,Accommodation,13,NA,2014,4
+current_value_added,Accommodation,13,NA,2015,4
+current_value_added,Accommodation,13,NA,2016,3
+current_value_added,Accommodation,13,NA,2017,3
+current_value_added,Accommodation,13,NA,2018,3
+current_value_added,Accommodation,13,NA,2019,3
+current_value_added,Accommodation,13,NA,2020,2
+current_value_added,Accommodation,13,NA,2021,2
+current_value_added,Accommodation,13,NA,2022,3
+current_value_added,Accommodation,13,NA,2023,5
+current_value_added,"Other services, except government",12,Underground,2012,3
+current_value_added,"Other services, except government",12,Underground,2013,4
+current_value_added,"Other services, except government",12,Underground,2014,4
+current_value_added,"Other services, except government",12,Underground,2015,4
+current_value_added,"Other services, except government",12,Underground,2016,5
+current_value_added,"Other services, except government",12,Underground,2017,5
+current_value_added,"Other services, except government",12,Underground,2018,4
+current_value_added,"Other services, except government",12,Underground,2019,5
+current_value_added,"Other services, except government",12,Underground,2020,5
+current_value_added,"Other services, except government",12,Underground,2021,5
+current_value_added,"Other services, except government",12,Underground,2022,6
+current_value_added,"Other services, except government",12,Underground,2023,6
+current_value_added,Government5,13,NA,2012,20680
+current_value_added,Government5,13,NA,2013,20981
+current_value_added,Government5,13,NA,2014,21773
+current_value_added,Government5,13,NA,2015,22513
+current_value_added,Government5,13,NA,2016,23020
+current_value_added,Government5,13,NA,2017,23485
+current_value_added,Government5,13,NA,2018,25019
+current_value_added,Government5,13,NA,2019,27666
+current_value_added,Government5,13,NA,2020,27439
+current_value_added,Government5,13,NA,2021,28184
+current_value_added,Government5,13,NA,2022,31346
+current_value_added,Government5,13,NA,2023,35602
+current_value_added,Federal,13,NA,2012,18663
+current_value_added,Federal,13,NA,2013,19126
+current_value_added,Federal,13,NA,2014,19962
+current_value_added,Federal,13,NA,2015,20648
+current_value_added,Federal,13,NA,2016,21250
+current_value_added,Federal,13,NA,2017,21806
+current_value_added,Federal,13,NA,2018,23137
+current_value_added,Federal,13,NA,2019,25564
+current_value_added,Federal,13,NA,2020,25041
+current_value_added,Federal,13,NA,2021,25679
+current_value_added,Federal,13,NA,2022,28393
+current_value_added,Federal,13,NA,2023,32050
+current_value_added,General government,13,NA,2012,18660
+current_value_added,General government,13,NA,2013,19124
+current_value_added,General government,13,NA,2014,19959
+current_value_added,General government,13,NA,2015,20645
+current_value_added,General government,13,NA,2016,21247
+current_value_added,General government,13,NA,2017,21803
+current_value_added,General government,13,NA,2018,23134
+current_value_added,General government,13,NA,2019,25561
+current_value_added,General government,13,NA,2020,25039
+current_value_added,General government,13,NA,2021,25669
+current_value_added,General government,13,NA,2022,28390
+current_value_added,General government,13,NA,2023,32047
 current_value_added,National defense,2,Weapons,2012,3519
 current_value_added,National defense,2,Weapons,2013,3581
 current_value_added,National defense,2,Weapons,2014,3695
@@ -1007,42 +1007,42 @@ current_value_added,Nondefense,2,Weapons,2020,18764
 current_value_added,Nondefense,2,Weapons,2021,17972
 current_value_added,Nondefense,2,Weapons,2022,18987
 current_value_added,Nondefense,2,Weapons,2023,21027
-current_value_added,Government enterprises,13,Underground,2012,3
-current_value_added,Government enterprises,13,Underground,2013,3
-current_value_added,Government enterprises,13,Underground,2014,2
-current_value_added,Government enterprises,13,Underground,2015,2
-current_value_added,Government enterprises,13,Underground,2016,3
-current_value_added,Government enterprises,13,Underground,2017,3
-current_value_added,Government enterprises,13,Underground,2018,3
-current_value_added,Government enterprises,13,Underground,2019,3
-current_value_added,Government enterprises,13,Underground,2020,2
-current_value_added,Government enterprises,13,Underground,2021,9
-current_value_added,Government enterprises,13,Underground,2022,3
-current_value_added,Government enterprises,13,Underground,2023,3
-current_value_added,State and local,13,Underground,2012,2017
-current_value_added,State and local,13,Underground,2013,1855
-current_value_added,State and local,13,Underground,2014,1812
-current_value_added,State and local,13,Underground,2015,1865
-current_value_added,State and local,13,Underground,2016,1770
-current_value_added,State and local,13,Underground,2017,1679
-current_value_added,State and local,13,Underground,2018,1883
-current_value_added,State and local,13,Underground,2019,2102
-current_value_added,State and local,13,Underground,2020,2397
-current_value_added,State and local,13,Underground,2021,2506
-current_value_added,State and local,13,Underground,2022,2953
-current_value_added,State and local,13,Underground,2023,3552
-current_value_added,General government,13,Underground,2012,2017
-current_value_added,General government,13,Underground,2013,1855
-current_value_added,General government,13,Underground,2014,1812
-current_value_added,General government,13,Underground,2015,1865
-current_value_added,General government,13,Underground,2016,1770
-current_value_added,General government,13,Underground,2017,1679
-current_value_added,General government,13,Underground,2018,1883
-current_value_added,General government,13,Underground,2019,2102
-current_value_added,General government,13,Underground,2020,2397
-current_value_added,General government,13,Underground,2021,2506
-current_value_added,General government,13,Underground,2022,2953
-current_value_added,General government,13,Underground,2023,3552
+current_value_added,Government enterprises,13,NA,2012,3
+current_value_added,Government enterprises,13,NA,2013,3
+current_value_added,Government enterprises,13,NA,2014,2
+current_value_added,Government enterprises,13,NA,2015,2
+current_value_added,Government enterprises,13,NA,2016,3
+current_value_added,Government enterprises,13,NA,2017,3
+current_value_added,Government enterprises,13,NA,2018,3
+current_value_added,Government enterprises,13,NA,2019,3
+current_value_added,Government enterprises,13,NA,2020,2
+current_value_added,Government enterprises,13,NA,2021,9
+current_value_added,Government enterprises,13,NA,2022,3
+current_value_added,Government enterprises,13,NA,2023,3
+current_value_added,State and local,13,NA,2012,2017
+current_value_added,State and local,13,NA,2013,1855
+current_value_added,State and local,13,NA,2014,1812
+current_value_added,State and local,13,NA,2015,1865
+current_value_added,State and local,13,NA,2016,1770
+current_value_added,State and local,13,NA,2017,1679
+current_value_added,State and local,13,NA,2018,1883
+current_value_added,State and local,13,NA,2019,2102
+current_value_added,State and local,13,NA,2020,2397
+current_value_added,State and local,13,NA,2021,2506
+current_value_added,State and local,13,NA,2022,2953
+current_value_added,State and local,13,NA,2023,3552
+current_value_added,General government,13,NA,2012,2017
+current_value_added,General government,13,NA,2013,1855
+current_value_added,General government,13,NA,2014,1812
+current_value_added,General government,13,NA,2015,1865
+current_value_added,General government,13,NA,2016,1770
+current_value_added,General government,13,NA,2017,1679
+current_value_added,General government,13,NA,2018,1883
+current_value_added,General government,13,NA,2019,2102
+current_value_added,General government,13,NA,2020,2397
+current_value_added,General government,13,NA,2021,2506
+current_value_added,General government,13,NA,2022,2953
+current_value_added,General government,13,NA,2023,3552
 current_value_added,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2012,86723
 current_value_added,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2013,90928
 current_value_added,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2014,90081

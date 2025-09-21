@@ -1,0 +1,5 @@
+district_number,district_name,avg_growth,growth_volatility,trend_stability,total_value_2023,predicted_growth,growth_momentum,risk_profile
+2,Weapons,2.419195487868399,3.2237537216421757,0.34627300180028797,26492,6.878605720740705,Accelerating,Medium Risk
+7,Lumber,2.1417005735741195,33.794799016836215,-0.06318066196231303,21,0,Decelerating,High Risk
+3,Technology,7.453555285567975,9.126820993841092,-0.45622073524099094,27960,-2.398156875065449,Decelerating,High Risk
+4,Maritime,-28.571428571428573,48.795003647426654,-0.3583267478886096,0,-100,Decelerating,High Risk

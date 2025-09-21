@@ -1,160 +1,160 @@
 table_name,industry,district_number,district_name,year,value
-compensation,"Space economy, private industries1",13,Underground,2012,44438
-compensation,"Space economy, private industries1",13,Underground,2013,45211
-compensation,"Space economy, private industries1",13,Underground,2014,45941
-compensation,"Space economy, private industries1",13,Underground,2015,48237
-compensation,"Space economy, private industries1",13,Underground,2016,47959
-compensation,"Space economy, private industries1",13,Underground,2017,49104
-compensation,"Space economy, private industries1",13,Underground,2018,48686
-compensation,"Space economy, private industries1",13,Underground,2019,52606
-compensation,"Space economy, private industries1",13,Underground,2020,51661
-compensation,"Space economy, private industries1",13,Underground,2021,52655
-compensation,"Space economy, private industries1",13,Underground,2022,54975
-compensation,"Space economy, private industries1",13,Underground,2023,57924
-compensation,Mining,12,Mining,2012,10
-compensation,Mining,12,Mining,2013,8
-compensation,Mining,12,Mining,2014,9
-compensation,Mining,12,Mining,2015,11
-compensation,Mining,12,Mining,2016,7
-compensation,Mining,12,Mining,2017,2
-compensation,Mining,12,Mining,2018,1
-compensation,Mining,12,Mining,2019,1
-compensation,Mining,12,Mining,2020,1
-compensation,Mining,12,Mining,2021,0
-compensation,Mining,12,Mining,2022,0
-compensation,Mining,12,Mining,2023,0
-compensation,Oil and gas extraction,5,Power,2012,5
-compensation,Oil and gas extraction,5,Power,2013,4
-compensation,Oil and gas extraction,5,Power,2014,5
-compensation,Oil and gas extraction,5,Power,2015,7
-compensation,Oil and gas extraction,5,Power,2016,4
-compensation,Oil and gas extraction,5,Power,2017,1
-compensation,Oil and gas extraction,5,Power,2018,0
-compensation,Oil and gas extraction,5,Power,2019,0
-compensation,Oil and gas extraction,5,Power,2020,0
-compensation,Oil and gas extraction,5,Power,2021,0
-compensation,Oil and gas extraction,5,Power,2022,0
-compensation,Oil and gas extraction,5,Power,2023,0
-compensation,Support activities for mining,12,Mining,2012,5
-compensation,Support activities for mining,12,Mining,2013,4
-compensation,Support activities for mining,12,Mining,2014,4
-compensation,Support activities for mining,12,Mining,2015,4
-compensation,Support activities for mining,12,Mining,2016,3
-compensation,Support activities for mining,12,Mining,2017,1
-compensation,Support activities for mining,12,Mining,2018,0
-compensation,Support activities for mining,12,Mining,2019,1
-compensation,Support activities for mining,12,Mining,2020,0
-compensation,Support activities for mining,12,Mining,2021,0
-compensation,Support activities for mining,12,Mining,2022,0
-compensation,Support activities for mining,12,Mining,2023,0
-compensation,Utilities,5,Power,2012,0
-compensation,Utilities,5,Power,2013,0
-compensation,Utilities,5,Power,2014,0
-compensation,Utilities,5,Power,2015,1
-compensation,Utilities,5,Power,2016,1
-compensation,Utilities,5,Power,2017,1
-compensation,Utilities,5,Power,2018,0
-compensation,Utilities,5,Power,2019,0
-compensation,Utilities,5,Power,2020,0
-compensation,Utilities,5,Power,2021,0
-compensation,Utilities,5,Power,2022,0
-compensation,Utilities,5,Power,2023,0
-compensation,Construction,13,Underground,2012,122
-compensation,Construction,13,Underground,2013,100
-compensation,Construction,13,Underground,2014,170
-compensation,Construction,13,Underground,2015,212
-compensation,Construction,13,Underground,2016,214
-compensation,Construction,13,Underground,2017,322
-compensation,Construction,13,Underground,2018,209
-compensation,Construction,13,Underground,2019,651
-compensation,Construction,13,Underground,2020,541
-compensation,Construction,13,Underground,2021,338
-compensation,Construction,13,Underground,2022,457
-compensation,Construction,13,Underground,2023,508
-compensation,Manufacturing,8,Textiles,2012,19435
-compensation,Manufacturing,8,Textiles,2013,19334
-compensation,Manufacturing,8,Textiles,2014,19184
-compensation,Manufacturing,8,Textiles,2015,19837
-compensation,Manufacturing,8,Textiles,2016,20098
-compensation,Manufacturing,8,Textiles,2017,20303
-compensation,Manufacturing,8,Textiles,2018,20531
-compensation,Manufacturing,8,Textiles,2019,23972
-compensation,Manufacturing,8,Textiles,2020,23243
-compensation,Manufacturing,8,Textiles,2021,24035
-compensation,Manufacturing,8,Textiles,2022,23106
-compensation,Manufacturing,8,Textiles,2023,24270
-compensation,Durable goods,13,Underground,2012,19296
-compensation,Durable goods,13,Underground,2013,19188
-compensation,Durable goods,13,Underground,2014,19043
-compensation,Durable goods,13,Underground,2015,19776
-compensation,Durable goods,13,Underground,2016,20026
-compensation,Durable goods,13,Underground,2017,20233
-compensation,Durable goods,13,Underground,2018,20467
-compensation,Durable goods,13,Underground,2019,23917
-compensation,Durable goods,13,Underground,2020,23194
-compensation,Durable goods,13,Underground,2021,23979
-compensation,Durable goods,13,Underground,2022,23036
-compensation,Durable goods,13,Underground,2023,24198
-compensation,Wood products,7,Lumber,2012,6
-compensation,Wood products,7,Lumber,2013,3
-compensation,Wood products,7,Lumber,2014,5
-compensation,Wood products,7,Lumber,2015,1
-compensation,Wood products,7,Lumber,2016,1
-compensation,Wood products,7,Lumber,2017,1
-compensation,Wood products,7,Lumber,2018,1
-compensation,Wood products,7,Lumber,2019,1
-compensation,Wood products,7,Lumber,2020,1
-compensation,Wood products,7,Lumber,2021,2
-compensation,Wood products,7,Lumber,2022,1
-compensation,Wood products,7,Lumber,2023,1
-compensation,Nonmetallic mineral products,12,Mining,2012,21
-compensation,Nonmetallic mineral products,12,Mining,2013,23
-compensation,Nonmetallic mineral products,12,Mining,2014,24
-compensation,Nonmetallic mineral products,12,Mining,2015,10
-compensation,Nonmetallic mineral products,12,Mining,2016,10
-compensation,Nonmetallic mineral products,12,Mining,2017,10
-compensation,Nonmetallic mineral products,12,Mining,2018,10
-compensation,Nonmetallic mineral products,12,Mining,2019,9
-compensation,Nonmetallic mineral products,12,Mining,2020,9
-compensation,Nonmetallic mineral products,12,Mining,2021,9
-compensation,Nonmetallic mineral products,12,Mining,2022,10
-compensation,Nonmetallic mineral products,12,Mining,2023,10
-compensation,Primary metals,12,Mining,2012,9
-compensation,Primary metals,12,Mining,2013,10
-compensation,Primary metals,12,Mining,2014,18
-compensation,Primary metals,12,Mining,2015,16
-compensation,Primary metals,12,Mining,2016,11
-compensation,Primary metals,12,Mining,2017,10
-compensation,Primary metals,12,Mining,2018,8
-compensation,Primary metals,12,Mining,2019,7
-compensation,Primary metals,12,Mining,2020,8
-compensation,Primary metals,12,Mining,2021,7
-compensation,Primary metals,12,Mining,2022,8
-compensation,Primary metals,12,Mining,2023,9
-compensation,Fabricated metal products,12,Mining,2012,93
-compensation,Fabricated metal products,12,Mining,2013,156
-compensation,Fabricated metal products,12,Mining,2014,120
-compensation,Fabricated metal products,12,Mining,2015,141
-compensation,Fabricated metal products,12,Mining,2016,133
-compensation,Fabricated metal products,12,Mining,2017,108
-compensation,Fabricated metal products,12,Mining,2018,75
-compensation,Fabricated metal products,12,Mining,2019,72
-compensation,Fabricated metal products,12,Mining,2020,72
-compensation,Fabricated metal products,12,Mining,2021,93
-compensation,Fabricated metal products,12,Mining,2022,98
-compensation,Fabricated metal products,12,Mining,2023,103
-compensation,Machinery,13,Underground,2012,325
-compensation,Machinery,13,Underground,2013,319
-compensation,Machinery,13,Underground,2014,304
-compensation,Machinery,13,Underground,2015,201
-compensation,Machinery,13,Underground,2016,204
-compensation,Machinery,13,Underground,2017,204
-compensation,Machinery,13,Underground,2018,221
-compensation,Machinery,13,Underground,2019,219
-compensation,Machinery,13,Underground,2020,204
-compensation,Machinery,13,Underground,2021,233
-compensation,Machinery,13,Underground,2022,252
-compensation,Machinery,13,Underground,2023,265
+compensation,"Space economy, private industries1",13,NA,2012,44438
+compensation,"Space economy, private industries1",13,NA,2013,45211
+compensation,"Space economy, private industries1",13,NA,2014,45941
+compensation,"Space economy, private industries1",13,NA,2015,48237
+compensation,"Space economy, private industries1",13,NA,2016,47959
+compensation,"Space economy, private industries1",13,NA,2017,49104
+compensation,"Space economy, private industries1",13,NA,2018,48686
+compensation,"Space economy, private industries1",13,NA,2019,52606
+compensation,"Space economy, private industries1",13,NA,2020,51661
+compensation,"Space economy, private industries1",13,NA,2021,52655
+compensation,"Space economy, private industries1",13,NA,2022,54975
+compensation,"Space economy, private industries1",13,NA,2023,57924
+compensation,Mining,11,Mining,2012,10
+compensation,Mining,11,Mining,2013,8
+compensation,Mining,11,Mining,2014,9
+compensation,Mining,11,Mining,2015,11
+compensation,Mining,11,Mining,2016,7
+compensation,Mining,11,Mining,2017,2
+compensation,Mining,11,Mining,2018,1
+compensation,Mining,11,Mining,2019,1
+compensation,Mining,11,Mining,2020,1
+compensation,Mining,11,Mining,2021,0
+compensation,Mining,11,Mining,2022,0
+compensation,Mining,11,Mining,2023,0
+compensation,Oil and gas extraction,4,Power,2012,5
+compensation,Oil and gas extraction,4,Power,2013,4
+compensation,Oil and gas extraction,4,Power,2014,5
+compensation,Oil and gas extraction,4,Power,2015,7
+compensation,Oil and gas extraction,4,Power,2016,4
+compensation,Oil and gas extraction,4,Power,2017,1
+compensation,Oil and gas extraction,4,Power,2018,0
+compensation,Oil and gas extraction,4,Power,2019,0
+compensation,Oil and gas extraction,4,Power,2020,0
+compensation,Oil and gas extraction,4,Power,2021,0
+compensation,Oil and gas extraction,4,Power,2022,0
+compensation,Oil and gas extraction,4,Power,2023,0
+compensation,Support activities for mining,11,Mining,2012,5
+compensation,Support activities for mining,11,Mining,2013,4
+compensation,Support activities for mining,11,Mining,2014,4
+compensation,Support activities for mining,11,Mining,2015,4
+compensation,Support activities for mining,11,Mining,2016,3
+compensation,Support activities for mining,11,Mining,2017,1
+compensation,Support activities for mining,11,Mining,2018,0
+compensation,Support activities for mining,11,Mining,2019,1
+compensation,Support activities for mining,11,Mining,2020,0
+compensation,Support activities for mining,11,Mining,2021,0
+compensation,Support activities for mining,11,Mining,2022,0
+compensation,Support activities for mining,11,Mining,2023,0
+compensation,Utilities,4,Power,2012,0
+compensation,Utilities,4,Power,2013,0
+compensation,Utilities,4,Power,2014,0
+compensation,Utilities,4,Power,2015,1
+compensation,Utilities,4,Power,2016,1
+compensation,Utilities,4,Power,2017,1
+compensation,Utilities,4,Power,2018,0
+compensation,Utilities,4,Power,2019,0
+compensation,Utilities,4,Power,2020,0
+compensation,Utilities,4,Power,2021,0
+compensation,Utilities,4,Power,2022,0
+compensation,Utilities,4,Power,2023,0
+compensation,Construction,13,NA,2012,122
+compensation,Construction,13,NA,2013,100
+compensation,Construction,13,NA,2014,170
+compensation,Construction,13,NA,2015,212
+compensation,Construction,13,NA,2016,214
+compensation,Construction,13,NA,2017,322
+compensation,Construction,13,NA,2018,209
+compensation,Construction,13,NA,2019,651
+compensation,Construction,13,NA,2020,541
+compensation,Construction,13,NA,2021,338
+compensation,Construction,13,NA,2022,457
+compensation,Construction,13,NA,2023,508
+compensation,Manufacturing,7,Textiles,2012,19435
+compensation,Manufacturing,7,Textiles,2013,19334
+compensation,Manufacturing,7,Textiles,2014,19184
+compensation,Manufacturing,7,Textiles,2015,19837
+compensation,Manufacturing,7,Textiles,2016,20098
+compensation,Manufacturing,7,Textiles,2017,20303
+compensation,Manufacturing,7,Textiles,2018,20531
+compensation,Manufacturing,7,Textiles,2019,23972
+compensation,Manufacturing,7,Textiles,2020,23243
+compensation,Manufacturing,7,Textiles,2021,24035
+compensation,Manufacturing,7,Textiles,2022,23106
+compensation,Manufacturing,7,Textiles,2023,24270
+compensation,Durable goods,13,NA,2012,19296
+compensation,Durable goods,13,NA,2013,19188
+compensation,Durable goods,13,NA,2014,19043
+compensation,Durable goods,13,NA,2015,19776
+compensation,Durable goods,13,NA,2016,20026
+compensation,Durable goods,13,NA,2017,20233
+compensation,Durable goods,13,NA,2018,20467
+compensation,Durable goods,13,NA,2019,23917
+compensation,Durable goods,13,NA,2020,23194
+compensation,Durable goods,13,NA,2021,23979
+compensation,Durable goods,13,NA,2022,23036
+compensation,Durable goods,13,NA,2023,24198
+compensation,Wood products,6,Lumber,2012,6
+compensation,Wood products,6,Lumber,2013,3
+compensation,Wood products,6,Lumber,2014,5
+compensation,Wood products,6,Lumber,2015,1
+compensation,Wood products,6,Lumber,2016,1
+compensation,Wood products,6,Lumber,2017,1
+compensation,Wood products,6,Lumber,2018,1
+compensation,Wood products,6,Lumber,2019,1
+compensation,Wood products,6,Lumber,2020,1
+compensation,Wood products,6,Lumber,2021,2
+compensation,Wood products,6,Lumber,2022,1
+compensation,Wood products,6,Lumber,2023,1
+compensation,Nonmetallic mineral products,11,Mining,2012,21
+compensation,Nonmetallic mineral products,11,Mining,2013,23
+compensation,Nonmetallic mineral products,11,Mining,2014,24
+compensation,Nonmetallic mineral products,11,Mining,2015,10
+compensation,Nonmetallic mineral products,11,Mining,2016,10
+compensation,Nonmetallic mineral products,11,Mining,2017,10
+compensation,Nonmetallic mineral products,11,Mining,2018,10
+compensation,Nonmetallic mineral products,11,Mining,2019,9
+compensation,Nonmetallic mineral products,11,Mining,2020,9
+compensation,Nonmetallic mineral products,11,Mining,2021,9
+compensation,Nonmetallic mineral products,11,Mining,2022,10
+compensation,Nonmetallic mineral products,11,Mining,2023,10
+compensation,Primary metals,11,Mining,2012,9
+compensation,Primary metals,11,Mining,2013,10
+compensation,Primary metals,11,Mining,2014,18
+compensation,Primary metals,11,Mining,2015,16
+compensation,Primary metals,11,Mining,2016,11
+compensation,Primary metals,11,Mining,2017,10
+compensation,Primary metals,11,Mining,2018,8
+compensation,Primary metals,11,Mining,2019,7
+compensation,Primary metals,11,Mining,2020,8
+compensation,Primary metals,11,Mining,2021,7
+compensation,Primary metals,11,Mining,2022,8
+compensation,Primary metals,11,Mining,2023,9
+compensation,Fabricated metal products,11,Mining,2012,93
+compensation,Fabricated metal products,11,Mining,2013,156
+compensation,Fabricated metal products,11,Mining,2014,120
+compensation,Fabricated metal products,11,Mining,2015,141
+compensation,Fabricated metal products,11,Mining,2016,133
+compensation,Fabricated metal products,11,Mining,2017,108
+compensation,Fabricated metal products,11,Mining,2018,75
+compensation,Fabricated metal products,11,Mining,2019,72
+compensation,Fabricated metal products,11,Mining,2020,72
+compensation,Fabricated metal products,11,Mining,2021,93
+compensation,Fabricated metal products,11,Mining,2022,98
+compensation,Fabricated metal products,11,Mining,2023,103
+compensation,Machinery,13,NA,2012,325
+compensation,Machinery,13,NA,2013,319
+compensation,Machinery,13,NA,2014,304
+compensation,Machinery,13,NA,2015,201
+compensation,Machinery,13,NA,2016,204
+compensation,Machinery,13,NA,2017,204
+compensation,Machinery,13,NA,2018,221
+compensation,Machinery,13,NA,2019,219
+compensation,Machinery,13,NA,2020,204
+compensation,Machinery,13,NA,2021,233
+compensation,Machinery,13,NA,2022,252
+compensation,Machinery,13,NA,2023,265
 compensation,Computer and electronic products2,3,Technology,2012,10136
 compensation,Computer and electronic products2,3,Technology,2013,9636
 compensation,Computer and electronic products2,3,Technology,2014,9265
@@ -167,306 +167,306 @@ compensation,Computer and electronic products2,3,Technology,2020,12948
 compensation,Computer and electronic products2,3,Technology,2021,13670
 compensation,Computer and electronic products2,3,Technology,2022,13456
 compensation,Computer and electronic products2,3,Technology,2023,13661
-compensation,"Electrical equipment, appliances, and components",5,Power,2012,228
-compensation,"Electrical equipment, appliances, and components",5,Power,2013,266
-compensation,"Electrical equipment, appliances, and components",5,Power,2014,260
-compensation,"Electrical equipment, appliances, and components",5,Power,2015,221
-compensation,"Electrical equipment, appliances, and components",5,Power,2016,240
-compensation,"Electrical equipment, appliances, and components",5,Power,2017,217
-compensation,"Electrical equipment, appliances, and components",5,Power,2018,238
-compensation,"Electrical equipment, appliances, and components",5,Power,2019,213
-compensation,"Electrical equipment, appliances, and components",5,Power,2020,184
-compensation,"Electrical equipment, appliances, and components",5,Power,2021,183
-compensation,"Electrical equipment, appliances, and components",5,Power,2022,203
-compensation,"Electrical equipment, appliances, and components",5,Power,2023,207
-compensation,Other transportation equipment3,6,Transportation,2012,8235
-compensation,Other transportation equipment3,6,Transportation,2013,8473
-compensation,Other transportation equipment3,6,Transportation,2014,8752
-compensation,Other transportation equipment3,6,Transportation,2015,9439
-compensation,Other transportation equipment3,6,Transportation,2016,7989
-compensation,Other transportation equipment3,6,Transportation,2017,7332
-compensation,Other transportation equipment3,6,Transportation,2018,7724
-compensation,Other transportation equipment3,6,Transportation,2019,10517
-compensation,Other transportation equipment3,6,Transportation,2020,9609
-compensation,Other transportation equipment3,6,Transportation,2021,9585
-compensation,Other transportation equipment3,6,Transportation,2022,8762
-compensation,Other transportation equipment3,6,Transportation,2023,9695
-compensation,Furniture and related products,13,Underground,2012,6
-compensation,Furniture and related products,13,Underground,2013,7
-compensation,Furniture and related products,13,Underground,2014,6
-compensation,Furniture and related products,13,Underground,2015,4
-compensation,Furniture and related products,13,Underground,2016,3
-compensation,Furniture and related products,13,Underground,2017,4
-compensation,Furniture and related products,13,Underground,2018,4
-compensation,Furniture and related products,13,Underground,2019,3
-compensation,Furniture and related products,13,Underground,2020,3
-compensation,Furniture and related products,13,Underground,2021,3
-compensation,Furniture and related products,13,Underground,2022,3
-compensation,Furniture and related products,13,Underground,2023,3
-compensation,Miscellaneous manufacturing,8,Textiles,2012,235
-compensation,Miscellaneous manufacturing,8,Textiles,2013,294
-compensation,Miscellaneous manufacturing,8,Textiles,2014,288
-compensation,Miscellaneous manufacturing,8,Textiles,2015,145
-compensation,Miscellaneous manufacturing,8,Textiles,2016,157
-compensation,Miscellaneous manufacturing,8,Textiles,2017,172
-compensation,Miscellaneous manufacturing,8,Textiles,2018,183
-compensation,Miscellaneous manufacturing,8,Textiles,2019,174
-compensation,Miscellaneous manufacturing,8,Textiles,2020,155
-compensation,Miscellaneous manufacturing,8,Textiles,2021,194
-compensation,Miscellaneous manufacturing,8,Textiles,2022,242
-compensation,Miscellaneous manufacturing,8,Textiles,2023,244
-compensation,Nondurable goods,13,Underground,2012,139
-compensation,Nondurable goods,13,Underground,2013,145
-compensation,Nondurable goods,13,Underground,2014,141
-compensation,Nondurable goods,13,Underground,2015,61
-compensation,Nondurable goods,13,Underground,2016,72
-compensation,Nondurable goods,13,Underground,2017,70
-compensation,Nondurable goods,13,Underground,2018,64
-compensation,Nondurable goods,13,Underground,2019,54
-compensation,Nondurable goods,13,Underground,2020,49
-compensation,Nondurable goods,13,Underground,2021,55
-compensation,Nondurable goods,13,Underground,2022,70
-compensation,Nondurable goods,13,Underground,2023,72
-compensation,Food and beverage and tobacco products,9,Grain,2012,36
-compensation,Food and beverage and tobacco products,9,Grain,2013,48
-compensation,Food and beverage and tobacco products,9,Grain,2014,51
-compensation,Food and beverage and tobacco products,9,Grain,2015,22
-compensation,Food and beverage and tobacco products,9,Grain,2016,22
-compensation,Food and beverage and tobacco products,9,Grain,2017,22
-compensation,Food and beverage and tobacco products,9,Grain,2018,23
-compensation,Food and beverage and tobacco products,9,Grain,2019,17
-compensation,Food and beverage and tobacco products,9,Grain,2020,19
-compensation,Food and beverage and tobacco products,9,Grain,2021,21
-compensation,Food and beverage and tobacco products,9,Grain,2022,30
-compensation,Food and beverage and tobacco products,9,Grain,2023,30
-compensation,Textile mills and textile product mills,8,Textiles,2012,5
-compensation,Textile mills and textile product mills,8,Textiles,2013,7
-compensation,Textile mills and textile product mills,8,Textiles,2014,6
-compensation,Textile mills and textile product mills,8,Textiles,2015,3
-compensation,Textile mills and textile product mills,8,Textiles,2016,5
-compensation,Textile mills and textile product mills,8,Textiles,2017,4
-compensation,Textile mills and textile product mills,8,Textiles,2018,4
-compensation,Textile mills and textile product mills,8,Textiles,2019,3
-compensation,Textile mills and textile product mills,8,Textiles,2020,3
-compensation,Textile mills and textile product mills,8,Textiles,2021,3
-compensation,Textile mills and textile product mills,8,Textiles,2022,4
-compensation,Textile mills and textile product mills,8,Textiles,2023,4
-compensation,Apparel and leather and allied products,8,Textiles,2012,8
-compensation,Apparel and leather and allied products,8,Textiles,2013,10
-compensation,Apparel and leather and allied products,8,Textiles,2014,9
-compensation,Apparel and leather and allied products,8,Textiles,2015,5
-compensation,Apparel and leather and allied products,8,Textiles,2016,8
-compensation,Apparel and leather and allied products,8,Textiles,2017,7
-compensation,Apparel and leather and allied products,8,Textiles,2018,7
-compensation,Apparel and leather and allied products,8,Textiles,2019,5
-compensation,Apparel and leather and allied products,8,Textiles,2020,4
-compensation,Apparel and leather and allied products,8,Textiles,2021,5
-compensation,Apparel and leather and allied products,8,Textiles,2022,6
-compensation,Apparel and leather and allied products,8,Textiles,2023,6
-compensation,Paper products,7,Lumber,2012,4
-compensation,Paper products,7,Lumber,2013,11
-compensation,Paper products,7,Lumber,2014,9
-compensation,Paper products,7,Lumber,2015,5
-compensation,Paper products,7,Lumber,2016,5
-compensation,Paper products,7,Lumber,2017,8
-compensation,Paper products,7,Lumber,2018,5
-compensation,Paper products,7,Lumber,2019,5
-compensation,Paper products,7,Lumber,2020,4
-compensation,Paper products,7,Lumber,2021,5
-compensation,Paper products,7,Lumber,2022,5
-compensation,Paper products,7,Lumber,2023,6
-compensation,Printing and related support activities,13,Underground,2012,13
-compensation,Printing and related support activities,13,Underground,2013,12
-compensation,Printing and related support activities,13,Underground,2014,10
-compensation,Printing and related support activities,13,Underground,2015,3
-compensation,Printing and related support activities,13,Underground,2016,3
-compensation,Printing and related support activities,13,Underground,2017,2
-compensation,Printing and related support activities,13,Underground,2018,2
-compensation,Printing and related support activities,13,Underground,2019,4
-compensation,Printing and related support activities,13,Underground,2020,2
-compensation,Printing and related support activities,13,Underground,2021,2
-compensation,Printing and related support activities,13,Underground,2022,2
-compensation,Printing and related support activities,13,Underground,2023,2
-compensation,Petroleum and coal products,12,Mining,2012,2
-compensation,Petroleum and coal products,12,Mining,2013,1
-compensation,Petroleum and coal products,12,Mining,2014,1
-compensation,Petroleum and coal products,12,Mining,2015,0
-compensation,Petroleum and coal products,12,Mining,2016,1
-compensation,Petroleum and coal products,12,Mining,2017,0
-compensation,Petroleum and coal products,12,Mining,2018,2
-compensation,Petroleum and coal products,12,Mining,2019,1
-compensation,Petroleum and coal products,12,Mining,2020,2
-compensation,Petroleum and coal products,12,Mining,2021,1
-compensation,Petroleum and coal products,12,Mining,2022,1
-compensation,Petroleum and coal products,12,Mining,2023,1
-compensation,Chemical products,8,Textiles,2012,32
-compensation,Chemical products,8,Textiles,2013,9
-compensation,Chemical products,8,Textiles,2014,8
-compensation,Chemical products,8,Textiles,2015,7
-compensation,Chemical products,8,Textiles,2016,5
-compensation,Chemical products,8,Textiles,2017,4
-compensation,Chemical products,8,Textiles,2018,3
-compensation,Chemical products,8,Textiles,2019,3
-compensation,Chemical products,8,Textiles,2020,3
-compensation,Chemical products,8,Textiles,2021,3
-compensation,Chemical products,8,Textiles,2022,4
-compensation,Chemical products,8,Textiles,2023,4
-compensation,Plastics and rubber products,8,Textiles,2012,39
-compensation,Plastics and rubber products,8,Textiles,2013,48
-compensation,Plastics and rubber products,8,Textiles,2014,46
-compensation,Plastics and rubber products,8,Textiles,2015,15
-compensation,Plastics and rubber products,8,Textiles,2016,23
-compensation,Plastics and rubber products,8,Textiles,2017,23
-compensation,Plastics and rubber products,8,Textiles,2018,16
-compensation,Plastics and rubber products,8,Textiles,2019,15
-compensation,Plastics and rubber products,8,Textiles,2020,13
-compensation,Plastics and rubber products,8,Textiles,2021,15
-compensation,Plastics and rubber products,8,Textiles,2022,19
-compensation,Plastics and rubber products,8,Textiles,2023,19
-compensation,Wholesale trade,13,Underground,2012,7708
-compensation,Wholesale trade,13,Underground,2013,7612
-compensation,Wholesale trade,13,Underground,2014,7667
-compensation,Wholesale trade,13,Underground,2015,8402
-compensation,Wholesale trade,13,Underground,2016,8676
-compensation,Wholesale trade,13,Underground,2017,9262
-compensation,Wholesale trade,13,Underground,2018,9415
-compensation,Wholesale trade,13,Underground,2019,9058
-compensation,Wholesale trade,13,Underground,2020,9219
-compensation,Wholesale trade,13,Underground,2021,9442
-compensation,Wholesale trade,13,Underground,2022,10279
-compensation,Wholesale trade,13,Underground,2023,10483
-compensation,Retail trade,13,Underground,2012,107
-compensation,Retail trade,13,Underground,2013,143
-compensation,Retail trade,13,Underground,2014,155
-compensation,Retail trade,13,Underground,2015,194
-compensation,Retail trade,13,Underground,2016,265
-compensation,Retail trade,13,Underground,2017,230
-compensation,Retail trade,13,Underground,2018,270
-compensation,Retail trade,13,Underground,2019,361
-compensation,Retail trade,13,Underground,2020,217
-compensation,Retail trade,13,Underground,2021,342
-compensation,Retail trade,13,Underground,2022,300
-compensation,Retail trade,13,Underground,2023,316
-compensation,Food and beverage stores,9,Grain,2012,0
-compensation,Food and beverage stores,9,Grain,2013,1
-compensation,Food and beverage stores,9,Grain,2014,0
-compensation,Food and beverage stores,9,Grain,2015,0
-compensation,Food and beverage stores,9,Grain,2016,1
-compensation,Food and beverage stores,9,Grain,2017,0
-compensation,Food and beverage stores,9,Grain,2018,1
-compensation,Food and beverage stores,9,Grain,2019,1
-compensation,Food and beverage stores,9,Grain,2020,1
-compensation,Food and beverage stores,9,Grain,2021,1
-compensation,Food and beverage stores,9,Grain,2022,1
-compensation,Food and beverage stores,9,Grain,2023,1
-compensation,General merchandise stores,13,Underground,2012,15
-compensation,General merchandise stores,13,Underground,2013,17
-compensation,General merchandise stores,13,Underground,2014,18
-compensation,General merchandise stores,13,Underground,2015,20
-compensation,General merchandise stores,13,Underground,2016,29
-compensation,General merchandise stores,13,Underground,2017,24
-compensation,General merchandise stores,13,Underground,2018,28
-compensation,General merchandise stores,13,Underground,2019,40
-compensation,General merchandise stores,13,Underground,2020,29
-compensation,General merchandise stores,13,Underground,2021,39
-compensation,General merchandise stores,13,Underground,2022,41
-compensation,General merchandise stores,13,Underground,2023,45
-compensation,Other retail,13,Underground,2012,91
-compensation,Other retail,13,Underground,2013,125
-compensation,Other retail,13,Underground,2014,136
-compensation,Other retail,13,Underground,2015,173
-compensation,Other retail,13,Underground,2016,235
-compensation,Other retail,13,Underground,2017,205
-compensation,Other retail,13,Underground,2018,241
-compensation,Other retail,13,Underground,2019,321
-compensation,Other retail,13,Underground,2020,186
-compensation,Other retail,13,Underground,2021,302
-compensation,Other retail,13,Underground,2022,258
-compensation,Other retail,13,Underground,2023,269
-compensation,Transportation and warehousing,6,Transportation,2012,401
-compensation,Transportation and warehousing,6,Transportation,2013,364
-compensation,Transportation and warehousing,6,Transportation,2014,322
-compensation,Transportation and warehousing,6,Transportation,2015,323
-compensation,Transportation and warehousing,6,Transportation,2016,345
-compensation,Transportation and warehousing,6,Transportation,2017,338
-compensation,Transportation and warehousing,6,Transportation,2018,412
-compensation,Transportation and warehousing,6,Transportation,2019,358
-compensation,Transportation and warehousing,6,Transportation,2020,410
-compensation,Transportation and warehousing,6,Transportation,2021,346
-compensation,Transportation and warehousing,6,Transportation,2022,557
-compensation,Transportation and warehousing,6,Transportation,2023,601
-compensation,Air transportation,6,Transportation,2012,201
-compensation,Air transportation,6,Transportation,2013,165
-compensation,Air transportation,6,Transportation,2014,125
-compensation,Air transportation,6,Transportation,2015,137
-compensation,Air transportation,6,Transportation,2016,147
-compensation,Air transportation,6,Transportation,2017,125
-compensation,Air transportation,6,Transportation,2018,182
-compensation,Air transportation,6,Transportation,2019,112
-compensation,Air transportation,6,Transportation,2020,163
-compensation,Air transportation,6,Transportation,2021,92
-compensation,Air transportation,6,Transportation,2022,243
-compensation,Air transportation,6,Transportation,2023,305
-compensation,Rail transportation,6,Transportation,2012,1
-compensation,Rail transportation,6,Transportation,2013,0
-compensation,Rail transportation,6,Transportation,2014,1
-compensation,Rail transportation,6,Transportation,2015,1
-compensation,Rail transportation,6,Transportation,2016,1
-compensation,Rail transportation,6,Transportation,2017,1
-compensation,Rail transportation,6,Transportation,2018,1
-compensation,Rail transportation,6,Transportation,2019,1
-compensation,Rail transportation,6,Transportation,2020,1
-compensation,Rail transportation,6,Transportation,2021,1
-compensation,Rail transportation,6,Transportation,2022,2
-compensation,Rail transportation,6,Transportation,2023,1
-compensation,Truck transportation,6,Transportation,2012,187
-compensation,Truck transportation,6,Transportation,2013,190
-compensation,Truck transportation,6,Transportation,2014,191
-compensation,Truck transportation,6,Transportation,2015,182
-compensation,Truck transportation,6,Transportation,2016,186
-compensation,Truck transportation,6,Transportation,2017,204
-compensation,Truck transportation,6,Transportation,2018,221
-compensation,Truck transportation,6,Transportation,2019,224
-compensation,Truck transportation,6,Transportation,2020,228
-compensation,Truck transportation,6,Transportation,2021,241
-compensation,Truck transportation,6,Transportation,2022,300
-compensation,Truck transportation,6,Transportation,2023,279
-compensation,Other transportation and support activities,6,Transportation,2012,10
-compensation,Other transportation and support activities,6,Transportation,2013,7
-compensation,Other transportation and support activities,6,Transportation,2014,4
-compensation,Other transportation and support activities,6,Transportation,2015,3
-compensation,Other transportation and support activities,6,Transportation,2016,9
-compensation,Other transportation and support activities,6,Transportation,2017,6
-compensation,Other transportation and support activities,6,Transportation,2018,5
-compensation,Other transportation and support activities,6,Transportation,2019,19
-compensation,Other transportation and support activities,6,Transportation,2020,15
-compensation,Other transportation and support activities,6,Transportation,2021,9
-compensation,Other transportation and support activities,6,Transportation,2022,10
-compensation,Other transportation and support activities,6,Transportation,2023,14
-compensation,Warehousing and storage,6,Transportation,2012,1
-compensation,Warehousing and storage,6,Transportation,2013,1
-compensation,Warehousing and storage,6,Transportation,2014,1
-compensation,Warehousing and storage,6,Transportation,2015,1
-compensation,Warehousing and storage,6,Transportation,2016,1
-compensation,Warehousing and storage,6,Transportation,2017,2
-compensation,Warehousing and storage,6,Transportation,2018,2
-compensation,Warehousing and storage,6,Transportation,2019,2
-compensation,Warehousing and storage,6,Transportation,2020,1
-compensation,Warehousing and storage,6,Transportation,2021,2
-compensation,Warehousing and storage,6,Transportation,2022,2
-compensation,Warehousing and storage,6,Transportation,2023,2
-compensation,Information,13,Underground,2012,10347
-compensation,Information,13,Underground,2013,11018
-compensation,Information,13,Underground,2014,11688
-compensation,Information,13,Underground,2015,11789
-compensation,Information,13,Underground,2016,11116
-compensation,Information,13,Underground,2017,11366
-compensation,Information,13,Underground,2018,10665
-compensation,Information,13,Underground,2019,10596
-compensation,Information,13,Underground,2020,10231
-compensation,Information,13,Underground,2021,9744
-compensation,Information,13,Underground,2022,9795
-compensation,Information,13,Underground,2023,10230
+compensation,"Electrical equipment, appliances, and components",4,Power,2012,228
+compensation,"Electrical equipment, appliances, and components",4,Power,2013,266
+compensation,"Electrical equipment, appliances, and components",4,Power,2014,260
+compensation,"Electrical equipment, appliances, and components",4,Power,2015,221
+compensation,"Electrical equipment, appliances, and components",4,Power,2016,240
+compensation,"Electrical equipment, appliances, and components",4,Power,2017,217
+compensation,"Electrical equipment, appliances, and components",4,Power,2018,238
+compensation,"Electrical equipment, appliances, and components",4,Power,2019,213
+compensation,"Electrical equipment, appliances, and components",4,Power,2020,184
+compensation,"Electrical equipment, appliances, and components",4,Power,2021,183
+compensation,"Electrical equipment, appliances, and components",4,Power,2022,203
+compensation,"Electrical equipment, appliances, and components",4,Power,2023,207
+compensation,Other transportation equipment3,5,Transportation,2012,8235
+compensation,Other transportation equipment3,5,Transportation,2013,8473
+compensation,Other transportation equipment3,5,Transportation,2014,8752
+compensation,Other transportation equipment3,5,Transportation,2015,9439
+compensation,Other transportation equipment3,5,Transportation,2016,7989
+compensation,Other transportation equipment3,5,Transportation,2017,7332
+compensation,Other transportation equipment3,5,Transportation,2018,7724
+compensation,Other transportation equipment3,5,Transportation,2019,10517
+compensation,Other transportation equipment3,5,Transportation,2020,9609
+compensation,Other transportation equipment3,5,Transportation,2021,9585
+compensation,Other transportation equipment3,5,Transportation,2022,8762
+compensation,Other transportation equipment3,5,Transportation,2023,9695
+compensation,Furniture and related products,13,NA,2012,6
+compensation,Furniture and related products,13,NA,2013,7
+compensation,Furniture and related products,13,NA,2014,6
+compensation,Furniture and related products,13,NA,2015,4
+compensation,Furniture and related products,13,NA,2016,3
+compensation,Furniture and related products,13,NA,2017,4
+compensation,Furniture and related products,13,NA,2018,4
+compensation,Furniture and related products,13,NA,2019,3
+compensation,Furniture and related products,13,NA,2020,3
+compensation,Furniture and related products,13,NA,2021,3
+compensation,Furniture and related products,13,NA,2022,3
+compensation,Furniture and related products,13,NA,2023,3
+compensation,Miscellaneous manufacturing,7,Textiles,2012,235
+compensation,Miscellaneous manufacturing,7,Textiles,2013,294
+compensation,Miscellaneous manufacturing,7,Textiles,2014,288
+compensation,Miscellaneous manufacturing,7,Textiles,2015,145
+compensation,Miscellaneous manufacturing,7,Textiles,2016,157
+compensation,Miscellaneous manufacturing,7,Textiles,2017,172
+compensation,Miscellaneous manufacturing,7,Textiles,2018,183
+compensation,Miscellaneous manufacturing,7,Textiles,2019,174
+compensation,Miscellaneous manufacturing,7,Textiles,2020,155
+compensation,Miscellaneous manufacturing,7,Textiles,2021,194
+compensation,Miscellaneous manufacturing,7,Textiles,2022,242
+compensation,Miscellaneous manufacturing,7,Textiles,2023,244
+compensation,Nondurable goods,13,NA,2012,139
+compensation,Nondurable goods,13,NA,2013,145
+compensation,Nondurable goods,13,NA,2014,141
+compensation,Nondurable goods,13,NA,2015,61
+compensation,Nondurable goods,13,NA,2016,72
+compensation,Nondurable goods,13,NA,2017,70
+compensation,Nondurable goods,13,NA,2018,64
+compensation,Nondurable goods,13,NA,2019,54
+compensation,Nondurable goods,13,NA,2020,49
+compensation,Nondurable goods,13,NA,2021,55
+compensation,Nondurable goods,13,NA,2022,70
+compensation,Nondurable goods,13,NA,2023,72
+compensation,Food and beverage and tobacco products,8,Grain,2012,36
+compensation,Food and beverage and tobacco products,8,Grain,2013,48
+compensation,Food and beverage and tobacco products,8,Grain,2014,51
+compensation,Food and beverage and tobacco products,8,Grain,2015,22
+compensation,Food and beverage and tobacco products,8,Grain,2016,22
+compensation,Food and beverage and tobacco products,8,Grain,2017,22
+compensation,Food and beverage and tobacco products,8,Grain,2018,23
+compensation,Food and beverage and tobacco products,8,Grain,2019,17
+compensation,Food and beverage and tobacco products,8,Grain,2020,19
+compensation,Food and beverage and tobacco products,8,Grain,2021,21
+compensation,Food and beverage and tobacco products,8,Grain,2022,30
+compensation,Food and beverage and tobacco products,8,Grain,2023,30
+compensation,Textile mills and textile product mills,7,Textiles,2012,5
+compensation,Textile mills and textile product mills,7,Textiles,2013,7
+compensation,Textile mills and textile product mills,7,Textiles,2014,6
+compensation,Textile mills and textile product mills,7,Textiles,2015,3
+compensation,Textile mills and textile product mills,7,Textiles,2016,5
+compensation,Textile mills and textile product mills,7,Textiles,2017,4
+compensation,Textile mills and textile product mills,7,Textiles,2018,4
+compensation,Textile mills and textile product mills,7,Textiles,2019,3
+compensation,Textile mills and textile product mills,7,Textiles,2020,3
+compensation,Textile mills and textile product mills,7,Textiles,2021,3
+compensation,Textile mills and textile product mills,7,Textiles,2022,4
+compensation,Textile mills and textile product mills,7,Textiles,2023,4
+compensation,Apparel and leather and allied products,7,Textiles,2012,8
+compensation,Apparel and leather and allied products,7,Textiles,2013,10
+compensation,Apparel and leather and allied products,7,Textiles,2014,9
+compensation,Apparel and leather and allied products,7,Textiles,2015,5
+compensation,Apparel and leather and allied products,7,Textiles,2016,8
+compensation,Apparel and leather and allied products,7,Textiles,2017,7
+compensation,Apparel and leather and allied products,7,Textiles,2018,7
+compensation,Apparel and leather and allied products,7,Textiles,2019,5
+compensation,Apparel and leather and allied products,7,Textiles,2020,4
+compensation,Apparel and leather and allied products,7,Textiles,2021,5
+compensation,Apparel and leather and allied products,7,Textiles,2022,6
+compensation,Apparel and leather and allied products,7,Textiles,2023,6
+compensation,Paper products,6,Lumber,2012,4
+compensation,Paper products,6,Lumber,2013,11
+compensation,Paper products,6,Lumber,2014,9
+compensation,Paper products,6,Lumber,2015,5
+compensation,Paper products,6,Lumber,2016,5
+compensation,Paper products,6,Lumber,2017,8
+compensation,Paper products,6,Lumber,2018,5
+compensation,Paper products,6,Lumber,2019,5
+compensation,Paper products,6,Lumber,2020,4
+compensation,Paper products,6,Lumber,2021,5
+compensation,Paper products,6,Lumber,2022,5
+compensation,Paper products,6,Lumber,2023,6
+compensation,Printing and related support activities,13,NA,2012,13
+compensation,Printing and related support activities,13,NA,2013,12
+compensation,Printing and related support activities,13,NA,2014,10
+compensation,Printing and related support activities,13,NA,2015,3
+compensation,Printing and related support activities,13,NA,2016,3
+compensation,Printing and related support activities,13,NA,2017,2
+compensation,Printing and related support activities,13,NA,2018,2
+compensation,Printing and related support activities,13,NA,2019,4
+compensation,Printing and related support activities,13,NA,2020,2
+compensation,Printing and related support activities,13,NA,2021,2
+compensation,Printing and related support activities,13,NA,2022,2
+compensation,Printing and related support activities,13,NA,2023,2
+compensation,Petroleum and coal products,11,Mining,2012,2
+compensation,Petroleum and coal products,11,Mining,2013,1
+compensation,Petroleum and coal products,11,Mining,2014,1
+compensation,Petroleum and coal products,11,Mining,2015,0
+compensation,Petroleum and coal products,11,Mining,2016,1
+compensation,Petroleum and coal products,11,Mining,2017,0
+compensation,Petroleum and coal products,11,Mining,2018,2
+compensation,Petroleum and coal products,11,Mining,2019,1
+compensation,Petroleum and coal products,11,Mining,2020,2
+compensation,Petroleum and coal products,11,Mining,2021,1
+compensation,Petroleum and coal products,11,Mining,2022,1
+compensation,Petroleum and coal products,11,Mining,2023,1
+compensation,Chemical products,7,Textiles,2012,32
+compensation,Chemical products,7,Textiles,2013,9
+compensation,Chemical products,7,Textiles,2014,8
+compensation,Chemical products,7,Textiles,2015,7
+compensation,Chemical products,7,Textiles,2016,5
+compensation,Chemical products,7,Textiles,2017,4
+compensation,Chemical products,7,Textiles,2018,3
+compensation,Chemical products,7,Textiles,2019,3
+compensation,Chemical products,7,Textiles,2020,3
+compensation,Chemical products,7,Textiles,2021,3
+compensation,Chemical products,7,Textiles,2022,4
+compensation,Chemical products,7,Textiles,2023,4
+compensation,Plastics and rubber products,7,Textiles,2012,39
+compensation,Plastics and rubber products,7,Textiles,2013,48
+compensation,Plastics and rubber products,7,Textiles,2014,46
+compensation,Plastics and rubber products,7,Textiles,2015,15
+compensation,Plastics and rubber products,7,Textiles,2016,23
+compensation,Plastics and rubber products,7,Textiles,2017,23
+compensation,Plastics and rubber products,7,Textiles,2018,16
+compensation,Plastics and rubber products,7,Textiles,2019,15
+compensation,Plastics and rubber products,7,Textiles,2020,13
+compensation,Plastics and rubber products,7,Textiles,2021,15
+compensation,Plastics and rubber products,7,Textiles,2022,19
+compensation,Plastics and rubber products,7,Textiles,2023,19
+compensation,Wholesale trade,13,NA,2012,7708
+compensation,Wholesale trade,13,NA,2013,7612
+compensation,Wholesale trade,13,NA,2014,7667
+compensation,Wholesale trade,13,NA,2015,8402
+compensation,Wholesale trade,13,NA,2016,8676
+compensation,Wholesale trade,13,NA,2017,9262
+compensation,Wholesale trade,13,NA,2018,9415
+compensation,Wholesale trade,13,NA,2019,9058
+compensation,Wholesale trade,13,NA,2020,9219
+compensation,Wholesale trade,13,NA,2021,9442
+compensation,Wholesale trade,13,NA,2022,10279
+compensation,Wholesale trade,13,NA,2023,10483
+compensation,Retail trade,13,NA,2012,107
+compensation,Retail trade,13,NA,2013,143
+compensation,Retail trade,13,NA,2014,155
+compensation,Retail trade,13,NA,2015,194
+compensation,Retail trade,13,NA,2016,265
+compensation,Retail trade,13,NA,2017,230
+compensation,Retail trade,13,NA,2018,270
+compensation,Retail trade,13,NA,2019,361
+compensation,Retail trade,13,NA,2020,217
+compensation,Retail trade,13,NA,2021,342
+compensation,Retail trade,13,NA,2022,300
+compensation,Retail trade,13,NA,2023,316
+compensation,Food and beverage stores,8,Grain,2012,0
+compensation,Food and beverage stores,8,Grain,2013,1
+compensation,Food and beverage stores,8,Grain,2014,0
+compensation,Food and beverage stores,8,Grain,2015,0
+compensation,Food and beverage stores,8,Grain,2016,1
+compensation,Food and beverage stores,8,Grain,2017,0
+compensation,Food and beverage stores,8,Grain,2018,1
+compensation,Food and beverage stores,8,Grain,2019,1
+compensation,Food and beverage stores,8,Grain,2020,1
+compensation,Food and beverage stores,8,Grain,2021,1
+compensation,Food and beverage stores,8,Grain,2022,1
+compensation,Food and beverage stores,8,Grain,2023,1
+compensation,General merchandise stores,13,NA,2012,15
+compensation,General merchandise stores,13,NA,2013,17
+compensation,General merchandise stores,13,NA,2014,18
+compensation,General merchandise stores,13,NA,2015,20
+compensation,General merchandise stores,13,NA,2016,29
+compensation,General merchandise stores,13,NA,2017,24
+compensation,General merchandise stores,13,NA,2018,28
+compensation,General merchandise stores,13,NA,2019,40
+compensation,General merchandise stores,13,NA,2020,29
+compensation,General merchandise stores,13,NA,2021,39
+compensation,General merchandise stores,13,NA,2022,41
+compensation,General merchandise stores,13,NA,2023,45
+compensation,Other retail,12,Underground,2012,91
+compensation,Other retail,12,Underground,2013,125
+compensation,Other retail,12,Underground,2014,136
+compensation,Other retail,12,Underground,2015,173
+compensation,Other retail,12,Underground,2016,235
+compensation,Other retail,12,Underground,2017,205
+compensation,Other retail,12,Underground,2018,241
+compensation,Other retail,12,Underground,2019,321
+compensation,Other retail,12,Underground,2020,186
+compensation,Other retail,12,Underground,2021,302
+compensation,Other retail,12,Underground,2022,258
+compensation,Other retail,12,Underground,2023,269
+compensation,Transportation and warehousing,5,Transportation,2012,401
+compensation,Transportation and warehousing,5,Transportation,2013,364
+compensation,Transportation and warehousing,5,Transportation,2014,322
+compensation,Transportation and warehousing,5,Transportation,2015,323
+compensation,Transportation and warehousing,5,Transportation,2016,345
+compensation,Transportation and warehousing,5,Transportation,2017,338
+compensation,Transportation and warehousing,5,Transportation,2018,412
+compensation,Transportation and warehousing,5,Transportation,2019,358
+compensation,Transportation and warehousing,5,Transportation,2020,410
+compensation,Transportation and warehousing,5,Transportation,2021,346
+compensation,Transportation and warehousing,5,Transportation,2022,557
+compensation,Transportation and warehousing,5,Transportation,2023,601
+compensation,Air transportation,5,Transportation,2012,201
+compensation,Air transportation,5,Transportation,2013,165
+compensation,Air transportation,5,Transportation,2014,125
+compensation,Air transportation,5,Transportation,2015,137
+compensation,Air transportation,5,Transportation,2016,147
+compensation,Air transportation,5,Transportation,2017,125
+compensation,Air transportation,5,Transportation,2018,182
+compensation,Air transportation,5,Transportation,2019,112
+compensation,Air transportation,5,Transportation,2020,163
+compensation,Air transportation,5,Transportation,2021,92
+compensation,Air transportation,5,Transportation,2022,243
+compensation,Air transportation,5,Transportation,2023,305
+compensation,Rail transportation,5,Transportation,2012,1
+compensation,Rail transportation,5,Transportation,2013,0
+compensation,Rail transportation,5,Transportation,2014,1
+compensation,Rail transportation,5,Transportation,2015,1
+compensation,Rail transportation,5,Transportation,2016,1
+compensation,Rail transportation,5,Transportation,2017,1
+compensation,Rail transportation,5,Transportation,2018,1
+compensation,Rail transportation,5,Transportation,2019,1
+compensation,Rail transportation,5,Transportation,2020,1
+compensation,Rail transportation,5,Transportation,2021,1
+compensation,Rail transportation,5,Transportation,2022,2
+compensation,Rail transportation,5,Transportation,2023,1
+compensation,Truck transportation,5,Transportation,2012,187
+compensation,Truck transportation,5,Transportation,2013,190
+compensation,Truck transportation,5,Transportation,2014,191
+compensation,Truck transportation,5,Transportation,2015,182
+compensation,Truck transportation,5,Transportation,2016,186
+compensation,Truck transportation,5,Transportation,2017,204
+compensation,Truck transportation,5,Transportation,2018,221
+compensation,Truck transportation,5,Transportation,2019,224
+compensation,Truck transportation,5,Transportation,2020,228
+compensation,Truck transportation,5,Transportation,2021,241
+compensation,Truck transportation,5,Transportation,2022,300
+compensation,Truck transportation,5,Transportation,2023,279
+compensation,Other transportation and support activities,5,Transportation,2012,10
+compensation,Other transportation and support activities,5,Transportation,2013,7
+compensation,Other transportation and support activities,5,Transportation,2014,4
+compensation,Other transportation and support activities,5,Transportation,2015,3
+compensation,Other transportation and support activities,5,Transportation,2016,9
+compensation,Other transportation and support activities,5,Transportation,2017,6
+compensation,Other transportation and support activities,5,Transportation,2018,5
+compensation,Other transportation and support activities,5,Transportation,2019,19
+compensation,Other transportation and support activities,5,Transportation,2020,15
+compensation,Other transportation and support activities,5,Transportation,2021,9
+compensation,Other transportation and support activities,5,Transportation,2022,10
+compensation,Other transportation and support activities,5,Transportation,2023,14
+compensation,Warehousing and storage,5,Transportation,2012,1
+compensation,Warehousing and storage,5,Transportation,2013,1
+compensation,Warehousing and storage,5,Transportation,2014,1
+compensation,Warehousing and storage,5,Transportation,2015,1
+compensation,Warehousing and storage,5,Transportation,2016,1
+compensation,Warehousing and storage,5,Transportation,2017,2
+compensation,Warehousing and storage,5,Transportation,2018,2
+compensation,Warehousing and storage,5,Transportation,2019,2
+compensation,Warehousing and storage,5,Transportation,2020,1
+compensation,Warehousing and storage,5,Transportation,2021,2
+compensation,Warehousing and storage,5,Transportation,2022,2
+compensation,Warehousing and storage,5,Transportation,2023,2
+compensation,Information,13,NA,2012,10347
+compensation,Information,13,NA,2013,11018
+compensation,Information,13,NA,2014,11688
+compensation,Information,13,NA,2015,11789
+compensation,Information,13,NA,2016,11116
+compensation,Information,13,NA,2017,11366
+compensation,Information,13,NA,2018,10665
+compensation,Information,13,NA,2019,10596
+compensation,Information,13,NA,2020,10231
+compensation,Information,13,NA,2021,9744
+compensation,Information,13,NA,2022,9795
+compensation,Information,13,NA,2023,10230
 compensation,"Publishing industries, except internet (includes software)",3,Technology,2012,127
 compensation,"Publishing industries, except internet (includes software)",3,Technology,2013,101
 compensation,"Publishing industries, except internet (includes software)",3,Technology,2014,92
@@ -479,18 +479,18 @@ compensation,"Publishing industries, except internet (includes software)",3,Tech
 compensation,"Publishing industries, except internet (includes software)",3,Technology,2021,120
 compensation,"Publishing industries, except internet (includes software)",3,Technology,2022,125
 compensation,"Publishing industries, except internet (includes software)",3,Technology,2023,156
-compensation,Motion picture and sound recording industries,13,Underground,2012,11
-compensation,Motion picture and sound recording industries,13,Underground,2013,12
-compensation,Motion picture and sound recording industries,13,Underground,2014,12
-compensation,Motion picture and sound recording industries,13,Underground,2015,11
-compensation,Motion picture and sound recording industries,13,Underground,2016,10
-compensation,Motion picture and sound recording industries,13,Underground,2017,12
-compensation,Motion picture and sound recording industries,13,Underground,2018,10
-compensation,Motion picture and sound recording industries,13,Underground,2019,13
-compensation,Motion picture and sound recording industries,13,Underground,2020,9
-compensation,Motion picture and sound recording industries,13,Underground,2021,11
-compensation,Motion picture and sound recording industries,13,Underground,2022,12
-compensation,Motion picture and sound recording industries,13,Underground,2023,12
+compensation,Motion picture and sound recording industries,13,NA,2012,11
+compensation,Motion picture and sound recording industries,13,NA,2013,12
+compensation,Motion picture and sound recording industries,13,NA,2014,12
+compensation,Motion picture and sound recording industries,13,NA,2015,11
+compensation,Motion picture and sound recording industries,13,NA,2016,10
+compensation,Motion picture and sound recording industries,13,NA,2017,12
+compensation,Motion picture and sound recording industries,13,NA,2018,10
+compensation,Motion picture and sound recording industries,13,NA,2019,13
+compensation,Motion picture and sound recording industries,13,NA,2020,9
+compensation,Motion picture and sound recording industries,13,NA,2021,11
+compensation,Motion picture and sound recording industries,13,NA,2022,12
+compensation,Motion picture and sound recording industries,13,NA,2023,12
 compensation,Broadcasting and telecommunications4,1,Luxury,2012,10014
 compensation,Broadcasting and telecommunications4,1,Luxury,2013,10672
 compensation,Broadcasting and telecommunications4,1,Luxury,2014,11341
@@ -515,150 +515,150 @@ compensation,"Data processing, internet publishing, and other information servic
 compensation,"Data processing, internet publishing, and other information services",3,Technology,2021,376
 compensation,"Data processing, internet publishing, and other information services",3,Technology,2022,411
 compensation,"Data processing, internet publishing, and other information services",3,Technology,2023,460
-compensation,"Finance, insurance, real estate, rental, and leasing",13,Underground,2012,118
-compensation,"Finance, insurance, real estate, rental, and leasing",13,Underground,2013,69
-compensation,"Finance, insurance, real estate, rental, and leasing",13,Underground,2014,51
-compensation,"Finance, insurance, real estate, rental, and leasing",13,Underground,2015,74
-compensation,"Finance, insurance, real estate, rental, and leasing",13,Underground,2016,83
-compensation,"Finance, insurance, real estate, rental, and leasing",13,Underground,2017,75
-compensation,"Finance, insurance, real estate, rental, and leasing",13,Underground,2018,53
-compensation,"Finance, insurance, real estate, rental, and leasing",13,Underground,2019,45
-compensation,"Finance, insurance, real estate, rental, and leasing",13,Underground,2020,35
-compensation,"Finance, insurance, real estate, rental, and leasing",13,Underground,2021,41
-compensation,"Finance, insurance, real estate, rental, and leasing",13,Underground,2022,76
-compensation,"Finance, insurance, real estate, rental, and leasing",13,Underground,2023,83
-compensation,Finance and insurance,13,Underground,2012,118
-compensation,Finance and insurance,13,Underground,2013,69
-compensation,Finance and insurance,13,Underground,2014,50
-compensation,Finance and insurance,13,Underground,2015,73
-compensation,Finance and insurance,13,Underground,2016,83
-compensation,Finance and insurance,13,Underground,2017,74
-compensation,Finance and insurance,13,Underground,2018,51
-compensation,Finance and insurance,13,Underground,2019,44
-compensation,Finance and insurance,13,Underground,2020,33
-compensation,Finance and insurance,13,Underground,2021,39
-compensation,Finance and insurance,13,Underground,2022,74
-compensation,Finance and insurance,13,Underground,2023,81
-compensation,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2012,3
-compensation,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2013,3
-compensation,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2014,3
-compensation,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2015,5
-compensation,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2016,7
-compensation,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2017,7
-compensation,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2018,5
-compensation,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2019,5
-compensation,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2020,5
-compensation,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2021,9
-compensation,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2022,8
-compensation,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2023,8
-compensation,"Securities, commodity contracts, and investments",13,Underground,2012,2
-compensation,"Securities, commodity contracts, and investments",13,Underground,2013,2
-compensation,"Securities, commodity contracts, and investments",13,Underground,2014,3
-compensation,"Securities, commodity contracts, and investments",13,Underground,2015,4
-compensation,"Securities, commodity contracts, and investments",13,Underground,2016,5
-compensation,"Securities, commodity contracts, and investments",13,Underground,2017,18
-compensation,"Securities, commodity contracts, and investments",13,Underground,2018,4
-compensation,"Securities, commodity contracts, and investments",13,Underground,2019,4
-compensation,"Securities, commodity contracts, and investments",13,Underground,2020,5
-compensation,"Securities, commodity contracts, and investments",13,Underground,2021,6
-compensation,"Securities, commodity contracts, and investments",13,Underground,2022,6
-compensation,"Securities, commodity contracts, and investments",13,Underground,2023,6
-compensation,Insurance carriers and related activities,13,Underground,2012,113
-compensation,Insurance carriers and related activities,13,Underground,2013,63
-compensation,Insurance carriers and related activities,13,Underground,2014,45
-compensation,Insurance carriers and related activities,13,Underground,2015,65
-compensation,Insurance carriers and related activities,13,Underground,2016,70
-compensation,Insurance carriers and related activities,13,Underground,2017,49
-compensation,Insurance carriers and related activities,13,Underground,2018,42
-compensation,Insurance carriers and related activities,13,Underground,2019,35
-compensation,Insurance carriers and related activities,13,Underground,2020,24
-compensation,Insurance carriers and related activities,13,Underground,2021,25
-compensation,Insurance carriers and related activities,13,Underground,2022,60
-compensation,Insurance carriers and related activities,13,Underground,2023,67
-compensation,Real estate and rental and leasing,13,Underground,2012,0
-compensation,Real estate and rental and leasing,13,Underground,2013,0
-compensation,Real estate and rental and leasing,13,Underground,2014,0
-compensation,Real estate and rental and leasing,13,Underground,2015,1
-compensation,Real estate and rental and leasing,13,Underground,2016,1
-compensation,Real estate and rental and leasing,13,Underground,2017,1
-compensation,Real estate and rental and leasing,13,Underground,2018,1
-compensation,Real estate and rental and leasing,13,Underground,2019,2
-compensation,Real estate and rental and leasing,13,Underground,2020,2
-compensation,Real estate and rental and leasing,13,Underground,2021,2
-compensation,Real estate and rental and leasing,13,Underground,2022,2
-compensation,Real estate and rental and leasing,13,Underground,2023,2
-compensation,Real estate,13,Underground,2012,0
-compensation,Real estate,13,Underground,2013,0
-compensation,Real estate,13,Underground,2014,0
-compensation,Real estate,13,Underground,2015,0
-compensation,Real estate,13,Underground,2016,0
-compensation,Real estate,13,Underground,2017,1
-compensation,Real estate,13,Underground,2018,1
-compensation,Real estate,13,Underground,2019,1
-compensation,Real estate,13,Underground,2020,1
-compensation,Real estate,13,Underground,2021,1
-compensation,Real estate,13,Underground,2022,1
-compensation,Real estate,13,Underground,2023,1
-compensation,Other real estate,13,Underground,2012,0
-compensation,Other real estate,13,Underground,2013,0
-compensation,Other real estate,13,Underground,2014,0
-compensation,Other real estate,13,Underground,2015,0
-compensation,Other real estate,13,Underground,2016,0
-compensation,Other real estate,13,Underground,2017,1
-compensation,Other real estate,13,Underground,2018,1
-compensation,Other real estate,13,Underground,2019,1
-compensation,Other real estate,13,Underground,2020,1
-compensation,Other real estate,13,Underground,2021,1
-compensation,Other real estate,13,Underground,2022,1
-compensation,Other real estate,13,Underground,2023,1
-compensation,Rental and leasing services and lessors of intangible assets,13,Underground,2012,0
-compensation,Rental and leasing services and lessors of intangible assets,13,Underground,2013,0
-compensation,Rental and leasing services and lessors of intangible assets,13,Underground,2014,0
-compensation,Rental and leasing services and lessors of intangible assets,13,Underground,2015,0
-compensation,Rental and leasing services and lessors of intangible assets,13,Underground,2016,1
-compensation,Rental and leasing services and lessors of intangible assets,13,Underground,2017,1
-compensation,Rental and leasing services and lessors of intangible assets,13,Underground,2018,1
-compensation,Rental and leasing services and lessors of intangible assets,13,Underground,2019,1
-compensation,Rental and leasing services and lessors of intangible assets,13,Underground,2020,1
-compensation,Rental and leasing services and lessors of intangible assets,13,Underground,2021,1
-compensation,Rental and leasing services and lessors of intangible assets,13,Underground,2022,1
-compensation,Rental and leasing services and lessors of intangible assets,13,Underground,2023,1
-compensation,Professional and business services,13,Underground,2012,4987
-compensation,Professional and business services,13,Underground,2013,5372
-compensation,Professional and business services,13,Underground,2014,5490
-compensation,Professional and business services,13,Underground,2015,6133
-compensation,Professional and business services,13,Underground,2016,5869
-compensation,Professional and business services,13,Underground,2017,5934
-compensation,Professional and business services,13,Underground,2018,5625
-compensation,Professional and business services,13,Underground,2019,5899
-compensation,Professional and business services,13,Underground,2020,5777
-compensation,Professional and business services,13,Underground,2021,6399
-compensation,Professional and business services,13,Underground,2022,8167
-compensation,Professional and business services,13,Underground,2023,8619
-compensation,"Professional, scientific, and technical services",13,Underground,2012,4866
-compensation,"Professional, scientific, and technical services",13,Underground,2013,5229
-compensation,"Professional, scientific, and technical services",13,Underground,2014,5368
-compensation,"Professional, scientific, and technical services",13,Underground,2015,5973
-compensation,"Professional, scientific, and technical services",13,Underground,2016,5636
-compensation,"Professional, scientific, and technical services",13,Underground,2017,5711
-compensation,"Professional, scientific, and technical services",13,Underground,2018,5440
-compensation,"Professional, scientific, and technical services",13,Underground,2019,5697
-compensation,"Professional, scientific, and technical services",13,Underground,2020,5595
-compensation,"Professional, scientific, and technical services",13,Underground,2021,6210
-compensation,"Professional, scientific, and technical services",13,Underground,2022,7953
-compensation,"Professional, scientific, and technical services",13,Underground,2023,8371
-compensation,Legal services,13,Underground,2012,0
-compensation,Legal services,13,Underground,2013,0
-compensation,Legal services,13,Underground,2014,0
-compensation,Legal services,13,Underground,2015,1
-compensation,Legal services,13,Underground,2016,1
-compensation,Legal services,13,Underground,2017,1
-compensation,Legal services,13,Underground,2018,1
-compensation,Legal services,13,Underground,2019,1
-compensation,Legal services,13,Underground,2020,1
-compensation,Legal services,13,Underground,2021,1
-compensation,Legal services,13,Underground,2022,1
-compensation,Legal services,13,Underground,2023,1
+compensation,"Finance, insurance, real estate, rental, and leasing",13,NA,2012,118
+compensation,"Finance, insurance, real estate, rental, and leasing",13,NA,2013,69
+compensation,"Finance, insurance, real estate, rental, and leasing",13,NA,2014,51
+compensation,"Finance, insurance, real estate, rental, and leasing",13,NA,2015,74
+compensation,"Finance, insurance, real estate, rental, and leasing",13,NA,2016,83
+compensation,"Finance, insurance, real estate, rental, and leasing",13,NA,2017,75
+compensation,"Finance, insurance, real estate, rental, and leasing",13,NA,2018,53
+compensation,"Finance, insurance, real estate, rental, and leasing",13,NA,2019,45
+compensation,"Finance, insurance, real estate, rental, and leasing",13,NA,2020,35
+compensation,"Finance, insurance, real estate, rental, and leasing",13,NA,2021,41
+compensation,"Finance, insurance, real estate, rental, and leasing",13,NA,2022,76
+compensation,"Finance, insurance, real estate, rental, and leasing",13,NA,2023,83
+compensation,Finance and insurance,13,NA,2012,118
+compensation,Finance and insurance,13,NA,2013,69
+compensation,Finance and insurance,13,NA,2014,50
+compensation,Finance and insurance,13,NA,2015,73
+compensation,Finance and insurance,13,NA,2016,83
+compensation,Finance and insurance,13,NA,2017,74
+compensation,Finance and insurance,13,NA,2018,51
+compensation,Finance and insurance,13,NA,2019,44
+compensation,Finance and insurance,13,NA,2020,33
+compensation,Finance and insurance,13,NA,2021,39
+compensation,Finance and insurance,13,NA,2022,74
+compensation,Finance and insurance,13,NA,2023,81
+compensation,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2012,3
+compensation,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2013,3
+compensation,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2014,3
+compensation,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2015,5
+compensation,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2016,7
+compensation,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2017,7
+compensation,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2018,5
+compensation,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2019,5
+compensation,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2020,5
+compensation,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2021,9
+compensation,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2022,8
+compensation,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2023,8
+compensation,"Securities, commodity contracts, and investments",13,NA,2012,2
+compensation,"Securities, commodity contracts, and investments",13,NA,2013,2
+compensation,"Securities, commodity contracts, and investments",13,NA,2014,3
+compensation,"Securities, commodity contracts, and investments",13,NA,2015,4
+compensation,"Securities, commodity contracts, and investments",13,NA,2016,5
+compensation,"Securities, commodity contracts, and investments",13,NA,2017,18
+compensation,"Securities, commodity contracts, and investments",13,NA,2018,4
+compensation,"Securities, commodity contracts, and investments",13,NA,2019,4
+compensation,"Securities, commodity contracts, and investments",13,NA,2020,5
+compensation,"Securities, commodity contracts, and investments",13,NA,2021,6
+compensation,"Securities, commodity contracts, and investments",13,NA,2022,6
+compensation,"Securities, commodity contracts, and investments",13,NA,2023,6
+compensation,Insurance carriers and related activities,13,NA,2012,113
+compensation,Insurance carriers and related activities,13,NA,2013,63
+compensation,Insurance carriers and related activities,13,NA,2014,45
+compensation,Insurance carriers and related activities,13,NA,2015,65
+compensation,Insurance carriers and related activities,13,NA,2016,70
+compensation,Insurance carriers and related activities,13,NA,2017,49
+compensation,Insurance carriers and related activities,13,NA,2018,42
+compensation,Insurance carriers and related activities,13,NA,2019,35
+compensation,Insurance carriers and related activities,13,NA,2020,24
+compensation,Insurance carriers and related activities,13,NA,2021,25
+compensation,Insurance carriers and related activities,13,NA,2022,60
+compensation,Insurance carriers and related activities,13,NA,2023,67
+compensation,Real estate and rental and leasing,13,NA,2012,0
+compensation,Real estate and rental and leasing,13,NA,2013,0
+compensation,Real estate and rental and leasing,13,NA,2014,0
+compensation,Real estate and rental and leasing,13,NA,2015,1
+compensation,Real estate and rental and leasing,13,NA,2016,1
+compensation,Real estate and rental and leasing,13,NA,2017,1
+compensation,Real estate and rental and leasing,13,NA,2018,1
+compensation,Real estate and rental and leasing,13,NA,2019,2
+compensation,Real estate and rental and leasing,13,NA,2020,2
+compensation,Real estate and rental and leasing,13,NA,2021,2
+compensation,Real estate and rental and leasing,13,NA,2022,2
+compensation,Real estate and rental and leasing,13,NA,2023,2
+compensation,Real estate,13,NA,2012,0
+compensation,Real estate,13,NA,2013,0
+compensation,Real estate,13,NA,2014,0
+compensation,Real estate,13,NA,2015,0
+compensation,Real estate,13,NA,2016,0
+compensation,Real estate,13,NA,2017,1
+compensation,Real estate,13,NA,2018,1
+compensation,Real estate,13,NA,2019,1
+compensation,Real estate,13,NA,2020,1
+compensation,Real estate,13,NA,2021,1
+compensation,Real estate,13,NA,2022,1
+compensation,Real estate,13,NA,2023,1
+compensation,Other real estate,12,Underground,2012,0
+compensation,Other real estate,12,Underground,2013,0
+compensation,Other real estate,12,Underground,2014,0
+compensation,Other real estate,12,Underground,2015,0
+compensation,Other real estate,12,Underground,2016,0
+compensation,Other real estate,12,Underground,2017,1
+compensation,Other real estate,12,Underground,2018,1
+compensation,Other real estate,12,Underground,2019,1
+compensation,Other real estate,12,Underground,2020,1
+compensation,Other real estate,12,Underground,2021,1
+compensation,Other real estate,12,Underground,2022,1
+compensation,Other real estate,12,Underground,2023,1
+compensation,Rental and leasing services and lessors of intangible assets,13,NA,2012,0
+compensation,Rental and leasing services and lessors of intangible assets,13,NA,2013,0
+compensation,Rental and leasing services and lessors of intangible assets,13,NA,2014,0
+compensation,Rental and leasing services and lessors of intangible assets,13,NA,2015,0
+compensation,Rental and leasing services and lessors of intangible assets,13,NA,2016,1
+compensation,Rental and leasing services and lessors of intangible assets,13,NA,2017,1
+compensation,Rental and leasing services and lessors of intangible assets,13,NA,2018,1
+compensation,Rental and leasing services and lessors of intangible assets,13,NA,2019,1
+compensation,Rental and leasing services and lessors of intangible assets,13,NA,2020,1
+compensation,Rental and leasing services and lessors of intangible assets,13,NA,2021,1
+compensation,Rental and leasing services and lessors of intangible assets,13,NA,2022,1
+compensation,Rental and leasing services and lessors of intangible assets,13,NA,2023,1
+compensation,Professional and business services,13,NA,2012,4987
+compensation,Professional and business services,13,NA,2013,5372
+compensation,Professional and business services,13,NA,2014,5490
+compensation,Professional and business services,13,NA,2015,6133
+compensation,Professional and business services,13,NA,2016,5869
+compensation,Professional and business services,13,NA,2017,5934
+compensation,Professional and business services,13,NA,2018,5625
+compensation,Professional and business services,13,NA,2019,5899
+compensation,Professional and business services,13,NA,2020,5777
+compensation,Professional and business services,13,NA,2021,6399
+compensation,Professional and business services,13,NA,2022,8167
+compensation,Professional and business services,13,NA,2023,8619
+compensation,"Professional, scientific, and technical services",13,NA,2012,4866
+compensation,"Professional, scientific, and technical services",13,NA,2013,5229
+compensation,"Professional, scientific, and technical services",13,NA,2014,5368
+compensation,"Professional, scientific, and technical services",13,NA,2015,5973
+compensation,"Professional, scientific, and technical services",13,NA,2016,5636
+compensation,"Professional, scientific, and technical services",13,NA,2017,5711
+compensation,"Professional, scientific, and technical services",13,NA,2018,5440
+compensation,"Professional, scientific, and technical services",13,NA,2019,5697
+compensation,"Professional, scientific, and technical services",13,NA,2020,5595
+compensation,"Professional, scientific, and technical services",13,NA,2021,6210
+compensation,"Professional, scientific, and technical services",13,NA,2022,7953
+compensation,"Professional, scientific, and technical services",13,NA,2023,8371
+compensation,Legal services,13,NA,2012,0
+compensation,Legal services,13,NA,2013,0
+compensation,Legal services,13,NA,2014,0
+compensation,Legal services,13,NA,2015,1
+compensation,Legal services,13,NA,2016,1
+compensation,Legal services,13,NA,2017,1
+compensation,Legal services,13,NA,2018,1
+compensation,Legal services,13,NA,2019,1
+compensation,Legal services,13,NA,2020,1
+compensation,Legal services,13,NA,2021,1
+compensation,Legal services,13,NA,2022,1
+compensation,Legal services,13,NA,2023,1
 compensation,Computer systems design and related services,3,Technology,2012,404
 compensation,Computer systems design and related services,3,Technology,2013,285
 compensation,Computer systems design and related services,3,Technology,2014,323
@@ -671,183 +671,183 @@ compensation,Computer systems design and related services,3,Technology,2020,545
 compensation,Computer systems design and related services,3,Technology,2021,741
 compensation,Computer systems design and related services,3,Technology,2022,812
 compensation,Computer systems design and related services,3,Technology,2023,734
-compensation,"Miscellaneous professional, scientific, and technical services",13,Underground,2012,4462
-compensation,"Miscellaneous professional, scientific, and technical services",13,Underground,2013,4944
-compensation,"Miscellaneous professional, scientific, and technical services",13,Underground,2014,5045
-compensation,"Miscellaneous professional, scientific, and technical services",13,Underground,2015,5565
-compensation,"Miscellaneous professional, scientific, and technical services",13,Underground,2016,5219
-compensation,"Miscellaneous professional, scientific, and technical services",13,Underground,2017,5121
-compensation,"Miscellaneous professional, scientific, and technical services",13,Underground,2018,4961
-compensation,"Miscellaneous professional, scientific, and technical services",13,Underground,2019,5172
-compensation,"Miscellaneous professional, scientific, and technical services",13,Underground,2020,5049
-compensation,"Miscellaneous professional, scientific, and technical services",13,Underground,2021,5468
-compensation,"Miscellaneous professional, scientific, and technical services",13,Underground,2022,7140
-compensation,"Miscellaneous professional, scientific, and technical services",13,Underground,2023,7637
-compensation,Management of companies and enterprises,13,Underground,2012,109
-compensation,Management of companies and enterprises,13,Underground,2013,116
-compensation,Management of companies and enterprises,13,Underground,2014,81
-compensation,Management of companies and enterprises,13,Underground,2015,105
-compensation,Management of companies and enterprises,13,Underground,2016,165
-compensation,Management of companies and enterprises,13,Underground,2017,143
-compensation,Management of companies and enterprises,13,Underground,2018,113
-compensation,Management of companies and enterprises,13,Underground,2019,127
-compensation,Management of companies and enterprises,13,Underground,2020,105
-compensation,Management of companies and enterprises,13,Underground,2021,108
-compensation,Management of companies and enterprises,13,Underground,2022,115
-compensation,Management of companies and enterprises,13,Underground,2023,132
-compensation,Administrative and waste management services,13,Underground,2012,12
-compensation,Administrative and waste management services,13,Underground,2013,26
-compensation,Administrative and waste management services,13,Underground,2014,41
-compensation,Administrative and waste management services,13,Underground,2015,55
-compensation,Administrative and waste management services,13,Underground,2016,68
-compensation,Administrative and waste management services,13,Underground,2017,80
-compensation,Administrative and waste management services,13,Underground,2018,72
-compensation,Administrative and waste management services,13,Underground,2019,75
-compensation,Administrative and waste management services,13,Underground,2020,77
-compensation,Administrative and waste management services,13,Underground,2021,81
-compensation,Administrative and waste management services,13,Underground,2022,99
-compensation,Administrative and waste management services,13,Underground,2023,116
-compensation,Administrative and support services,13,Underground,2012,12
-compensation,Administrative and support services,13,Underground,2013,26
-compensation,Administrative and support services,13,Underground,2014,41
-compensation,Administrative and support services,13,Underground,2015,55
-compensation,Administrative and support services,13,Underground,2016,67
-compensation,Administrative and support services,13,Underground,2017,80
-compensation,Administrative and support services,13,Underground,2018,72
-compensation,Administrative and support services,13,Underground,2019,74
-compensation,Administrative and support services,13,Underground,2020,77
-compensation,Administrative and support services,13,Underground,2021,81
-compensation,Administrative and support services,13,Underground,2022,99
-compensation,Administrative and support services,13,Underground,2023,116
-compensation,"Educational services, health care, and social assistance",13,Underground,2012,1161
-compensation,"Educational services, health care, and social assistance",13,Underground,2013,1145
-compensation,"Educational services, health care, and social assistance",13,Underground,2014,1156
-compensation,"Educational services, health care, and social assistance",13,Underground,2015,1214
-compensation,"Educational services, health care, and social assistance",13,Underground,2016,1229
-compensation,"Educational services, health care, and social assistance",13,Underground,2017,1213
-compensation,"Educational services, health care, and social assistance",13,Underground,2018,1442
-compensation,"Educational services, health care, and social assistance",13,Underground,2019,1601
-compensation,"Educational services, health care, and social assistance",13,Underground,2020,1914
-compensation,"Educational services, health care, and social assistance",13,Underground,2021,1909
-compensation,"Educational services, health care, and social assistance",13,Underground,2022,2178
-compensation,"Educational services, health care, and social assistance",13,Underground,2023,2742
-compensation,Educational services,13,Underground,2012,1115
-compensation,Educational services,13,Underground,2013,1097
-compensation,Educational services,13,Underground,2014,1115
-compensation,Educational services,13,Underground,2015,1167
-compensation,Educational services,13,Underground,2016,1179
-compensation,Educational services,13,Underground,2017,1160
-compensation,Educational services,13,Underground,2018,1379
-compensation,Educational services,13,Underground,2019,1550
-compensation,Educational services,13,Underground,2020,1886
-compensation,Educational services,13,Underground,2021,1853
-compensation,Educational services,13,Underground,2022,2006
-compensation,Educational services,13,Underground,2023,2681
-compensation,Health care and social assistance,13,Underground,2012,46
-compensation,Health care and social assistance,13,Underground,2013,47
-compensation,Health care and social assistance,13,Underground,2014,41
-compensation,Health care and social assistance,13,Underground,2015,47
-compensation,Health care and social assistance,13,Underground,2016,51
-compensation,Health care and social assistance,13,Underground,2017,53
-compensation,Health care and social assistance,13,Underground,2018,63
-compensation,Health care and social assistance,13,Underground,2019,51
-compensation,Health care and social assistance,13,Underground,2020,27
-compensation,Health care and social assistance,13,Underground,2021,56
-compensation,Health care and social assistance,13,Underground,2022,172
-compensation,Health care and social assistance,13,Underground,2023,61
-compensation,Ambulatory health care services,13,Underground,2012,1
-compensation,Ambulatory health care services,13,Underground,2013,1
-compensation,Ambulatory health care services,13,Underground,2014,1
-compensation,Ambulatory health care services,13,Underground,2015,1
-compensation,Ambulatory health care services,13,Underground,2016,2
-compensation,Ambulatory health care services,13,Underground,2017,2
-compensation,Ambulatory health care services,13,Underground,2018,2
-compensation,Ambulatory health care services,13,Underground,2019,2
-compensation,Ambulatory health care services,13,Underground,2020,2
-compensation,Ambulatory health care services,13,Underground,2021,2
-compensation,Ambulatory health care services,13,Underground,2022,2
-compensation,Ambulatory health care services,13,Underground,2023,2
-compensation,Hospitals,13,Underground,2012,45
-compensation,Hospitals,13,Underground,2013,46
-compensation,Hospitals,13,Underground,2014,40
-compensation,Hospitals,13,Underground,2015,46
-compensation,Hospitals,13,Underground,2016,48
-compensation,Hospitals,13,Underground,2017,51
-compensation,Hospitals,13,Underground,2018,61
-compensation,Hospitals,13,Underground,2019,49
-compensation,Hospitals,13,Underground,2020,25
-compensation,Hospitals,13,Underground,2021,54
-compensation,Hospitals,13,Underground,2022,169
-compensation,Hospitals,13,Underground,2023,58
-compensation,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2012,40
-compensation,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2013,45
-compensation,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2014,50
-compensation,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2015,47
-compensation,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2016,53
-compensation,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2017,56
-compensation,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2018,59
-compensation,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2019,61
-compensation,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2020,72
-compensation,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2021,55
-compensation,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2022,57
-compensation,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2023,69
-compensation,"Arts, entertainment, and recreation",13,Underground,2012,39
-compensation,"Arts, entertainment, and recreation",13,Underground,2013,44
-compensation,"Arts, entertainment, and recreation",13,Underground,2014,48
-compensation,"Arts, entertainment, and recreation",13,Underground,2015,46
-compensation,"Arts, entertainment, and recreation",13,Underground,2016,52
-compensation,"Arts, entertainment, and recreation",13,Underground,2017,56
-compensation,"Arts, entertainment, and recreation",13,Underground,2018,59
-compensation,"Arts, entertainment, and recreation",13,Underground,2019,60
-compensation,"Arts, entertainment, and recreation",13,Underground,2020,71
-compensation,"Arts, entertainment, and recreation",13,Underground,2021,55
-compensation,"Arts, entertainment, and recreation",13,Underground,2022,56
-compensation,"Arts, entertainment, and recreation",13,Underground,2023,68
-compensation,"Performing arts, spectator sports, museums, and related activities",13,Underground,2012,39
-compensation,"Performing arts, spectator sports, museums, and related activities",13,Underground,2013,44
-compensation,"Performing arts, spectator sports, museums, and related activities",13,Underground,2014,48
-compensation,"Performing arts, spectator sports, museums, and related activities",13,Underground,2015,45
-compensation,"Performing arts, spectator sports, museums, and related activities",13,Underground,2016,52
-compensation,"Performing arts, spectator sports, museums, and related activities",13,Underground,2017,55
-compensation,"Performing arts, spectator sports, museums, and related activities",13,Underground,2018,58
-compensation,"Performing arts, spectator sports, museums, and related activities",13,Underground,2019,60
-compensation,"Performing arts, spectator sports, museums, and related activities",13,Underground,2020,71
-compensation,"Performing arts, spectator sports, museums, and related activities",13,Underground,2021,55
-compensation,"Performing arts, spectator sports, museums, and related activities",13,Underground,2022,56
-compensation,"Performing arts, spectator sports, museums, and related activities",13,Underground,2023,68
-compensation,Accommodation and food services,9,Grain,2012,1
-compensation,Accommodation and food services,9,Grain,2013,1
-compensation,Accommodation and food services,9,Grain,2014,1
-compensation,Accommodation and food services,9,Grain,2015,1
-compensation,Accommodation and food services,9,Grain,2016,1
-compensation,Accommodation and food services,9,Grain,2017,1
-compensation,Accommodation and food services,9,Grain,2018,1
-compensation,Accommodation and food services,9,Grain,2019,1
-compensation,Accommodation and food services,9,Grain,2020,1
-compensation,Accommodation and food services,9,Grain,2021,1
-compensation,Accommodation and food services,9,Grain,2022,1
-compensation,Accommodation and food services,9,Grain,2023,1
-compensation,Accommodation,13,Underground,2012,1
-compensation,Accommodation,13,Underground,2013,1
-compensation,Accommodation,13,Underground,2014,1
-compensation,Accommodation,13,Underground,2015,1
-compensation,Accommodation,13,Underground,2016,1
-compensation,Accommodation,13,Underground,2017,1
-compensation,Accommodation,13,Underground,2018,1
-compensation,Accommodation,13,Underground,2019,1
-compensation,Accommodation,13,Underground,2020,1
-compensation,Accommodation,13,Underground,2021,1
-compensation,Accommodation,13,Underground,2022,1
-compensation,Accommodation,13,Underground,2023,1
-compensation,"Other services, except government",13,Underground,2012,2
-compensation,"Other services, except government",13,Underground,2013,2
-compensation,"Other services, except government",13,Underground,2014,2
-compensation,"Other services, except government",13,Underground,2015,2
-compensation,"Other services, except government",13,Underground,2016,2
-compensation,"Other services, except government",13,Underground,2017,2
-compensation,"Other services, except government",13,Underground,2018,2
-compensation,"Other services, except government",13,Underground,2019,2
-compensation,"Other services, except government",13,Underground,2020,3
-compensation,"Other services, except government",13,Underground,2021,3
-compensation,"Other services, except government",13,Underground,2022,3
-compensation,"Other services, except government",13,Underground,2023,3
+compensation,"Miscellaneous professional, scientific, and technical services",12,Underground,2012,4462
+compensation,"Miscellaneous professional, scientific, and technical services",12,Underground,2013,4944
+compensation,"Miscellaneous professional, scientific, and technical services",12,Underground,2014,5045
+compensation,"Miscellaneous professional, scientific, and technical services",12,Underground,2015,5565
+compensation,"Miscellaneous professional, scientific, and technical services",12,Underground,2016,5219
+compensation,"Miscellaneous professional, scientific, and technical services",12,Underground,2017,5121
+compensation,"Miscellaneous professional, scientific, and technical services",12,Underground,2018,4961
+compensation,"Miscellaneous professional, scientific, and technical services",12,Underground,2019,5172
+compensation,"Miscellaneous professional, scientific, and technical services",12,Underground,2020,5049
+compensation,"Miscellaneous professional, scientific, and technical services",12,Underground,2021,5468
+compensation,"Miscellaneous professional, scientific, and technical services",12,Underground,2022,7140
+compensation,"Miscellaneous professional, scientific, and technical services",12,Underground,2023,7637
+compensation,Management of companies and enterprises,13,NA,2012,109
+compensation,Management of companies and enterprises,13,NA,2013,116
+compensation,Management of companies and enterprises,13,NA,2014,81
+compensation,Management of companies and enterprises,13,NA,2015,105
+compensation,Management of companies and enterprises,13,NA,2016,165
+compensation,Management of companies and enterprises,13,NA,2017,143
+compensation,Management of companies and enterprises,13,NA,2018,113
+compensation,Management of companies and enterprises,13,NA,2019,127
+compensation,Management of companies and enterprises,13,NA,2020,105
+compensation,Management of companies and enterprises,13,NA,2021,108
+compensation,Management of companies and enterprises,13,NA,2022,115
+compensation,Management of companies and enterprises,13,NA,2023,132
+compensation,Administrative and waste management services,13,NA,2012,12
+compensation,Administrative and waste management services,13,NA,2013,26
+compensation,Administrative and waste management services,13,NA,2014,41
+compensation,Administrative and waste management services,13,NA,2015,55
+compensation,Administrative and waste management services,13,NA,2016,68
+compensation,Administrative and waste management services,13,NA,2017,80
+compensation,Administrative and waste management services,13,NA,2018,72
+compensation,Administrative and waste management services,13,NA,2019,75
+compensation,Administrative and waste management services,13,NA,2020,77
+compensation,Administrative and waste management services,13,NA,2021,81
+compensation,Administrative and waste management services,13,NA,2022,99
+compensation,Administrative and waste management services,13,NA,2023,116
+compensation,Administrative and support services,13,NA,2012,12
+compensation,Administrative and support services,13,NA,2013,26
+compensation,Administrative and support services,13,NA,2014,41
+compensation,Administrative and support services,13,NA,2015,55
+compensation,Administrative and support services,13,NA,2016,67
+compensation,Administrative and support services,13,NA,2017,80
+compensation,Administrative and support services,13,NA,2018,72
+compensation,Administrative and support services,13,NA,2019,74
+compensation,Administrative and support services,13,NA,2020,77
+compensation,Administrative and support services,13,NA,2021,81
+compensation,Administrative and support services,13,NA,2022,99
+compensation,Administrative and support services,13,NA,2023,116
+compensation,"Educational services, health care, and social assistance",13,NA,2012,1161
+compensation,"Educational services, health care, and social assistance",13,NA,2013,1145
+compensation,"Educational services, health care, and social assistance",13,NA,2014,1156
+compensation,"Educational services, health care, and social assistance",13,NA,2015,1214
+compensation,"Educational services, health care, and social assistance",13,NA,2016,1229
+compensation,"Educational services, health care, and social assistance",13,NA,2017,1213
+compensation,"Educational services, health care, and social assistance",13,NA,2018,1442
+compensation,"Educational services, health care, and social assistance",13,NA,2019,1601
+compensation,"Educational services, health care, and social assistance",13,NA,2020,1914
+compensation,"Educational services, health care, and social assistance",13,NA,2021,1909
+compensation,"Educational services, health care, and social assistance",13,NA,2022,2178
+compensation,"Educational services, health care, and social assistance",13,NA,2023,2742
+compensation,Educational services,13,NA,2012,1115
+compensation,Educational services,13,NA,2013,1097
+compensation,Educational services,13,NA,2014,1115
+compensation,Educational services,13,NA,2015,1167
+compensation,Educational services,13,NA,2016,1179
+compensation,Educational services,13,NA,2017,1160
+compensation,Educational services,13,NA,2018,1379
+compensation,Educational services,13,NA,2019,1550
+compensation,Educational services,13,NA,2020,1886
+compensation,Educational services,13,NA,2021,1853
+compensation,Educational services,13,NA,2022,2006
+compensation,Educational services,13,NA,2023,2681
+compensation,Health care and social assistance,13,NA,2012,46
+compensation,Health care and social assistance,13,NA,2013,47
+compensation,Health care and social assistance,13,NA,2014,41
+compensation,Health care and social assistance,13,NA,2015,47
+compensation,Health care and social assistance,13,NA,2016,51
+compensation,Health care and social assistance,13,NA,2017,53
+compensation,Health care and social assistance,13,NA,2018,63
+compensation,Health care and social assistance,13,NA,2019,51
+compensation,Health care and social assistance,13,NA,2020,27
+compensation,Health care and social assistance,13,NA,2021,56
+compensation,Health care and social assistance,13,NA,2022,172
+compensation,Health care and social assistance,13,NA,2023,61
+compensation,Ambulatory health care services,13,NA,2012,1
+compensation,Ambulatory health care services,13,NA,2013,1
+compensation,Ambulatory health care services,13,NA,2014,1
+compensation,Ambulatory health care services,13,NA,2015,1
+compensation,Ambulatory health care services,13,NA,2016,2
+compensation,Ambulatory health care services,13,NA,2017,2
+compensation,Ambulatory health care services,13,NA,2018,2
+compensation,Ambulatory health care services,13,NA,2019,2
+compensation,Ambulatory health care services,13,NA,2020,2
+compensation,Ambulatory health care services,13,NA,2021,2
+compensation,Ambulatory health care services,13,NA,2022,2
+compensation,Ambulatory health care services,13,NA,2023,2
+compensation,Hospitals,13,NA,2012,45
+compensation,Hospitals,13,NA,2013,46
+compensation,Hospitals,13,NA,2014,40
+compensation,Hospitals,13,NA,2015,46
+compensation,Hospitals,13,NA,2016,48
+compensation,Hospitals,13,NA,2017,51
+compensation,Hospitals,13,NA,2018,61
+compensation,Hospitals,13,NA,2019,49
+compensation,Hospitals,13,NA,2020,25
+compensation,Hospitals,13,NA,2021,54
+compensation,Hospitals,13,NA,2022,169
+compensation,Hospitals,13,NA,2023,58
+compensation,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2012,40
+compensation,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2013,45
+compensation,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2014,50
+compensation,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2015,47
+compensation,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2016,53
+compensation,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2017,56
+compensation,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2018,59
+compensation,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2019,61
+compensation,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2020,72
+compensation,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2021,55
+compensation,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2022,57
+compensation,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2023,69
+compensation,"Arts, entertainment, and recreation",13,NA,2012,39
+compensation,"Arts, entertainment, and recreation",13,NA,2013,44
+compensation,"Arts, entertainment, and recreation",13,NA,2014,48
+compensation,"Arts, entertainment, and recreation",13,NA,2015,46
+compensation,"Arts, entertainment, and recreation",13,NA,2016,52
+compensation,"Arts, entertainment, and recreation",13,NA,2017,56
+compensation,"Arts, entertainment, and recreation",13,NA,2018,59
+compensation,"Arts, entertainment, and recreation",13,NA,2019,60
+compensation,"Arts, entertainment, and recreation",13,NA,2020,71
+compensation,"Arts, entertainment, and recreation",13,NA,2021,55
+compensation,"Arts, entertainment, and recreation",13,NA,2022,56
+compensation,"Arts, entertainment, and recreation",13,NA,2023,68
+compensation,"Performing arts, spectator sports, museums, and related activities",13,NA,2012,39
+compensation,"Performing arts, spectator sports, museums, and related activities",13,NA,2013,44
+compensation,"Performing arts, spectator sports, museums, and related activities",13,NA,2014,48
+compensation,"Performing arts, spectator sports, museums, and related activities",13,NA,2015,45
+compensation,"Performing arts, spectator sports, museums, and related activities",13,NA,2016,52
+compensation,"Performing arts, spectator sports, museums, and related activities",13,NA,2017,55
+compensation,"Performing arts, spectator sports, museums, and related activities",13,NA,2018,58
+compensation,"Performing arts, spectator sports, museums, and related activities",13,NA,2019,60
+compensation,"Performing arts, spectator sports, museums, and related activities",13,NA,2020,71
+compensation,"Performing arts, spectator sports, museums, and related activities",13,NA,2021,55
+compensation,"Performing arts, spectator sports, museums, and related activities",13,NA,2022,56
+compensation,"Performing arts, spectator sports, museums, and related activities",13,NA,2023,68
+compensation,Accommodation and food services,8,Grain,2012,1
+compensation,Accommodation and food services,8,Grain,2013,1
+compensation,Accommodation and food services,8,Grain,2014,1
+compensation,Accommodation and food services,8,Grain,2015,1
+compensation,Accommodation and food services,8,Grain,2016,1
+compensation,Accommodation and food services,8,Grain,2017,1
+compensation,Accommodation and food services,8,Grain,2018,1
+compensation,Accommodation and food services,8,Grain,2019,1
+compensation,Accommodation and food services,8,Grain,2020,1
+compensation,Accommodation and food services,8,Grain,2021,1
+compensation,Accommodation and food services,8,Grain,2022,1
+compensation,Accommodation and food services,8,Grain,2023,1
+compensation,Accommodation,13,NA,2012,1
+compensation,Accommodation,13,NA,2013,1
+compensation,Accommodation,13,NA,2014,1
+compensation,Accommodation,13,NA,2015,1
+compensation,Accommodation,13,NA,2016,1
+compensation,Accommodation,13,NA,2017,1
+compensation,Accommodation,13,NA,2018,1
+compensation,Accommodation,13,NA,2019,1
+compensation,Accommodation,13,NA,2020,1
+compensation,Accommodation,13,NA,2021,1
+compensation,Accommodation,13,NA,2022,1
+compensation,Accommodation,13,NA,2023,1
+compensation,"Other services, except government",12,Underground,2012,2
+compensation,"Other services, except government",12,Underground,2013,2
+compensation,"Other services, except government",12,Underground,2014,2
+compensation,"Other services, except government",12,Underground,2015,2
+compensation,"Other services, except government",12,Underground,2016,2
+compensation,"Other services, except government",12,Underground,2017,2
+compensation,"Other services, except government",12,Underground,2018,2
+compensation,"Other services, except government",12,Underground,2019,2
+compensation,"Other services, except government",12,Underground,2020,3
+compensation,"Other services, except government",12,Underground,2021,3
+compensation,"Other services, except government",12,Underground,2022,3
+compensation,"Other services, except government",12,Underground,2023,3

@@ -1,184 +1,184 @@
 table_name,industry,district_number,district_name,year,value
-price_indexes,Space economy1,13,Underground,2012,108.853
-price_indexes,Space economy1,13,Underground,2013,106.217
-price_indexes,Space economy1,13,Underground,2014,103.231
-price_indexes,Space economy1,13,Underground,2015,100.959
-price_indexes,Space economy1,13,Underground,2016,99.568
-price_indexes,Space economy1,13,Underground,2017,100
-price_indexes,Space economy1,13,Underground,2018,101.599
-price_indexes,Space economy1,13,Underground,2019,104.337
-price_indexes,Space economy1,13,Underground,2020,105.283
-price_indexes,Space economy1,13,Underground,2021,112.243
-price_indexes,Space economy1,13,Underground,2022,116.321
-price_indexes,Space economy1,13,Underground,2023,122.908
-price_indexes,Private industries,13,Underground,2012,113.087
-price_indexes,Private industries,13,Underground,2013,109.355
-price_indexes,Private industries,13,Underground,2014,105.039
-price_indexes,Private industries,13,Underground,2015,102.017
-price_indexes,Private industries,13,Underground,2016,99.997
-price_indexes,Private industries,13,Underground,2017,100
-price_indexes,Private industries,13,Underground,2018,101.135
-price_indexes,Private industries,13,Underground,2019,104.088
-price_indexes,Private industries,13,Underground,2020,105.027
-price_indexes,Private industries,13,Underground,2021,113.4
-price_indexes,Private industries,13,Underground,2022,117.034
-price_indexes,Private industries,13,Underground,2023,123.825
-price_indexes,Mining,12,Mining,2012,94.206
-price_indexes,Mining,12,Mining,2013,94.918
-price_indexes,Mining,12,Mining,2014,97.208
-price_indexes,Mining,12,Mining,2015,99.546
-price_indexes,Mining,12,Mining,2016,97.083
-price_indexes,Mining,12,Mining,2017,100
-price_indexes,Mining,12,Mining,2018,103.62
-price_indexes,Mining,12,Mining,2019,104.859
-price_indexes,Mining,12,Mining,2020,109.125
-price_indexes,Mining,12,Mining,2021,110.856
-price_indexes,Mining,12,Mining,2022,113.01
-price_indexes,Mining,12,Mining,2023,114.749
-price_indexes,Oil and gas extraction,5,Power,2012,94.219
-price_indexes,Oil and gas extraction,5,Power,2013,94.94
-price_indexes,Oil and gas extraction,5,Power,2014,97.24
-price_indexes,Oil and gas extraction,5,Power,2015,99.584
-price_indexes,Oil and gas extraction,5,Power,2016,97.1
-price_indexes,Oil and gas extraction,5,Power,2017,100
-price_indexes,Oil and gas extraction,5,Power,2018,103.561
-price_indexes,Oil and gas extraction,5,Power,2019,104.74
-price_indexes,Oil and gas extraction,5,Power,2020,108.789
-price_indexes,Oil and gas extraction,5,Power,2021,110.277
-price_indexes,Oil and gas extraction,5,Power,2022,112.273
-price_indexes,Oil and gas extraction,5,Power,2023,113.928
-price_indexes,"Mining, except oil and gas",5,Power,2012,99.838
-price_indexes,"Mining, except oil and gas",5,Power,2013,94.343
-price_indexes,"Mining, except oil and gas",5,Power,2014,96.663
-price_indexes,"Mining, except oil and gas",5,Power,2015,99.053
-price_indexes,"Mining, except oil and gas",5,Power,2016,96.905
-price_indexes,"Mining, except oil and gas",5,Power,2017,100
-price_indexes,"Mining, except oil and gas",5,Power,2018,103.934
-price_indexes,"Mining, except oil and gas",5,Power,2019,105.514
-price_indexes,"Mining, except oil and gas",5,Power,2020,110.711
-price_indexes,"Mining, except oil and gas",5,Power,2021,113.607
-price_indexes,"Mining, except oil and gas",5,Power,2022,116.71
-price_indexes,"Mining, except oil and gas",5,Power,2023,118.93
-price_indexes,Support activities for mining,12,Mining,2012,94.252
-price_indexes,Support activities for mining,12,Mining,2013,94.946
-price_indexes,Support activities for mining,12,Mining,2014,97.208
-price_indexes,Support activities for mining,12,Mining,2015,99.528
-price_indexes,Support activities for mining,12,Mining,2016,97.082
-price_indexes,Support activities for mining,12,Mining,2017,100
-price_indexes,Support activities for mining,12,Mining,2018,103.681
-price_indexes,Support activities for mining,12,Mining,2019,104.976
-price_indexes,Support activities for mining,12,Mining,2020,109.52
-price_indexes,Support activities for mining,12,Mining,2021,111.546
-price_indexes,Support activities for mining,12,Mining,2022,113.855
-price_indexes,Support activities for mining,12,Mining,2023,115.677
-price_indexes,Utilities,5,Power,2012,104.662
-price_indexes,Utilities,5,Power,2013,103.549
-price_indexes,Utilities,5,Power,2014,102.934
-price_indexes,Utilities,5,Power,2015,102.711
-price_indexes,Utilities,5,Power,2016,99.976
-price_indexes,Utilities,5,Power,2017,100
-price_indexes,Utilities,5,Power,2018,99.506
-price_indexes,Utilities,5,Power,2019,98.556
-price_indexes,Utilities,5,Power,2020,98.049
-price_indexes,Utilities,5,Power,2021,96.744
-price_indexes,Utilities,5,Power,2022,97.592
-price_indexes,Utilities,5,Power,2023,98.076
-price_indexes,Construction,13,Underground,2012,86.315
-price_indexes,Construction,13,Underground,2013,88.498
-price_indexes,Construction,13,Underground,2014,91.359
-price_indexes,Construction,13,Underground,2015,94.373
-price_indexes,Construction,13,Underground,2016,97.244
-price_indexes,Construction,13,Underground,2017,100
-price_indexes,Construction,13,Underground,2018,103.368
-price_indexes,Construction,13,Underground,2019,109.891
-price_indexes,Construction,13,Underground,2020,116.663
-price_indexes,Construction,13,Underground,2021,120.287
-price_indexes,Construction,13,Underground,2022,133.304
-price_indexes,Construction,13,Underground,2023,146.021
-price_indexes,Manufacturing,8,Textiles,2012,142.443
-price_indexes,Manufacturing,8,Textiles,2013,137.161
-price_indexes,Manufacturing,8,Textiles,2014,126.661
-price_indexes,Manufacturing,8,Textiles,2015,114.918
-price_indexes,Manufacturing,8,Textiles,2016,104.074
-price_indexes,Manufacturing,8,Textiles,2017,100
-price_indexes,Manufacturing,8,Textiles,2018,95.568
-price_indexes,Manufacturing,8,Textiles,2019,93.028
-price_indexes,Manufacturing,8,Textiles,2020,91.577
-price_indexes,Manufacturing,8,Textiles,2021,88.75
-price_indexes,Manufacturing,8,Textiles,2022,88.822
-price_indexes,Manufacturing,8,Textiles,2023,91.16
-price_indexes,Durable goods,13,Underground,2012,142.941
-price_indexes,Durable goods,13,Underground,2013,137.6
-price_indexes,Durable goods,13,Underground,2014,126.902
-price_indexes,Durable goods,13,Underground,2015,115.009
-price_indexes,Durable goods,13,Underground,2016,104.12
-price_indexes,Durable goods,13,Underground,2017,100
-price_indexes,Durable goods,13,Underground,2018,95.513
-price_indexes,Durable goods,13,Underground,2019,92.954
-price_indexes,Durable goods,13,Underground,2020,91.47
-price_indexes,Durable goods,13,Underground,2021,88.62
-price_indexes,Durable goods,13,Underground,2022,88.682
-price_indexes,Durable goods,13,Underground,2023,91.022
-price_indexes,Wood products,7,Lumber,2012,93.84
-price_indexes,Wood products,7,Lumber,2013,94.515
-price_indexes,Wood products,7,Lumber,2014,96.817
-price_indexes,Wood products,7,Lumber,2015,99.147
-price_indexes,Wood products,7,Lumber,2016,96.934
-price_indexes,Wood products,7,Lumber,2017,100
-price_indexes,Wood products,7,Lumber,2018,103.98
-price_indexes,Wood products,7,Lumber,2019,105.635
-price_indexes,Wood products,7,Lumber,2020,111.122
-price_indexes,Wood products,7,Lumber,2021,114.184
-price_indexes,Wood products,7,Lumber,2022,117.372
-price_indexes,Wood products,7,Lumber,2023,119.607
-price_indexes,Nonmetallic mineral products,12,Mining,2012,95.153
-price_indexes,Nonmetallic mineral products,12,Mining,2013,95.441
-price_indexes,Nonmetallic mineral products,12,Mining,2014,97.744
-price_indexes,Nonmetallic mineral products,12,Mining,2015,100.02
-price_indexes,Nonmetallic mineral products,12,Mining,2016,96.944
-price_indexes,Nonmetallic mineral products,12,Mining,2017,100
-price_indexes,Nonmetallic mineral products,12,Mining,2018,104.207
-price_indexes,Nonmetallic mineral products,12,Mining,2019,105.659
-price_indexes,Nonmetallic mineral products,12,Mining,2020,111.6
-price_indexes,Nonmetallic mineral products,12,Mining,2021,114.613
-price_indexes,Nonmetallic mineral products,12,Mining,2022,117.403
-price_indexes,Nonmetallic mineral products,12,Mining,2023,119.395
-price_indexes,Primary metals,12,Mining,2012,94.319
-price_indexes,Primary metals,12,Mining,2013,97.256
-price_indexes,Primary metals,12,Mining,2014,98.344
-price_indexes,Primary metals,12,Mining,2015,101.713
-price_indexes,Primary metals,12,Mining,2016,98.998
-price_indexes,Primary metals,12,Mining,2017,100
-price_indexes,Primary metals,12,Mining,2018,110.607
-price_indexes,Primary metals,12,Mining,2019,110.929
-price_indexes,Primary metals,12,Mining,2020,116.848
-price_indexes,Primary metals,12,Mining,2021,150.808
-price_indexes,Primary metals,12,Mining,2022,147.857
-price_indexes,Primary metals,12,Mining,2023,146.734
-price_indexes,Fabricated metal products,12,Mining,2012,93.633
-price_indexes,Fabricated metal products,12,Mining,2013,94.484
-price_indexes,Fabricated metal products,12,Mining,2014,96.864
-price_indexes,Fabricated metal products,12,Mining,2015,99.352
-price_indexes,Fabricated metal products,12,Mining,2016,97.276
-price_indexes,Fabricated metal products,12,Mining,2017,100
-price_indexes,Fabricated metal products,12,Mining,2018,104.497
-price_indexes,Fabricated metal products,12,Mining,2019,106.407
-price_indexes,Fabricated metal products,12,Mining,2020,112.202
-price_indexes,Fabricated metal products,12,Mining,2021,117.117
-price_indexes,Fabricated metal products,12,Mining,2022,119.702
-price_indexes,Fabricated metal products,12,Mining,2023,122.099
-price_indexes,Machinery,13,Underground,2012,94.74
-price_indexes,Machinery,13,Underground,2013,95.446
-price_indexes,Machinery,13,Underground,2014,97.524
-price_indexes,Machinery,13,Underground,2015,99.583
-price_indexes,Machinery,13,Underground,2016,97.448
-price_indexes,Machinery,13,Underground,2017,100
-price_indexes,Machinery,13,Underground,2018,103.417
-price_indexes,Machinery,13,Underground,2019,105.018
-price_indexes,Machinery,13,Underground,2020,109.748
-price_indexes,Machinery,13,Underground,2021,110.97
-price_indexes,Machinery,13,Underground,2022,112.924
-price_indexes,Machinery,13,Underground,2023,116.016
+price_indexes,Space economy1,13,NA,2012,108.853
+price_indexes,Space economy1,13,NA,2013,106.217
+price_indexes,Space economy1,13,NA,2014,103.231
+price_indexes,Space economy1,13,NA,2015,100.959
+price_indexes,Space economy1,13,NA,2016,99.568
+price_indexes,Space economy1,13,NA,2017,100
+price_indexes,Space economy1,13,NA,2018,101.599
+price_indexes,Space economy1,13,NA,2019,104.337
+price_indexes,Space economy1,13,NA,2020,105.283
+price_indexes,Space economy1,13,NA,2021,112.243
+price_indexes,Space economy1,13,NA,2022,116.321
+price_indexes,Space economy1,13,NA,2023,122.908
+price_indexes,Private industries,13,NA,2012,113.087
+price_indexes,Private industries,13,NA,2013,109.355
+price_indexes,Private industries,13,NA,2014,105.039
+price_indexes,Private industries,13,NA,2015,102.017
+price_indexes,Private industries,13,NA,2016,99.997
+price_indexes,Private industries,13,NA,2017,100
+price_indexes,Private industries,13,NA,2018,101.135
+price_indexes,Private industries,13,NA,2019,104.088
+price_indexes,Private industries,13,NA,2020,105.027
+price_indexes,Private industries,13,NA,2021,113.4
+price_indexes,Private industries,13,NA,2022,117.034
+price_indexes,Private industries,13,NA,2023,123.825
+price_indexes,Mining,11,Mining,2012,94.206
+price_indexes,Mining,11,Mining,2013,94.918
+price_indexes,Mining,11,Mining,2014,97.208
+price_indexes,Mining,11,Mining,2015,99.546
+price_indexes,Mining,11,Mining,2016,97.083
+price_indexes,Mining,11,Mining,2017,100
+price_indexes,Mining,11,Mining,2018,103.62
+price_indexes,Mining,11,Mining,2019,104.859
+price_indexes,Mining,11,Mining,2020,109.125
+price_indexes,Mining,11,Mining,2021,110.856
+price_indexes,Mining,11,Mining,2022,113.01
+price_indexes,Mining,11,Mining,2023,114.749
+price_indexes,Oil and gas extraction,4,Power,2012,94.219
+price_indexes,Oil and gas extraction,4,Power,2013,94.94
+price_indexes,Oil and gas extraction,4,Power,2014,97.24
+price_indexes,Oil and gas extraction,4,Power,2015,99.584
+price_indexes,Oil and gas extraction,4,Power,2016,97.1
+price_indexes,Oil and gas extraction,4,Power,2017,100
+price_indexes,Oil and gas extraction,4,Power,2018,103.561
+price_indexes,Oil and gas extraction,4,Power,2019,104.74
+price_indexes,Oil and gas extraction,4,Power,2020,108.789
+price_indexes,Oil and gas extraction,4,Power,2021,110.277
+price_indexes,Oil and gas extraction,4,Power,2022,112.273
+price_indexes,Oil and gas extraction,4,Power,2023,113.928
+price_indexes,"Mining, except oil and gas",4,Power,2012,99.838
+price_indexes,"Mining, except oil and gas",4,Power,2013,94.343
+price_indexes,"Mining, except oil and gas",4,Power,2014,96.663
+price_indexes,"Mining, except oil and gas",4,Power,2015,99.053
+price_indexes,"Mining, except oil and gas",4,Power,2016,96.905
+price_indexes,"Mining, except oil and gas",4,Power,2017,100
+price_indexes,"Mining, except oil and gas",4,Power,2018,103.934
+price_indexes,"Mining, except oil and gas",4,Power,2019,105.514
+price_indexes,"Mining, except oil and gas",4,Power,2020,110.711
+price_indexes,"Mining, except oil and gas",4,Power,2021,113.607
+price_indexes,"Mining, except oil and gas",4,Power,2022,116.71
+price_indexes,"Mining, except oil and gas",4,Power,2023,118.93
+price_indexes,Support activities for mining,11,Mining,2012,94.252
+price_indexes,Support activities for mining,11,Mining,2013,94.946
+price_indexes,Support activities for mining,11,Mining,2014,97.208
+price_indexes,Support activities for mining,11,Mining,2015,99.528
+price_indexes,Support activities for mining,11,Mining,2016,97.082
+price_indexes,Support activities for mining,11,Mining,2017,100
+price_indexes,Support activities for mining,11,Mining,2018,103.681
+price_indexes,Support activities for mining,11,Mining,2019,104.976
+price_indexes,Support activities for mining,11,Mining,2020,109.52
+price_indexes,Support activities for mining,11,Mining,2021,111.546
+price_indexes,Support activities for mining,11,Mining,2022,113.855
+price_indexes,Support activities for mining,11,Mining,2023,115.677
+price_indexes,Utilities,4,Power,2012,104.662
+price_indexes,Utilities,4,Power,2013,103.549
+price_indexes,Utilities,4,Power,2014,102.934
+price_indexes,Utilities,4,Power,2015,102.711
+price_indexes,Utilities,4,Power,2016,99.976
+price_indexes,Utilities,4,Power,2017,100
+price_indexes,Utilities,4,Power,2018,99.506
+price_indexes,Utilities,4,Power,2019,98.556
+price_indexes,Utilities,4,Power,2020,98.049
+price_indexes,Utilities,4,Power,2021,96.744
+price_indexes,Utilities,4,Power,2022,97.592
+price_indexes,Utilities,4,Power,2023,98.076
+price_indexes,Construction,13,NA,2012,86.315
+price_indexes,Construction,13,NA,2013,88.498
+price_indexes,Construction,13,NA,2014,91.359
+price_indexes,Construction,13,NA,2015,94.373
+price_indexes,Construction,13,NA,2016,97.244
+price_indexes,Construction,13,NA,2017,100
+price_indexes,Construction,13,NA,2018,103.368
+price_indexes,Construction,13,NA,2019,109.891
+price_indexes,Construction,13,NA,2020,116.663
+price_indexes,Construction,13,NA,2021,120.287
+price_indexes,Construction,13,NA,2022,133.304
+price_indexes,Construction,13,NA,2023,146.021
+price_indexes,Manufacturing,7,Textiles,2012,142.443
+price_indexes,Manufacturing,7,Textiles,2013,137.161
+price_indexes,Manufacturing,7,Textiles,2014,126.661
+price_indexes,Manufacturing,7,Textiles,2015,114.918
+price_indexes,Manufacturing,7,Textiles,2016,104.074
+price_indexes,Manufacturing,7,Textiles,2017,100
+price_indexes,Manufacturing,7,Textiles,2018,95.568
+price_indexes,Manufacturing,7,Textiles,2019,93.028
+price_indexes,Manufacturing,7,Textiles,2020,91.577
+price_indexes,Manufacturing,7,Textiles,2021,88.75
+price_indexes,Manufacturing,7,Textiles,2022,88.822
+price_indexes,Manufacturing,7,Textiles,2023,91.16
+price_indexes,Durable goods,13,NA,2012,142.941
+price_indexes,Durable goods,13,NA,2013,137.6
+price_indexes,Durable goods,13,NA,2014,126.902
+price_indexes,Durable goods,13,NA,2015,115.009
+price_indexes,Durable goods,13,NA,2016,104.12
+price_indexes,Durable goods,13,NA,2017,100
+price_indexes,Durable goods,13,NA,2018,95.513
+price_indexes,Durable goods,13,NA,2019,92.954
+price_indexes,Durable goods,13,NA,2020,91.47
+price_indexes,Durable goods,13,NA,2021,88.62
+price_indexes,Durable goods,13,NA,2022,88.682
+price_indexes,Durable goods,13,NA,2023,91.022
+price_indexes,Wood products,6,Lumber,2012,93.84
+price_indexes,Wood products,6,Lumber,2013,94.515
+price_indexes,Wood products,6,Lumber,2014,96.817
+price_indexes,Wood products,6,Lumber,2015,99.147
+price_indexes,Wood products,6,Lumber,2016,96.934
+price_indexes,Wood products,6,Lumber,2017,100
+price_indexes,Wood products,6,Lumber,2018,103.98
+price_indexes,Wood products,6,Lumber,2019,105.635
+price_indexes,Wood products,6,Lumber,2020,111.122
+price_indexes,Wood products,6,Lumber,2021,114.184
+price_indexes,Wood products,6,Lumber,2022,117.372
+price_indexes,Wood products,6,Lumber,2023,119.607
+price_indexes,Nonmetallic mineral products,11,Mining,2012,95.153
+price_indexes,Nonmetallic mineral products,11,Mining,2013,95.441
+price_indexes,Nonmetallic mineral products,11,Mining,2014,97.744
+price_indexes,Nonmetallic mineral products,11,Mining,2015,100.02
+price_indexes,Nonmetallic mineral products,11,Mining,2016,96.944
+price_indexes,Nonmetallic mineral products,11,Mining,2017,100
+price_indexes,Nonmetallic mineral products,11,Mining,2018,104.207
+price_indexes,Nonmetallic mineral products,11,Mining,2019,105.659
+price_indexes,Nonmetallic mineral products,11,Mining,2020,111.6
+price_indexes,Nonmetallic mineral products,11,Mining,2021,114.613
+price_indexes,Nonmetallic mineral products,11,Mining,2022,117.403
+price_indexes,Nonmetallic mineral products,11,Mining,2023,119.395
+price_indexes,Primary metals,11,Mining,2012,94.319
+price_indexes,Primary metals,11,Mining,2013,97.256
+price_indexes,Primary metals,11,Mining,2014,98.344
+price_indexes,Primary metals,11,Mining,2015,101.713
+price_indexes,Primary metals,11,Mining,2016,98.998
+price_indexes,Primary metals,11,Mining,2017,100
+price_indexes,Primary metals,11,Mining,2018,110.607
+price_indexes,Primary metals,11,Mining,2019,110.929
+price_indexes,Primary metals,11,Mining,2020,116.848
+price_indexes,Primary metals,11,Mining,2021,150.808
+price_indexes,Primary metals,11,Mining,2022,147.857
+price_indexes,Primary metals,11,Mining,2023,146.734
+price_indexes,Fabricated metal products,11,Mining,2012,93.633
+price_indexes,Fabricated metal products,11,Mining,2013,94.484
+price_indexes,Fabricated metal products,11,Mining,2014,96.864
+price_indexes,Fabricated metal products,11,Mining,2015,99.352
+price_indexes,Fabricated metal products,11,Mining,2016,97.276
+price_indexes,Fabricated metal products,11,Mining,2017,100
+price_indexes,Fabricated metal products,11,Mining,2018,104.497
+price_indexes,Fabricated metal products,11,Mining,2019,106.407
+price_indexes,Fabricated metal products,11,Mining,2020,112.202
+price_indexes,Fabricated metal products,11,Mining,2021,117.117
+price_indexes,Fabricated metal products,11,Mining,2022,119.702
+price_indexes,Fabricated metal products,11,Mining,2023,122.099
+price_indexes,Machinery,13,NA,2012,94.74
+price_indexes,Machinery,13,NA,2013,95.446
+price_indexes,Machinery,13,NA,2014,97.524
+price_indexes,Machinery,13,NA,2015,99.583
+price_indexes,Machinery,13,NA,2016,97.448
+price_indexes,Machinery,13,NA,2017,100
+price_indexes,Machinery,13,NA,2018,103.417
+price_indexes,Machinery,13,NA,2019,105.018
+price_indexes,Machinery,13,NA,2020,109.748
+price_indexes,Machinery,13,NA,2021,110.97
+price_indexes,Machinery,13,NA,2022,112.924
+price_indexes,Machinery,13,NA,2023,116.016
 price_indexes,Computer and electronic products2,3,Technology,2012,182.754
 price_indexes,Computer and electronic products2,3,Technology,2013,170.947
 price_indexes,Computer and electronic products2,3,Technology,2014,147.705
@@ -191,366 +191,366 @@ price_indexes,Computer and electronic products2,3,Technology,2020,85.067
 price_indexes,Computer and electronic products2,3,Technology,2021,80.423
 price_indexes,Computer and electronic products2,3,Technology,2022,78.585
 price_indexes,Computer and electronic products2,3,Technology,2023,79.348
-price_indexes,"Electrical equipment, appliances, and components",5,Power,2012,103.766
-price_indexes,"Electrical equipment, appliances, and components",5,Power,2013,97.271
-price_indexes,"Electrical equipment, appliances, and components",5,Power,2014,95.371
-price_indexes,"Electrical equipment, appliances, and components",5,Power,2015,96.739
-price_indexes,"Electrical equipment, appliances, and components",5,Power,2016,97.253
-price_indexes,"Electrical equipment, appliances, and components",5,Power,2017,100
-price_indexes,"Electrical equipment, appliances, and components",5,Power,2018,102.503
-price_indexes,"Electrical equipment, appliances, and components",5,Power,2019,108.874
-price_indexes,"Electrical equipment, appliances, and components",5,Power,2020,112.506
-price_indexes,"Electrical equipment, appliances, and components",5,Power,2021,135.119
-price_indexes,"Electrical equipment, appliances, and components",5,Power,2022,144.552
-price_indexes,"Electrical equipment, appliances, and components",5,Power,2023,152.122
-price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2012,117.021
-price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2013,114.668
-price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2014,108.809
-price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2015,101.83
-price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2016,101.091
-price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2017,100
-price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2018,99.312
-price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2019,99.919
-price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2020,97.331
-price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2021,97.784
-price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2022,104.632
-price_indexes,"Motor vehicles, bodies and trailers, and parts",13,Underground,2023,104.634
-price_indexes,Other transportation equipment3,6,Transportation,2012,96.108
-price_indexes,Other transportation equipment3,6,Transportation,2013,97.789
-price_indexes,Other transportation equipment3,6,Transportation,2014,100.076
-price_indexes,Other transportation equipment3,6,Transportation,2015,100.995
-price_indexes,Other transportation equipment3,6,Transportation,2016,100.103
-price_indexes,Other transportation equipment3,6,Transportation,2017,100
-price_indexes,Other transportation equipment3,6,Transportation,2018,100.128
-price_indexes,Other transportation equipment3,6,Transportation,2019,101.233
-price_indexes,Other transportation equipment3,6,Transportation,2020,102.245
-price_indexes,Other transportation equipment3,6,Transportation,2021,101.68
-price_indexes,Other transportation equipment3,6,Transportation,2022,105.633
-price_indexes,Other transportation equipment3,6,Transportation,2023,111.403
-price_indexes,Furniture and related products,13,Underground,2012,94.111
-price_indexes,Furniture and related products,13,Underground,2013,94.778
-price_indexes,Furniture and related products,13,Underground,2014,97.087
-price_indexes,Furniture and related products,13,Underground,2015,99.434
-price_indexes,Furniture and related products,13,Underground,2016,96.974
-price_indexes,Furniture and related products,13,Underground,2017,100
-price_indexes,Furniture and related products,13,Underground,2018,104.009
-price_indexes,Furniture and related products,13,Underground,2019,105.537
-price_indexes,Furniture and related products,13,Underground,2020,111.109
-price_indexes,Furniture and related products,13,Underground,2021,114.126
-price_indexes,Furniture and related products,13,Underground,2022,116.997
-price_indexes,Furniture and related products,13,Underground,2023,119.086
-price_indexes,Miscellaneous manufacturing,8,Textiles,2012,94.15
-price_indexes,Miscellaneous manufacturing,8,Textiles,2013,94.817
-price_indexes,Miscellaneous manufacturing,8,Textiles,2014,97.138
-price_indexes,Miscellaneous manufacturing,8,Textiles,2015,99.478
-price_indexes,Miscellaneous manufacturing,8,Textiles,2016,96.932
-price_indexes,Miscellaneous manufacturing,8,Textiles,2017,100
-price_indexes,Miscellaneous manufacturing,8,Textiles,2018,104.101
-price_indexes,Miscellaneous manufacturing,8,Textiles,2019,105.666
-price_indexes,Miscellaneous manufacturing,8,Textiles,2020,111.419
-price_indexes,Miscellaneous manufacturing,8,Textiles,2021,114.593
-price_indexes,Miscellaneous manufacturing,8,Textiles,2022,117.581
-price_indexes,Miscellaneous manufacturing,8,Textiles,2023,119.711
-price_indexes,Nondurable goods,13,Underground,2012,101.781
-price_indexes,Nondurable goods,13,Underground,2013,100.166
-price_indexes,Nondurable goods,13,Underground,2014,101.488
-price_indexes,Nondurable goods,13,Underground,2015,102.329
-price_indexes,Nondurable goods,13,Underground,2016,97.562
-price_indexes,Nondurable goods,13,Underground,2017,100
-price_indexes,Nondurable goods,13,Underground,2018,103.78
-price_indexes,Nondurable goods,13,Underground,2019,104.752
-price_indexes,Nondurable goods,13,Underground,2020,110.678
-price_indexes,Nondurable goods,13,Underground,2021,112.849
-price_indexes,Nondurable goods,13,Underground,2022,115.145
-price_indexes,Nondurable goods,13,Underground,2023,117.029
-price_indexes,Food and beverage and tobacco products,9,Grain,2012,94.264
-price_indexes,Food and beverage and tobacco products,9,Grain,2013,94.912
-price_indexes,Food and beverage and tobacco products,9,Grain,2014,97.245
-price_indexes,Food and beverage and tobacco products,9,Grain,2015,99.589
-price_indexes,Food and beverage and tobacco products,9,Grain,2016,96.921
-price_indexes,Food and beverage and tobacco products,9,Grain,2017,100
-price_indexes,Food and beverage and tobacco products,9,Grain,2018,104.143
-price_indexes,Food and beverage and tobacco products,9,Grain,2019,105.679
-price_indexes,Food and beverage and tobacco products,9,Grain,2020,111.498
-price_indexes,Food and beverage and tobacco products,9,Grain,2021,114.599
-price_indexes,Food and beverage and tobacco products,9,Grain,2022,117.516
-price_indexes,Food and beverage and tobacco products,9,Grain,2023,119.621
-price_indexes,Textile mills and textile product mills,8,Textiles,2012,97.752
-price_indexes,Textile mills and textile product mills,8,Textiles,2013,97.242
-price_indexes,Textile mills and textile product mills,8,Textiles,2014,99.765
-price_indexes,Textile mills and textile product mills,8,Textiles,2015,101.917
-price_indexes,Textile mills and textile product mills,8,Textiles,2016,96.769
-price_indexes,Textile mills and textile product mills,8,Textiles,2017,100
-price_indexes,Textile mills and textile product mills,8,Textiles,2018,105.164
-price_indexes,Textile mills and textile product mills,8,Textiles,2019,106.156
-price_indexes,Textile mills and textile product mills,8,Textiles,2020,114.029
-price_indexes,Textile mills and textile product mills,8,Textiles,2021,116.504
-price_indexes,Textile mills and textile product mills,8,Textiles,2022,118.312
-price_indexes,Textile mills and textile product mills,8,Textiles,2023,119.672
-price_indexes,Apparel and leather and allied products,8,Textiles,2012,105.725
-price_indexes,Apparel and leather and allied products,8,Textiles,2013,100.616
-price_indexes,Apparel and leather and allied products,8,Textiles,2014,103.377
-price_indexes,Apparel and leather and allied products,8,Textiles,2015,105.179
-price_indexes,Apparel and leather and allied products,8,Textiles,2016,96.637
-price_indexes,Apparel and leather and allied products,8,Textiles,2017,100
-price_indexes,Apparel and leather and allied products,8,Textiles,2018,106.341
-price_indexes,Apparel and leather and allied products,8,Textiles,2019,106.614
-price_indexes,Apparel and leather and allied products,8,Textiles,2020,116.871
-price_indexes,Apparel and leather and allied products,8,Textiles,2021,118.356
-price_indexes,Apparel and leather and allied products,8,Textiles,2022,118.767
-price_indexes,Apparel and leather and allied products,8,Textiles,2023,119.287
-price_indexes,Paper products,7,Lumber,2012,96.272
-price_indexes,Paper products,7,Lumber,2013,95.943
-price_indexes,Paper products,7,Lumber,2014,98.397
-price_indexes,Paper products,7,Lumber,2015,100.61
-price_indexes,Paper products,7,Lumber,2016,96.865
-price_indexes,Paper products,7,Lumber,2017,100
-price_indexes,Paper products,7,Lumber,2018,104.446
-price_indexes,Paper products,7,Lumber,2019,105.84
-price_indexes,Paper products,7,Lumber,2020,112.147
-price_indexes,Paper products,7,Lumber,2021,115.013
-price_indexes,Paper products,7,Lumber,2022,117.777
-price_indexes,Paper products,7,Lumber,2023,119.736
-price_indexes,Printing and related support activities,13,Underground,2012,171.538
-price_indexes,Printing and related support activities,13,Underground,2013,141.541
-price_indexes,Printing and related support activities,13,Underground,2014,147.466
-price_indexes,Printing and related support activities,13,Underground,2015,142.349
-price_indexes,Printing and related support activities,13,Underground,2016,98.928
-price_indexes,Printing and related support activities,13,Underground,2017,100
-price_indexes,Printing and related support activities,13,Underground,2018,111.831
-price_indexes,Printing and related support activities,13,Underground,2019,102.412
-price_indexes,Printing and related support activities,13,Underground,2020,128.862
-price_indexes,Printing and related support activities,13,Underground,2021,119.955
-price_indexes,Printing and related support activities,13,Underground,2022,111.463
-price_indexes,Printing and related support activities,13,Underground,2023,106.991
-price_indexes,Petroleum and coal products,12,Mining,2012,94.089
-price_indexes,Petroleum and coal products,12,Mining,2013,94.819
-price_indexes,Petroleum and coal products,12,Mining,2014,97.117
-price_indexes,Petroleum and coal products,12,Mining,2015,99.441
-price_indexes,Petroleum and coal products,12,Mining,2016,96.981
-price_indexes,Petroleum and coal products,12,Mining,2017,100
-price_indexes,Petroleum and coal products,12,Mining,2018,104.035
-price_indexes,Petroleum and coal products,12,Mining,2019,105.608
-price_indexes,Petroleum and coal products,12,Mining,2020,111.28
-price_indexes,Petroleum and coal products,12,Mining,2021,114.391
-price_indexes,Petroleum and coal products,12,Mining,2022,117.35
-price_indexes,Petroleum and coal products,12,Mining,2023,119.485
-price_indexes,Chemical products,8,Textiles,2012,489.948
-price_indexes,Chemical products,8,Textiles,2013,380.068
-price_indexes,Chemical products,8,Textiles,2014,244.564
-price_indexes,Chemical products,8,Textiles,2015,172.989
-price_indexes,Chemical products,8,Textiles,2016,123.412
-price_indexes,Chemical products,8,Textiles,2017,100
-price_indexes,Chemical products,8,Textiles,2018,80.93
-price_indexes,Chemical products,8,Textiles,2019,71.428
-price_indexes,Chemical products,8,Textiles,2020,66.007
-price_indexes,Chemical products,8,Textiles,2021,53.851
-price_indexes,Chemical products,8,Textiles,2022,49.758
-price_indexes,Chemical products,8,Textiles,2023,50.895
-price_indexes,Plastics and rubber products,8,Textiles,2012,96.97
-price_indexes,Plastics and rubber products,8,Textiles,2013,96.809
-price_indexes,Plastics and rubber products,8,Textiles,2014,99.276
-price_indexes,Plastics and rubber products,8,Textiles,2015,101.375
-price_indexes,Plastics and rubber products,8,Textiles,2016,96.777
-price_indexes,Plastics and rubber products,8,Textiles,2017,100
-price_indexes,Plastics and rubber products,8,Textiles,2018,105.042
-price_indexes,Plastics and rubber products,8,Textiles,2019,106.143
-price_indexes,Plastics and rubber products,8,Textiles,2020,113.793
-price_indexes,Plastics and rubber products,8,Textiles,2021,116.184
-price_indexes,Plastics and rubber products,8,Textiles,2022,118.227
-price_indexes,Plastics and rubber products,8,Textiles,2023,119.692
-price_indexes,Wholesale trade,13,Underground,2012,115.931
-price_indexes,Wholesale trade,13,Underground,2013,101.636
-price_indexes,Wholesale trade,13,Underground,2014,94.997
-price_indexes,Wholesale trade,13,Underground,2015,96.246
-price_indexes,Wholesale trade,13,Underground,2016,97.36
-price_indexes,Wholesale trade,13,Underground,2017,100
-price_indexes,Wholesale trade,13,Underground,2018,102.028
-price_indexes,Wholesale trade,13,Underground,2019,111.759
-price_indexes,Wholesale trade,13,Underground,2020,116.051
-price_indexes,Wholesale trade,13,Underground,2021,161.335
-price_indexes,Wholesale trade,13,Underground,2022,174.786
-price_indexes,Wholesale trade,13,Underground,2023,192.425
-price_indexes,Retail trade,13,Underground,2012,86.722
-price_indexes,Retail trade,13,Underground,2013,99.429
-price_indexes,Retail trade,13,Underground,2014,98.825
-price_indexes,Retail trade,13,Underground,2015,96.977
-price_indexes,Retail trade,13,Underground,2016,91.403
-price_indexes,Retail trade,13,Underground,2017,100
-price_indexes,Retail trade,13,Underground,2018,99.057
-price_indexes,Retail trade,13,Underground,2019,88.493
-price_indexes,Retail trade,13,Underground,2020,95.199
-price_indexes,Retail trade,13,Underground,2021,103.006
-price_indexes,Retail trade,13,Underground,2022,93.851
-price_indexes,Retail trade,13,Underground,2023,100.941
-price_indexes,Motor vehicle and parts dealers,13,Underground,2012,103.247
-price_indexes,Motor vehicle and parts dealers,13,Underground,2013,108.689
-price_indexes,Motor vehicle and parts dealers,13,Underground,2014,102.251
-price_indexes,Motor vehicle and parts dealers,13,Underground,2015,98.778
-price_indexes,Motor vehicle and parts dealers,13,Underground,2016,99.936
-price_indexes,Motor vehicle and parts dealers,13,Underground,2017,100
-price_indexes,Motor vehicle and parts dealers,13,Underground,2018,99.946
-price_indexes,Motor vehicle and parts dealers,13,Underground,2019,100.691
-price_indexes,Motor vehicle and parts dealers,13,Underground,2020,102.334
-price_indexes,Motor vehicle and parts dealers,13,Underground,2021,109.196
-price_indexes,Motor vehicle and parts dealers,13,Underground,2022,125.684
-price_indexes,Motor vehicle and parts dealers,13,Underground,2023,118.75
-price_indexes,Food and beverage stores,9,Grain,2012,82.539
-price_indexes,Food and beverage stores,9,Grain,2013,84.725
-price_indexes,Food and beverage stores,9,Grain,2014,89.041
-price_indexes,Food and beverage stores,9,Grain,2015,95.673
-price_indexes,Food and beverage stores,9,Grain,2016,100.33
-price_indexes,Food and beverage stores,9,Grain,2017,100
-price_indexes,Food and beverage stores,9,Grain,2018,103.514
-price_indexes,Food and beverage stores,9,Grain,2019,105.837
-price_indexes,Food and beverage stores,9,Grain,2020,110.93
-price_indexes,Food and beverage stores,9,Grain,2021,109.865
-price_indexes,Food and beverage stores,9,Grain,2022,127.804
-price_indexes,Food and beverage stores,9,Grain,2023,147.62
-price_indexes,General merchandise stores,13,Underground,2012,102.357
-price_indexes,General merchandise stores,13,Underground,2013,102.427
-price_indexes,General merchandise stores,13,Underground,2014,104.595
-price_indexes,General merchandise stores,13,Underground,2015,104.399
-price_indexes,General merchandise stores,13,Underground,2016,103.831
-price_indexes,General merchandise stores,13,Underground,2017,100
-price_indexes,General merchandise stores,13,Underground,2018,97.486
-price_indexes,General merchandise stores,13,Underground,2019,102.737
-price_indexes,General merchandise stores,13,Underground,2020,96.995
-price_indexes,General merchandise stores,13,Underground,2021,101.31
-price_indexes,General merchandise stores,13,Underground,2022,128.111
-price_indexes,General merchandise stores,13,Underground,2023,140.435
-price_indexes,Other retail,13,Underground,2012,84.759
-price_indexes,Other retail,13,Underground,2013,99.101
-price_indexes,Other retail,13,Underground,2014,98.142
-price_indexes,Other retail,13,Underground,2015,96.078
-price_indexes,Other retail,13,Underground,2016,89.925
-price_indexes,Other retail,13,Underground,2017,100
-price_indexes,Other retail,13,Underground,2018,99.247
-price_indexes,Other retail,13,Underground,2019,86.744
-price_indexes,Other retail,13,Underground,2020,95.075
-price_indexes,Other retail,13,Underground,2021,103.411
-price_indexes,Other retail,13,Underground,2022,89.888
-price_indexes,Other retail,13,Underground,2023,96.407
-price_indexes,Transportation and warehousing,6,Transportation,2012,91.588
-price_indexes,Transportation and warehousing,6,Transportation,2013,91.505
-price_indexes,Transportation and warehousing,6,Transportation,2014,94.386
-price_indexes,Transportation and warehousing,6,Transportation,2015,100.715
-price_indexes,Transportation and warehousing,6,Transportation,2016,101.434
-price_indexes,Transportation and warehousing,6,Transportation,2017,100
-price_indexes,Transportation and warehousing,6,Transportation,2018,102.833
-price_indexes,Transportation and warehousing,6,Transportation,2019,107.879
-price_indexes,Transportation and warehousing,6,Transportation,2020,106.266
-price_indexes,Transportation and warehousing,6,Transportation,2021,110.722
-price_indexes,Transportation and warehousing,6,Transportation,2022,135.311
-price_indexes,Transportation and warehousing,6,Transportation,2023,138.483
-price_indexes,Air transportation,6,Transportation,2012,95.885
-price_indexes,Air transportation,6,Transportation,2013,93.668
-price_indexes,Air transportation,6,Transportation,2014,95.813
-price_indexes,Air transportation,6,Transportation,2015,103.929
-price_indexes,Air transportation,6,Transportation,2016,104.218
-price_indexes,Air transportation,6,Transportation,2017,100
-price_indexes,Air transportation,6,Transportation,2018,96.874
-price_indexes,Air transportation,6,Transportation,2019,103.557
-price_indexes,Air transportation,6,Transportation,2020,96.224
-price_indexes,Air transportation,6,Transportation,2021,87.448
-price_indexes,Air transportation,6,Transportation,2022,98.594
-price_indexes,Air transportation,6,Transportation,2023,107.262
-price_indexes,Rail transportation,6,Transportation,2012,96.329
-price_indexes,Rail transportation,6,Transportation,2013,98.609
-price_indexes,Rail transportation,6,Transportation,2014,100.364
-price_indexes,Rail transportation,6,Transportation,2015,99.714
-price_indexes,Rail transportation,6,Transportation,2016,97.713
-price_indexes,Rail transportation,6,Transportation,2017,100
-price_indexes,Rail transportation,6,Transportation,2018,103.499
-price_indexes,Rail transportation,6,Transportation,2019,105.608
-price_indexes,Rail transportation,6,Transportation,2020,108.549
-price_indexes,Rail transportation,6,Transportation,2021,109.926
-price_indexes,Rail transportation,6,Transportation,2022,115.623
-price_indexes,Rail transportation,6,Transportation,2023,119.849
-price_indexes,Water transportation,4,Maritime,2012,81.655
-price_indexes,Water transportation,4,Maritime,2013,79.694
-price_indexes,Water transportation,4,Maritime,2014,91.582
-price_indexes,Water transportation,4,Maritime,2015,105.562
-price_indexes,Water transportation,4,Maritime,2016,92.738
-price_indexes,Water transportation,4,Maritime,2017,100
-price_indexes,Water transportation,4,Maritime,2018,109.793
-price_indexes,Water transportation,4,Maritime,2019,123.19
-price_indexes,Water transportation,4,Maritime,2020,113.899
-price_indexes,Water transportation,4,Maritime,2021,129.496
-price_indexes,Water transportation,4,Maritime,2022,157.562
-price_indexes,Water transportation,4,Maritime,2023,159.48
-price_indexes,Truck transportation,6,Transportation,2012,87.54
-price_indexes,Truck transportation,6,Transportation,2013,89.765
-price_indexes,Truck transportation,6,Transportation,2014,93.365
-price_indexes,Truck transportation,6,Transportation,2015,98.37
-price_indexes,Truck transportation,6,Transportation,2016,99.479
-price_indexes,Truck transportation,6,Transportation,2017,100
-price_indexes,Truck transportation,6,Transportation,2018,107.8
-price_indexes,Truck transportation,6,Transportation,2019,111.636
-price_indexes,Truck transportation,6,Transportation,2020,112.761
-price_indexes,Truck transportation,6,Transportation,2021,123.468
-price_indexes,Truck transportation,6,Transportation,2022,157.768
-price_indexes,Truck transportation,6,Transportation,2023,151.759
-price_indexes,Transit and ground passenger transportation,6,Transportation,2012,87.319
-price_indexes,Transit and ground passenger transportation,6,Transportation,2013,91.177
-price_indexes,Transit and ground passenger transportation,6,Transportation,2014,91.868
-price_indexes,Transit and ground passenger transportation,6,Transportation,2015,92.708
-price_indexes,Transit and ground passenger transportation,6,Transportation,2016,96.756
-price_indexes,Transit and ground passenger transportation,6,Transportation,2017,100
-price_indexes,Transit and ground passenger transportation,6,Transportation,2018,103.719
-price_indexes,Transit and ground passenger transportation,6,Transportation,2019,105.493
-price_indexes,Transit and ground passenger transportation,6,Transportation,2020,110.606
-price_indexes,Transit and ground passenger transportation,6,Transportation,2021,113.122
-price_indexes,Transit and ground passenger transportation,6,Transportation,2022,116.095
-price_indexes,Transit and ground passenger transportation,6,Transportation,2023,117.744
-price_indexes,Pipeline transportation,6,Transportation,2012,99.306
-price_indexes,Pipeline transportation,6,Transportation,2013,98.335
-price_indexes,Pipeline transportation,6,Transportation,2014,98.284
-price_indexes,Pipeline transportation,6,Transportation,2015,98.818
-price_indexes,Pipeline transportation,6,Transportation,2016,97.205
-price_indexes,Pipeline transportation,6,Transportation,2017,100
-price_indexes,Pipeline transportation,6,Transportation,2018,103.513
-price_indexes,Pipeline transportation,6,Transportation,2019,105.083
-price_indexes,Pipeline transportation,6,Transportation,2020,109.508
-price_indexes,Pipeline transportation,6,Transportation,2021,112.258
-price_indexes,Pipeline transportation,6,Transportation,2022,115.406
-price_indexes,Pipeline transportation,6,Transportation,2023,117.646
-price_indexes,Other transportation and support activities,6,Transportation,2012,93.315
-price_indexes,Other transportation and support activities,6,Transportation,2013,93.705
-price_indexes,Other transportation and support activities,6,Transportation,2014,95.171
-price_indexes,Other transportation and support activities,6,Transportation,2015,94.215
-price_indexes,Other transportation and support activities,6,Transportation,2016,96.362
-price_indexes,Other transportation and support activities,6,Transportation,2017,100
-price_indexes,Other transportation and support activities,6,Transportation,2018,104.08
-price_indexes,Other transportation and support activities,6,Transportation,2019,107.454
-price_indexes,Other transportation and support activities,6,Transportation,2020,111.378
-price_indexes,Other transportation and support activities,6,Transportation,2021,117.411
-price_indexes,Other transportation and support activities,6,Transportation,2022,130.076
-price_indexes,Other transportation and support activities,6,Transportation,2023,134.866
-price_indexes,Warehousing and storage,6,Transportation,2012,98.6
-price_indexes,Warehousing and storage,6,Transportation,2013,99.546
-price_indexes,Warehousing and storage,6,Transportation,2014,100.902
-price_indexes,Warehousing and storage,6,Transportation,2015,99.051
-price_indexes,Warehousing and storage,6,Transportation,2016,97.685
-price_indexes,Warehousing and storage,6,Transportation,2017,100
-price_indexes,Warehousing and storage,6,Transportation,2018,103.942
-price_indexes,Warehousing and storage,6,Transportation,2019,105.286
-price_indexes,Warehousing and storage,6,Transportation,2020,107.939
-price_indexes,Warehousing and storage,6,Transportation,2021,112.685
-price_indexes,Warehousing and storage,6,Transportation,2022,119.883
-price_indexes,Warehousing and storage,6,Transportation,2023,118.919
-price_indexes,Information,13,Underground,2012,94.489
-price_indexes,Information,13,Underground,2013,95.52
-price_indexes,Information,13,Underground,2014,95.347
-price_indexes,Information,13,Underground,2015,95.195
-price_indexes,Information,13,Underground,2016,98.602
-price_indexes,Information,13,Underground,2017,100
-price_indexes,Information,13,Underground,2018,105.627
-price_indexes,Information,13,Underground,2019,110.977
-price_indexes,Information,13,Underground,2020,111.37
-price_indexes,Information,13,Underground,2021,114.687
-price_indexes,Information,13,Underground,2022,117.906
-price_indexes,Information,13,Underground,2023,126.581
+price_indexes,"Electrical equipment, appliances, and components",4,Power,2012,103.766
+price_indexes,"Electrical equipment, appliances, and components",4,Power,2013,97.271
+price_indexes,"Electrical equipment, appliances, and components",4,Power,2014,95.371
+price_indexes,"Electrical equipment, appliances, and components",4,Power,2015,96.739
+price_indexes,"Electrical equipment, appliances, and components",4,Power,2016,97.253
+price_indexes,"Electrical equipment, appliances, and components",4,Power,2017,100
+price_indexes,"Electrical equipment, appliances, and components",4,Power,2018,102.503
+price_indexes,"Electrical equipment, appliances, and components",4,Power,2019,108.874
+price_indexes,"Electrical equipment, appliances, and components",4,Power,2020,112.506
+price_indexes,"Electrical equipment, appliances, and components",4,Power,2021,135.119
+price_indexes,"Electrical equipment, appliances, and components",4,Power,2022,144.552
+price_indexes,"Electrical equipment, appliances, and components",4,Power,2023,152.122
+price_indexes,"Motor vehicles, bodies and trailers, and parts",13,NA,2012,117.021
+price_indexes,"Motor vehicles, bodies and trailers, and parts",13,NA,2013,114.668
+price_indexes,"Motor vehicles, bodies and trailers, and parts",13,NA,2014,108.809
+price_indexes,"Motor vehicles, bodies and trailers, and parts",13,NA,2015,101.83
+price_indexes,"Motor vehicles, bodies and trailers, and parts",13,NA,2016,101.091
+price_indexes,"Motor vehicles, bodies and trailers, and parts",13,NA,2017,100
+price_indexes,"Motor vehicles, bodies and trailers, and parts",13,NA,2018,99.312
+price_indexes,"Motor vehicles, bodies and trailers, and parts",13,NA,2019,99.919
+price_indexes,"Motor vehicles, bodies and trailers, and parts",13,NA,2020,97.331
+price_indexes,"Motor vehicles, bodies and trailers, and parts",13,NA,2021,97.784
+price_indexes,"Motor vehicles, bodies and trailers, and parts",13,NA,2022,104.632
+price_indexes,"Motor vehicles, bodies and trailers, and parts",13,NA,2023,104.634
+price_indexes,Other transportation equipment3,5,Transportation,2012,96.108
+price_indexes,Other transportation equipment3,5,Transportation,2013,97.789
+price_indexes,Other transportation equipment3,5,Transportation,2014,100.076
+price_indexes,Other transportation equipment3,5,Transportation,2015,100.995
+price_indexes,Other transportation equipment3,5,Transportation,2016,100.103
+price_indexes,Other transportation equipment3,5,Transportation,2017,100
+price_indexes,Other transportation equipment3,5,Transportation,2018,100.128
+price_indexes,Other transportation equipment3,5,Transportation,2019,101.233
+price_indexes,Other transportation equipment3,5,Transportation,2020,102.245
+price_indexes,Other transportation equipment3,5,Transportation,2021,101.68
+price_indexes,Other transportation equipment3,5,Transportation,2022,105.633
+price_indexes,Other transportation equipment3,5,Transportation,2023,111.403
+price_indexes,Furniture and related products,13,NA,2012,94.111
+price_indexes,Furniture and related products,13,NA,2013,94.778
+price_indexes,Furniture and related products,13,NA,2014,97.087
+price_indexes,Furniture and related products,13,NA,2015,99.434
+price_indexes,Furniture and related products,13,NA,2016,96.974
+price_indexes,Furniture and related products,13,NA,2017,100
+price_indexes,Furniture and related products,13,NA,2018,104.009
+price_indexes,Furniture and related products,13,NA,2019,105.537
+price_indexes,Furniture and related products,13,NA,2020,111.109
+price_indexes,Furniture and related products,13,NA,2021,114.126
+price_indexes,Furniture and related products,13,NA,2022,116.997
+price_indexes,Furniture and related products,13,NA,2023,119.086
+price_indexes,Miscellaneous manufacturing,7,Textiles,2012,94.15
+price_indexes,Miscellaneous manufacturing,7,Textiles,2013,94.817
+price_indexes,Miscellaneous manufacturing,7,Textiles,2014,97.138
+price_indexes,Miscellaneous manufacturing,7,Textiles,2015,99.478
+price_indexes,Miscellaneous manufacturing,7,Textiles,2016,96.932
+price_indexes,Miscellaneous manufacturing,7,Textiles,2017,100
+price_indexes,Miscellaneous manufacturing,7,Textiles,2018,104.101
+price_indexes,Miscellaneous manufacturing,7,Textiles,2019,105.666
+price_indexes,Miscellaneous manufacturing,7,Textiles,2020,111.419
+price_indexes,Miscellaneous manufacturing,7,Textiles,2021,114.593
+price_indexes,Miscellaneous manufacturing,7,Textiles,2022,117.581
+price_indexes,Miscellaneous manufacturing,7,Textiles,2023,119.711
+price_indexes,Nondurable goods,13,NA,2012,101.781
+price_indexes,Nondurable goods,13,NA,2013,100.166
+price_indexes,Nondurable goods,13,NA,2014,101.488
+price_indexes,Nondurable goods,13,NA,2015,102.329
+price_indexes,Nondurable goods,13,NA,2016,97.562
+price_indexes,Nondurable goods,13,NA,2017,100
+price_indexes,Nondurable goods,13,NA,2018,103.78
+price_indexes,Nondurable goods,13,NA,2019,104.752
+price_indexes,Nondurable goods,13,NA,2020,110.678
+price_indexes,Nondurable goods,13,NA,2021,112.849
+price_indexes,Nondurable goods,13,NA,2022,115.145
+price_indexes,Nondurable goods,13,NA,2023,117.029
+price_indexes,Food and beverage and tobacco products,8,Grain,2012,94.264
+price_indexes,Food and beverage and tobacco products,8,Grain,2013,94.912
+price_indexes,Food and beverage and tobacco products,8,Grain,2014,97.245
+price_indexes,Food and beverage and tobacco products,8,Grain,2015,99.589
+price_indexes,Food and beverage and tobacco products,8,Grain,2016,96.921
+price_indexes,Food and beverage and tobacco products,8,Grain,2017,100
+price_indexes,Food and beverage and tobacco products,8,Grain,2018,104.143
+price_indexes,Food and beverage and tobacco products,8,Grain,2019,105.679
+price_indexes,Food and beverage and tobacco products,8,Grain,2020,111.498
+price_indexes,Food and beverage and tobacco products,8,Grain,2021,114.599
+price_indexes,Food and beverage and tobacco products,8,Grain,2022,117.516
+price_indexes,Food and beverage and tobacco products,8,Grain,2023,119.621
+price_indexes,Textile mills and textile product mills,7,Textiles,2012,97.752
+price_indexes,Textile mills and textile product mills,7,Textiles,2013,97.242
+price_indexes,Textile mills and textile product mills,7,Textiles,2014,99.765
+price_indexes,Textile mills and textile product mills,7,Textiles,2015,101.917
+price_indexes,Textile mills and textile product mills,7,Textiles,2016,96.769
+price_indexes,Textile mills and textile product mills,7,Textiles,2017,100
+price_indexes,Textile mills and textile product mills,7,Textiles,2018,105.164
+price_indexes,Textile mills and textile product mills,7,Textiles,2019,106.156
+price_indexes,Textile mills and textile product mills,7,Textiles,2020,114.029
+price_indexes,Textile mills and textile product mills,7,Textiles,2021,116.504
+price_indexes,Textile mills and textile product mills,7,Textiles,2022,118.312
+price_indexes,Textile mills and textile product mills,7,Textiles,2023,119.672
+price_indexes,Apparel and leather and allied products,7,Textiles,2012,105.725
+price_indexes,Apparel and leather and allied products,7,Textiles,2013,100.616
+price_indexes,Apparel and leather and allied products,7,Textiles,2014,103.377
+price_indexes,Apparel and leather and allied products,7,Textiles,2015,105.179
+price_indexes,Apparel and leather and allied products,7,Textiles,2016,96.637
+price_indexes,Apparel and leather and allied products,7,Textiles,2017,100
+price_indexes,Apparel and leather and allied products,7,Textiles,2018,106.341
+price_indexes,Apparel and leather and allied products,7,Textiles,2019,106.614
+price_indexes,Apparel and leather and allied products,7,Textiles,2020,116.871
+price_indexes,Apparel and leather and allied products,7,Textiles,2021,118.356
+price_indexes,Apparel and leather and allied products,7,Textiles,2022,118.767
+price_indexes,Apparel and leather and allied products,7,Textiles,2023,119.287
+price_indexes,Paper products,6,Lumber,2012,96.272
+price_indexes,Paper products,6,Lumber,2013,95.943
+price_indexes,Paper products,6,Lumber,2014,98.397
+price_indexes,Paper products,6,Lumber,2015,100.61
+price_indexes,Paper products,6,Lumber,2016,96.865
+price_indexes,Paper products,6,Lumber,2017,100
+price_indexes,Paper products,6,Lumber,2018,104.446
+price_indexes,Paper products,6,Lumber,2019,105.84
+price_indexes,Paper products,6,Lumber,2020,112.147
+price_indexes,Paper products,6,Lumber,2021,115.013
+price_indexes,Paper products,6,Lumber,2022,117.777
+price_indexes,Paper products,6,Lumber,2023,119.736
+price_indexes,Printing and related support activities,13,NA,2012,171.538
+price_indexes,Printing and related support activities,13,NA,2013,141.541
+price_indexes,Printing and related support activities,13,NA,2014,147.466
+price_indexes,Printing and related support activities,13,NA,2015,142.349
+price_indexes,Printing and related support activities,13,NA,2016,98.928
+price_indexes,Printing and related support activities,13,NA,2017,100
+price_indexes,Printing and related support activities,13,NA,2018,111.831
+price_indexes,Printing and related support activities,13,NA,2019,102.412
+price_indexes,Printing and related support activities,13,NA,2020,128.862
+price_indexes,Printing and related support activities,13,NA,2021,119.955
+price_indexes,Printing and related support activities,13,NA,2022,111.463
+price_indexes,Printing and related support activities,13,NA,2023,106.991
+price_indexes,Petroleum and coal products,11,Mining,2012,94.089
+price_indexes,Petroleum and coal products,11,Mining,2013,94.819
+price_indexes,Petroleum and coal products,11,Mining,2014,97.117
+price_indexes,Petroleum and coal products,11,Mining,2015,99.441
+price_indexes,Petroleum and coal products,11,Mining,2016,96.981
+price_indexes,Petroleum and coal products,11,Mining,2017,100
+price_indexes,Petroleum and coal products,11,Mining,2018,104.035
+price_indexes,Petroleum and coal products,11,Mining,2019,105.608
+price_indexes,Petroleum and coal products,11,Mining,2020,111.28
+price_indexes,Petroleum and coal products,11,Mining,2021,114.391
+price_indexes,Petroleum and coal products,11,Mining,2022,117.35
+price_indexes,Petroleum and coal products,11,Mining,2023,119.485
+price_indexes,Chemical products,7,Textiles,2012,489.948
+price_indexes,Chemical products,7,Textiles,2013,380.068
+price_indexes,Chemical products,7,Textiles,2014,244.564
+price_indexes,Chemical products,7,Textiles,2015,172.989
+price_indexes,Chemical products,7,Textiles,2016,123.412
+price_indexes,Chemical products,7,Textiles,2017,100
+price_indexes,Chemical products,7,Textiles,2018,80.93
+price_indexes,Chemical products,7,Textiles,2019,71.428
+price_indexes,Chemical products,7,Textiles,2020,66.007
+price_indexes,Chemical products,7,Textiles,2021,53.851
+price_indexes,Chemical products,7,Textiles,2022,49.758
+price_indexes,Chemical products,7,Textiles,2023,50.895
+price_indexes,Plastics and rubber products,7,Textiles,2012,96.97
+price_indexes,Plastics and rubber products,7,Textiles,2013,96.809
+price_indexes,Plastics and rubber products,7,Textiles,2014,99.276
+price_indexes,Plastics and rubber products,7,Textiles,2015,101.375
+price_indexes,Plastics and rubber products,7,Textiles,2016,96.777
+price_indexes,Plastics and rubber products,7,Textiles,2017,100
+price_indexes,Plastics and rubber products,7,Textiles,2018,105.042
+price_indexes,Plastics and rubber products,7,Textiles,2019,106.143
+price_indexes,Plastics and rubber products,7,Textiles,2020,113.793
+price_indexes,Plastics and rubber products,7,Textiles,2021,116.184
+price_indexes,Plastics and rubber products,7,Textiles,2022,118.227
+price_indexes,Plastics and rubber products,7,Textiles,2023,119.692
+price_indexes,Wholesale trade,13,NA,2012,115.931
+price_indexes,Wholesale trade,13,NA,2013,101.636
+price_indexes,Wholesale trade,13,NA,2014,94.997
+price_indexes,Wholesale trade,13,NA,2015,96.246
+price_indexes,Wholesale trade,13,NA,2016,97.36
+price_indexes,Wholesale trade,13,NA,2017,100
+price_indexes,Wholesale trade,13,NA,2018,102.028
+price_indexes,Wholesale trade,13,NA,2019,111.759
+price_indexes,Wholesale trade,13,NA,2020,116.051
+price_indexes,Wholesale trade,13,NA,2021,161.335
+price_indexes,Wholesale trade,13,NA,2022,174.786
+price_indexes,Wholesale trade,13,NA,2023,192.425
+price_indexes,Retail trade,13,NA,2012,86.722
+price_indexes,Retail trade,13,NA,2013,99.429
+price_indexes,Retail trade,13,NA,2014,98.825
+price_indexes,Retail trade,13,NA,2015,96.977
+price_indexes,Retail trade,13,NA,2016,91.403
+price_indexes,Retail trade,13,NA,2017,100
+price_indexes,Retail trade,13,NA,2018,99.057
+price_indexes,Retail trade,13,NA,2019,88.493
+price_indexes,Retail trade,13,NA,2020,95.199
+price_indexes,Retail trade,13,NA,2021,103.006
+price_indexes,Retail trade,13,NA,2022,93.851
+price_indexes,Retail trade,13,NA,2023,100.941
+price_indexes,Motor vehicle and parts dealers,13,NA,2012,103.247
+price_indexes,Motor vehicle and parts dealers,13,NA,2013,108.689
+price_indexes,Motor vehicle and parts dealers,13,NA,2014,102.251
+price_indexes,Motor vehicle and parts dealers,13,NA,2015,98.778
+price_indexes,Motor vehicle and parts dealers,13,NA,2016,99.936
+price_indexes,Motor vehicle and parts dealers,13,NA,2017,100
+price_indexes,Motor vehicle and parts dealers,13,NA,2018,99.946
+price_indexes,Motor vehicle and parts dealers,13,NA,2019,100.691
+price_indexes,Motor vehicle and parts dealers,13,NA,2020,102.334
+price_indexes,Motor vehicle and parts dealers,13,NA,2021,109.196
+price_indexes,Motor vehicle and parts dealers,13,NA,2022,125.684
+price_indexes,Motor vehicle and parts dealers,13,NA,2023,118.75
+price_indexes,Food and beverage stores,8,Grain,2012,82.539
+price_indexes,Food and beverage stores,8,Grain,2013,84.725
+price_indexes,Food and beverage stores,8,Grain,2014,89.041
+price_indexes,Food and beverage stores,8,Grain,2015,95.673
+price_indexes,Food and beverage stores,8,Grain,2016,100.33
+price_indexes,Food and beverage stores,8,Grain,2017,100
+price_indexes,Food and beverage stores,8,Grain,2018,103.514
+price_indexes,Food and beverage stores,8,Grain,2019,105.837
+price_indexes,Food and beverage stores,8,Grain,2020,110.93
+price_indexes,Food and beverage stores,8,Grain,2021,109.865
+price_indexes,Food and beverage stores,8,Grain,2022,127.804
+price_indexes,Food and beverage stores,8,Grain,2023,147.62
+price_indexes,General merchandise stores,13,NA,2012,102.357
+price_indexes,General merchandise stores,13,NA,2013,102.427
+price_indexes,General merchandise stores,13,NA,2014,104.595
+price_indexes,General merchandise stores,13,NA,2015,104.399
+price_indexes,General merchandise stores,13,NA,2016,103.831
+price_indexes,General merchandise stores,13,NA,2017,100
+price_indexes,General merchandise stores,13,NA,2018,97.486
+price_indexes,General merchandise stores,13,NA,2019,102.737
+price_indexes,General merchandise stores,13,NA,2020,96.995
+price_indexes,General merchandise stores,13,NA,2021,101.31
+price_indexes,General merchandise stores,13,NA,2022,128.111
+price_indexes,General merchandise stores,13,NA,2023,140.435
+price_indexes,Other retail,12,Underground,2012,84.759
+price_indexes,Other retail,12,Underground,2013,99.101
+price_indexes,Other retail,12,Underground,2014,98.142
+price_indexes,Other retail,12,Underground,2015,96.078
+price_indexes,Other retail,12,Underground,2016,89.925
+price_indexes,Other retail,12,Underground,2017,100
+price_indexes,Other retail,12,Underground,2018,99.247
+price_indexes,Other retail,12,Underground,2019,86.744
+price_indexes,Other retail,12,Underground,2020,95.075
+price_indexes,Other retail,12,Underground,2021,103.411
+price_indexes,Other retail,12,Underground,2022,89.888
+price_indexes,Other retail,12,Underground,2023,96.407
+price_indexes,Transportation and warehousing,5,Transportation,2012,91.588
+price_indexes,Transportation and warehousing,5,Transportation,2013,91.505
+price_indexes,Transportation and warehousing,5,Transportation,2014,94.386
+price_indexes,Transportation and warehousing,5,Transportation,2015,100.715
+price_indexes,Transportation and warehousing,5,Transportation,2016,101.434
+price_indexes,Transportation and warehousing,5,Transportation,2017,100
+price_indexes,Transportation and warehousing,5,Transportation,2018,102.833
+price_indexes,Transportation and warehousing,5,Transportation,2019,107.879
+price_indexes,Transportation and warehousing,5,Transportation,2020,106.266
+price_indexes,Transportation and warehousing,5,Transportation,2021,110.722
+price_indexes,Transportation and warehousing,5,Transportation,2022,135.311
+price_indexes,Transportation and warehousing,5,Transportation,2023,138.483
+price_indexes,Air transportation,5,Transportation,2012,95.885
+price_indexes,Air transportation,5,Transportation,2013,93.668
+price_indexes,Air transportation,5,Transportation,2014,95.813
+price_indexes,Air transportation,5,Transportation,2015,103.929
+price_indexes,Air transportation,5,Transportation,2016,104.218
+price_indexes,Air transportation,5,Transportation,2017,100
+price_indexes,Air transportation,5,Transportation,2018,96.874
+price_indexes,Air transportation,5,Transportation,2019,103.557
+price_indexes,Air transportation,5,Transportation,2020,96.224
+price_indexes,Air transportation,5,Transportation,2021,87.448
+price_indexes,Air transportation,5,Transportation,2022,98.594
+price_indexes,Air transportation,5,Transportation,2023,107.262
+price_indexes,Rail transportation,5,Transportation,2012,96.329
+price_indexes,Rail transportation,5,Transportation,2013,98.609
+price_indexes,Rail transportation,5,Transportation,2014,100.364
+price_indexes,Rail transportation,5,Transportation,2015,99.714
+price_indexes,Rail transportation,5,Transportation,2016,97.713
+price_indexes,Rail transportation,5,Transportation,2017,100
+price_indexes,Rail transportation,5,Transportation,2018,103.499
+price_indexes,Rail transportation,5,Transportation,2019,105.608
+price_indexes,Rail transportation,5,Transportation,2020,108.549
+price_indexes,Rail transportation,5,Transportation,2021,109.926
+price_indexes,Rail transportation,5,Transportation,2022,115.623
+price_indexes,Rail transportation,5,Transportation,2023,119.849
+price_indexes,Water transportation,5,Transportation,2012,81.655
+price_indexes,Water transportation,5,Transportation,2013,79.694
+price_indexes,Water transportation,5,Transportation,2014,91.582
+price_indexes,Water transportation,5,Transportation,2015,105.562
+price_indexes,Water transportation,5,Transportation,2016,92.738
+price_indexes,Water transportation,5,Transportation,2017,100
+price_indexes,Water transportation,5,Transportation,2018,109.793
+price_indexes,Water transportation,5,Transportation,2019,123.19
+price_indexes,Water transportation,5,Transportation,2020,113.899
+price_indexes,Water transportation,5,Transportation,2021,129.496
+price_indexes,Water transportation,5,Transportation,2022,157.562
+price_indexes,Water transportation,5,Transportation,2023,159.48
+price_indexes,Truck transportation,5,Transportation,2012,87.54
+price_indexes,Truck transportation,5,Transportation,2013,89.765
+price_indexes,Truck transportation,5,Transportation,2014,93.365
+price_indexes,Truck transportation,5,Transportation,2015,98.37
+price_indexes,Truck transportation,5,Transportation,2016,99.479
+price_indexes,Truck transportation,5,Transportation,2017,100
+price_indexes,Truck transportation,5,Transportation,2018,107.8
+price_indexes,Truck transportation,5,Transportation,2019,111.636
+price_indexes,Truck transportation,5,Transportation,2020,112.761
+price_indexes,Truck transportation,5,Transportation,2021,123.468
+price_indexes,Truck transportation,5,Transportation,2022,157.768
+price_indexes,Truck transportation,5,Transportation,2023,151.759
+price_indexes,Transit and ground passenger transportation,5,Transportation,2012,87.319
+price_indexes,Transit and ground passenger transportation,5,Transportation,2013,91.177
+price_indexes,Transit and ground passenger transportation,5,Transportation,2014,91.868
+price_indexes,Transit and ground passenger transportation,5,Transportation,2015,92.708
+price_indexes,Transit and ground passenger transportation,5,Transportation,2016,96.756
+price_indexes,Transit and ground passenger transportation,5,Transportation,2017,100
+price_indexes,Transit and ground passenger transportation,5,Transportation,2018,103.719
+price_indexes,Transit and ground passenger transportation,5,Transportation,2019,105.493
+price_indexes,Transit and ground passenger transportation,5,Transportation,2020,110.606
+price_indexes,Transit and ground passenger transportation,5,Transportation,2021,113.122
+price_indexes,Transit and ground passenger transportation,5,Transportation,2022,116.095
+price_indexes,Transit and ground passenger transportation,5,Transportation,2023,117.744
+price_indexes,Pipeline transportation,5,Transportation,2012,99.306
+price_indexes,Pipeline transportation,5,Transportation,2013,98.335
+price_indexes,Pipeline transportation,5,Transportation,2014,98.284
+price_indexes,Pipeline transportation,5,Transportation,2015,98.818
+price_indexes,Pipeline transportation,5,Transportation,2016,97.205
+price_indexes,Pipeline transportation,5,Transportation,2017,100
+price_indexes,Pipeline transportation,5,Transportation,2018,103.513
+price_indexes,Pipeline transportation,5,Transportation,2019,105.083
+price_indexes,Pipeline transportation,5,Transportation,2020,109.508
+price_indexes,Pipeline transportation,5,Transportation,2021,112.258
+price_indexes,Pipeline transportation,5,Transportation,2022,115.406
+price_indexes,Pipeline transportation,5,Transportation,2023,117.646
+price_indexes,Other transportation and support activities,5,Transportation,2012,93.315
+price_indexes,Other transportation and support activities,5,Transportation,2013,93.705
+price_indexes,Other transportation and support activities,5,Transportation,2014,95.171
+price_indexes,Other transportation and support activities,5,Transportation,2015,94.215
+price_indexes,Other transportation and support activities,5,Transportation,2016,96.362
+price_indexes,Other transportation and support activities,5,Transportation,2017,100
+price_indexes,Other transportation and support activities,5,Transportation,2018,104.08
+price_indexes,Other transportation and support activities,5,Transportation,2019,107.454
+price_indexes,Other transportation and support activities,5,Transportation,2020,111.378
+price_indexes,Other transportation and support activities,5,Transportation,2021,117.411
+price_indexes,Other transportation and support activities,5,Transportation,2022,130.076
+price_indexes,Other transportation and support activities,5,Transportation,2023,134.866
+price_indexes,Warehousing and storage,5,Transportation,2012,98.6
+price_indexes,Warehousing and storage,5,Transportation,2013,99.546
+price_indexes,Warehousing and storage,5,Transportation,2014,100.902
+price_indexes,Warehousing and storage,5,Transportation,2015,99.051
+price_indexes,Warehousing and storage,5,Transportation,2016,97.685
+price_indexes,Warehousing and storage,5,Transportation,2017,100
+price_indexes,Warehousing and storage,5,Transportation,2018,103.942
+price_indexes,Warehousing and storage,5,Transportation,2019,105.286
+price_indexes,Warehousing and storage,5,Transportation,2020,107.939
+price_indexes,Warehousing and storage,5,Transportation,2021,112.685
+price_indexes,Warehousing and storage,5,Transportation,2022,119.883
+price_indexes,Warehousing and storage,5,Transportation,2023,118.919
+price_indexes,Information,13,NA,2012,94.489
+price_indexes,Information,13,NA,2013,95.52
+price_indexes,Information,13,NA,2014,95.347
+price_indexes,Information,13,NA,2015,95.195
+price_indexes,Information,13,NA,2016,98.602
+price_indexes,Information,13,NA,2017,100
+price_indexes,Information,13,NA,2018,105.627
+price_indexes,Information,13,NA,2019,110.977
+price_indexes,Information,13,NA,2020,111.37
+price_indexes,Information,13,NA,2021,114.687
+price_indexes,Information,13,NA,2022,117.906
+price_indexes,Information,13,NA,2023,126.581
 price_indexes,"Publishing industries, except internet (includes software)",3,Technology,2012,97.385
 price_indexes,"Publishing industries, except internet (includes software)",3,Technology,2013,98.788
 price_indexes,"Publishing industries, except internet (includes software)",3,Technology,2014,100.558
@@ -563,18 +563,18 @@ price_indexes,"Publishing industries, except internet (includes software)",3,Tec
 price_indexes,"Publishing industries, except internet (includes software)",3,Technology,2021,104.006
 price_indexes,"Publishing industries, except internet (includes software)",3,Technology,2022,103.608
 price_indexes,"Publishing industries, except internet (includes software)",3,Technology,2023,104.864
-price_indexes,Motion picture and sound recording industries,13,Underground,2012,92.446
-price_indexes,Motion picture and sound recording industries,13,Underground,2013,94.604
-price_indexes,Motion picture and sound recording industries,13,Underground,2014,96.743
-price_indexes,Motion picture and sound recording industries,13,Underground,2015,98.762
-price_indexes,Motion picture and sound recording industries,13,Underground,2016,95.866
-price_indexes,Motion picture and sound recording industries,13,Underground,2017,100
-price_indexes,Motion picture and sound recording industries,13,Underground,2018,103.581
-price_indexes,Motion picture and sound recording industries,13,Underground,2019,102.901
-price_indexes,Motion picture and sound recording industries,13,Underground,2020,108.986
-price_indexes,Motion picture and sound recording industries,13,Underground,2021,111.982
-price_indexes,Motion picture and sound recording industries,13,Underground,2022,112.719
-price_indexes,Motion picture and sound recording industries,13,Underground,2023,115.371
+price_indexes,Motion picture and sound recording industries,13,NA,2012,92.446
+price_indexes,Motion picture and sound recording industries,13,NA,2013,94.604
+price_indexes,Motion picture and sound recording industries,13,NA,2014,96.743
+price_indexes,Motion picture and sound recording industries,13,NA,2015,98.762
+price_indexes,Motion picture and sound recording industries,13,NA,2016,95.866
+price_indexes,Motion picture and sound recording industries,13,NA,2017,100
+price_indexes,Motion picture and sound recording industries,13,NA,2018,103.581
+price_indexes,Motion picture and sound recording industries,13,NA,2019,102.901
+price_indexes,Motion picture and sound recording industries,13,NA,2020,108.986
+price_indexes,Motion picture and sound recording industries,13,NA,2021,111.982
+price_indexes,Motion picture and sound recording industries,13,NA,2022,112.719
+price_indexes,Motion picture and sound recording industries,13,NA,2023,115.371
 price_indexes,Broadcasting and telecommunications4,1,Luxury,2012,94.537
 price_indexes,Broadcasting and telecommunications4,1,Luxury,2013,95.561
 price_indexes,Broadcasting and telecommunications4,1,Luxury,2014,95.332
@@ -599,174 +599,174 @@ price_indexes,"Data processing, internet publishing, and other information servi
 price_indexes,"Data processing, internet publishing, and other information services",3,Technology,2021,118.264
 price_indexes,"Data processing, internet publishing, and other information services",3,Technology,2022,122.842
 price_indexes,"Data processing, internet publishing, and other information services",3,Technology,2023,134.265
-price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2012,97.263
-price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2013,96.821
-price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2014,97.666
-price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2015,99.7
-price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2016,99.906
-price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2017,100
-price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2018,100.685
-price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2019,102.679
-price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2020,108.133
-price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2021,110.286
-price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2022,116.533
-price_indexes,"Finance, insurance, real estate, rental, and leasing",13,Underground,2023,129.409
-price_indexes,Finance and insurance,13,Underground,2012,97.239
-price_indexes,Finance and insurance,13,Underground,2013,96.792
-price_indexes,Finance and insurance,13,Underground,2014,97.64
-price_indexes,Finance and insurance,13,Underground,2015,99.697
-price_indexes,Finance and insurance,13,Underground,2016,99.934
-price_indexes,Finance and insurance,13,Underground,2017,100
-price_indexes,Finance and insurance,13,Underground,2018,100.66
-price_indexes,Finance and insurance,13,Underground,2019,102.712
-price_indexes,Finance and insurance,13,Underground,2020,108.413
-price_indexes,Finance and insurance,13,Underground,2021,110.562
-price_indexes,Finance and insurance,13,Underground,2022,116.874
-price_indexes,Finance and insurance,13,Underground,2023,130.196
-price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2012,100.035
-price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2013,99.512
-price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2014,99.505
-price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2015,99.937
-price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2016,98.589
-price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2017,100
-price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2018,101.235
-price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2019,101.541
-price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2020,103.343
-price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2021,104.278
-price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2022,106.227
-price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2023,107.893
-price_indexes,"Securities, commodity contracts, and investments",13,Underground,2012,97.525
-price_indexes,"Securities, commodity contracts, and investments",13,Underground,2013,97.362
-price_indexes,"Securities, commodity contracts, and investments",13,Underground,2014,98.245
-price_indexes,"Securities, commodity contracts, and investments",13,Underground,2015,99.291
-price_indexes,"Securities, commodity contracts, and investments",13,Underground,2016,97.947
-price_indexes,"Securities, commodity contracts, and investments",13,Underground,2017,100
-price_indexes,"Securities, commodity contracts, and investments",13,Underground,2018,102.205
-price_indexes,"Securities, commodity contracts, and investments",13,Underground,2019,102.736
-price_indexes,"Securities, commodity contracts, and investments",13,Underground,2020,105.291
-price_indexes,"Securities, commodity contracts, and investments",13,Underground,2021,106.768
-price_indexes,"Securities, commodity contracts, and investments",13,Underground,2022,108.913
-price_indexes,"Securities, commodity contracts, and investments",13,Underground,2023,110.72
-price_indexes,Insurance carriers and related activities,13,Underground,2012,97.25
-price_indexes,Insurance carriers and related activities,13,Underground,2013,96.791
-price_indexes,Insurance carriers and related activities,13,Underground,2014,97.715
-price_indexes,Insurance carriers and related activities,13,Underground,2015,99.983
-price_indexes,Insurance carriers and related activities,13,Underground,2016,100.493
-price_indexes,Insurance carriers and related activities,13,Underground,2017,100
-price_indexes,Insurance carriers and related activities,13,Underground,2018,100.24
-price_indexes,Insurance carriers and related activities,13,Underground,2019,102.713
-price_indexes,Insurance carriers and related activities,13,Underground,2020,109.654
-price_indexes,Insurance carriers and related activities,13,Underground,2021,112.288
-price_indexes,Insurance carriers and related activities,13,Underground,2022,120.298
-price_indexes,Insurance carriers and related activities,13,Underground,2023,137.119
-price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2012,98.841
-price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2013,98.159
-price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2014,98.49
-price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2015,99.253
-price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2016,97.802
-price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2017,100
-price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2018,103.093
-price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2019,104.043
-price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2020,105.498
-price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2021,105.234
-price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2022,106.326
-price_indexes,"Funds, trusts, and other financial vehicles",13,Underground,2023,107.608
-price_indexes,Real estate and rental and leasing,13,Underground,2012,99.218
-price_indexes,Real estate and rental and leasing,13,Underground,2013,99.335
-price_indexes,Real estate and rental and leasing,13,Underground,2014,99.878
-price_indexes,Real estate and rental and leasing,13,Underground,2015,100.271
-price_indexes,Real estate and rental and leasing,13,Underground,2016,98.759
-price_indexes,Real estate and rental and leasing,13,Underground,2017,100
-price_indexes,Real estate and rental and leasing,13,Underground,2018,101.398
-price_indexes,Real estate and rental and leasing,13,Underground,2019,102.149
-price_indexes,Real estate and rental and leasing,13,Underground,2020,104.139
-price_indexes,Real estate and rental and leasing,13,Underground,2021,106.304
-price_indexes,Real estate and rental and leasing,13,Underground,2022,111.171
-price_indexes,Real estate and rental and leasing,13,Underground,2023,114.546
-price_indexes,Real estate,13,Underground,2012,98.603
-price_indexes,Real estate,13,Underground,2013,98.426
-price_indexes,Real estate,13,Underground,2014,98.896
-price_indexes,Real estate,13,Underground,2015,99.652
-price_indexes,Real estate,13,Underground,2016,98.282
-price_indexes,Real estate,13,Underground,2017,100
-price_indexes,Real estate,13,Underground,2018,102.073
-price_indexes,Real estate,13,Underground,2019,102.928
-price_indexes,Real estate,13,Underground,2020,106.03
-price_indexes,Real estate,13,Underground,2021,107.879
-price_indexes,Real estate,13,Underground,2022,110.135
-price_indexes,Real estate,13,Underground,2023,111.987
-price_indexes,Housing,13,Underground,2012,99.532
-price_indexes,Housing,13,Underground,2013,98.984
-price_indexes,Housing,13,Underground,2014,99.376
-price_indexes,Housing,13,Underground,2015,99.966
-price_indexes,Housing,13,Underground,2016,98.611
-price_indexes,Housing,13,Underground,2017,100
-price_indexes,Housing,13,Underground,2018,101.655
-price_indexes,Housing,13,Underground,2019,102.284
-price_indexes,Housing,13,Underground,2020,104.947
-price_indexes,Housing,13,Underground,2021,106.308
-price_indexes,Housing,13,Underground,2022,108.25
-price_indexes,Housing,13,Underground,2023,109.981
-price_indexes,Other real estate,13,Underground,2012,98.431
-price_indexes,Other real estate,13,Underground,2013,98.294
-price_indexes,Other real estate,13,Underground,2014,98.781
-price_indexes,Other real estate,13,Underground,2015,99.577
-price_indexes,Other real estate,13,Underground,2016,98.203
-price_indexes,Other real estate,13,Underground,2017,100
-price_indexes,Other real estate,13,Underground,2018,102.176
-price_indexes,Other real estate,13,Underground,2019,103.088
-price_indexes,Other real estate,13,Underground,2020,106.3
-price_indexes,Other real estate,13,Underground,2021,108.271
-price_indexes,Other real estate,13,Underground,2022,110.609
-price_indexes,Other real estate,13,Underground,2023,112.493
-price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2012,100.012
-price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2013,100.311
-price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2014,100.906
-price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2015,100.984
-price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2016,99.318
-price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2017,100
-price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2018,100.416
-price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2019,101.023
-price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2020,101.182
-price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2021,103.938
-price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2022,113.249
-price_indexes,Rental and leasing services and lessors of intangible assets,13,Underground,2023,119.232
-price_indexes,Professional and business services,13,Underground,2012,92.82
-price_indexes,Professional and business services,13,Underground,2013,93.5
-price_indexes,Professional and business services,13,Underground,2014,95.553
-price_indexes,Professional and business services,13,Underground,2015,99.029
-price_indexes,Professional and business services,13,Underground,2016,97.165
-price_indexes,Professional and business services,13,Underground,2017,100
-price_indexes,Professional and business services,13,Underground,2018,103.605
-price_indexes,Professional and business services,13,Underground,2019,105.295
-price_indexes,Professional and business services,13,Underground,2020,110.693
-price_indexes,Professional and business services,13,Underground,2021,111.639
-price_indexes,Professional and business services,13,Underground,2022,113.196
-price_indexes,Professional and business services,13,Underground,2023,116.213
-price_indexes,"Professional, scientific, and technical services",13,Underground,2012,92.698
-price_indexes,"Professional, scientific, and technical services",13,Underground,2013,93.388
-price_indexes,"Professional, scientific, and technical services",13,Underground,2014,95.455
-price_indexes,"Professional, scientific, and technical services",13,Underground,2015,98.985
-price_indexes,"Professional, scientific, and technical services",13,Underground,2016,97.133
-price_indexes,"Professional, scientific, and technical services",13,Underground,2017,100
-price_indexes,"Professional, scientific, and technical services",13,Underground,2018,103.641
-price_indexes,"Professional, scientific, and technical services",13,Underground,2019,105.369
-price_indexes,"Professional, scientific, and technical services",13,Underground,2020,110.842
-price_indexes,"Professional, scientific, and technical services",13,Underground,2021,111.775
-price_indexes,"Professional, scientific, and technical services",13,Underground,2022,113.328
-price_indexes,"Professional, scientific, and technical services",13,Underground,2023,116.397
-price_indexes,Legal services,13,Underground,2012,102.807
-price_indexes,Legal services,13,Underground,2013,102.011
-price_indexes,Legal services,13,Underground,2014,101.731
-price_indexes,Legal services,13,Underground,2015,101.718
-price_indexes,Legal services,13,Underground,2016,99.971
-price_indexes,Legal services,13,Underground,2017,100
-price_indexes,Legal services,13,Underground,2018,99.73
-price_indexes,Legal services,13,Underground,2019,99.032
-price_indexes,Legal services,13,Underground,2020,98.885
-price_indexes,Legal services,13,Underground,2021,97.597
-price_indexes,Legal services,13,Underground,2022,97.874
-price_indexes,Legal services,13,Underground,2023,98.65
+price_indexes,"Finance, insurance, real estate, rental, and leasing",13,NA,2012,97.263
+price_indexes,"Finance, insurance, real estate, rental, and leasing",13,NA,2013,96.821
+price_indexes,"Finance, insurance, real estate, rental, and leasing",13,NA,2014,97.666
+price_indexes,"Finance, insurance, real estate, rental, and leasing",13,NA,2015,99.7
+price_indexes,"Finance, insurance, real estate, rental, and leasing",13,NA,2016,99.906
+price_indexes,"Finance, insurance, real estate, rental, and leasing",13,NA,2017,100
+price_indexes,"Finance, insurance, real estate, rental, and leasing",13,NA,2018,100.685
+price_indexes,"Finance, insurance, real estate, rental, and leasing",13,NA,2019,102.679
+price_indexes,"Finance, insurance, real estate, rental, and leasing",13,NA,2020,108.133
+price_indexes,"Finance, insurance, real estate, rental, and leasing",13,NA,2021,110.286
+price_indexes,"Finance, insurance, real estate, rental, and leasing",13,NA,2022,116.533
+price_indexes,"Finance, insurance, real estate, rental, and leasing",13,NA,2023,129.409
+price_indexes,Finance and insurance,13,NA,2012,97.239
+price_indexes,Finance and insurance,13,NA,2013,96.792
+price_indexes,Finance and insurance,13,NA,2014,97.64
+price_indexes,Finance and insurance,13,NA,2015,99.697
+price_indexes,Finance and insurance,13,NA,2016,99.934
+price_indexes,Finance and insurance,13,NA,2017,100
+price_indexes,Finance and insurance,13,NA,2018,100.66
+price_indexes,Finance and insurance,13,NA,2019,102.712
+price_indexes,Finance and insurance,13,NA,2020,108.413
+price_indexes,Finance and insurance,13,NA,2021,110.562
+price_indexes,Finance and insurance,13,NA,2022,116.874
+price_indexes,Finance and insurance,13,NA,2023,130.196
+price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2012,100.035
+price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2013,99.512
+price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2014,99.505
+price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2015,99.937
+price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2016,98.589
+price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2017,100
+price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2018,101.235
+price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2019,101.541
+price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2020,103.343
+price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2021,104.278
+price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2022,106.227
+price_indexes,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2023,107.893
+price_indexes,"Securities, commodity contracts, and investments",13,NA,2012,97.525
+price_indexes,"Securities, commodity contracts, and investments",13,NA,2013,97.362
+price_indexes,"Securities, commodity contracts, and investments",13,NA,2014,98.245
+price_indexes,"Securities, commodity contracts, and investments",13,NA,2015,99.291
+price_indexes,"Securities, commodity contracts, and investments",13,NA,2016,97.947
+price_indexes,"Securities, commodity contracts, and investments",13,NA,2017,100
+price_indexes,"Securities, commodity contracts, and investments",13,NA,2018,102.205
+price_indexes,"Securities, commodity contracts, and investments",13,NA,2019,102.736
+price_indexes,"Securities, commodity contracts, and investments",13,NA,2020,105.291
+price_indexes,"Securities, commodity contracts, and investments",13,NA,2021,106.768
+price_indexes,"Securities, commodity contracts, and investments",13,NA,2022,108.913
+price_indexes,"Securities, commodity contracts, and investments",13,NA,2023,110.72
+price_indexes,Insurance carriers and related activities,13,NA,2012,97.25
+price_indexes,Insurance carriers and related activities,13,NA,2013,96.791
+price_indexes,Insurance carriers and related activities,13,NA,2014,97.715
+price_indexes,Insurance carriers and related activities,13,NA,2015,99.983
+price_indexes,Insurance carriers and related activities,13,NA,2016,100.493
+price_indexes,Insurance carriers and related activities,13,NA,2017,100
+price_indexes,Insurance carriers and related activities,13,NA,2018,100.24
+price_indexes,Insurance carriers and related activities,13,NA,2019,102.713
+price_indexes,Insurance carriers and related activities,13,NA,2020,109.654
+price_indexes,Insurance carriers and related activities,13,NA,2021,112.288
+price_indexes,Insurance carriers and related activities,13,NA,2022,120.298
+price_indexes,Insurance carriers and related activities,13,NA,2023,137.119
+price_indexes,"Funds, trusts, and other financial vehicles",12,Underground,2012,98.841
+price_indexes,"Funds, trusts, and other financial vehicles",12,Underground,2013,98.159
+price_indexes,"Funds, trusts, and other financial vehicles",12,Underground,2014,98.49
+price_indexes,"Funds, trusts, and other financial vehicles",12,Underground,2015,99.253
+price_indexes,"Funds, trusts, and other financial vehicles",12,Underground,2016,97.802
+price_indexes,"Funds, trusts, and other financial vehicles",12,Underground,2017,100
+price_indexes,"Funds, trusts, and other financial vehicles",12,Underground,2018,103.093
+price_indexes,"Funds, trusts, and other financial vehicles",12,Underground,2019,104.043
+price_indexes,"Funds, trusts, and other financial vehicles",12,Underground,2020,105.498
+price_indexes,"Funds, trusts, and other financial vehicles",12,Underground,2021,105.234
+price_indexes,"Funds, trusts, and other financial vehicles",12,Underground,2022,106.326
+price_indexes,"Funds, trusts, and other financial vehicles",12,Underground,2023,107.608
+price_indexes,Real estate and rental and leasing,13,NA,2012,99.218
+price_indexes,Real estate and rental and leasing,13,NA,2013,99.335
+price_indexes,Real estate and rental and leasing,13,NA,2014,99.878
+price_indexes,Real estate and rental and leasing,13,NA,2015,100.271
+price_indexes,Real estate and rental and leasing,13,NA,2016,98.759
+price_indexes,Real estate and rental and leasing,13,NA,2017,100
+price_indexes,Real estate and rental and leasing,13,NA,2018,101.398
+price_indexes,Real estate and rental and leasing,13,NA,2019,102.149
+price_indexes,Real estate and rental and leasing,13,NA,2020,104.139
+price_indexes,Real estate and rental and leasing,13,NA,2021,106.304
+price_indexes,Real estate and rental and leasing,13,NA,2022,111.171
+price_indexes,Real estate and rental and leasing,13,NA,2023,114.546
+price_indexes,Real estate,13,NA,2012,98.603
+price_indexes,Real estate,13,NA,2013,98.426
+price_indexes,Real estate,13,NA,2014,98.896
+price_indexes,Real estate,13,NA,2015,99.652
+price_indexes,Real estate,13,NA,2016,98.282
+price_indexes,Real estate,13,NA,2017,100
+price_indexes,Real estate,13,NA,2018,102.073
+price_indexes,Real estate,13,NA,2019,102.928
+price_indexes,Real estate,13,NA,2020,106.03
+price_indexes,Real estate,13,NA,2021,107.879
+price_indexes,Real estate,13,NA,2022,110.135
+price_indexes,Real estate,13,NA,2023,111.987
+price_indexes,Housing,13,NA,2012,99.532
+price_indexes,Housing,13,NA,2013,98.984
+price_indexes,Housing,13,NA,2014,99.376
+price_indexes,Housing,13,NA,2015,99.966
+price_indexes,Housing,13,NA,2016,98.611
+price_indexes,Housing,13,NA,2017,100
+price_indexes,Housing,13,NA,2018,101.655
+price_indexes,Housing,13,NA,2019,102.284
+price_indexes,Housing,13,NA,2020,104.947
+price_indexes,Housing,13,NA,2021,106.308
+price_indexes,Housing,13,NA,2022,108.25
+price_indexes,Housing,13,NA,2023,109.981
+price_indexes,Other real estate,12,Underground,2012,98.431
+price_indexes,Other real estate,12,Underground,2013,98.294
+price_indexes,Other real estate,12,Underground,2014,98.781
+price_indexes,Other real estate,12,Underground,2015,99.577
+price_indexes,Other real estate,12,Underground,2016,98.203
+price_indexes,Other real estate,12,Underground,2017,100
+price_indexes,Other real estate,12,Underground,2018,102.176
+price_indexes,Other real estate,12,Underground,2019,103.088
+price_indexes,Other real estate,12,Underground,2020,106.3
+price_indexes,Other real estate,12,Underground,2021,108.271
+price_indexes,Other real estate,12,Underground,2022,110.609
+price_indexes,Other real estate,12,Underground,2023,112.493
+price_indexes,Rental and leasing services and lessors of intangible assets,13,NA,2012,100.012
+price_indexes,Rental and leasing services and lessors of intangible assets,13,NA,2013,100.311
+price_indexes,Rental and leasing services and lessors of intangible assets,13,NA,2014,100.906
+price_indexes,Rental and leasing services and lessors of intangible assets,13,NA,2015,100.984
+price_indexes,Rental and leasing services and lessors of intangible assets,13,NA,2016,99.318
+price_indexes,Rental and leasing services and lessors of intangible assets,13,NA,2017,100
+price_indexes,Rental and leasing services and lessors of intangible assets,13,NA,2018,100.416
+price_indexes,Rental and leasing services and lessors of intangible assets,13,NA,2019,101.023
+price_indexes,Rental and leasing services and lessors of intangible assets,13,NA,2020,101.182
+price_indexes,Rental and leasing services and lessors of intangible assets,13,NA,2021,103.938
+price_indexes,Rental and leasing services and lessors of intangible assets,13,NA,2022,113.249
+price_indexes,Rental and leasing services and lessors of intangible assets,13,NA,2023,119.232
+price_indexes,Professional and business services,13,NA,2012,92.82
+price_indexes,Professional and business services,13,NA,2013,93.5
+price_indexes,Professional and business services,13,NA,2014,95.553
+price_indexes,Professional and business services,13,NA,2015,99.029
+price_indexes,Professional and business services,13,NA,2016,97.165
+price_indexes,Professional and business services,13,NA,2017,100
+price_indexes,Professional and business services,13,NA,2018,103.605
+price_indexes,Professional and business services,13,NA,2019,105.295
+price_indexes,Professional and business services,13,NA,2020,110.693
+price_indexes,Professional and business services,13,NA,2021,111.639
+price_indexes,Professional and business services,13,NA,2022,113.196
+price_indexes,Professional and business services,13,NA,2023,116.213
+price_indexes,"Professional, scientific, and technical services",13,NA,2012,92.698
+price_indexes,"Professional, scientific, and technical services",13,NA,2013,93.388
+price_indexes,"Professional, scientific, and technical services",13,NA,2014,95.455
+price_indexes,"Professional, scientific, and technical services",13,NA,2015,98.985
+price_indexes,"Professional, scientific, and technical services",13,NA,2016,97.133
+price_indexes,"Professional, scientific, and technical services",13,NA,2017,100
+price_indexes,"Professional, scientific, and technical services",13,NA,2018,103.641
+price_indexes,"Professional, scientific, and technical services",13,NA,2019,105.369
+price_indexes,"Professional, scientific, and technical services",13,NA,2020,110.842
+price_indexes,"Professional, scientific, and technical services",13,NA,2021,111.775
+price_indexes,"Professional, scientific, and technical services",13,NA,2022,113.328
+price_indexes,"Professional, scientific, and technical services",13,NA,2023,116.397
+price_indexes,Legal services,13,NA,2012,102.807
+price_indexes,Legal services,13,NA,2013,102.011
+price_indexes,Legal services,13,NA,2014,101.731
+price_indexes,Legal services,13,NA,2015,101.718
+price_indexes,Legal services,13,NA,2016,99.971
+price_indexes,Legal services,13,NA,2017,100
+price_indexes,Legal services,13,NA,2018,99.73
+price_indexes,Legal services,13,NA,2019,99.032
+price_indexes,Legal services,13,NA,2020,98.885
+price_indexes,Legal services,13,NA,2021,97.597
+price_indexes,Legal services,13,NA,2022,97.874
+price_indexes,Legal services,13,NA,2023,98.65
 price_indexes,Computer systems design and related services,3,Technology,2012,106.426
 price_indexes,Computer systems design and related services,3,Technology,2013,105.426
 price_indexes,Computer systems design and related services,3,Technology,2014,104.581
@@ -779,282 +779,282 @@ price_indexes,Computer systems design and related services,3,Technology,2020,93.
 price_indexes,Computer systems design and related services,3,Technology,2021,89.34
 price_indexes,Computer systems design and related services,3,Technology,2022,86.525
 price_indexes,Computer systems design and related services,3,Technology,2023,87.003
-price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2012,91.656
-price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2013,92.461
-price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2014,94.696
-price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2015,98.518
-price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2016,96.691
-price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2017,100
-price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2018,104.289
-price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2019,106.504
-price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2020,112.92
-price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2021,114.595
-price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2022,116.841
-price_indexes,"Miscellaneous professional, scientific, and technical services",13,Underground,2023,120.273
-price_indexes,Management of companies and enterprises,13,Underground,2012,95.899
-price_indexes,Management of companies and enterprises,13,Underground,2013,96.385
-price_indexes,Management of companies and enterprises,13,Underground,2014,98.167
-price_indexes,Management of companies and enterprises,13,Underground,2015,99.91
-price_indexes,Management of companies and enterprises,13,Underground,2016,97.668
-price_indexes,Management of companies and enterprises,13,Underground,2017,100
-price_indexes,Management of companies and enterprises,13,Underground,2018,102.909
-price_indexes,Management of companies and enterprises,13,Underground,2019,103.857
-price_indexes,Management of companies and enterprises,13,Underground,2020,107.723
-price_indexes,Management of companies and enterprises,13,Underground,2021,109.11
-price_indexes,Management of companies and enterprises,13,Underground,2022,110.843
-price_indexes,Management of companies and enterprises,13,Underground,2023,112.411
-price_indexes,Administrative and waste management services,13,Underground,2012,98.467
-price_indexes,Administrative and waste management services,13,Underground,2013,97.958
-price_indexes,Administrative and waste management services,13,Underground,2014,98.89
-price_indexes,Administrative and waste management services,13,Underground,2015,100.276
-price_indexes,Administrative and waste management services,13,Underground,2016,98.222
-price_indexes,Administrative and waste management services,13,Underground,2017,100
-price_indexes,Administrative and waste management services,13,Underground,2018,102.423
-price_indexes,Administrative and waste management services,13,Underground,2019,102.973
-price_indexes,Administrative and waste management services,13,Underground,2020,106.081
-price_indexes,Administrative and waste management services,13,Underground,2021,107.203
-price_indexes,Administrative and waste management services,13,Underground,2022,108.759
-price_indexes,Administrative and waste management services,13,Underground,2023,110.357
-price_indexes,Administrative and support services,13,Underground,2012,98.453
-price_indexes,Administrative and support services,13,Underground,2013,97.946
-price_indexes,Administrative and support services,13,Underground,2014,98.885
-price_indexes,Administrative and support services,13,Underground,2015,100.275
-price_indexes,Administrative and support services,13,Underground,2016,98.22
-price_indexes,Administrative and support services,13,Underground,2017,100
-price_indexes,Administrative and support services,13,Underground,2018,102.426
-price_indexes,Administrative and support services,13,Underground,2019,102.976
-price_indexes,Administrative and support services,13,Underground,2020,106.087
-price_indexes,Administrative and support services,13,Underground,2021,107.211
-price_indexes,Administrative and support services,13,Underground,2022,108.769
-price_indexes,Administrative and support services,13,Underground,2023,110.368
-price_indexes,Waste management and remediation services,13,Underground,2012,104.794
-price_indexes,Waste management and remediation services,13,Underground,2013,103.859
-price_indexes,Waste management and remediation services,13,Underground,2014,102.685
-price_indexes,Waste management and remediation services,13,Underground,2015,101.711
-price_indexes,Waste management and remediation services,13,Underground,2016,100.373
-price_indexes,Waste management and remediation services,13,Underground,2017,100
-price_indexes,Waste management and remediation services,13,Underground,2018,99.855
-price_indexes,Waste management and remediation services,13,Underground,2019,99.174
-price_indexes,Waste management and remediation services,13,Underground,2020,98.802
-price_indexes,Waste management and remediation services,13,Underground,2021,97.314
-price_indexes,Waste management and remediation services,13,Underground,2022,97.29
-price_indexes,Waste management and remediation services,13,Underground,2023,97.867
-price_indexes,"Educational services, health care, and social assistance",13,Underground,2012,95.301
-price_indexes,"Educational services, health care, and social assistance",13,Underground,2013,96.694
-price_indexes,"Educational services, health care, and social assistance",13,Underground,2014,99.161
-price_indexes,"Educational services, health care, and social assistance",13,Underground,2015,96.736
-price_indexes,"Educational services, health care, and social assistance",13,Underground,2016,98.062
-price_indexes,"Educational services, health care, and social assistance",13,Underground,2017,100
-price_indexes,"Educational services, health care, and social assistance",13,Underground,2018,103.242
-price_indexes,"Educational services, health care, and social assistance",13,Underground,2019,104.626
-price_indexes,"Educational services, health care, and social assistance",13,Underground,2020,105.378
-price_indexes,"Educational services, health care, and social assistance",13,Underground,2021,105.466
-price_indexes,"Educational services, health care, and social assistance",13,Underground,2022,107.966
-price_indexes,"Educational services, health care, and social assistance",13,Underground,2023,110.353
-price_indexes,Educational services,13,Underground,2012,95.377
-price_indexes,Educational services,13,Underground,2013,96.793
-price_indexes,Educational services,13,Underground,2014,99.265
-price_indexes,Educational services,13,Underground,2015,96.613
-price_indexes,Educational services,13,Underground,2016,98.114
-price_indexes,Educational services,13,Underground,2017,100
-price_indexes,Educational services,13,Underground,2018,103.22
-price_indexes,Educational services,13,Underground,2019,104.601
-price_indexes,Educational services,13,Underground,2020,105.226
-price_indexes,Educational services,13,Underground,2021,105.257
-price_indexes,Educational services,13,Underground,2022,107.816
-price_indexes,Educational services,13,Underground,2023,110.256
-price_indexes,Health care and social assistance,13,Underground,2012,93.435
-price_indexes,Health care and social assistance,13,Underground,2013,94.346
-price_indexes,Health care and social assistance,13,Underground,2014,96.7
-price_indexes,Health care and social assistance,13,Underground,2015,99.333
-price_indexes,Health care and social assistance,13,Underground,2016,97.118
-price_indexes,Health care and social assistance,13,Underground,2017,100
-price_indexes,Health care and social assistance,13,Underground,2018,103.651
-price_indexes,Health care and social assistance,13,Underground,2019,105.067
-price_indexes,Health care and social assistance,13,Underground,2020,109.793
-price_indexes,Health care and social assistance,13,Underground,2021,111.725
-price_indexes,Health care and social assistance,13,Underground,2022,113.415
-price_indexes,Health care and social assistance,13,Underground,2023,115.039
-price_indexes,Ambulatory health care services,13,Underground,2012,103.884
-price_indexes,Ambulatory health care services,13,Underground,2013,102.854
-price_indexes,Ambulatory health care services,13,Underground,2014,102.213
-price_indexes,Ambulatory health care services,13,Underground,2015,101.569
-price_indexes,Ambulatory health care services,13,Underground,2016,100.027
-price_indexes,Ambulatory health care services,13,Underground,2017,100
-price_indexes,Ambulatory health care services,13,Underground,2018,99.959
-price_indexes,Ambulatory health care services,13,Underground,2019,99.44
-price_indexes,Ambulatory health care services,13,Underground,2020,99.306
-price_indexes,Ambulatory health care services,13,Underground,2021,97.967
-price_indexes,Ambulatory health care services,13,Underground,2022,98.245
-price_indexes,Ambulatory health care services,13,Underground,2023,98.949
-price_indexes,Hospitals,13,Underground,2012,93.032
-price_indexes,Hospitals,13,Underground,2013,94.003
-price_indexes,Hospitals,13,Underground,2014,96.452
-price_indexes,Hospitals,13,Underground,2015,99.204
-price_indexes,Hospitals,13,Underground,2016,96.957
-price_indexes,Hospitals,13,Underground,2017,100
-price_indexes,Hospitals,13,Underground,2018,103.838
-price_indexes,Hospitals,13,Underground,2019,105.36
-price_indexes,Hospitals,13,Underground,2020,110.493
-price_indexes,Hospitals,13,Underground,2021,112.697
-price_indexes,Hospitals,13,Underground,2022,114.452
-price_indexes,Hospitals,13,Underground,2023,116.118
-price_indexes,Nursing and residential care facilities,13,Underground,2012,102.231
-price_indexes,Nursing and residential care facilities,13,Underground,2013,101.489
-price_indexes,Nursing and residential care facilities,13,Underground,2014,101.276
-price_indexes,Nursing and residential care facilities,13,Underground,2015,101.212
-price_indexes,Nursing and residential care facilities,13,Underground,2016,99.472
-price_indexes,Nursing and residential care facilities,13,Underground,2017,100
-price_indexes,Nursing and residential care facilities,13,Underground,2018,100.399
-price_indexes,Nursing and residential care facilities,13,Underground,2019,100.086
-price_indexes,Nursing and residential care facilities,13,Underground,2020,100.453
-price_indexes,Nursing and residential care facilities,13,Underground,2021,99.488
-price_indexes,Nursing and residential care facilities,13,Underground,2022,100.021
-price_indexes,Nursing and residential care facilities,13,Underground,2023,100.855
-price_indexes,Social assistance,13,Underground,2012,104.829
-price_indexes,Social assistance,13,Underground,2013,103.786
-price_indexes,Social assistance,13,Underground,2014,102.982
-price_indexes,Social assistance,13,Underground,2015,102.095
-price_indexes,Social assistance,13,Underground,2016,100.817
-price_indexes,Social assistance,13,Underground,2017,100
-price_indexes,Social assistance,13,Underground,2018,98.983
-price_indexes,Social assistance,13,Underground,2019,97.804
-price_indexes,Social assistance,13,Underground,2020,96.435
-price_indexes,Social assistance,13,Underground,2021,94.426
-price_indexes,Social assistance,13,Underground,2022,94.216
-price_indexes,Social assistance,13,Underground,2023,94.659
-price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2012,88.735
-price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2013,90.659
-price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2014,92.195
-price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2015,94.862
-price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2016,97.32
-price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2017,100
-price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2018,99.564
-price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2019,101.046
-price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2020,104.786
-price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2021,106.671
-price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2022,112.57
-price_indexes,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2023,121.344
-price_indexes,"Arts, entertainment, and recreation",13,Underground,2012,88.344
-price_indexes,"Arts, entertainment, and recreation",13,Underground,2013,90.333
-price_indexes,"Arts, entertainment, and recreation",13,Underground,2014,91.915
-price_indexes,"Arts, entertainment, and recreation",13,Underground,2015,94.639
-price_indexes,"Arts, entertainment, and recreation",13,Underground,2016,97.204
-price_indexes,"Arts, entertainment, and recreation",13,Underground,2017,100
-price_indexes,"Arts, entertainment, and recreation",13,Underground,2018,99.606
-price_indexes,"Arts, entertainment, and recreation",13,Underground,2019,101.146
-price_indexes,"Arts, entertainment, and recreation",13,Underground,2020,104.991
-price_indexes,"Arts, entertainment, and recreation",13,Underground,2021,106.937
-price_indexes,"Arts, entertainment, and recreation",13,Underground,2022,113.058
-price_indexes,"Arts, entertainment, and recreation",13,Underground,2023,122.263
-price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2012,88.291
-price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2013,90.304
-price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2014,91.892
-price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2015,94.626
-price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2016,97.194
-price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2017,100
-price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2018,99.604
-price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2019,101.148
-price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2020,105.009
-price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2021,106.958
-price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2022,113.101
-price_indexes,"Performing arts, spectator sports, museums, and related activities",13,Underground,2023,122.345
-price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2012,103.496
-price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2013,98.764
-price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2014,98.916
-price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2015,98.869
-price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2016,100.508
-price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2017,100
-price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2018,100.203
-price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2019,100.473
-price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2020,99.152
-price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2021,99.884
-price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2022,100.664
-price_indexes,"Amusements, gambling, and recreation industries",13,Underground,2023,100.529
-price_indexes,Accommodation and food services,9,Grain,2012,99.465
-price_indexes,Accommodation and food services,9,Grain,2013,99.821
-price_indexes,Accommodation and food services,9,Grain,2014,100.278
-price_indexes,Accommodation and food services,9,Grain,2015,101.638
-price_indexes,Accommodation and food services,9,Grain,2016,101.287
-price_indexes,Accommodation and food services,9,Grain,2017,100
-price_indexes,Accommodation and food services,9,Grain,2018,98.057
-price_indexes,Accommodation and food services,9,Grain,2019,97.564
-price_indexes,Accommodation and food services,9,Grain,2020,96.784
-price_indexes,Accommodation and food services,9,Grain,2021,95.824
-price_indexes,Accommodation and food services,9,Grain,2022,95.52
-price_indexes,Accommodation and food services,9,Grain,2023,95.253
-price_indexes,Accommodation,13,Underground,2012,99.482
-price_indexes,Accommodation,13,Underground,2013,99.843
-price_indexes,Accommodation,13,Underground,2014,100.3
-price_indexes,Accommodation,13,Underground,2015,101.655
-price_indexes,Accommodation,13,Underground,2016,101.295
-price_indexes,Accommodation,13,Underground,2017,100
-price_indexes,Accommodation,13,Underground,2018,98.047
-price_indexes,Accommodation,13,Underground,2019,97.567
-price_indexes,Accommodation,13,Underground,2020,96.771
-price_indexes,Accommodation,13,Underground,2021,95.794
-price_indexes,Accommodation,13,Underground,2022,95.426
-price_indexes,Accommodation,13,Underground,2023,95.16
-price_indexes,Food services and drinking places,9,Grain,2012,95.442
-price_indexes,Food services and drinking places,9,Grain,2013,94.661
-price_indexes,Food services and drinking places,9,Grain,2014,95.244
-price_indexes,Food services and drinking places,9,Grain,2015,98.189
-price_indexes,Food services and drinking places,9,Grain,2016,99.829
-price_indexes,Food services and drinking places,9,Grain,2017,100
-price_indexes,Food services and drinking places,9,Grain,2018,99.927
-price_indexes,Food services and drinking places,9,Grain,2019,97.355
-price_indexes,Food services and drinking places,9,Grain,2020,98.491
-price_indexes,Food services and drinking places,9,Grain,2021,99.159
-price_indexes,Food services and drinking places,9,Grain,2022,105.465
-price_indexes,Food services and drinking places,9,Grain,2023,105.004
-price_indexes,"Other services, except government",13,Underground,2012,99.1
-price_indexes,"Other services, except government",13,Underground,2013,101.059
-price_indexes,"Other services, except government",13,Underground,2014,100.866
-price_indexes,"Other services, except government",13,Underground,2015,99.84
-price_indexes,"Other services, except government",13,Underground,2016,97.456
-price_indexes,"Other services, except government",13,Underground,2017,100
-price_indexes,"Other services, except government",13,Underground,2018,98.744
-price_indexes,"Other services, except government",13,Underground,2019,92.215
-price_indexes,"Other services, except government",13,Underground,2020,94.139
-price_indexes,"Other services, except government",13,Underground,2021,94.599
-price_indexes,"Other services, except government",13,Underground,2022,90.723
-price_indexes,"Other services, except government",13,Underground,2023,93.502
-price_indexes,Government5,13,Underground,2012,91.865
-price_indexes,Government5,13,Underground,2013,93.36
-price_indexes,Government5,13,Underground,2014,95.671
-price_indexes,Government5,13,Underground,2015,96.486
-price_indexes,Government5,13,Underground,2016,97.759
-price_indexes,Government5,13,Underground,2017,100
-price_indexes,Government5,13,Underground,2018,103.484
-price_indexes,Government5,13,Underground,2019,105.4
-price_indexes,Government5,13,Underground,2020,106.372
-price_indexes,Government5,13,Underground,2021,108.482
-price_indexes,Government5,13,Underground,2022,113.998
-price_indexes,Government5,13,Underground,2023,119.959
-price_indexes,Federal,13,Underground,2012,91.196
-price_indexes,Federal,13,Underground,2013,92.645
-price_indexes,Federal,13,Underground,2014,94.963
-price_indexes,Federal,13,Underground,2015,96.278
-price_indexes,Federal,13,Underground,2016,97.708
-price_indexes,Federal,13,Underground,2017,100
-price_indexes,Federal,13,Underground,2018,103.467
-price_indexes,Federal,13,Underground,2019,105.428
-price_indexes,Federal,13,Underground,2020,106.45
-price_indexes,Federal,13,Underground,2021,108.818
-price_indexes,Federal,13,Underground,2022,114.658
-price_indexes,Federal,13,Underground,2023,121.044
-price_indexes,General government,13,Underground,2012,91.195
-price_indexes,General government,13,Underground,2013,92.644
-price_indexes,General government,13,Underground,2014,94.962
-price_indexes,General government,13,Underground,2015,96.277
-price_indexes,General government,13,Underground,2016,97.707
-price_indexes,General government,13,Underground,2017,100
-price_indexes,General government,13,Underground,2018,103.468
-price_indexes,General government,13,Underground,2019,105.428
-price_indexes,General government,13,Underground,2020,106.451
-price_indexes,General government,13,Underground,2021,108.821
-price_indexes,General government,13,Underground,2022,114.661
-price_indexes,General government,13,Underground,2023,121.047
+price_indexes,"Miscellaneous professional, scientific, and technical services",12,Underground,2012,91.656
+price_indexes,"Miscellaneous professional, scientific, and technical services",12,Underground,2013,92.461
+price_indexes,"Miscellaneous professional, scientific, and technical services",12,Underground,2014,94.696
+price_indexes,"Miscellaneous professional, scientific, and technical services",12,Underground,2015,98.518
+price_indexes,"Miscellaneous professional, scientific, and technical services",12,Underground,2016,96.691
+price_indexes,"Miscellaneous professional, scientific, and technical services",12,Underground,2017,100
+price_indexes,"Miscellaneous professional, scientific, and technical services",12,Underground,2018,104.289
+price_indexes,"Miscellaneous professional, scientific, and technical services",12,Underground,2019,106.504
+price_indexes,"Miscellaneous professional, scientific, and technical services",12,Underground,2020,112.92
+price_indexes,"Miscellaneous professional, scientific, and technical services",12,Underground,2021,114.595
+price_indexes,"Miscellaneous professional, scientific, and technical services",12,Underground,2022,116.841
+price_indexes,"Miscellaneous professional, scientific, and technical services",12,Underground,2023,120.273
+price_indexes,Management of companies and enterprises,13,NA,2012,95.899
+price_indexes,Management of companies and enterprises,13,NA,2013,96.385
+price_indexes,Management of companies and enterprises,13,NA,2014,98.167
+price_indexes,Management of companies and enterprises,13,NA,2015,99.91
+price_indexes,Management of companies and enterprises,13,NA,2016,97.668
+price_indexes,Management of companies and enterprises,13,NA,2017,100
+price_indexes,Management of companies and enterprises,13,NA,2018,102.909
+price_indexes,Management of companies and enterprises,13,NA,2019,103.857
+price_indexes,Management of companies and enterprises,13,NA,2020,107.723
+price_indexes,Management of companies and enterprises,13,NA,2021,109.11
+price_indexes,Management of companies and enterprises,13,NA,2022,110.843
+price_indexes,Management of companies and enterprises,13,NA,2023,112.411
+price_indexes,Administrative and waste management services,13,NA,2012,98.467
+price_indexes,Administrative and waste management services,13,NA,2013,97.958
+price_indexes,Administrative and waste management services,13,NA,2014,98.89
+price_indexes,Administrative and waste management services,13,NA,2015,100.276
+price_indexes,Administrative and waste management services,13,NA,2016,98.222
+price_indexes,Administrative and waste management services,13,NA,2017,100
+price_indexes,Administrative and waste management services,13,NA,2018,102.423
+price_indexes,Administrative and waste management services,13,NA,2019,102.973
+price_indexes,Administrative and waste management services,13,NA,2020,106.081
+price_indexes,Administrative and waste management services,13,NA,2021,107.203
+price_indexes,Administrative and waste management services,13,NA,2022,108.759
+price_indexes,Administrative and waste management services,13,NA,2023,110.357
+price_indexes,Administrative and support services,13,NA,2012,98.453
+price_indexes,Administrative and support services,13,NA,2013,97.946
+price_indexes,Administrative and support services,13,NA,2014,98.885
+price_indexes,Administrative and support services,13,NA,2015,100.275
+price_indexes,Administrative and support services,13,NA,2016,98.22
+price_indexes,Administrative and support services,13,NA,2017,100
+price_indexes,Administrative and support services,13,NA,2018,102.426
+price_indexes,Administrative and support services,13,NA,2019,102.976
+price_indexes,Administrative and support services,13,NA,2020,106.087
+price_indexes,Administrative and support services,13,NA,2021,107.211
+price_indexes,Administrative and support services,13,NA,2022,108.769
+price_indexes,Administrative and support services,13,NA,2023,110.368
+price_indexes,Waste management and remediation services,13,NA,2012,104.794
+price_indexes,Waste management and remediation services,13,NA,2013,103.859
+price_indexes,Waste management and remediation services,13,NA,2014,102.685
+price_indexes,Waste management and remediation services,13,NA,2015,101.711
+price_indexes,Waste management and remediation services,13,NA,2016,100.373
+price_indexes,Waste management and remediation services,13,NA,2017,100
+price_indexes,Waste management and remediation services,13,NA,2018,99.855
+price_indexes,Waste management and remediation services,13,NA,2019,99.174
+price_indexes,Waste management and remediation services,13,NA,2020,98.802
+price_indexes,Waste management and remediation services,13,NA,2021,97.314
+price_indexes,Waste management and remediation services,13,NA,2022,97.29
+price_indexes,Waste management and remediation services,13,NA,2023,97.867
+price_indexes,"Educational services, health care, and social assistance",13,NA,2012,95.301
+price_indexes,"Educational services, health care, and social assistance",13,NA,2013,96.694
+price_indexes,"Educational services, health care, and social assistance",13,NA,2014,99.161
+price_indexes,"Educational services, health care, and social assistance",13,NA,2015,96.736
+price_indexes,"Educational services, health care, and social assistance",13,NA,2016,98.062
+price_indexes,"Educational services, health care, and social assistance",13,NA,2017,100
+price_indexes,"Educational services, health care, and social assistance",13,NA,2018,103.242
+price_indexes,"Educational services, health care, and social assistance",13,NA,2019,104.626
+price_indexes,"Educational services, health care, and social assistance",13,NA,2020,105.378
+price_indexes,"Educational services, health care, and social assistance",13,NA,2021,105.466
+price_indexes,"Educational services, health care, and social assistance",13,NA,2022,107.966
+price_indexes,"Educational services, health care, and social assistance",13,NA,2023,110.353
+price_indexes,Educational services,13,NA,2012,95.377
+price_indexes,Educational services,13,NA,2013,96.793
+price_indexes,Educational services,13,NA,2014,99.265
+price_indexes,Educational services,13,NA,2015,96.613
+price_indexes,Educational services,13,NA,2016,98.114
+price_indexes,Educational services,13,NA,2017,100
+price_indexes,Educational services,13,NA,2018,103.22
+price_indexes,Educational services,13,NA,2019,104.601
+price_indexes,Educational services,13,NA,2020,105.226
+price_indexes,Educational services,13,NA,2021,105.257
+price_indexes,Educational services,13,NA,2022,107.816
+price_indexes,Educational services,13,NA,2023,110.256
+price_indexes,Health care and social assistance,13,NA,2012,93.435
+price_indexes,Health care and social assistance,13,NA,2013,94.346
+price_indexes,Health care and social assistance,13,NA,2014,96.7
+price_indexes,Health care and social assistance,13,NA,2015,99.333
+price_indexes,Health care and social assistance,13,NA,2016,97.118
+price_indexes,Health care and social assistance,13,NA,2017,100
+price_indexes,Health care and social assistance,13,NA,2018,103.651
+price_indexes,Health care and social assistance,13,NA,2019,105.067
+price_indexes,Health care and social assistance,13,NA,2020,109.793
+price_indexes,Health care and social assistance,13,NA,2021,111.725
+price_indexes,Health care and social assistance,13,NA,2022,113.415
+price_indexes,Health care and social assistance,13,NA,2023,115.039
+price_indexes,Ambulatory health care services,13,NA,2012,103.884
+price_indexes,Ambulatory health care services,13,NA,2013,102.854
+price_indexes,Ambulatory health care services,13,NA,2014,102.213
+price_indexes,Ambulatory health care services,13,NA,2015,101.569
+price_indexes,Ambulatory health care services,13,NA,2016,100.027
+price_indexes,Ambulatory health care services,13,NA,2017,100
+price_indexes,Ambulatory health care services,13,NA,2018,99.959
+price_indexes,Ambulatory health care services,13,NA,2019,99.44
+price_indexes,Ambulatory health care services,13,NA,2020,99.306
+price_indexes,Ambulatory health care services,13,NA,2021,97.967
+price_indexes,Ambulatory health care services,13,NA,2022,98.245
+price_indexes,Ambulatory health care services,13,NA,2023,98.949
+price_indexes,Hospitals,13,NA,2012,93.032
+price_indexes,Hospitals,13,NA,2013,94.003
+price_indexes,Hospitals,13,NA,2014,96.452
+price_indexes,Hospitals,13,NA,2015,99.204
+price_indexes,Hospitals,13,NA,2016,96.957
+price_indexes,Hospitals,13,NA,2017,100
+price_indexes,Hospitals,13,NA,2018,103.838
+price_indexes,Hospitals,13,NA,2019,105.36
+price_indexes,Hospitals,13,NA,2020,110.493
+price_indexes,Hospitals,13,NA,2021,112.697
+price_indexes,Hospitals,13,NA,2022,114.452
+price_indexes,Hospitals,13,NA,2023,116.118
+price_indexes,Nursing and residential care facilities,13,NA,2012,102.231
+price_indexes,Nursing and residential care facilities,13,NA,2013,101.489
+price_indexes,Nursing and residential care facilities,13,NA,2014,101.276
+price_indexes,Nursing and residential care facilities,13,NA,2015,101.212
+price_indexes,Nursing and residential care facilities,13,NA,2016,99.472
+price_indexes,Nursing and residential care facilities,13,NA,2017,100
+price_indexes,Nursing and residential care facilities,13,NA,2018,100.399
+price_indexes,Nursing and residential care facilities,13,NA,2019,100.086
+price_indexes,Nursing and residential care facilities,13,NA,2020,100.453
+price_indexes,Nursing and residential care facilities,13,NA,2021,99.488
+price_indexes,Nursing and residential care facilities,13,NA,2022,100.021
+price_indexes,Nursing and residential care facilities,13,NA,2023,100.855
+price_indexes,Social assistance,13,NA,2012,104.829
+price_indexes,Social assistance,13,NA,2013,103.786
+price_indexes,Social assistance,13,NA,2014,102.982
+price_indexes,Social assistance,13,NA,2015,102.095
+price_indexes,Social assistance,13,NA,2016,100.817
+price_indexes,Social assistance,13,NA,2017,100
+price_indexes,Social assistance,13,NA,2018,98.983
+price_indexes,Social assistance,13,NA,2019,97.804
+price_indexes,Social assistance,13,NA,2020,96.435
+price_indexes,Social assistance,13,NA,2021,94.426
+price_indexes,Social assistance,13,NA,2022,94.216
+price_indexes,Social assistance,13,NA,2023,94.659
+price_indexes,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2012,88.735
+price_indexes,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2013,90.659
+price_indexes,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2014,92.195
+price_indexes,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2015,94.862
+price_indexes,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2016,97.32
+price_indexes,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2017,100
+price_indexes,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2018,99.564
+price_indexes,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2019,101.046
+price_indexes,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2020,104.786
+price_indexes,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2021,106.671
+price_indexes,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2022,112.57
+price_indexes,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2023,121.344
+price_indexes,"Arts, entertainment, and recreation",13,NA,2012,88.344
+price_indexes,"Arts, entertainment, and recreation",13,NA,2013,90.333
+price_indexes,"Arts, entertainment, and recreation",13,NA,2014,91.915
+price_indexes,"Arts, entertainment, and recreation",13,NA,2015,94.639
+price_indexes,"Arts, entertainment, and recreation",13,NA,2016,97.204
+price_indexes,"Arts, entertainment, and recreation",13,NA,2017,100
+price_indexes,"Arts, entertainment, and recreation",13,NA,2018,99.606
+price_indexes,"Arts, entertainment, and recreation",13,NA,2019,101.146
+price_indexes,"Arts, entertainment, and recreation",13,NA,2020,104.991
+price_indexes,"Arts, entertainment, and recreation",13,NA,2021,106.937
+price_indexes,"Arts, entertainment, and recreation",13,NA,2022,113.058
+price_indexes,"Arts, entertainment, and recreation",13,NA,2023,122.263
+price_indexes,"Performing arts, spectator sports, museums, and related activities",13,NA,2012,88.291
+price_indexes,"Performing arts, spectator sports, museums, and related activities",13,NA,2013,90.304
+price_indexes,"Performing arts, spectator sports, museums, and related activities",13,NA,2014,91.892
+price_indexes,"Performing arts, spectator sports, museums, and related activities",13,NA,2015,94.626
+price_indexes,"Performing arts, spectator sports, museums, and related activities",13,NA,2016,97.194
+price_indexes,"Performing arts, spectator sports, museums, and related activities",13,NA,2017,100
+price_indexes,"Performing arts, spectator sports, museums, and related activities",13,NA,2018,99.604
+price_indexes,"Performing arts, spectator sports, museums, and related activities",13,NA,2019,101.148
+price_indexes,"Performing arts, spectator sports, museums, and related activities",13,NA,2020,105.009
+price_indexes,"Performing arts, spectator sports, museums, and related activities",13,NA,2021,106.958
+price_indexes,"Performing arts, spectator sports, museums, and related activities",13,NA,2022,113.101
+price_indexes,"Performing arts, spectator sports, museums, and related activities",13,NA,2023,122.345
+price_indexes,"Amusements, gambling, and recreation industries",13,NA,2012,103.496
+price_indexes,"Amusements, gambling, and recreation industries",13,NA,2013,98.764
+price_indexes,"Amusements, gambling, and recreation industries",13,NA,2014,98.916
+price_indexes,"Amusements, gambling, and recreation industries",13,NA,2015,98.869
+price_indexes,"Amusements, gambling, and recreation industries",13,NA,2016,100.508
+price_indexes,"Amusements, gambling, and recreation industries",13,NA,2017,100
+price_indexes,"Amusements, gambling, and recreation industries",13,NA,2018,100.203
+price_indexes,"Amusements, gambling, and recreation industries",13,NA,2019,100.473
+price_indexes,"Amusements, gambling, and recreation industries",13,NA,2020,99.152
+price_indexes,"Amusements, gambling, and recreation industries",13,NA,2021,99.884
+price_indexes,"Amusements, gambling, and recreation industries",13,NA,2022,100.664
+price_indexes,"Amusements, gambling, and recreation industries",13,NA,2023,100.529
+price_indexes,Accommodation and food services,8,Grain,2012,99.465
+price_indexes,Accommodation and food services,8,Grain,2013,99.821
+price_indexes,Accommodation and food services,8,Grain,2014,100.278
+price_indexes,Accommodation and food services,8,Grain,2015,101.638
+price_indexes,Accommodation and food services,8,Grain,2016,101.287
+price_indexes,Accommodation and food services,8,Grain,2017,100
+price_indexes,Accommodation and food services,8,Grain,2018,98.057
+price_indexes,Accommodation and food services,8,Grain,2019,97.564
+price_indexes,Accommodation and food services,8,Grain,2020,96.784
+price_indexes,Accommodation and food services,8,Grain,2021,95.824
+price_indexes,Accommodation and food services,8,Grain,2022,95.52
+price_indexes,Accommodation and food services,8,Grain,2023,95.253
+price_indexes,Accommodation,13,NA,2012,99.482
+price_indexes,Accommodation,13,NA,2013,99.843
+price_indexes,Accommodation,13,NA,2014,100.3
+price_indexes,Accommodation,13,NA,2015,101.655
+price_indexes,Accommodation,13,NA,2016,101.295
+price_indexes,Accommodation,13,NA,2017,100
+price_indexes,Accommodation,13,NA,2018,98.047
+price_indexes,Accommodation,13,NA,2019,97.567
+price_indexes,Accommodation,13,NA,2020,96.771
+price_indexes,Accommodation,13,NA,2021,95.794
+price_indexes,Accommodation,13,NA,2022,95.426
+price_indexes,Accommodation,13,NA,2023,95.16
+price_indexes,Food services and drinking places,8,Grain,2012,95.442
+price_indexes,Food services and drinking places,8,Grain,2013,94.661
+price_indexes,Food services and drinking places,8,Grain,2014,95.244
+price_indexes,Food services and drinking places,8,Grain,2015,98.189
+price_indexes,Food services and drinking places,8,Grain,2016,99.829
+price_indexes,Food services and drinking places,8,Grain,2017,100
+price_indexes,Food services and drinking places,8,Grain,2018,99.927
+price_indexes,Food services and drinking places,8,Grain,2019,97.355
+price_indexes,Food services and drinking places,8,Grain,2020,98.491
+price_indexes,Food services and drinking places,8,Grain,2021,99.159
+price_indexes,Food services and drinking places,8,Grain,2022,105.465
+price_indexes,Food services and drinking places,8,Grain,2023,105.004
+price_indexes,"Other services, except government",12,Underground,2012,99.1
+price_indexes,"Other services, except government",12,Underground,2013,101.059
+price_indexes,"Other services, except government",12,Underground,2014,100.866
+price_indexes,"Other services, except government",12,Underground,2015,99.84
+price_indexes,"Other services, except government",12,Underground,2016,97.456
+price_indexes,"Other services, except government",12,Underground,2017,100
+price_indexes,"Other services, except government",12,Underground,2018,98.744
+price_indexes,"Other services, except government",12,Underground,2019,92.215
+price_indexes,"Other services, except government",12,Underground,2020,94.139
+price_indexes,"Other services, except government",12,Underground,2021,94.599
+price_indexes,"Other services, except government",12,Underground,2022,90.723
+price_indexes,"Other services, except government",12,Underground,2023,93.502
+price_indexes,Government5,13,NA,2012,91.865
+price_indexes,Government5,13,NA,2013,93.36
+price_indexes,Government5,13,NA,2014,95.671
+price_indexes,Government5,13,NA,2015,96.486
+price_indexes,Government5,13,NA,2016,97.759
+price_indexes,Government5,13,NA,2017,100
+price_indexes,Government5,13,NA,2018,103.484
+price_indexes,Government5,13,NA,2019,105.4
+price_indexes,Government5,13,NA,2020,106.372
+price_indexes,Government5,13,NA,2021,108.482
+price_indexes,Government5,13,NA,2022,113.998
+price_indexes,Government5,13,NA,2023,119.959
+price_indexes,Federal,13,NA,2012,91.196
+price_indexes,Federal,13,NA,2013,92.645
+price_indexes,Federal,13,NA,2014,94.963
+price_indexes,Federal,13,NA,2015,96.278
+price_indexes,Federal,13,NA,2016,97.708
+price_indexes,Federal,13,NA,2017,100
+price_indexes,Federal,13,NA,2018,103.467
+price_indexes,Federal,13,NA,2019,105.428
+price_indexes,Federal,13,NA,2020,106.45
+price_indexes,Federal,13,NA,2021,108.818
+price_indexes,Federal,13,NA,2022,114.658
+price_indexes,Federal,13,NA,2023,121.044
+price_indexes,General government,13,NA,2012,91.195
+price_indexes,General government,13,NA,2013,92.644
+price_indexes,General government,13,NA,2014,94.962
+price_indexes,General government,13,NA,2015,96.277
+price_indexes,General government,13,NA,2016,97.707
+price_indexes,General government,13,NA,2017,100
+price_indexes,General government,13,NA,2018,103.468
+price_indexes,General government,13,NA,2019,105.428
+price_indexes,General government,13,NA,2020,106.451
+price_indexes,General government,13,NA,2021,108.821
+price_indexes,General government,13,NA,2022,114.661
+price_indexes,General government,13,NA,2023,121.047
 price_indexes,National defense,2,Weapons,2012,95.464
 price_indexes,National defense,2,Weapons,2013,95.383
 price_indexes,National defense,2,Weapons,2014,97.002
@@ -1079,54 +1079,54 @@ price_indexes,Nondefense,2,Weapons,2020,106.713
 price_indexes,Nondefense,2,Weapons,2021,109.219
 price_indexes,Nondefense,2,Weapons,2022,113.21
 price_indexes,Nondefense,2,Weapons,2023,120.424
-price_indexes,Government enterprises,13,Underground,2012,104.209
-price_indexes,Government enterprises,13,Underground,2013,104.089
-price_indexes,Government enterprises,13,Underground,2014,104.212
-price_indexes,Government enterprises,13,Underground,2015,103.494
-price_indexes,Government enterprises,13,Underground,2016,102.498
-price_indexes,Government enterprises,13,Underground,2017,100
-price_indexes,Government enterprises,13,Underground,2018,98.277
-price_indexes,Government enterprises,13,Underground,2019,99.309
-price_indexes,Government enterprises,13,Underground,2020,95.755
-price_indexes,Government enterprises,13,Underground,2021,94.384
-price_indexes,Government enterprises,13,Underground,2022,99.053
-price_indexes,Government enterprises,13,Underground,2023,102.234
-price_indexes,State and local,13,Underground,2012,99.765
-price_indexes,State and local,13,Underground,2013,101.774
-price_indexes,State and local,13,Underground,2014,104.013
-price_indexes,State and local,13,Underground,2015,98.974
-price_indexes,State and local,13,Underground,2016,98.406
-price_indexes,State and local,13,Underground,2017,100
-price_indexes,State and local,13,Underground,2018,103.695
-price_indexes,State and local,13,Underground,2019,105.076
-price_indexes,State and local,13,Underground,2020,105.487
-price_indexes,State and local,13,Underground,2021,104.98
-price_indexes,State and local,13,Underground,2022,107.436
-price_indexes,State and local,13,Underground,2023,109.697
-price_indexes,General government,13,Underground,2012,99.765
-price_indexes,General government,13,Underground,2013,101.774
-price_indexes,General government,13,Underground,2014,104.013
-price_indexes,General government,13,Underground,2015,98.974
-price_indexes,General government,13,Underground,2016,98.406
-price_indexes,General government,13,Underground,2017,100
-price_indexes,General government,13,Underground,2018,103.695
-price_indexes,General government,13,Underground,2019,105.076
-price_indexes,General government,13,Underground,2020,105.487
-price_indexes,General government,13,Underground,2021,104.98
-price_indexes,General government,13,Underground,2022,107.436
-price_indexes,General government,13,Underground,2023,109.697
-price_indexes,Government enterprises,13,Underground,2012,103.523
-price_indexes,Government enterprises,13,Underground,2013,104.212
-price_indexes,Government enterprises,13,Underground,2014,100.321
-price_indexes,Government enterprises,13,Underground,2015,97.749
-price_indexes,Government enterprises,13,Underground,2016,96.267
-price_indexes,Government enterprises,13,Underground,2017,100
-price_indexes,Government enterprises,13,Underground,2018,105.272
-price_indexes,Government enterprises,13,Underground,2019,108.034
-price_indexes,Government enterprises,13,Underground,2020,108.652
-price_indexes,Government enterprises,13,Underground,2021,111.707
-price_indexes,Government enterprises,13,Underground,2022,117.094
-price_indexes,Government enterprises,13,Underground,2023,128.696
+price_indexes,Government enterprises,13,NA,2012,104.209
+price_indexes,Government enterprises,13,NA,2013,104.089
+price_indexes,Government enterprises,13,NA,2014,104.212
+price_indexes,Government enterprises,13,NA,2015,103.494
+price_indexes,Government enterprises,13,NA,2016,102.498
+price_indexes,Government enterprises,13,NA,2017,100
+price_indexes,Government enterprises,13,NA,2018,98.277
+price_indexes,Government enterprises,13,NA,2019,99.309
+price_indexes,Government enterprises,13,NA,2020,95.755
+price_indexes,Government enterprises,13,NA,2021,94.384
+price_indexes,Government enterprises,13,NA,2022,99.053
+price_indexes,Government enterprises,13,NA,2023,102.234
+price_indexes,State and local,13,NA,2012,99.765
+price_indexes,State and local,13,NA,2013,101.774
+price_indexes,State and local,13,NA,2014,104.013
+price_indexes,State and local,13,NA,2015,98.974
+price_indexes,State and local,13,NA,2016,98.406
+price_indexes,State and local,13,NA,2017,100
+price_indexes,State and local,13,NA,2018,103.695
+price_indexes,State and local,13,NA,2019,105.076
+price_indexes,State and local,13,NA,2020,105.487
+price_indexes,State and local,13,NA,2021,104.98
+price_indexes,State and local,13,NA,2022,107.436
+price_indexes,State and local,13,NA,2023,109.697
+price_indexes,General government,13,NA,2012,99.765
+price_indexes,General government,13,NA,2013,101.774
+price_indexes,General government,13,NA,2014,104.013
+price_indexes,General government,13,NA,2015,98.974
+price_indexes,General government,13,NA,2016,98.406
+price_indexes,General government,13,NA,2017,100
+price_indexes,General government,13,NA,2018,103.695
+price_indexes,General government,13,NA,2019,105.076
+price_indexes,General government,13,NA,2020,105.487
+price_indexes,General government,13,NA,2021,104.98
+price_indexes,General government,13,NA,2022,107.436
+price_indexes,General government,13,NA,2023,109.697
+price_indexes,Government enterprises,13,NA,2012,103.523
+price_indexes,Government enterprises,13,NA,2013,104.212
+price_indexes,Government enterprises,13,NA,2014,100.321
+price_indexes,Government enterprises,13,NA,2015,97.749
+price_indexes,Government enterprises,13,NA,2016,96.267
+price_indexes,Government enterprises,13,NA,2017,100
+price_indexes,Government enterprises,13,NA,2018,105.272
+price_indexes,Government enterprises,13,NA,2019,108.034
+price_indexes,Government enterprises,13,NA,2020,108.652
+price_indexes,Government enterprises,13,NA,2021,111.707
+price_indexes,Government enterprises,13,NA,2022,117.094
+price_indexes,Government enterprises,13,NA,2023,128.696
 price_indexes,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2012,115.984
 price_indexes,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2013,111.786
 price_indexes,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2014,107.543

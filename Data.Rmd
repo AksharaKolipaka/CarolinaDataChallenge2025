@@ -75,12 +75,12 @@ import_all_tables <- function() {
 ## 2. District Classification System
 
 ```{r district_system}
-# Define the 13 Hunger Games Districts
+# Define the 12 Hunger Games Districts (Maritime district removed)
 create_district_definitions <- function() {
   tibble(
-    district_number = 1:13,
+    district_number = c(1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13),
     district_name = c(
-      "Luxury", "Weapons", "Technology", "Maritime", "Power", 
+      "Luxury", "Weapons", "Technology", "Power", 
       "Transportation", "Lumber", "Textiles", "Grain", 
       "Livestock", "Agriculture", "Mining", "Underground"
     ),
@@ -88,7 +88,6 @@ create_district_definitions <- function() {
       "Satellite,Communication,Broadcasting,Telecommunication,Tourism,Wireless",
       "Defense,Military,Weapon,Aerospace Defense,Missile,Combat",
       "Computer,Software,Semiconductor,Electronic,Data Processing,Internet",
-      "Water,Ship,Maritime,Ocean,Marine,Navigation,Coastal",
       "Electric,Power,Utilities,Energy,Solar,Oil,Gas",
       "Transportation,Logistics,Warehousing,Courier,Air,Transit",
       "Wood,Forestry,Paper,Earth Observation,Mapping,Geospatial",
@@ -296,243 +295,409 @@ industry_to_district %>%
   kable(col.names = c("District", "Industries", "Percentage"))
 ```
 
-```{r}
 
+```{r bea_parent_districts}
 library(tidyverse)
 library(knitr)
 library(scales)
+library(DT)
 
-# Load the data
-cat("Loading space economy data...\n")
-df <- read_csv("all_tables_combined.csv", show_col_types = FALSE)
-district_mapping <- read_csv("industry_district_mapping.csv", show_col_types = FALSE)
-
-# Enhanced sector classification based on your actual industry data
-get_industry_sample <- function() {
-  df %>% 
-    distinct(industry) %>% 
-    slice_head(n = 10) %>%
-    pull(industry)
+# Helper function to calculate CAGR
+calculate_cagr <- function(start_value, end_value, years) {
+  if(start_value <= 0 | end_value <= 0 | years <= 0) return(0)
+  ((end_value / start_value)^(1/years) - 1) * 100
 }
 
+cat("Using BEA Parent Categories as Economic Districts...\n")
 
-# Enhanced classification function based on BEA space economy industry patterns
-classify_advanced_sector <- function(industry_name) {
+# Define the major BEA parent categories as our "districts"
+bea_districts <- tibble(
+  district_id = 1:12,
+  district_name = c(
+    "Mining", 
+    "Manufacturing",
+    "Wholesale Trade",
+    "Retail Trade", 
+    "Transportation & Warehousing",
+    "Information",
+    "Finance & Real Estate",
+    "Professional Services", 
+    "Educational & Health Services",
+    "Arts & Entertainment",
+    "Government - Federal",
+    "Government - State & Local"
+  ),
+  parent_category = c(
+    "Mining",
+    "Manufacturing", 
+    "Wholesale trade",
+    "Retail trade",
+    "Transportation and warehousing", 
+    "Information",
+    "Finance, insurance, real estate, rental, and leasing",
+    "Professional and business services",
+    "Educational services, health care, and social assistance", 
+    "Arts, entertainment, recreation, accommodation, and food services",
+    "Federal",
+    "State and local"
+  )
+)
+
+# Function to assign industries to BEA districts
+assign_bea_district <- function(industry_name) {
   industry_lower <- tolower(industry_name)
   
-  # Government/Defense patterns
-  if (grepl("government|federal|nasa|defense|military|dod|air force|army|navy|public", industry_lower)) {
-    return("Government")
+  # Mining sector
+  if(grepl("oil and gas extraction|mining, except oil and gas|support activities for mining", industry_lower)) {
+    return(list(id = 1, name = "Mining"))
   }
-  
-  # High-tech private patterns
-  if (grepl("commercial|private|manufacturing|professional|scientific|computer|software|telecommunications|broadcasting|information|satellite", industry_lower)) {
-    return("Private")
+  # Manufacturing sector (all specific manufacturing industries)
+  else if(grepl("wood products|nonmetallic mineral|primary metals|fabricated metal|machinery|computer.*electronic|electrical equipment|motor vehicles|other transportation equipment|furniture|miscellaneous manufacturing|food and beverage|textile|apparel|paper|printing|petroleum|chemical|plastics", industry_lower)) {
+    return(list(id = 2, name = "Manufacturing"))
   }
-  
-  # Default to private for space economy analysis
-  return("Private")
+  # Wholesale Trade
+  else if(grepl("wholesale", industry_lower) && !grepl("retail", industry_lower)) {
+    return(list(id = 3, name = "Wholesale Trade"))
+  }
+  # Retail Trade  
+  else if(grepl("motor vehicle and parts dealers|food and beverage stores|general merchandise|other retail", industry_lower)) {
+    return(list(id = 4, name = "Retail Trade"))
+  }
+  # Transportation & Warehousing
+  else if(grepl("air transportation|rail transportation|water transportation|truck transportation|transit.*ground|pipeline transportation|warehousing", industry_lower)) {
+    return(list(id = 5, name = "Transportation & Warehousing"))
+  }
+  # Information
+  else if(grepl("publishing.*software|motion picture|broadcasting.*telecommunications|data processing.*internet", industry_lower)) {
+    return(list(id = 6, name = "Information"))
+  }
+  # Finance & Real Estate
+  else if(grepl("federal reserve|securities.*commodity|insurance carriers|real estate|housing|rental.*leasing", industry_lower)) {
+    return(list(id = 7, name = "Finance & Real Estate"))
+  }
+  # Professional Services
+  else if(grepl("legal services|computer systems design|miscellaneous professional|management.*companies|administrative.*support", industry_lower)) {
+    return(list(id = 8, name = "Professional Services"))
+  }
+  # Educational & Health Services
+  else if(grepl("educational services|ambulatory.*care|hospitals|nursing.*residential", industry_lower)) {
+    return(list(id = 9, name = "Educational & Health Services"))
+  }
+  # Arts & Entertainment
+  else if(grepl("performing arts|amusements.*gambling|accommodation|food services", industry_lower)) {
+    return(list(id = 10, name = "Arts & Entertainment"))
+  }
+  # Federal Government
+  else if(grepl("national defense|nondefense", industry_lower)) {
+    return(list(id = 11, name = "Government - Federal"))
+  }
+  # State & Local Government
+  else if(grepl("government enterprises", industry_lower)) {
+    return(list(id = 12, name = "Government - State & Local"))
+  }
+  # Utilities (add as additional category)
+  else if(grepl("utilities", industry_lower)) {
+    return(list(id = 1, name = "Mining"))  # Group with Mining/Energy
+  }
+  # Construction
+  else if(grepl("construction", industry_lower)) {
+    return(list(id = 2, name = "Manufacturing"))  # Group with Manufacturing
+  }
+  else {
+    return(list(id = 8, name = "Professional Services"))  # Default to Professional Services
+  }
 }
 
-# Apply enhanced classification
-df_enhanced <- df %>%
+# Apply BEA district classification to the cleaned data
+analysis_bea_districts <- analysis_dataset %>%
+  rowwise() %>%
   mutate(
-    sector_type = map_chr(industry, classify_advanced_sector),
-    industry_type = case_when(
-      grepl("manufacturing|production|equipment", tolower(industry)) ~ "Manufacturing",
-      grepl("professional|scientific|technical|computer|software", tolower(industry)) ~ "Professional Services",
-      grepl("information|broadcasting|telecommunications|satellite", tolower(industry)) ~ "Information Services",
-      grepl("government|federal|nasa|defense|military", tolower(industry)) ~ "Government",
-      TRUE ~ "Other"
-    )
-  )
+    district_info = list(assign_bea_district(industry)),
+    district_id = district_info$id,
+    district_name = district_info$name
+  ) %>%
+  select(-district_info, -district_number) %>%  # Remove old district columns
+  ungroup()
 
-# Simplified but robust metrics calculation
-calculate_district_metrics <- function(district_data) {
+cat("Industries classified into", n_distinct(analysis_bea_districts$district_id), "BEA districts\n")
+
+# Show district distribution
+district_distribution <- analysis_bea_districts %>%
+  distinct(industry, district_id, district_name) %>%
+  count(district_id, district_name) %>%
+  arrange(district_id)
+
+cat("\nBEA District Distribution:\n")
+print(kable(district_distribution, 
+            col.names = c("District ID", "District Name", "Number of Industries")))
+```
+
+## 9. Calculate Investment Metrics by BEA District
+
+```{r bea_investment_metrics}
+# Enhanced sector classification for BEA districts
+classify_sector_type <- function(industry_name, district_name) {
+  if(grepl("Government", district_name)) {
+    return("Government")
+  } else {
+    return("Private")
+  }
+}
+
+# Calculate investment metrics for each BEA district
+calculate_bea_district_metrics <- function(district_data, district_name) {
   
-  # 1. Economic Output Growth (Real Value Added CAGR 2020-2023)
-  output_growth <- district_data %>%
-    filter(table_name == "real_value_added", year %in% c(2020, 2023)) %>%
+  # Get latest year
+  latest_year <- max(district_data$year, na.rm = TRUE)
+  
+  # 1. Total Economic Output
+  total_output <- district_data %>%
+    filter(table_name == "current_value_added", year == latest_year) %>%
+    summarise(total = sum(value, na.rm = TRUE)) %>%
+    pull(total)
+  
+  # 2. Employment (if available)
+  total_employment <- district_data %>%
+    filter(table_name == "employment", year == latest_year) %>%
+    summarise(total = sum(value, na.rm = TRUE)) %>%
+    pull(total)
+  if(length(total_employment) == 0) total_employment <- 0
+  
+  # 3. Government vs Private classification
+  is_government <- grepl("Government", district_name)
+  government_output <- if(is_government) total_output else 0
+  private_output <- if(!is_government) total_output else 0
+  private_share <- if(!is_government) 1 else 0
+  
+  # 4. Growth rate (2020 to latest year)
+  growth_data <- district_data %>%
+    filter(table_name == "current_value_added", 
+           year %in% c(2020, latest_year)) %>%
     group_by(year) %>%
     summarise(total = sum(value, na.rm = TRUE), .groups = 'drop') %>%
     arrange(year)
   
-  if (nrow(output_growth) == 2 && output_growth$total[1] > 0) {
-    growth_rate <- ((output_growth$total[2] / output_growth$total[1])^(1/3) - 1) * 100
+  growth_rate <- if(nrow(growth_data) >= 2 && growth_data$total[1] > 0) {
+    calculate_cagr(growth_data$total[1], growth_data$total[nrow(growth_data)], nrow(growth_data) - 1)
   } else {
-    growth_rate <- 0
+    0
   }
   
-  # 2. Employment Resilience (2023 vs 2019)
-  employment_data <- district_data %>%
-    filter(table_name == "employment", year %in% c(2019, 2023)) %>%
+  # 5. High-value activities (tech/manufacturing focus)
+  high_value_ratio <- case_when(
+    district_name == "Manufacturing" ~ 
+      (district_data %>%
+       filter(table_name == "current_value_added", year == latest_year,
+              grepl("computer.*electronic|other transportation equipment", tolower(industry))) %>%
+       summarise(hv = sum(value, na.rm = TRUE)) %>% pull(hv)) / max(total_output, 1) * 100,
+    district_name == "Professional Services" ~ 
+      (district_data %>%
+       filter(table_name == "current_value_added", year == latest_year,
+              grepl("computer systems design", tolower(industry))) %>%
+       summarise(hv = sum(value, na.rm = TRUE)) %>% pull(hv)) / max(total_output, 1) * 100,
+    district_name == "Information" ~ 
+      (district_data %>%
+       filter(table_name == "current_value_added", year == latest_year,
+              grepl("broadcasting.*telecommunications|data processing", tolower(industry))) %>%
+       summarise(hv = sum(value, na.rm = TRUE)) %>% pull(hv)) / max(total_output, 1) * 100,
+    TRUE ~ 0
+  )
+  
+  # 6. Recovery analysis (2019-2020-latest)
+  recovery_data <- district_data %>%
+    filter(table_name == "current_value_added", 
+           year %in% c(2019, 2020, latest_year)) %>%
     group_by(year) %>%
-    summarise(total = sum(value, na.rm = TRUE), .groups = 'drop')
+    summarise(total = sum(value, na.rm = TRUE), .groups = 'drop') %>%
+    arrange(year)
   
-  if (nrow(employment_data) == 2 && employment_data$total[1] > 0) {
-    employment_change <- ((employment_data$total[2] / employment_data$total[1]) - 1) * 100
-  } else {
-    employment_change <- 0
+  recovery_speed <- 0
+  if(nrow(recovery_data) >= 3) {
+    output_2019 <- recovery_data$total[recovery_data$year == 2019]
+    output_2020 <- recovery_data$total[recovery_data$year == 2020]
+    
+    if(length(output_2019) > 0 && length(output_2020) > 0 && output_2019[1] > 0) {
+      decline <- max(0, (output_2019[1] - output_2020[1]) / output_2019[1])
+      if(decline > 0.01 && total_output >= output_2019[1] * 0.95) {
+        recovery_speed <- 2 / decline  # Faster recovery = higher score
+      } else if(decline > 0.01) {
+        recovery_speed <- 1 / decline
+      }
+    }
   }
   
-  # 3. Private Sector Dominance (Private % of total output)
-  sector_split <- district_data %>%
-    filter(table_name == "current_value_added", year == 2023) %>%
-    group_by(sector_type) %>%
-    summarise(total = sum(value, na.rm = TRUE), .groups = 'drop') %>%
-    mutate(percentage = total / sum(total) * 100)
+  # Calculate investment metrics
+  metrics <- list(
+    total_output = total_output,
+    total_employment = total_employment,
+    government_output = government_output,
+    private_output = private_output,
+    private_share = private_share,
+    growth_rate = growth_rate,
+    high_value_ratio = high_value_ratio,
+    recovery_speed = recovery_speed,
+    
+    # Investment Metrics
+    roi_multiplier = if(government_output > 1000) private_output / government_output else
+                     if(private_output > 1000) 50 else 0,  # High score for pure private sectors
+    
+    commercial_velocity = growth_rate * private_share,
+    
+    manufacturing_export_ratio = high_value_ratio,  # Use high-value ratio as proxy
+    
+    innovation_factor = case_when(
+      district_name %in% c("Professional Services", "Information") ~ high_value_ratio,
+      TRUE ~ high_value_ratio * 0.5  # Lower weight for other sectors
+    ),
+    
+    recovery_metric = recovery_speed,
+    
+    sector_momentum = max(0, growth_rate) * (private_share * 100 + 50)  # Boost all sectors
+  )
   
-  private_share <- sector_split %>% 
-    filter(sector_type == "Private") %>% 
-    pull(percentage)
-  if (length(private_share) == 0) private_share <- 0
-  
-  # 4. Innovation Intensity (Professional Services % of total)
-  innovation_share <- district_data %>%
-    filter(table_name == "current_value_added", year == 2023) %>%
-    group_by(industry_type) %>%
-    summarise(total = sum(value, na.rm = TRUE), .groups = 'drop') %>%
-    mutate(percentage = total / sum(total) * 100) %>%
-    filter(industry_type == "Professional Services") %>%
-    pull(percentage)
-  if (length(innovation_share) == 0) innovation_share <- 0
-  
-  # 5. Economic Scale (Total 2023 Output)
-  total_output <- district_data %>%
-    filter(table_name == "current_value_added", year == 2023) %>%
-    summarise(total = sum(value, na.rm = TRUE)) %>%
-    pull(total)
-  
-  # 6. Manufacturing Strength (Manufacturing % of total)
-  manufacturing_share <- district_data %>%
-    filter(table_name == "current_value_added", year == 2023) %>%
-    group_by(industry_type) %>%
-    summarise(total = sum(value, na.rm = TRUE), .groups = 'drop') %>%
-    mutate(percentage = total / sum(total) * 100) %>%
-    filter(industry_type == "Manufacturing") %>%
-    pull(percentage)
-  if (length(manufacturing_share) == 0) manufacturing_share <- 0
-  
-  return(tibble(
-    economic_growth = growth_rate,
-    employment_resilience = employment_change,
-    private_dominance = private_share,
-    innovation_intensity = innovation_share,
-    economic_scale = total_output,
-    manufacturing_strength = manufacturing_share
-  ))
+  return(as_tibble(metrics))
 }
 
-# Calculate metrics for all districts
-cat("\nCalculating competitive metrics for all 13 districts...\n")
-
-district_competition <- df_enhanced %>%
-  group_by(district_number, district_name) %>%
-  group_modify(~ calculate_district_metrics(.x)) %>%
+# Calculate metrics for all BEA districts
+bea_investment_results <- analysis_bea_districts %>%
+  group_by(district_id, district_name) %>%
+  group_modify(~ calculate_bea_district_metrics(.x, .y$district_name[1])) %>%
   ungroup() %>%
-  # Create composite competitiveness score
+  # Calculate composite score
   mutate(
-    # Normalize all metrics to 0-100 scale
-    growth_score = pmax(0, pmin(100, (economic_growth + 10) * 5)), # -10% to +10% maps to 0-100
-    resilience_score = pmax(0, pmin(100, (employment_resilience + 20) * 2.5)), # -20% to +20% maps to 0-100
-    private_score = pmax(0, pmin(100, private_dominance)), # 0-100% already
-    innovation_score = pmax(0, pmin(100, innovation_intensity * 4)), # 0-25% maps to 0-100
-    scale_score = pmax(0, pmin(100, log10(pmax(1, economic_scale)) * 20)), # Log scale for output size
-    manufacturing_score = pmax(0, pmin(100, manufacturing_strength * 2)), # 0-50% maps to 0-100
-    
-    # Weighted composite score
-    competitive_index = (
-      growth_score * 0.25 +           # 25% weight on growth
-      resilience_score * 0.20 +       # 20% weight on employment resilience  
-      private_score * 0.20 +          # 20% weight on private sector strength
-      innovation_score * 0.15 +       # 15% weight on innovation
-      scale_score * 0.10 +            # 10% weight on economic scale
-      manufacturing_score * 0.10      # 10% weight on manufacturing
+    composite_score = case_when(
+      total_output < 500 ~ 0,  # Filter out very small sectors
+      TRUE ~ (
+        pmin(roi_multiplier, 20) * 0.25 +      # Higher weight on ROI
+        pmax(0, pmin(commercial_velocity, 30)) * 0.20 +
+        pmin(manufacturing_export_ratio, 100) * 0.15 +
+        pmin(innovation_factor, 50) * 0.15 +
+        pmin(recovery_metric, 5) * 0.15 +
+        pmin(sector_momentum, 100) * 0.10
+      )
     )
   ) %>%
-  arrange(desc(competitive_index)) %>%
+  # Handle edge cases
+  mutate(across(where(is.numeric), ~ ifelse(is.na(.x) | is.infinite(.x), 0, .x))) %>%
+  # Rank districts
+  arrange(desc(composite_score)) %>%
   mutate(
     rank = row_number(),
     tier = case_when(
-      rank <= 3 ~ "🥇 TIER 1 - Investment Magnets",
-      rank <= 6 ~ "🥈 TIER 2 - Emerging Champions", 
-      rank <= 9 ~ "🥉 TIER 3 - Steady Performers",
-      TRUE ~ "⚠️ TIER 4 - Improvement Needed"
+      total_output < 500 ~ "Minimal Activity",
+      rank <= 3 ~ "Tier 1 - Investment Magnets", 
+      rank <= 6 ~ "Tier 2 - Strong Performers",
+      rank <= 9 ~ "Tier 3 - Steady Growth",
+      TRUE ~ "Tier 4 - Emerging Sectors"
     )
   )
 
-# Display the competition results
-cat("\n" %+% "="*60 %+% "\n")
-cat("🚀 SPACE ECONOMY DISTRICT CHAMPIONSHIP RESULTS 🚀\n")
-cat(strrep("=", 60) %+% "\n\n")
+cat("BEA district investment metrics calculated!\n")
+cat("Districts with significant activity:", sum(bea_investment_results$total_output >= 500), "\n")
+```
 
-# Championship podium
-podium <- district_competition %>% slice_head(n = 3)
+## 10. BEA District Investment Dashboard
 
-cat("🏆 CHAMPIONSHIP PODIUM:\n")
-cat("🥇 1st Place:", podium$district_name[1], sprintf("(District %d) - Score: %.1f\n", podium$district_number[1], podium$competitive_index[1]))
-cat("🥈 2nd Place:", podium$district_name[2], sprintf("(District %d) - Score: %.1f\n", podium$district_number[2], podium$competitive_index[2]))
-cat("🥉 3rd Place:", podium$district_name[3], sprintf("(District %d) - Score: %.1f\n", podium$district_number[3], podium$competitive_index[3]))
+```{r bea_dashboard}
+# Create professional dashboard for BEA districts
+bea_dashboard <- bea_investment_results %>%
+  filter(total_output >= 500) %>%  # Only meaningful sectors
+  select(
+    Rank = rank,
+    `Economic Sector` = district_name,
+    `Total Output ($M)` = total_output,
+    `Employment` = total_employment,
+    `ROI Multiplier` = roi_multiplier,
+    `Commercial Velocity (%)` = commercial_velocity,
+    `High-Value Ratio (%)` = manufacturing_export_ratio,
+    `Innovation Factor (%)` = innovation_factor,
+    `Recovery Speed` = recovery_metric,
+    `Sector Momentum (%)` = sector_momentum,
+    `Composite Score` = composite_score,
+    Tier = tier
+  ) %>%
+  mutate(
+    `Total Output ($M)` = round(`Total Output ($M)`, 0),
+    `Employment` = round(`Employment`, 0),
+    `ROI Multiplier` = round(pmin(`ROI Multiplier`, 99), 1),
+    `Commercial Velocity (%)` = round(`Commercial Velocity (%)`, 1),
+    `High-Value Ratio (%)` = round(`High-Value Ratio (%)`, 1),
+    `Innovation Factor (%)` = round(`Innovation Factor (%)`, 1),
+    `Recovery Speed` = round(`Recovery Speed`, 2),
+    `Sector Momentum (%)` = round(`Sector Momentum (%)`, 1),
+    `Composite Score` = round(`Composite Score`, 1)
+  ) %>%
+  arrange(Rank)
 
-cat("\n" %+% "-"*50 %+% "\n")
+# Display results
+cat("BEA SPACE ECONOMY SECTOR ANALYSIS\n")
+cat("=================================\n\n")
 
-# Full rankings by tier
-for (tier_name in unique(district_competition$tier)) {
-  cat("\n", tier_name, "\n")
-  cat(rep("=", nchar(tier_name) - 2), "\n") # -2 for emoji characters
+if(nrow(bea_dashboard) > 0) {
+  # Interactive table
+  DT::datatable(bea_dashboard,
+                caption = "Space Economy Analysis by BEA Economic Sectors",
+                options = list(pageLength = 12, scrollX = TRUE)) %>%
+    formatStyle("Tier",
+                backgroundColor = styleEqual(
+                  c("Tier 1 - Investment Magnets", "Tier 2 - Strong Performers", 
+                    "Tier 3 - Steady Growth", "Tier 4 - Emerging Sectors"),
+                  c("#d4edda", "#fff3cd", "#ffeaa7", "#ddd")
+                ))
   
-  tier_districts <- district_competition %>% filter(tier == tier_name)
+  # Top performing sectors
+  cat("TOP 5 SPACE ECONOMY SECTORS:\n")
+  top5 <- bea_dashboard %>% head(5)
   
-  for (i in 1:nrow(tier_districts)) {
-    district <- tier_districts[i, ]
-    cat(sprintf("#%d - District %d: %s (Score: %.1f)\n", 
-                district$rank, district$district_number, 
-                district$district_name, district$competitive_index))
+  for(i in 1:nrow(top5)) {
+    cat(sprintf("\n#%d: %s\n", i, top5$`Economic Sector`[i]))
+    cat(sprintf("   Total Output: $%s M\n", format(top5$`Total Output ($M)`[i], big.mark = ",")))
+    cat(sprintf("   Employment: %s\n", format(top5$Employment[i], big.mark = ",")))
+    cat(sprintf("   Composite Score: %.1f\n", top5$`Composite Score`[i]))
     
-    # Show top 2 strengths
-    strengths <- c(
-  if (!is.na(district$growth_score) && district$growth_score > 60) sprintf("Growth: %.1f%%", district$economic_growth),
-  if (!is.na(district$resilience_score) && district$resilience_score > 60) sprintf("Resilience: %.1f%%", district$employment_resilience),
-  if (!is.na(district$private_score) && district$private_score > 70) sprintf("Private: %.1f%%", district$private_dominance),
-  if (!is.na(district$innovation_score) && district$innovation_score > 50) sprintf("Innovation: %.1f%%", district$innovation_intensity)
-)
-
-
+    # Highlight top strength
+    strengths <- c()
+    if(top5$`ROI Multiplier`[i] > 10) strengths <- c(strengths, sprintf("ROI: %.1fx", top5$`ROI Multiplier`[i]))
+    if(top5$`Commercial Velocity (%)`[i] > 5) strengths <- c(strengths, sprintf("Growth: %.1f%%", top5$`Commercial Velocity (%)`[i]))
+    if(top5$`Innovation Factor (%)`[i] > 10) strengths <- c(strengths, sprintf("Innovation: %.1f%%", top5$`Innovation Factor (%)`[i]))
     
-    if (length(strengths) > 0) {
-      cat("     💪 Strengths:", paste(head(strengths, 2), collapse = ", "), "\n")
+    if(length(strengths) > 0) {
+      cat(sprintf("   Key Strengths: %s\n", paste(head(strengths, 2), collapse = ", ")))
     }
   }
+  
+  # Export results
+  write_csv(bea_investment_results, "bea_district_analysis_complete.csv")
+  write_csv(bea_dashboard, "bea_sector_dashboard.csv")
+  
+  
+  # key insights
+  top_sector <- bea_dashboard$`Economic Sector`[1]
+  top_output <- bea_dashboard$`Total Output ($M)`[1]
+  top_employment <- bea_dashboard$Employment[1]
+  
+  cat(sprintf("• %s leads space economy with $%s M output and %s jobs\n", 
+              top_sector, format(top_output, big.mark = ","), format(top_employment, big.mark = ",")))
+  
+  fastest_growth <- bea_dashboard %>% 
+    slice_max(`Commercial Velocity (%)`, n = 1)
+  cat(sprintf("• %s shows fastest commercial growth at %.1f%% annually\n",
+              fastest_growth$`Economic Sector`[1], fastest_growth$`Commercial Velocity (%)`[1]))
+  
+  most_innovative <- bea_dashboard %>%
+    slice_max(`Innovation Factor (%)`, n = 1)  
+  cat(sprintf("• %s has highest innovation intensity at %.1f%%\n",
+              most_innovative$`Economic Sector`[1], most_innovative$`Innovation Factor (%)`[1]))
+  
+  total_space_output <- sum(bea_dashboard$`Total Output ($M)`)
+  cat(sprintf("• Total space economy output: $%s M across %d major sectors\n",
+              format(total_space_output, big.mark = ","), nrow(bea_dashboard)))
+  
+} else {
+  cat("No sectors found with significant space economy activity\n")
 }
-
-# Export championship results
-write_csv(district_competition, "space_economy_championship.csv")
-
-# Create investor presentation summary
-presentation_data <- district_competition %>%
-  select(rank, district_number, district_name, tier, competitive_index,
-         economic_growth, employment_resilience, private_dominance, 
-         innovation_intensity, economic_scale, manufacturing_strength) %>%
-  mutate(across(where(is.numeric), ~ round(., 1)))
-
-write_csv(presentation_data, "investor_presentation_data.csv")
-
-
-
-# Final insights
-cat("\n🎯 KEY CHAMPIONSHIP INSIGHTS:\n")
-cat("🏆 Champion District:", district_competition$district_name[1], 
-    sprintf("dominates with %.1f competitive index\n", district_competition$competitive_index[1]))
-
-fastest_growth <- district_competition %>% slice_max(economic_growth, n = 1)
-cat("📈 Fastest Growing:", fastest_growth$district_name, sprintf("(%.1f%% annual growth)\n", fastest_growth$economic_growth))
-
-most_resilient <- district_competition %>% slice_max(employment_resilience, n = 1)
-cat("💪 Most Resilient:", most_resilient$district_name, sprintf("(%.1f%% employment change)\n", most_resilient$employment_resilience))
-
-most_private <- district_competition %>% slice_max(private_dominance, n = 1)
-cat("🏢 Most Commercial:", most_private$district_name, sprintf("(%.1f%% private sector)\n", most_private$private_dominance))
-
-
-
 ```
+
+
+
+

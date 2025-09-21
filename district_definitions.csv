@@ -2,7 +2,6 @@ district_number,district_name,district_keywords
 1,Luxury,"Satellite,Communication,Broadcasting,Telecommunication,Tourism,Wireless"
 2,Weapons,"Defense,Military,Weapon,Aerospace Defense,Missile,Combat"
 3,Technology,"Computer,Software,Semiconductor,Electronic,Data Processing,Internet"
-4,Maritime,"Water,Ship,Maritime,Ocean,Marine,Navigation,Coastal"
 5,Power,"Electric,Power,Utilities,Energy,Solar,Oil,Gas"
 6,Transportation,"Transportation,Logistics,Warehousing,Courier,Air,Transit"
 7,Lumber,"Wood,Forestry,Paper,Earth Observation,Mapping,Geospatial"

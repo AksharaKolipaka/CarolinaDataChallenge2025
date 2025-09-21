@@ -1,0 +1,9 @@
+Rank,Economic Sector,Total Output ($M),Employment,ROI Multiplier,Commercial Velocity (%),High-Value Ratio (%),Innovation Factor (%),Recovery Speed,Sector Momentum (%),Composite Score,Tier
+1,Manufacturing,36287,110,50,8,91.1,45.6,29.02,1194.7,37.8,Tier 1 - Investment Magnets
+2,Information,27670,70,50,-7,98.4,98.4,12.84,0,28,Tier 1 - Investment Magnets
+3,Transportation & Warehousing,2535,11,50,90.3,0,0,23.48,13547.3,21.8,Tier 1 - Investment Magnets
+4,Educational & Health Services,130362,83,50,23.1,0,0,157,3457.6,20.4,Tier 2 - Strong Performers
+5,Professional Services,485873,824,50,15.9,0.2,0.2,52.01,2384.3,19,Tier 2 - Strong Performers
+6,Wholesale Trade,27134,85,50,16.9,0,0,0,2529.9,18.4,Tier 2 - Strong Performers
+7,Retail Trade,636,6,0,64.3,0,0,5.83,9651.2,16.8,Tier 3 - Steady Growth
+8,Government - Federal,32048,0,0,0,0,0,97.93,1399.6,10.8,Tier 3 - Steady Growth

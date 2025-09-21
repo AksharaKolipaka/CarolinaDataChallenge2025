@@ -1,0 +1,5 @@
+district_number,district_name,current_size,historical_growth,predicted_growth,growth_momentum,investment_priority,future_outlook,risk_profile,recommendation,confidence_score
+2,Weapons,26492,2.419195487868399,6.878605720740705,Accelerating,Data Insufficient,⚠️ Model Unavailable,Medium Risk,🔻 REDUCE - Expected decline,30
+7,Lumber,21,2.1417005735741195,0,Decelerating,Data Insufficient,⚠️ Model Unavailable,High Risk,🔻 REDUCE - Expected decline,30
+3,Technology,27960,7.453555285567975,-2.398156875065449,Decelerating,Data Insufficient,⚠️ Model Unavailable,High Risk,🔻 REDUCE - Expected decline,30
+4,Maritime,0,-28.571428571428573,-100,Decelerating,Data Insufficient,⚠️ Model Unavailable,High Risk,🔻 REDUCE - Expected decline,30

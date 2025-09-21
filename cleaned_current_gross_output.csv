@@ -1,184 +1,184 @@
 table_name,industry,district_number,district_name,year,value
-current_gross_output,Space economy1,13,Underground,2012,189438
-current_gross_output,Space economy1,13,Underground,2013,195060
-current_gross_output,Space economy1,13,Underground,2014,198159
-current_gross_output,Space economy1,13,Underground,2015,205244
-current_gross_output,Space economy1,13,Underground,2016,204806
-current_gross_output,Space economy1,13,Underground,2017,207911
-current_gross_output,Space economy1,13,Underground,2018,209100
-current_gross_output,Space economy1,13,Underground,2019,216523
-current_gross_output,Space economy1,13,Underground,2020,209460
-current_gross_output,Space economy1,13,Underground,2021,214301
-current_gross_output,Space economy1,13,Underground,2022,234618
-current_gross_output,Space economy1,13,Underground,2023,240891
-current_gross_output,Private industries,13,Underground,2012,160095
-current_gross_output,Private industries,13,Underground,2013,165699
-current_gross_output,Private industries,13,Underground,2014,167839
-current_gross_output,Private industries,13,Underground,2015,173895
-current_gross_output,Private industries,13,Underground,2016,172726
-current_gross_output,Private industries,13,Underground,2017,175789
-current_gross_output,Private industries,13,Underground,2018,175153
-current_gross_output,Private industries,13,Underground,2019,178698
-current_gross_output,Private industries,13,Underground,2020,171021
-current_gross_output,Private industries,13,Underground,2021,173993
-current_gross_output,Private industries,13,Underground,2022,190221
-current_gross_output,Private industries,13,Underground,2023,192397
-current_gross_output,Mining,12,Mining,2012,67
-current_gross_output,Mining,12,Mining,2013,51
-current_gross_output,Mining,12,Mining,2014,65
-current_gross_output,Mining,12,Mining,2015,57
-current_gross_output,Mining,12,Mining,2016,33
-current_gross_output,Mining,12,Mining,2017,13
-current_gross_output,Mining,12,Mining,2018,6
-current_gross_output,Mining,12,Mining,2019,7
-current_gross_output,Mining,12,Mining,2020,3
-current_gross_output,Mining,12,Mining,2021,3
-current_gross_output,Mining,12,Mining,2022,3
-current_gross_output,Mining,12,Mining,2023,3
-current_gross_output,Oil and gas extraction,5,Power,2012,50
-current_gross_output,Oil and gas extraction,5,Power,2013,38
-current_gross_output,Oil and gas extraction,5,Power,2014,48
-current_gross_output,Oil and gas extraction,5,Power,2015,41
-current_gross_output,Oil and gas extraction,5,Power,2016,23
-current_gross_output,Oil and gas extraction,5,Power,2017,9
-current_gross_output,Oil and gas extraction,5,Power,2018,4
-current_gross_output,Oil and gas extraction,5,Power,2019,5
-current_gross_output,Oil and gas extraction,5,Power,2020,2
-current_gross_output,Oil and gas extraction,5,Power,2021,2
-current_gross_output,Oil and gas extraction,5,Power,2022,2
-current_gross_output,Oil and gas extraction,5,Power,2023,2
-current_gross_output,"Mining, except oil and gas",5,Power,2012,0
-current_gross_output,"Mining, except oil and gas",5,Power,2013,0
-current_gross_output,"Mining, except oil and gas",5,Power,2014,0
-current_gross_output,"Mining, except oil and gas",5,Power,2015,1
-current_gross_output,"Mining, except oil and gas",5,Power,2016,1
-current_gross_output,"Mining, except oil and gas",5,Power,2017,1
-current_gross_output,"Mining, except oil and gas",5,Power,2018,0
-current_gross_output,"Mining, except oil and gas",5,Power,2019,0
-current_gross_output,"Mining, except oil and gas",5,Power,2020,0
-current_gross_output,"Mining, except oil and gas",5,Power,2021,0
-current_gross_output,"Mining, except oil and gas",5,Power,2022,0
-current_gross_output,"Mining, except oil and gas",5,Power,2023,0
-current_gross_output,Support activities for mining,12,Mining,2012,17
-current_gross_output,Support activities for mining,12,Mining,2013,13
-current_gross_output,Support activities for mining,12,Mining,2014,17
-current_gross_output,Support activities for mining,12,Mining,2015,15
-current_gross_output,Support activities for mining,12,Mining,2016,9
-current_gross_output,Support activities for mining,12,Mining,2017,3
-current_gross_output,Support activities for mining,12,Mining,2018,2
-current_gross_output,Support activities for mining,12,Mining,2019,2
-current_gross_output,Support activities for mining,12,Mining,2020,1
-current_gross_output,Support activities for mining,12,Mining,2021,1
-current_gross_output,Support activities for mining,12,Mining,2022,1
-current_gross_output,Support activities for mining,12,Mining,2023,1
-current_gross_output,Utilities,5,Power,2012,2
-current_gross_output,Utilities,5,Power,2013,1
-current_gross_output,Utilities,5,Power,2014,1
-current_gross_output,Utilities,5,Power,2015,3
-current_gross_output,Utilities,5,Power,2016,3
-current_gross_output,Utilities,5,Power,2017,3
-current_gross_output,Utilities,5,Power,2018,2
-current_gross_output,Utilities,5,Power,2019,2
-current_gross_output,Utilities,5,Power,2020,2
-current_gross_output,Utilities,5,Power,2021,2
-current_gross_output,Utilities,5,Power,2022,2
-current_gross_output,Utilities,5,Power,2023,2
-current_gross_output,Construction,13,Underground,2012,347
-current_gross_output,Construction,13,Underground,2013,325
-current_gross_output,Construction,13,Underground,2014,488
-current_gross_output,Construction,13,Underground,2015,592
-current_gross_output,Construction,13,Underground,2016,632
-current_gross_output,Construction,13,Underground,2017,913
-current_gross_output,Construction,13,Underground,2018,569
-current_gross_output,Construction,13,Underground,2019,1802
-current_gross_output,Construction,13,Underground,2020,1618
-current_gross_output,Construction,13,Underground,2021,995
-current_gross_output,Construction,13,Underground,2022,1375
-current_gross_output,Construction,13,Underground,2023,1532
-current_gross_output,Manufacturing,8,Textiles,2012,56382
-current_gross_output,Manufacturing,8,Textiles,2013,56773
-current_gross_output,Manufacturing,8,Textiles,2014,54426
-current_gross_output,Manufacturing,8,Textiles,2015,53404
-current_gross_output,Manufacturing,8,Textiles,2016,51639
-current_gross_output,Manufacturing,8,Textiles,2017,50217
-current_gross_output,Manufacturing,8,Textiles,2018,50876
-current_gross_output,Manufacturing,8,Textiles,2019,55523
-current_gross_output,Manufacturing,8,Textiles,2020,52319
-current_gross_output,Manufacturing,8,Textiles,2021,52479
-current_gross_output,Manufacturing,8,Textiles,2022,57260
-current_gross_output,Manufacturing,8,Textiles,2023,59869
-current_gross_output,Durable goods,13,Underground,2012,55583
-current_gross_output,Durable goods,13,Underground,2013,55914
-current_gross_output,Durable goods,13,Underground,2014,53610
-current_gross_output,Durable goods,13,Underground,2015,53065
-current_gross_output,Durable goods,13,Underground,2016,51249
-current_gross_output,Durable goods,13,Underground,2017,49848
-current_gross_output,Durable goods,13,Underground,2018,50516
-current_gross_output,Durable goods,13,Underground,2019,55226
-current_gross_output,Durable goods,13,Underground,2020,52050
-current_gross_output,Durable goods,13,Underground,2021,52172
-current_gross_output,Durable goods,13,Underground,2022,56870
-current_gross_output,Durable goods,13,Underground,2023,59480
-current_gross_output,Wood products,7,Lumber,2012,30
-current_gross_output,Wood products,7,Lumber,2013,15
-current_gross_output,Wood products,7,Lumber,2014,25
-current_gross_output,Wood products,7,Lumber,2015,6
-current_gross_output,Wood products,7,Lumber,2016,6
-current_gross_output,Wood products,7,Lumber,2017,5
-current_gross_output,Wood products,7,Lumber,2018,6
-current_gross_output,Wood products,7,Lumber,2019,5
-current_gross_output,Wood products,7,Lumber,2020,4
-current_gross_output,Wood products,7,Lumber,2021,11
-current_gross_output,Wood products,7,Lumber,2022,7
-current_gross_output,Wood products,7,Lumber,2023,7
-current_gross_output,Nonmetallic mineral products,12,Mining,2012,84
-current_gross_output,Nonmetallic mineral products,12,Mining,2013,95
-current_gross_output,Nonmetallic mineral products,12,Mining,2014,99
-current_gross_output,Nonmetallic mineral products,12,Mining,2015,39
-current_gross_output,Nonmetallic mineral products,12,Mining,2016,40
-current_gross_output,Nonmetallic mineral products,12,Mining,2017,39
-current_gross_output,Nonmetallic mineral products,12,Mining,2018,41
-current_gross_output,Nonmetallic mineral products,12,Mining,2019,37
-current_gross_output,Nonmetallic mineral products,12,Mining,2020,35
-current_gross_output,Nonmetallic mineral products,12,Mining,2021,36
-current_gross_output,Nonmetallic mineral products,12,Mining,2022,41
-current_gross_output,Nonmetallic mineral products,12,Mining,2023,41
-current_gross_output,Primary metals,12,Mining,2012,70
-current_gross_output,Primary metals,12,Mining,2013,72
-current_gross_output,Primary metals,12,Mining,2014,111
-current_gross_output,Primary metals,12,Mining,2015,88
-current_gross_output,Primary metals,12,Mining,2016,61
-current_gross_output,Primary metals,12,Mining,2017,60
-current_gross_output,Primary metals,12,Mining,2018,49
-current_gross_output,Primary metals,12,Mining,2019,41
-current_gross_output,Primary metals,12,Mining,2020,44
-current_gross_output,Primary metals,12,Mining,2021,49
-current_gross_output,Primary metals,12,Mining,2022,61
-current_gross_output,Primary metals,12,Mining,2023,60
-current_gross_output,Fabricated metal products,12,Mining,2012,340
-current_gross_output,Fabricated metal products,12,Mining,2013,566
-current_gross_output,Fabricated metal products,12,Mining,2014,421
-current_gross_output,Fabricated metal products,12,Mining,2015,470
-current_gross_output,Fabricated metal products,12,Mining,2016,420
-current_gross_output,Fabricated metal products,12,Mining,2017,364
-current_gross_output,Fabricated metal products,12,Mining,2018,254
-current_gross_output,Fabricated metal products,12,Mining,2019,241
-current_gross_output,Fabricated metal products,12,Mining,2020,237
-current_gross_output,Fabricated metal products,12,Mining,2021,312
-current_gross_output,Fabricated metal products,12,Mining,2022,339
-current_gross_output,Fabricated metal products,12,Mining,2023,343
-current_gross_output,Machinery,13,Underground,2012,1159
-current_gross_output,Machinery,13,Underground,2013,1102
-current_gross_output,Machinery,13,Underground,2014,1035
-current_gross_output,Machinery,13,Underground,2015,627
-current_gross_output,Machinery,13,Underground,2016,639
-current_gross_output,Machinery,13,Underground,2017,636
-current_gross_output,Machinery,13,Underground,2018,671
-current_gross_output,Machinery,13,Underground,2019,629
-current_gross_output,Machinery,13,Underground,2020,587
-current_gross_output,Machinery,13,Underground,2021,711
-current_gross_output,Machinery,13,Underground,2022,801
-current_gross_output,Machinery,13,Underground,2023,805
+current_gross_output,Space economy1,13,NA,2012,189438
+current_gross_output,Space economy1,13,NA,2013,195060
+current_gross_output,Space economy1,13,NA,2014,198159
+current_gross_output,Space economy1,13,NA,2015,205244
+current_gross_output,Space economy1,13,NA,2016,204806
+current_gross_output,Space economy1,13,NA,2017,207911
+current_gross_output,Space economy1,13,NA,2018,209100
+current_gross_output,Space economy1,13,NA,2019,216523
+current_gross_output,Space economy1,13,NA,2020,209460
+current_gross_output,Space economy1,13,NA,2021,214301
+current_gross_output,Space economy1,13,NA,2022,234618
+current_gross_output,Space economy1,13,NA,2023,240891
+current_gross_output,Private industries,13,NA,2012,160095
+current_gross_output,Private industries,13,NA,2013,165699
+current_gross_output,Private industries,13,NA,2014,167839
+current_gross_output,Private industries,13,NA,2015,173895
+current_gross_output,Private industries,13,NA,2016,172726
+current_gross_output,Private industries,13,NA,2017,175789
+current_gross_output,Private industries,13,NA,2018,175153
+current_gross_output,Private industries,13,NA,2019,178698
+current_gross_output,Private industries,13,NA,2020,171021
+current_gross_output,Private industries,13,NA,2021,173993
+current_gross_output,Private industries,13,NA,2022,190221
+current_gross_output,Private industries,13,NA,2023,192397
+current_gross_output,Mining,11,Mining,2012,67
+current_gross_output,Mining,11,Mining,2013,51
+current_gross_output,Mining,11,Mining,2014,65
+current_gross_output,Mining,11,Mining,2015,57
+current_gross_output,Mining,11,Mining,2016,33
+current_gross_output,Mining,11,Mining,2017,13
+current_gross_output,Mining,11,Mining,2018,6
+current_gross_output,Mining,11,Mining,2019,7
+current_gross_output,Mining,11,Mining,2020,3
+current_gross_output,Mining,11,Mining,2021,3
+current_gross_output,Mining,11,Mining,2022,3
+current_gross_output,Mining,11,Mining,2023,3
+current_gross_output,Oil and gas extraction,4,Power,2012,50
+current_gross_output,Oil and gas extraction,4,Power,2013,38
+current_gross_output,Oil and gas extraction,4,Power,2014,48
+current_gross_output,Oil and gas extraction,4,Power,2015,41
+current_gross_output,Oil and gas extraction,4,Power,2016,23
+current_gross_output,Oil and gas extraction,4,Power,2017,9
+current_gross_output,Oil and gas extraction,4,Power,2018,4
+current_gross_output,Oil and gas extraction,4,Power,2019,5
+current_gross_output,Oil and gas extraction,4,Power,2020,2
+current_gross_output,Oil and gas extraction,4,Power,2021,2
+current_gross_output,Oil and gas extraction,4,Power,2022,2
+current_gross_output,Oil and gas extraction,4,Power,2023,2
+current_gross_output,"Mining, except oil and gas",4,Power,2012,0
+current_gross_output,"Mining, except oil and gas",4,Power,2013,0
+current_gross_output,"Mining, except oil and gas",4,Power,2014,0
+current_gross_output,"Mining, except oil and gas",4,Power,2015,1
+current_gross_output,"Mining, except oil and gas",4,Power,2016,1
+current_gross_output,"Mining, except oil and gas",4,Power,2017,1
+current_gross_output,"Mining, except oil and gas",4,Power,2018,0
+current_gross_output,"Mining, except oil and gas",4,Power,2019,0
+current_gross_output,"Mining, except oil and gas",4,Power,2020,0
+current_gross_output,"Mining, except oil and gas",4,Power,2021,0
+current_gross_output,"Mining, except oil and gas",4,Power,2022,0
+current_gross_output,"Mining, except oil and gas",4,Power,2023,0
+current_gross_output,Support activities for mining,11,Mining,2012,17
+current_gross_output,Support activities for mining,11,Mining,2013,13
+current_gross_output,Support activities for mining,11,Mining,2014,17
+current_gross_output,Support activities for mining,11,Mining,2015,15
+current_gross_output,Support activities for mining,11,Mining,2016,9
+current_gross_output,Support activities for mining,11,Mining,2017,3
+current_gross_output,Support activities for mining,11,Mining,2018,2
+current_gross_output,Support activities for mining,11,Mining,2019,2
+current_gross_output,Support activities for mining,11,Mining,2020,1
+current_gross_output,Support activities for mining,11,Mining,2021,1
+current_gross_output,Support activities for mining,11,Mining,2022,1
+current_gross_output,Support activities for mining,11,Mining,2023,1
+current_gross_output,Utilities,4,Power,2012,2
+current_gross_output,Utilities,4,Power,2013,1
+current_gross_output,Utilities,4,Power,2014,1
+current_gross_output,Utilities,4,Power,2015,3
+current_gross_output,Utilities,4,Power,2016,3
+current_gross_output,Utilities,4,Power,2017,3
+current_gross_output,Utilities,4,Power,2018,2
+current_gross_output,Utilities,4,Power,2019,2
+current_gross_output,Utilities,4,Power,2020,2
+current_gross_output,Utilities,4,Power,2021,2
+current_gross_output,Utilities,4,Power,2022,2
+current_gross_output,Utilities,4,Power,2023,2
+current_gross_output,Construction,13,NA,2012,347
+current_gross_output,Construction,13,NA,2013,325
+current_gross_output,Construction,13,NA,2014,488
+current_gross_output,Construction,13,NA,2015,592
+current_gross_output,Construction,13,NA,2016,632
+current_gross_output,Construction,13,NA,2017,913
+current_gross_output,Construction,13,NA,2018,569
+current_gross_output,Construction,13,NA,2019,1802
+current_gross_output,Construction,13,NA,2020,1618
+current_gross_output,Construction,13,NA,2021,995
+current_gross_output,Construction,13,NA,2022,1375
+current_gross_output,Construction,13,NA,2023,1532
+current_gross_output,Manufacturing,7,Textiles,2012,56382
+current_gross_output,Manufacturing,7,Textiles,2013,56773
+current_gross_output,Manufacturing,7,Textiles,2014,54426
+current_gross_output,Manufacturing,7,Textiles,2015,53404
+current_gross_output,Manufacturing,7,Textiles,2016,51639
+current_gross_output,Manufacturing,7,Textiles,2017,50217
+current_gross_output,Manufacturing,7,Textiles,2018,50876
+current_gross_output,Manufacturing,7,Textiles,2019,55523
+current_gross_output,Manufacturing,7,Textiles,2020,52319
+current_gross_output,Manufacturing,7,Textiles,2021,52479
+current_gross_output,Manufacturing,7,Textiles,2022,57260
+current_gross_output,Manufacturing,7,Textiles,2023,59869
+current_gross_output,Durable goods,13,NA,2012,55583
+current_gross_output,Durable goods,13,NA,2013,55914
+current_gross_output,Durable goods,13,NA,2014,53610
+current_gross_output,Durable goods,13,NA,2015,53065
+current_gross_output,Durable goods,13,NA,2016,51249
+current_gross_output,Durable goods,13,NA,2017,49848
+current_gross_output,Durable goods,13,NA,2018,50516
+current_gross_output,Durable goods,13,NA,2019,55226
+current_gross_output,Durable goods,13,NA,2020,52050
+current_gross_output,Durable goods,13,NA,2021,52172
+current_gross_output,Durable goods,13,NA,2022,56870
+current_gross_output,Durable goods,13,NA,2023,59480
+current_gross_output,Wood products,6,Lumber,2012,30
+current_gross_output,Wood products,6,Lumber,2013,15
+current_gross_output,Wood products,6,Lumber,2014,25
+current_gross_output,Wood products,6,Lumber,2015,6
+current_gross_output,Wood products,6,Lumber,2016,6
+current_gross_output,Wood products,6,Lumber,2017,5
+current_gross_output,Wood products,6,Lumber,2018,6
+current_gross_output,Wood products,6,Lumber,2019,5
+current_gross_output,Wood products,6,Lumber,2020,4
+current_gross_output,Wood products,6,Lumber,2021,11
+current_gross_output,Wood products,6,Lumber,2022,7
+current_gross_output,Wood products,6,Lumber,2023,7
+current_gross_output,Nonmetallic mineral products,11,Mining,2012,84
+current_gross_output,Nonmetallic mineral products,11,Mining,2013,95
+current_gross_output,Nonmetallic mineral products,11,Mining,2014,99
+current_gross_output,Nonmetallic mineral products,11,Mining,2015,39
+current_gross_output,Nonmetallic mineral products,11,Mining,2016,40
+current_gross_output,Nonmetallic mineral products,11,Mining,2017,39
+current_gross_output,Nonmetallic mineral products,11,Mining,2018,41
+current_gross_output,Nonmetallic mineral products,11,Mining,2019,37
+current_gross_output,Nonmetallic mineral products,11,Mining,2020,35
+current_gross_output,Nonmetallic mineral products,11,Mining,2021,36
+current_gross_output,Nonmetallic mineral products,11,Mining,2022,41
+current_gross_output,Nonmetallic mineral products,11,Mining,2023,41
+current_gross_output,Primary metals,11,Mining,2012,70
+current_gross_output,Primary metals,11,Mining,2013,72
+current_gross_output,Primary metals,11,Mining,2014,111
+current_gross_output,Primary metals,11,Mining,2015,88
+current_gross_output,Primary metals,11,Mining,2016,61
+current_gross_output,Primary metals,11,Mining,2017,60
+current_gross_output,Primary metals,11,Mining,2018,49
+current_gross_output,Primary metals,11,Mining,2019,41
+current_gross_output,Primary metals,11,Mining,2020,44
+current_gross_output,Primary metals,11,Mining,2021,49
+current_gross_output,Primary metals,11,Mining,2022,61
+current_gross_output,Primary metals,11,Mining,2023,60
+current_gross_output,Fabricated metal products,11,Mining,2012,340
+current_gross_output,Fabricated metal products,11,Mining,2013,566
+current_gross_output,Fabricated metal products,11,Mining,2014,421
+current_gross_output,Fabricated metal products,11,Mining,2015,470
+current_gross_output,Fabricated metal products,11,Mining,2016,420
+current_gross_output,Fabricated metal products,11,Mining,2017,364
+current_gross_output,Fabricated metal products,11,Mining,2018,254
+current_gross_output,Fabricated metal products,11,Mining,2019,241
+current_gross_output,Fabricated metal products,11,Mining,2020,237
+current_gross_output,Fabricated metal products,11,Mining,2021,312
+current_gross_output,Fabricated metal products,11,Mining,2022,339
+current_gross_output,Fabricated metal products,11,Mining,2023,343
+current_gross_output,Machinery,13,NA,2012,1159
+current_gross_output,Machinery,13,NA,2013,1102
+current_gross_output,Machinery,13,NA,2014,1035
+current_gross_output,Machinery,13,NA,2015,627
+current_gross_output,Machinery,13,NA,2016,639
+current_gross_output,Machinery,13,NA,2017,636
+current_gross_output,Machinery,13,NA,2018,671
+current_gross_output,Machinery,13,NA,2019,629
+current_gross_output,Machinery,13,NA,2020,587
+current_gross_output,Machinery,13,NA,2021,711
+current_gross_output,Machinery,13,NA,2022,801
+current_gross_output,Machinery,13,NA,2023,805
 current_gross_output,Computer and electronic products2,3,Technology,2012,32473
 current_gross_output,Computer and electronic products2,3,Technology,2013,32261
 current_gross_output,Computer and electronic products2,3,Technology,2014,29001
@@ -191,366 +191,366 @@ current_gross_output,Computer and electronic products2,3,Technology,2020,28754
 current_gross_output,Computer and electronic products2,3,Technology,2021,29047
 current_gross_output,Computer and electronic products2,3,Technology,2022,30323
 current_gross_output,Computer and electronic products2,3,Technology,2023,30062
-current_gross_output,"Electrical equipment, appliances, and components",5,Power,2012,776
-current_gross_output,"Electrical equipment, appliances, and components",5,Power,2013,889
-current_gross_output,"Electrical equipment, appliances, and components",5,Power,2014,902
-current_gross_output,"Electrical equipment, appliances, and components",5,Power,2015,766
-current_gross_output,"Electrical equipment, appliances, and components",5,Power,2016,815
-current_gross_output,"Electrical equipment, appliances, and components",5,Power,2017,742
-current_gross_output,"Electrical equipment, appliances, and components",5,Power,2018,791
-current_gross_output,"Electrical equipment, appliances, and components",5,Power,2019,722
-current_gross_output,"Electrical equipment, appliances, and components",5,Power,2020,613
-current_gross_output,"Electrical equipment, appliances, and components",5,Power,2021,634
-current_gross_output,"Electrical equipment, appliances, and components",5,Power,2022,731
-current_gross_output,"Electrical equipment, appliances, and components",5,Power,2023,755
-current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,Underground,2012,3
-current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,Underground,2013,3
-current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,Underground,2014,3
-current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,Underground,2015,2
-current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,Underground,2016,2
-current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,Underground,2017,2
-current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,Underground,2018,1
-current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,Underground,2019,1
-current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,Underground,2020,1
-current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,Underground,2021,1
-current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,Underground,2022,2
-current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,Underground,2023,1
-current_gross_output,Other transportation equipment3,6,Transportation,2012,19867
-current_gross_output,Other transportation equipment3,6,Transportation,2013,19882
-current_gross_output,Other transportation equipment3,6,Transportation,2014,21064
-current_gross_output,Other transportation equipment3,6,Transportation,2015,21022
-current_gross_output,Other transportation equipment3,6,Transportation,2016,18636
-current_gross_output,Other transportation equipment3,6,Transportation,2017,18879
-current_gross_output,Other transportation equipment3,6,Transportation,2018,19016
-current_gross_output,Other transportation equipment3,6,Transportation,2019,22918
-current_gross_output,Other transportation equipment3,6,Transportation,2020,21342
-current_gross_output,Other transportation equipment3,6,Transportation,2021,20832
-current_gross_output,Other transportation equipment3,6,Transportation,2022,23875
-current_gross_output,Other transportation equipment3,6,Transportation,2023,26716
-current_gross_output,Furniture and related products,13,Underground,2012,23
-current_gross_output,Furniture and related products,13,Underground,2013,27
-current_gross_output,Furniture and related products,13,Underground,2014,26
-current_gross_output,Furniture and related products,13,Underground,2015,14
-current_gross_output,Furniture and related products,13,Underground,2016,12
-current_gross_output,Furniture and related products,13,Underground,2017,13
-current_gross_output,Furniture and related products,13,Underground,2018,12
-current_gross_output,Furniture and related products,13,Underground,2019,10
-current_gross_output,Furniture and related products,13,Underground,2020,11
-current_gross_output,Furniture and related products,13,Underground,2021,10
-current_gross_output,Furniture and related products,13,Underground,2022,12
-current_gross_output,Furniture and related products,13,Underground,2023,12
-current_gross_output,Miscellaneous manufacturing,8,Textiles,2012,758
-current_gross_output,Miscellaneous manufacturing,8,Textiles,2013,1002
-current_gross_output,Miscellaneous manufacturing,8,Textiles,2014,923
-current_gross_output,Miscellaneous manufacturing,8,Textiles,2015,449
-current_gross_output,Miscellaneous manufacturing,8,Textiles,2016,464
-current_gross_output,Miscellaneous manufacturing,8,Textiles,2017,496
-current_gross_output,Miscellaneous manufacturing,8,Textiles,2018,529
-current_gross_output,Miscellaneous manufacturing,8,Textiles,2019,483
-current_gross_output,Miscellaneous manufacturing,8,Textiles,2020,421
-current_gross_output,Miscellaneous manufacturing,8,Textiles,2021,527
-current_gross_output,Miscellaneous manufacturing,8,Textiles,2022,679
-current_gross_output,Miscellaneous manufacturing,8,Textiles,2023,678
-current_gross_output,Nondurable goods,13,Underground,2012,800
-current_gross_output,Nondurable goods,13,Underground,2013,858
-current_gross_output,Nondurable goods,13,Underground,2014,816
-current_gross_output,Nondurable goods,13,Underground,2015,339
-current_gross_output,Nondurable goods,13,Underground,2016,390
-current_gross_output,Nondurable goods,13,Underground,2017,369
-current_gross_output,Nondurable goods,13,Underground,2018,360
-current_gross_output,Nondurable goods,13,Underground,2019,296
-current_gross_output,Nondurable goods,13,Underground,2020,269
-current_gross_output,Nondurable goods,13,Underground,2021,308
-current_gross_output,Nondurable goods,13,Underground,2022,390
-current_gross_output,Nondurable goods,13,Underground,2023,388
-current_gross_output,Food and beverage and tobacco products,9,Grain,2012,300
-current_gross_output,Food and beverage and tobacco products,9,Grain,2013,402
-current_gross_output,Food and beverage and tobacco products,9,Grain,2014,409
-current_gross_output,Food and beverage and tobacco products,9,Grain,2015,175
-current_gross_output,Food and beverage and tobacco products,9,Grain,2016,176
-current_gross_output,Food and beverage and tobacco products,9,Grain,2017,164
-current_gross_output,Food and beverage and tobacco products,9,Grain,2018,164
-current_gross_output,Food and beverage and tobacco products,9,Grain,2019,125
-current_gross_output,Food and beverage and tobacco products,9,Grain,2020,132
-current_gross_output,Food and beverage and tobacco products,9,Grain,2021,150
-current_gross_output,Food and beverage and tobacco products,9,Grain,2022,202
-current_gross_output,Food and beverage and tobacco products,9,Grain,2023,201
-current_gross_output,Textile mills and textile product mills,8,Textiles,2012,20
-current_gross_output,Textile mills and textile product mills,8,Textiles,2013,26
-current_gross_output,Textile mills and textile product mills,8,Textiles,2014,23
-current_gross_output,Textile mills and textile product mills,8,Textiles,2015,12
-current_gross_output,Textile mills and textile product mills,8,Textiles,2016,19
-current_gross_output,Textile mills and textile product mills,8,Textiles,2017,15
-current_gross_output,Textile mills and textile product mills,8,Textiles,2018,16
-current_gross_output,Textile mills and textile product mills,8,Textiles,2019,12
-current_gross_output,Textile mills and textile product mills,8,Textiles,2020,10
-current_gross_output,Textile mills and textile product mills,8,Textiles,2021,11
-current_gross_output,Textile mills and textile product mills,8,Textiles,2022,15
-current_gross_output,Textile mills and textile product mills,8,Textiles,2023,15
-current_gross_output,Apparel and leather and allied products,8,Textiles,2012,16
-current_gross_output,Apparel and leather and allied products,8,Textiles,2013,21
-current_gross_output,Apparel and leather and allied products,8,Textiles,2014,19
-current_gross_output,Apparel and leather and allied products,8,Textiles,2015,10
-current_gross_output,Apparel and leather and allied products,8,Textiles,2016,16
-current_gross_output,Apparel and leather and allied products,8,Textiles,2017,13
-current_gross_output,Apparel and leather and allied products,8,Textiles,2018,14
-current_gross_output,Apparel and leather and allied products,8,Textiles,2019,10
-current_gross_output,Apparel and leather and allied products,8,Textiles,2020,8
-current_gross_output,Apparel and leather and allied products,8,Textiles,2021,9
-current_gross_output,Apparel and leather and allied products,8,Textiles,2022,12
-current_gross_output,Apparel and leather and allied products,8,Textiles,2023,12
-current_gross_output,Paper products,7,Lumber,2012,22
-current_gross_output,Paper products,7,Lumber,2013,66
-current_gross_output,Paper products,7,Lumber,2014,50
-current_gross_output,Paper products,7,Lumber,2015,25
-current_gross_output,Paper products,7,Lumber,2016,27
-current_gross_output,Paper products,7,Lumber,2017,39
-current_gross_output,Paper products,7,Lumber,2018,28
-current_gross_output,Paper products,7,Lumber,2019,27
-current_gross_output,Paper products,7,Lumber,2020,20
-current_gross_output,Paper products,7,Lumber,2021,28
-current_gross_output,Paper products,7,Lumber,2022,29
-current_gross_output,Paper products,7,Lumber,2023,29
-current_gross_output,Printing and related support activities,13,Underground,2012,43
-current_gross_output,Printing and related support activities,13,Underground,2013,38
-current_gross_output,Printing and related support activities,13,Underground,2014,32
-current_gross_output,Printing and related support activities,13,Underground,2015,10
-current_gross_output,Printing and related support activities,13,Underground,2016,10
-current_gross_output,Printing and related support activities,13,Underground,2017,7
-current_gross_output,Printing and related support activities,13,Underground,2018,8
-current_gross_output,Printing and related support activities,13,Underground,2019,11
-current_gross_output,Printing and related support activities,13,Underground,2020,7
-current_gross_output,Printing and related support activities,13,Underground,2021,6
-current_gross_output,Printing and related support activities,13,Underground,2022,5
-current_gross_output,Printing and related support activities,13,Underground,2023,5
-current_gross_output,Petroleum and coal products,12,Mining,2012,57
-current_gross_output,Petroleum and coal products,12,Mining,2013,17
-current_gross_output,Petroleum and coal products,12,Mining,2014,16
-current_gross_output,Petroleum and coal products,12,Mining,2015,6
-current_gross_output,Petroleum and coal products,12,Mining,2016,12
-current_gross_output,Petroleum and coal products,12,Mining,2017,9
-current_gross_output,Petroleum and coal products,12,Mining,2018,38
-current_gross_output,Petroleum and coal products,12,Mining,2019,31
-current_gross_output,Petroleum and coal products,12,Mining,2020,27
-current_gross_output,Petroleum and coal products,12,Mining,2021,23
-current_gross_output,Petroleum and coal products,12,Mining,2022,24
-current_gross_output,Petroleum and coal products,12,Mining,2023,24
-current_gross_output,Chemical products,8,Textiles,2012,135
-current_gross_output,Chemical products,8,Textiles,2013,33
-current_gross_output,Chemical products,8,Textiles,2014,27
-current_gross_output,Chemical products,8,Textiles,2015,22
-current_gross_output,Chemical products,8,Textiles,2016,15
-current_gross_output,Chemical products,8,Textiles,2017,11
-current_gross_output,Chemical products,8,Textiles,2018,10
-current_gross_output,Chemical products,8,Textiles,2019,9
-current_gross_output,Chemical products,8,Textiles,2020,7
-current_gross_output,Chemical products,8,Textiles,2021,8
-current_gross_output,Chemical products,8,Textiles,2022,9
-current_gross_output,Chemical products,8,Textiles,2023,9
-current_gross_output,Plastics and rubber products,8,Textiles,2012,207
-current_gross_output,Plastics and rubber products,8,Textiles,2013,256
-current_gross_output,Plastics and rubber products,8,Textiles,2014,240
-current_gross_output,Plastics and rubber products,8,Textiles,2015,78
-current_gross_output,Plastics and rubber products,8,Textiles,2016,115
-current_gross_output,Plastics and rubber products,8,Textiles,2017,111
-current_gross_output,Plastics and rubber products,8,Textiles,2018,82
-current_gross_output,Plastics and rubber products,8,Textiles,2019,71
-current_gross_output,Plastics and rubber products,8,Textiles,2020,58
-current_gross_output,Plastics and rubber products,8,Textiles,2021,73
-current_gross_output,Plastics and rubber products,8,Textiles,2022,93
-current_gross_output,Plastics and rubber products,8,Textiles,2023,93
-current_gross_output,Wholesale trade,13,Underground,2012,30469
-current_gross_output,Wholesale trade,13,Underground,2013,32308
-current_gross_output,Wholesale trade,13,Underground,2014,34226
-current_gross_output,Wholesale trade,13,Underground,2015,38436
-current_gross_output,Wholesale trade,13,Underground,2016,40486
-current_gross_output,Wholesale trade,13,Underground,2017,44876
-current_gross_output,Wholesale trade,13,Underground,2018,47107
-current_gross_output,Wholesale trade,13,Underground,2019,44013
-current_gross_output,Wholesale trade,13,Underground,2020,44359
-current_gross_output,Wholesale trade,13,Underground,2021,49151
-current_gross_output,Wholesale trade,13,Underground,2022,54917
-current_gross_output,Wholesale trade,13,Underground,2023,54183
-current_gross_output,Retail trade,13,Underground,2012,270
-current_gross_output,Retail trade,13,Underground,2013,334
-current_gross_output,Retail trade,13,Underground,2014,342
-current_gross_output,Retail trade,13,Underground,2015,417
-current_gross_output,Retail trade,13,Underground,2016,558
-current_gross_output,Retail trade,13,Underground,2017,473
-current_gross_output,Retail trade,13,Underground,2018,552
-current_gross_output,Retail trade,13,Underground,2019,746
-current_gross_output,Retail trade,13,Underground,2020,513
-current_gross_output,Retail trade,13,Underground,2021,776
-current_gross_output,Retail trade,13,Underground,2022,766
-current_gross_output,Retail trade,13,Underground,2023,849
-current_gross_output,Motor vehicle and parts dealers,13,Underground,2012,1
-current_gross_output,Motor vehicle and parts dealers,13,Underground,2013,1
-current_gross_output,Motor vehicle and parts dealers,13,Underground,2014,1
-current_gross_output,Motor vehicle and parts dealers,13,Underground,2015,1
-current_gross_output,Motor vehicle and parts dealers,13,Underground,2016,1
-current_gross_output,Motor vehicle and parts dealers,13,Underground,2017,0
-current_gross_output,Motor vehicle and parts dealers,13,Underground,2018,0
-current_gross_output,Motor vehicle and parts dealers,13,Underground,2019,1
-current_gross_output,Motor vehicle and parts dealers,13,Underground,2020,1
-current_gross_output,Motor vehicle and parts dealers,13,Underground,2021,1
-current_gross_output,Motor vehicle and parts dealers,13,Underground,2022,1
-current_gross_output,Motor vehicle and parts dealers,13,Underground,2023,1
-current_gross_output,Food and beverage stores,9,Grain,2012,1
-current_gross_output,Food and beverage stores,9,Grain,2013,1
-current_gross_output,Food and beverage stores,9,Grain,2014,1
-current_gross_output,Food and beverage stores,9,Grain,2015,1
-current_gross_output,Food and beverage stores,9,Grain,2016,1
-current_gross_output,Food and beverage stores,9,Grain,2017,1
-current_gross_output,Food and beverage stores,9,Grain,2018,1
-current_gross_output,Food and beverage stores,9,Grain,2019,2
-current_gross_output,Food and beverage stores,9,Grain,2020,1
-current_gross_output,Food and beverage stores,9,Grain,2021,2
-current_gross_output,Food and beverage stores,9,Grain,2022,2
-current_gross_output,Food and beverage stores,9,Grain,2023,2
-current_gross_output,General merchandise stores,13,Underground,2012,38
-current_gross_output,General merchandise stores,13,Underground,2013,45
-current_gross_output,General merchandise stores,13,Underground,2014,48
-current_gross_output,General merchandise stores,13,Underground,2015,54
-current_gross_output,General merchandise stores,13,Underground,2016,75
-current_gross_output,General merchandise stores,13,Underground,2017,65
-current_gross_output,General merchandise stores,13,Underground,2018,76
-current_gross_output,General merchandise stores,13,Underground,2019,105
-current_gross_output,General merchandise stores,13,Underground,2020,77
-current_gross_output,General merchandise stores,13,Underground,2021,103
-current_gross_output,General merchandise stores,13,Underground,2022,110
-current_gross_output,General merchandise stores,13,Underground,2023,123
-current_gross_output,Other retail,13,Underground,2012,231
-current_gross_output,Other retail,13,Underground,2013,286
-current_gross_output,Other retail,13,Underground,2014,292
-current_gross_output,Other retail,13,Underground,2015,361
-current_gross_output,Other retail,13,Underground,2016,481
-current_gross_output,Other retail,13,Underground,2017,407
-current_gross_output,Other retail,13,Underground,2018,474
-current_gross_output,Other retail,13,Underground,2019,638
-current_gross_output,Other retail,13,Underground,2020,434
-current_gross_output,Other retail,13,Underground,2021,670
-current_gross_output,Other retail,13,Underground,2022,653
-current_gross_output,Other retail,13,Underground,2023,724
-current_gross_output,Transportation and warehousing,6,Transportation,2012,1711
-current_gross_output,Transportation and warehousing,6,Transportation,2013,1522
-current_gross_output,Transportation and warehousing,6,Transportation,2014,1374
-current_gross_output,Transportation and warehousing,6,Transportation,2015,1308
-current_gross_output,Transportation and warehousing,6,Transportation,2016,1319
-current_gross_output,Transportation and warehousing,6,Transportation,2017,1317
-current_gross_output,Transportation and warehousing,6,Transportation,2018,1652
-current_gross_output,Transportation and warehousing,6,Transportation,2019,1364
-current_gross_output,Transportation and warehousing,6,Transportation,2020,1266
-current_gross_output,Transportation and warehousing,6,Transportation,2021,1320
-current_gross_output,Transportation and warehousing,6,Transportation,2022,2423
-current_gross_output,Transportation and warehousing,6,Transportation,2023,2338
-current_gross_output,Air transportation,6,Transportation,2012,970
-current_gross_output,Air transportation,6,Transportation,2013,783
-current_gross_output,Air transportation,6,Transportation,2014,611
-current_gross_output,Air transportation,6,Transportation,2015,623
-current_gross_output,Air transportation,6,Transportation,2016,611
-current_gross_output,Air transportation,6,Transportation,2017,516
-current_gross_output,Air transportation,6,Transportation,2018,766
-current_gross_output,Air transportation,6,Transportation,2019,483
-current_gross_output,Air transportation,6,Transportation,2020,361
-current_gross_output,Air transportation,6,Transportation,2021,310
-current_gross_output,Air transportation,6,Transportation,2022,1084
-current_gross_output,Air transportation,6,Transportation,2023,1199
-current_gross_output,Rail transportation,6,Transportation,2012,3
-current_gross_output,Rail transportation,6,Transportation,2013,1
-current_gross_output,Rail transportation,6,Transportation,2014,2
-current_gross_output,Rail transportation,6,Transportation,2015,2
-current_gross_output,Rail transportation,6,Transportation,2016,3
-current_gross_output,Rail transportation,6,Transportation,2017,5
-current_gross_output,Rail transportation,6,Transportation,2018,4
-current_gross_output,Rail transportation,6,Transportation,2019,4
-current_gross_output,Rail transportation,6,Transportation,2020,4
-current_gross_output,Rail transportation,6,Transportation,2021,5
-current_gross_output,Rail transportation,6,Transportation,2022,7
-current_gross_output,Rail transportation,6,Transportation,2023,4
-current_gross_output,Water transportation,4,Maritime,2012,1
-current_gross_output,Water transportation,4,Maritime,2013,1
-current_gross_output,Water transportation,4,Maritime,2014,1
-current_gross_output,Water transportation,4,Maritime,2015,1
-current_gross_output,Water transportation,4,Maritime,2016,2
-current_gross_output,Water transportation,4,Maritime,2017,0
-current_gross_output,Water transportation,4,Maritime,2018,1
-current_gross_output,Water transportation,4,Maritime,2019,2
-current_gross_output,Water transportation,4,Maritime,2020,2
-current_gross_output,Water transportation,4,Maritime,2021,2
-current_gross_output,Water transportation,4,Maritime,2022,0
-current_gross_output,Water transportation,4,Maritime,2023,0
-current_gross_output,Truck transportation,6,Transportation,2012,710
-current_gross_output,Truck transportation,6,Transportation,2013,717
-current_gross_output,Truck transportation,6,Transportation,2014,745
-current_gross_output,Truck transportation,6,Transportation,2015,670
-current_gross_output,Truck transportation,6,Transportation,2016,676
-current_gross_output,Truck transportation,6,Transportation,2017,774
-current_gross_output,Truck transportation,6,Transportation,2018,859
-current_gross_output,Truck transportation,6,Transportation,2019,827
-current_gross_output,Truck transportation,6,Transportation,2020,862
-current_gross_output,Truck transportation,6,Transportation,2021,974
-current_gross_output,Truck transportation,6,Transportation,2022,1300
-current_gross_output,Truck transportation,6,Transportation,2023,1100
-current_gross_output,Transit and ground passenger transportation,6,Transportation,2012,0
-current_gross_output,Transit and ground passenger transportation,6,Transportation,2013,0
-current_gross_output,Transit and ground passenger transportation,6,Transportation,2014,0
-current_gross_output,Transit and ground passenger transportation,6,Transportation,2015,0
-current_gross_output,Transit and ground passenger transportation,6,Transportation,2016,0
-current_gross_output,Transit and ground passenger transportation,6,Transportation,2017,0
-current_gross_output,Transit and ground passenger transportation,6,Transportation,2018,0
-current_gross_output,Transit and ground passenger transportation,6,Transportation,2019,1
-current_gross_output,Transit and ground passenger transportation,6,Transportation,2020,0
-current_gross_output,Transit and ground passenger transportation,6,Transportation,2021,0
-current_gross_output,Transit and ground passenger transportation,6,Transportation,2022,0
-current_gross_output,Transit and ground passenger transportation,6,Transportation,2023,1
-current_gross_output,Pipeline transportation,6,Transportation,2012,0
-current_gross_output,Pipeline transportation,6,Transportation,2013,0
-current_gross_output,Pipeline transportation,6,Transportation,2014,0
-current_gross_output,Pipeline transportation,6,Transportation,2015,0
-current_gross_output,Pipeline transportation,6,Transportation,2016,1
-current_gross_output,Pipeline transportation,6,Transportation,2017,2
-current_gross_output,Pipeline transportation,6,Transportation,2018,2
-current_gross_output,Pipeline transportation,6,Transportation,2019,2
-current_gross_output,Pipeline transportation,6,Transportation,2020,1
-current_gross_output,Pipeline transportation,6,Transportation,2021,1
-current_gross_output,Pipeline transportation,6,Transportation,2022,1
-current_gross_output,Pipeline transportation,6,Transportation,2023,1
-current_gross_output,Other transportation and support activities,6,Transportation,2012,23
-current_gross_output,Other transportation and support activities,6,Transportation,2013,15
-current_gross_output,Other transportation and support activities,6,Transportation,2014,10
-current_gross_output,Other transportation and support activities,6,Transportation,2015,8
-current_gross_output,Other transportation and support activities,6,Transportation,2016,22
-current_gross_output,Other transportation and support activities,6,Transportation,2017,15
-current_gross_output,Other transportation and support activities,6,Transportation,2018,14
-current_gross_output,Other transportation and support activities,6,Transportation,2019,39
-current_gross_output,Other transportation and support activities,6,Transportation,2020,33
-current_gross_output,Other transportation and support activities,6,Transportation,2021,23
-current_gross_output,Other transportation and support activities,6,Transportation,2022,26
-current_gross_output,Other transportation and support activities,6,Transportation,2023,28
-current_gross_output,Warehousing and storage,6,Transportation,2012,4
-current_gross_output,Warehousing and storage,6,Transportation,2013,4
-current_gross_output,Warehousing and storage,6,Transportation,2014,3
-current_gross_output,Warehousing and storage,6,Transportation,2015,2
-current_gross_output,Warehousing and storage,6,Transportation,2016,4
-current_gross_output,Warehousing and storage,6,Transportation,2017,5
-current_gross_output,Warehousing and storage,6,Transportation,2018,5
-current_gross_output,Warehousing and storage,6,Transportation,2019,6
-current_gross_output,Warehousing and storage,6,Transportation,2020,3
-current_gross_output,Warehousing and storage,6,Transportation,2021,4
-current_gross_output,Warehousing and storage,6,Transportation,2022,5
-current_gross_output,Warehousing and storage,6,Transportation,2023,4
-current_gross_output,Information,13,Underground,2012,57497
-current_gross_output,Information,13,Underground,2013,60674
-current_gross_output,Information,13,Underground,2014,63157
-current_gross_output,Information,13,Underground,2015,64999
-current_gross_output,Information,13,Underground,2016,63461
-current_gross_output,Information,13,Underground,2017,62747
-current_gross_output,Information,13,Underground,2018,59553
-current_gross_output,Information,13,Underground,2019,59519
-current_gross_output,Information,13,Underground,2020,56217
-current_gross_output,Information,13,Underground,2021,52770
-current_gross_output,Information,13,Underground,2022,52106
-current_gross_output,Information,13,Underground,2023,51054
+current_gross_output,"Electrical equipment, appliances, and components",4,Power,2012,776
+current_gross_output,"Electrical equipment, appliances, and components",4,Power,2013,889
+current_gross_output,"Electrical equipment, appliances, and components",4,Power,2014,902
+current_gross_output,"Electrical equipment, appliances, and components",4,Power,2015,766
+current_gross_output,"Electrical equipment, appliances, and components",4,Power,2016,815
+current_gross_output,"Electrical equipment, appliances, and components",4,Power,2017,742
+current_gross_output,"Electrical equipment, appliances, and components",4,Power,2018,791
+current_gross_output,"Electrical equipment, appliances, and components",4,Power,2019,722
+current_gross_output,"Electrical equipment, appliances, and components",4,Power,2020,613
+current_gross_output,"Electrical equipment, appliances, and components",4,Power,2021,634
+current_gross_output,"Electrical equipment, appliances, and components",4,Power,2022,731
+current_gross_output,"Electrical equipment, appliances, and components",4,Power,2023,755
+current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,NA,2012,3
+current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,NA,2013,3
+current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,NA,2014,3
+current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,NA,2015,2
+current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,NA,2016,2
+current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,NA,2017,2
+current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,NA,2018,1
+current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,NA,2019,1
+current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,NA,2020,1
+current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,NA,2021,1
+current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,NA,2022,2
+current_gross_output,"Motor vehicles, bodies and trailers, and parts",13,NA,2023,1
+current_gross_output,Other transportation equipment3,5,Transportation,2012,19867
+current_gross_output,Other transportation equipment3,5,Transportation,2013,19882
+current_gross_output,Other transportation equipment3,5,Transportation,2014,21064
+current_gross_output,Other transportation equipment3,5,Transportation,2015,21022
+current_gross_output,Other transportation equipment3,5,Transportation,2016,18636
+current_gross_output,Other transportation equipment3,5,Transportation,2017,18879
+current_gross_output,Other transportation equipment3,5,Transportation,2018,19016
+current_gross_output,Other transportation equipment3,5,Transportation,2019,22918
+current_gross_output,Other transportation equipment3,5,Transportation,2020,21342
+current_gross_output,Other transportation equipment3,5,Transportation,2021,20832
+current_gross_output,Other transportation equipment3,5,Transportation,2022,23875
+current_gross_output,Other transportation equipment3,5,Transportation,2023,26716
+current_gross_output,Furniture and related products,13,NA,2012,23
+current_gross_output,Furniture and related products,13,NA,2013,27
+current_gross_output,Furniture and related products,13,NA,2014,26
+current_gross_output,Furniture and related products,13,NA,2015,14
+current_gross_output,Furniture and related products,13,NA,2016,12
+current_gross_output,Furniture and related products,13,NA,2017,13
+current_gross_output,Furniture and related products,13,NA,2018,12
+current_gross_output,Furniture and related products,13,NA,2019,10
+current_gross_output,Furniture and related products,13,NA,2020,11
+current_gross_output,Furniture and related products,13,NA,2021,10
+current_gross_output,Furniture and related products,13,NA,2022,12
+current_gross_output,Furniture and related products,13,NA,2023,12
+current_gross_output,Miscellaneous manufacturing,7,Textiles,2012,758
+current_gross_output,Miscellaneous manufacturing,7,Textiles,2013,1002
+current_gross_output,Miscellaneous manufacturing,7,Textiles,2014,923
+current_gross_output,Miscellaneous manufacturing,7,Textiles,2015,449
+current_gross_output,Miscellaneous manufacturing,7,Textiles,2016,464
+current_gross_output,Miscellaneous manufacturing,7,Textiles,2017,496
+current_gross_output,Miscellaneous manufacturing,7,Textiles,2018,529
+current_gross_output,Miscellaneous manufacturing,7,Textiles,2019,483
+current_gross_output,Miscellaneous manufacturing,7,Textiles,2020,421
+current_gross_output,Miscellaneous manufacturing,7,Textiles,2021,527
+current_gross_output,Miscellaneous manufacturing,7,Textiles,2022,679
+current_gross_output,Miscellaneous manufacturing,7,Textiles,2023,678
+current_gross_output,Nondurable goods,13,NA,2012,800
+current_gross_output,Nondurable goods,13,NA,2013,858
+current_gross_output,Nondurable goods,13,NA,2014,816
+current_gross_output,Nondurable goods,13,NA,2015,339
+current_gross_output,Nondurable goods,13,NA,2016,390
+current_gross_output,Nondurable goods,13,NA,2017,369
+current_gross_output,Nondurable goods,13,NA,2018,360
+current_gross_output,Nondurable goods,13,NA,2019,296
+current_gross_output,Nondurable goods,13,NA,2020,269
+current_gross_output,Nondurable goods,13,NA,2021,308
+current_gross_output,Nondurable goods,13,NA,2022,390
+current_gross_output,Nondurable goods,13,NA,2023,388
+current_gross_output,Food and beverage and tobacco products,8,Grain,2012,300
+current_gross_output,Food and beverage and tobacco products,8,Grain,2013,402
+current_gross_output,Food and beverage and tobacco products,8,Grain,2014,409
+current_gross_output,Food and beverage and tobacco products,8,Grain,2015,175
+current_gross_output,Food and beverage and tobacco products,8,Grain,2016,176
+current_gross_output,Food and beverage and tobacco products,8,Grain,2017,164
+current_gross_output,Food and beverage and tobacco products,8,Grain,2018,164
+current_gross_output,Food and beverage and tobacco products,8,Grain,2019,125
+current_gross_output,Food and beverage and tobacco products,8,Grain,2020,132
+current_gross_output,Food and beverage and tobacco products,8,Grain,2021,150
+current_gross_output,Food and beverage and tobacco products,8,Grain,2022,202
+current_gross_output,Food and beverage and tobacco products,8,Grain,2023,201
+current_gross_output,Textile mills and textile product mills,7,Textiles,2012,20
+current_gross_output,Textile mills and textile product mills,7,Textiles,2013,26
+current_gross_output,Textile mills and textile product mills,7,Textiles,2014,23
+current_gross_output,Textile mills and textile product mills,7,Textiles,2015,12
+current_gross_output,Textile mills and textile product mills,7,Textiles,2016,19
+current_gross_output,Textile mills and textile product mills,7,Textiles,2017,15
+current_gross_output,Textile mills and textile product mills,7,Textiles,2018,16
+current_gross_output,Textile mills and textile product mills,7,Textiles,2019,12
+current_gross_output,Textile mills and textile product mills,7,Textiles,2020,10
+current_gross_output,Textile mills and textile product mills,7,Textiles,2021,11
+current_gross_output,Textile mills and textile product mills,7,Textiles,2022,15
+current_gross_output,Textile mills and textile product mills,7,Textiles,2023,15
+current_gross_output,Apparel and leather and allied products,7,Textiles,2012,16
+current_gross_output,Apparel and leather and allied products,7,Textiles,2013,21
+current_gross_output,Apparel and leather and allied products,7,Textiles,2014,19
+current_gross_output,Apparel and leather and allied products,7,Textiles,2015,10
+current_gross_output,Apparel and leather and allied products,7,Textiles,2016,16
+current_gross_output,Apparel and leather and allied products,7,Textiles,2017,13
+current_gross_output,Apparel and leather and allied products,7,Textiles,2018,14
+current_gross_output,Apparel and leather and allied products,7,Textiles,2019,10
+current_gross_output,Apparel and leather and allied products,7,Textiles,2020,8
+current_gross_output,Apparel and leather and allied products,7,Textiles,2021,9
+current_gross_output,Apparel and leather and allied products,7,Textiles,2022,12
+current_gross_output,Apparel and leather and allied products,7,Textiles,2023,12
+current_gross_output,Paper products,6,Lumber,2012,22
+current_gross_output,Paper products,6,Lumber,2013,66
+current_gross_output,Paper products,6,Lumber,2014,50
+current_gross_output,Paper products,6,Lumber,2015,25
+current_gross_output,Paper products,6,Lumber,2016,27
+current_gross_output,Paper products,6,Lumber,2017,39
+current_gross_output,Paper products,6,Lumber,2018,28
+current_gross_output,Paper products,6,Lumber,2019,27
+current_gross_output,Paper products,6,Lumber,2020,20
+current_gross_output,Paper products,6,Lumber,2021,28
+current_gross_output,Paper products,6,Lumber,2022,29
+current_gross_output,Paper products,6,Lumber,2023,29
+current_gross_output,Printing and related support activities,13,NA,2012,43
+current_gross_output,Printing and related support activities,13,NA,2013,38
+current_gross_output,Printing and related support activities,13,NA,2014,32
+current_gross_output,Printing and related support activities,13,NA,2015,10
+current_gross_output,Printing and related support activities,13,NA,2016,10
+current_gross_output,Printing and related support activities,13,NA,2017,7
+current_gross_output,Printing and related support activities,13,NA,2018,8
+current_gross_output,Printing and related support activities,13,NA,2019,11
+current_gross_output,Printing and related support activities,13,NA,2020,7
+current_gross_output,Printing and related support activities,13,NA,2021,6
+current_gross_output,Printing and related support activities,13,NA,2022,5
+current_gross_output,Printing and related support activities,13,NA,2023,5
+current_gross_output,Petroleum and coal products,11,Mining,2012,57
+current_gross_output,Petroleum and coal products,11,Mining,2013,17
+current_gross_output,Petroleum and coal products,11,Mining,2014,16
+current_gross_output,Petroleum and coal products,11,Mining,2015,6
+current_gross_output,Petroleum and coal products,11,Mining,2016,12
+current_gross_output,Petroleum and coal products,11,Mining,2017,9
+current_gross_output,Petroleum and coal products,11,Mining,2018,38
+current_gross_output,Petroleum and coal products,11,Mining,2019,31
+current_gross_output,Petroleum and coal products,11,Mining,2020,27
+current_gross_output,Petroleum and coal products,11,Mining,2021,23
+current_gross_output,Petroleum and coal products,11,Mining,2022,24
+current_gross_output,Petroleum and coal products,11,Mining,2023,24
+current_gross_output,Chemical products,7,Textiles,2012,135
+current_gross_output,Chemical products,7,Textiles,2013,33
+current_gross_output,Chemical products,7,Textiles,2014,27
+current_gross_output,Chemical products,7,Textiles,2015,22
+current_gross_output,Chemical products,7,Textiles,2016,15
+current_gross_output,Chemical products,7,Textiles,2017,11
+current_gross_output,Chemical products,7,Textiles,2018,10
+current_gross_output,Chemical products,7,Textiles,2019,9
+current_gross_output,Chemical products,7,Textiles,2020,7
+current_gross_output,Chemical products,7,Textiles,2021,8
+current_gross_output,Chemical products,7,Textiles,2022,9
+current_gross_output,Chemical products,7,Textiles,2023,9
+current_gross_output,Plastics and rubber products,7,Textiles,2012,207
+current_gross_output,Plastics and rubber products,7,Textiles,2013,256
+current_gross_output,Plastics and rubber products,7,Textiles,2014,240
+current_gross_output,Plastics and rubber products,7,Textiles,2015,78
+current_gross_output,Plastics and rubber products,7,Textiles,2016,115
+current_gross_output,Plastics and rubber products,7,Textiles,2017,111
+current_gross_output,Plastics and rubber products,7,Textiles,2018,82
+current_gross_output,Plastics and rubber products,7,Textiles,2019,71
+current_gross_output,Plastics and rubber products,7,Textiles,2020,58
+current_gross_output,Plastics and rubber products,7,Textiles,2021,73
+current_gross_output,Plastics and rubber products,7,Textiles,2022,93
+current_gross_output,Plastics and rubber products,7,Textiles,2023,93
+current_gross_output,Wholesale trade,13,NA,2012,30469
+current_gross_output,Wholesale trade,13,NA,2013,32308
+current_gross_output,Wholesale trade,13,NA,2014,34226
+current_gross_output,Wholesale trade,13,NA,2015,38436
+current_gross_output,Wholesale trade,13,NA,2016,40486
+current_gross_output,Wholesale trade,13,NA,2017,44876
+current_gross_output,Wholesale trade,13,NA,2018,47107
+current_gross_output,Wholesale trade,13,NA,2019,44013
+current_gross_output,Wholesale trade,13,NA,2020,44359
+current_gross_output,Wholesale trade,13,NA,2021,49151
+current_gross_output,Wholesale trade,13,NA,2022,54917
+current_gross_output,Wholesale trade,13,NA,2023,54183
+current_gross_output,Retail trade,13,NA,2012,270
+current_gross_output,Retail trade,13,NA,2013,334
+current_gross_output,Retail trade,13,NA,2014,342
+current_gross_output,Retail trade,13,NA,2015,417
+current_gross_output,Retail trade,13,NA,2016,558
+current_gross_output,Retail trade,13,NA,2017,473
+current_gross_output,Retail trade,13,NA,2018,552
+current_gross_output,Retail trade,13,NA,2019,746
+current_gross_output,Retail trade,13,NA,2020,513
+current_gross_output,Retail trade,13,NA,2021,776
+current_gross_output,Retail trade,13,NA,2022,766
+current_gross_output,Retail trade,13,NA,2023,849
+current_gross_output,Motor vehicle and parts dealers,13,NA,2012,1
+current_gross_output,Motor vehicle and parts dealers,13,NA,2013,1
+current_gross_output,Motor vehicle and parts dealers,13,NA,2014,1
+current_gross_output,Motor vehicle and parts dealers,13,NA,2015,1
+current_gross_output,Motor vehicle and parts dealers,13,NA,2016,1
+current_gross_output,Motor vehicle and parts dealers,13,NA,2017,0
+current_gross_output,Motor vehicle and parts dealers,13,NA,2018,0
+current_gross_output,Motor vehicle and parts dealers,13,NA,2019,1
+current_gross_output,Motor vehicle and parts dealers,13,NA,2020,1
+current_gross_output,Motor vehicle and parts dealers,13,NA,2021,1
+current_gross_output,Motor vehicle and parts dealers,13,NA,2022,1
+current_gross_output,Motor vehicle and parts dealers,13,NA,2023,1
+current_gross_output,Food and beverage stores,8,Grain,2012,1
+current_gross_output,Food and beverage stores,8,Grain,2013,1
+current_gross_output,Food and beverage stores,8,Grain,2014,1
+current_gross_output,Food and beverage stores,8,Grain,2015,1
+current_gross_output,Food and beverage stores,8,Grain,2016,1
+current_gross_output,Food and beverage stores,8,Grain,2017,1
+current_gross_output,Food and beverage stores,8,Grain,2018,1
+current_gross_output,Food and beverage stores,8,Grain,2019,2
+current_gross_output,Food and beverage stores,8,Grain,2020,1
+current_gross_output,Food and beverage stores,8,Grain,2021,2
+current_gross_output,Food and beverage stores,8,Grain,2022,2
+current_gross_output,Food and beverage stores,8,Grain,2023,2
+current_gross_output,General merchandise stores,13,NA,2012,38
+current_gross_output,General merchandise stores,13,NA,2013,45
+current_gross_output,General merchandise stores,13,NA,2014,48
+current_gross_output,General merchandise stores,13,NA,2015,54
+current_gross_output,General merchandise stores,13,NA,2016,75
+current_gross_output,General merchandise stores,13,NA,2017,65
+current_gross_output,General merchandise stores,13,NA,2018,76
+current_gross_output,General merchandise stores,13,NA,2019,105
+current_gross_output,General merchandise stores,13,NA,2020,77
+current_gross_output,General merchandise stores,13,NA,2021,103
+current_gross_output,General merchandise stores,13,NA,2022,110
+current_gross_output,General merchandise stores,13,NA,2023,123
+current_gross_output,Other retail,12,Underground,2012,231
+current_gross_output,Other retail,12,Underground,2013,286
+current_gross_output,Other retail,12,Underground,2014,292
+current_gross_output,Other retail,12,Underground,2015,361
+current_gross_output,Other retail,12,Underground,2016,481
+current_gross_output,Other retail,12,Underground,2017,407
+current_gross_output,Other retail,12,Underground,2018,474
+current_gross_output,Other retail,12,Underground,2019,638
+current_gross_output,Other retail,12,Underground,2020,434
+current_gross_output,Other retail,12,Underground,2021,670
+current_gross_output,Other retail,12,Underground,2022,653
+current_gross_output,Other retail,12,Underground,2023,724
+current_gross_output,Transportation and warehousing,5,Transportation,2012,1711
+current_gross_output,Transportation and warehousing,5,Transportation,2013,1522
+current_gross_output,Transportation and warehousing,5,Transportation,2014,1374
+current_gross_output,Transportation and warehousing,5,Transportation,2015,1308
+current_gross_output,Transportation and warehousing,5,Transportation,2016,1319
+current_gross_output,Transportation and warehousing,5,Transportation,2017,1317
+current_gross_output,Transportation and warehousing,5,Transportation,2018,1652
+current_gross_output,Transportation and warehousing,5,Transportation,2019,1364
+current_gross_output,Transportation and warehousing,5,Transportation,2020,1266
+current_gross_output,Transportation and warehousing,5,Transportation,2021,1320
+current_gross_output,Transportation and warehousing,5,Transportation,2022,2423
+current_gross_output,Transportation and warehousing,5,Transportation,2023,2338
+current_gross_output,Air transportation,5,Transportation,2012,970
+current_gross_output,Air transportation,5,Transportation,2013,783
+current_gross_output,Air transportation,5,Transportation,2014,611
+current_gross_output,Air transportation,5,Transportation,2015,623
+current_gross_output,Air transportation,5,Transportation,2016,611
+current_gross_output,Air transportation,5,Transportation,2017,516
+current_gross_output,Air transportation,5,Transportation,2018,766
+current_gross_output,Air transportation,5,Transportation,2019,483
+current_gross_output,Air transportation,5,Transportation,2020,361
+current_gross_output,Air transportation,5,Transportation,2021,310
+current_gross_output,Air transportation,5,Transportation,2022,1084
+current_gross_output,Air transportation,5,Transportation,2023,1199
+current_gross_output,Rail transportation,5,Transportation,2012,3
+current_gross_output,Rail transportation,5,Transportation,2013,1
+current_gross_output,Rail transportation,5,Transportation,2014,2
+current_gross_output,Rail transportation,5,Transportation,2015,2
+current_gross_output,Rail transportation,5,Transportation,2016,3
+current_gross_output,Rail transportation,5,Transportation,2017,5
+current_gross_output,Rail transportation,5,Transportation,2018,4
+current_gross_output,Rail transportation,5,Transportation,2019,4
+current_gross_output,Rail transportation,5,Transportation,2020,4
+current_gross_output,Rail transportation,5,Transportation,2021,5
+current_gross_output,Rail transportation,5,Transportation,2022,7
+current_gross_output,Rail transportation,5,Transportation,2023,4
+current_gross_output,Water transportation,5,Transportation,2012,1
+current_gross_output,Water transportation,5,Transportation,2013,1
+current_gross_output,Water transportation,5,Transportation,2014,1
+current_gross_output,Water transportation,5,Transportation,2015,1
+current_gross_output,Water transportation,5,Transportation,2016,2
+current_gross_output,Water transportation,5,Transportation,2017,0
+current_gross_output,Water transportation,5,Transportation,2018,1
+current_gross_output,Water transportation,5,Transportation,2019,2
+current_gross_output,Water transportation,5,Transportation,2020,2
+current_gross_output,Water transportation,5,Transportation,2021,2
+current_gross_output,Water transportation,5,Transportation,2022,0
+current_gross_output,Water transportation,5,Transportation,2023,0
+current_gross_output,Truck transportation,5,Transportation,2012,710
+current_gross_output,Truck transportation,5,Transportation,2013,717
+current_gross_output,Truck transportation,5,Transportation,2014,745
+current_gross_output,Truck transportation,5,Transportation,2015,670
+current_gross_output,Truck transportation,5,Transportation,2016,676
+current_gross_output,Truck transportation,5,Transportation,2017,774
+current_gross_output,Truck transportation,5,Transportation,2018,859
+current_gross_output,Truck transportation,5,Transportation,2019,827
+current_gross_output,Truck transportation,5,Transportation,2020,862
+current_gross_output,Truck transportation,5,Transportation,2021,974
+current_gross_output,Truck transportation,5,Transportation,2022,1300
+current_gross_output,Truck transportation,5,Transportation,2023,1100
+current_gross_output,Transit and ground passenger transportation,5,Transportation,2012,0
+current_gross_output,Transit and ground passenger transportation,5,Transportation,2013,0
+current_gross_output,Transit and ground passenger transportation,5,Transportation,2014,0
+current_gross_output,Transit and ground passenger transportation,5,Transportation,2015,0
+current_gross_output,Transit and ground passenger transportation,5,Transportation,2016,0
+current_gross_output,Transit and ground passenger transportation,5,Transportation,2017,0
+current_gross_output,Transit and ground passenger transportation,5,Transportation,2018,0
+current_gross_output,Transit and ground passenger transportation,5,Transportation,2019,1
+current_gross_output,Transit and ground passenger transportation,5,Transportation,2020,0
+current_gross_output,Transit and ground passenger transportation,5,Transportation,2021,0
+current_gross_output,Transit and ground passenger transportation,5,Transportation,2022,0
+current_gross_output,Transit and ground passenger transportation,5,Transportation,2023,1
+current_gross_output,Pipeline transportation,5,Transportation,2012,0
+current_gross_output,Pipeline transportation,5,Transportation,2013,0
+current_gross_output,Pipeline transportation,5,Transportation,2014,0
+current_gross_output,Pipeline transportation,5,Transportation,2015,0
+current_gross_output,Pipeline transportation,5,Transportation,2016,1
+current_gross_output,Pipeline transportation,5,Transportation,2017,2
+current_gross_output,Pipeline transportation,5,Transportation,2018,2
+current_gross_output,Pipeline transportation,5,Transportation,2019,2
+current_gross_output,Pipeline transportation,5,Transportation,2020,1
+current_gross_output,Pipeline transportation,5,Transportation,2021,1
+current_gross_output,Pipeline transportation,5,Transportation,2022,1
+current_gross_output,Pipeline transportation,5,Transportation,2023,1
+current_gross_output,Other transportation and support activities,5,Transportation,2012,23
+current_gross_output,Other transportation and support activities,5,Transportation,2013,15
+current_gross_output,Other transportation and support activities,5,Transportation,2014,10
+current_gross_output,Other transportation and support activities,5,Transportation,2015,8
+current_gross_output,Other transportation and support activities,5,Transportation,2016,22
+current_gross_output,Other transportation and support activities,5,Transportation,2017,15
+current_gross_output,Other transportation and support activities,5,Transportation,2018,14
+current_gross_output,Other transportation and support activities,5,Transportation,2019,39
+current_gross_output,Other transportation and support activities,5,Transportation,2020,33
+current_gross_output,Other transportation and support activities,5,Transportation,2021,23
+current_gross_output,Other transportation and support activities,5,Transportation,2022,26
+current_gross_output,Other transportation and support activities,5,Transportation,2023,28
+current_gross_output,Warehousing and storage,5,Transportation,2012,4
+current_gross_output,Warehousing and storage,5,Transportation,2013,4
+current_gross_output,Warehousing and storage,5,Transportation,2014,3
+current_gross_output,Warehousing and storage,5,Transportation,2015,2
+current_gross_output,Warehousing and storage,5,Transportation,2016,4
+current_gross_output,Warehousing and storage,5,Transportation,2017,5
+current_gross_output,Warehousing and storage,5,Transportation,2018,5
+current_gross_output,Warehousing and storage,5,Transportation,2019,6
+current_gross_output,Warehousing and storage,5,Transportation,2020,3
+current_gross_output,Warehousing and storage,5,Transportation,2021,4
+current_gross_output,Warehousing and storage,5,Transportation,2022,5
+current_gross_output,Warehousing and storage,5,Transportation,2023,4
+current_gross_output,Information,13,NA,2012,57497
+current_gross_output,Information,13,NA,2013,60674
+current_gross_output,Information,13,NA,2014,63157
+current_gross_output,Information,13,NA,2015,64999
+current_gross_output,Information,13,NA,2016,63461
+current_gross_output,Information,13,NA,2017,62747
+current_gross_output,Information,13,NA,2018,59553
+current_gross_output,Information,13,NA,2019,59519
+current_gross_output,Information,13,NA,2020,56217
+current_gross_output,Information,13,NA,2021,52770
+current_gross_output,Information,13,NA,2022,52106
+current_gross_output,Information,13,NA,2023,51054
 current_gross_output,"Publishing industries, except internet (includes software)",3,Technology,2012,402
 current_gross_output,"Publishing industries, except internet (includes software)",3,Technology,2013,348
 current_gross_output,"Publishing industries, except internet (includes software)",3,Technology,2014,319
@@ -563,18 +563,18 @@ current_gross_output,"Publishing industries, except internet (includes software)
 current_gross_output,"Publishing industries, except internet (includes software)",3,Technology,2021,351
 current_gross_output,"Publishing industries, except internet (includes software)",3,Technology,2022,412
 current_gross_output,"Publishing industries, except internet (includes software)",3,Technology,2023,507
-current_gross_output,Motion picture and sound recording industries,13,Underground,2012,51
-current_gross_output,Motion picture and sound recording industries,13,Underground,2013,53
-current_gross_output,Motion picture and sound recording industries,13,Underground,2014,51
-current_gross_output,Motion picture and sound recording industries,13,Underground,2015,49
-current_gross_output,Motion picture and sound recording industries,13,Underground,2016,46
-current_gross_output,Motion picture and sound recording industries,13,Underground,2017,57
-current_gross_output,Motion picture and sound recording industries,13,Underground,2018,50
-current_gross_output,Motion picture and sound recording industries,13,Underground,2019,59
-current_gross_output,Motion picture and sound recording industries,13,Underground,2020,46
-current_gross_output,Motion picture and sound recording industries,13,Underground,2021,47
-current_gross_output,Motion picture and sound recording industries,13,Underground,2022,53
-current_gross_output,Motion picture and sound recording industries,13,Underground,2023,63
+current_gross_output,Motion picture and sound recording industries,13,NA,2012,51
+current_gross_output,Motion picture and sound recording industries,13,NA,2013,53
+current_gross_output,Motion picture and sound recording industries,13,NA,2014,51
+current_gross_output,Motion picture and sound recording industries,13,NA,2015,49
+current_gross_output,Motion picture and sound recording industries,13,NA,2016,46
+current_gross_output,Motion picture and sound recording industries,13,NA,2017,57
+current_gross_output,Motion picture and sound recording industries,13,NA,2018,50
+current_gross_output,Motion picture and sound recording industries,13,NA,2019,59
+current_gross_output,Motion picture and sound recording industries,13,NA,2020,46
+current_gross_output,Motion picture and sound recording industries,13,NA,2021,47
+current_gross_output,Motion picture and sound recording industries,13,NA,2022,53
+current_gross_output,Motion picture and sound recording industries,13,NA,2023,63
 current_gross_output,Broadcasting and telecommunications4,1,Luxury,2012,56222
 current_gross_output,Broadcasting and telecommunications4,1,Luxury,2013,59370
 current_gross_output,Broadcasting and telecommunications4,1,Luxury,2014,61864
@@ -599,174 +599,174 @@ current_gross_output,"Data processing, internet publishing, and other informatio
 current_gross_output,"Data processing, internet publishing, and other information services",3,Technology,2021,1428
 current_gross_output,"Data processing, internet publishing, and other information services",3,Technology,2022,1570
 current_gross_output,"Data processing, internet publishing, and other information services",3,Technology,2023,1674
-current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,Underground,2012,436
-current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,Underground,2013,265
-current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,Underground,2014,212
-current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,Underground,2015,318
-current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,Underground,2016,377
-current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,Underground,2017,312
-current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,Underground,2018,245
-current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,Underground,2019,207
-current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,Underground,2020,151
-current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,Underground,2021,167
-current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,Underground,2022,348
-current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,Underground,2023,369
-current_gross_output,Finance and insurance,13,Underground,2012,434
-current_gross_output,Finance and insurance,13,Underground,2013,263
-current_gross_output,Finance and insurance,13,Underground,2014,210
-current_gross_output,Finance and insurance,13,Underground,2015,315
-current_gross_output,Finance and insurance,13,Underground,2016,371
-current_gross_output,Finance and insurance,13,Underground,2017,306
-current_gross_output,Finance and insurance,13,Underground,2018,239
-current_gross_output,Finance and insurance,13,Underground,2019,199
-current_gross_output,Finance and insurance,13,Underground,2020,141
-current_gross_output,Finance and insurance,13,Underground,2021,158
-current_gross_output,Finance and insurance,13,Underground,2022,339
-current_gross_output,Finance and insurance,13,Underground,2023,359
-current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2012,12
-current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2013,11
-current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2014,10
-current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2015,18
-current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2016,28
-current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2017,28
-current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2018,20
-current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2019,19
-current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2020,17
-current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2021,28
-current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2022,28
-current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,Underground,2023,28
-current_gross_output,"Securities, commodity contracts, and investments",13,Underground,2012,5
-current_gross_output,"Securities, commodity contracts, and investments",13,Underground,2013,6
-current_gross_output,"Securities, commodity contracts, and investments",13,Underground,2014,7
-current_gross_output,"Securities, commodity contracts, and investments",13,Underground,2015,8
-current_gross_output,"Securities, commodity contracts, and investments",13,Underground,2016,12
-current_gross_output,"Securities, commodity contracts, and investments",13,Underground,2017,40
-current_gross_output,"Securities, commodity contracts, and investments",13,Underground,2018,10
-current_gross_output,"Securities, commodity contracts, and investments",13,Underground,2019,9
-current_gross_output,"Securities, commodity contracts, and investments",13,Underground,2020,11
-current_gross_output,"Securities, commodity contracts, and investments",13,Underground,2021,13
-current_gross_output,"Securities, commodity contracts, and investments",13,Underground,2022,14
-current_gross_output,"Securities, commodity contracts, and investments",13,Underground,2023,15
-current_gross_output,Insurance carriers and related activities,13,Underground,2012,417
-current_gross_output,Insurance carriers and related activities,13,Underground,2013,246
-current_gross_output,Insurance carriers and related activities,13,Underground,2014,193
-current_gross_output,Insurance carriers and related activities,13,Underground,2015,288
-current_gross_output,Insurance carriers and related activities,13,Underground,2016,331
-current_gross_output,Insurance carriers and related activities,13,Underground,2017,238
-current_gross_output,Insurance carriers and related activities,13,Underground,2018,210
-current_gross_output,Insurance carriers and related activities,13,Underground,2019,171
-current_gross_output,Insurance carriers and related activities,13,Underground,2020,114
-current_gross_output,Insurance carriers and related activities,13,Underground,2021,117
-current_gross_output,Insurance carriers and related activities,13,Underground,2022,297
-current_gross_output,Insurance carriers and related activities,13,Underground,2023,315
-current_gross_output,"Funds, trusts, and other financial vehicles",13,Underground,2012,1
-current_gross_output,"Funds, trusts, and other financial vehicles",13,Underground,2013,0
-current_gross_output,"Funds, trusts, and other financial vehicles",13,Underground,2014,0
-current_gross_output,"Funds, trusts, and other financial vehicles",13,Underground,2015,0
-current_gross_output,"Funds, trusts, and other financial vehicles",13,Underground,2016,0
-current_gross_output,"Funds, trusts, and other financial vehicles",13,Underground,2017,0
-current_gross_output,"Funds, trusts, and other financial vehicles",13,Underground,2018,0
-current_gross_output,"Funds, trusts, and other financial vehicles",13,Underground,2019,0
-current_gross_output,"Funds, trusts, and other financial vehicles",13,Underground,2020,0
-current_gross_output,"Funds, trusts, and other financial vehicles",13,Underground,2021,0
-current_gross_output,"Funds, trusts, and other financial vehicles",13,Underground,2022,0
-current_gross_output,"Funds, trusts, and other financial vehicles",13,Underground,2023,0
-current_gross_output,Real estate and rental and leasing,13,Underground,2012,1
-current_gross_output,Real estate and rental and leasing,13,Underground,2013,2
-current_gross_output,Real estate and rental and leasing,13,Underground,2014,2
-current_gross_output,Real estate and rental and leasing,13,Underground,2015,3
-current_gross_output,Real estate and rental and leasing,13,Underground,2016,6
-current_gross_output,Real estate and rental and leasing,13,Underground,2017,7
-current_gross_output,Real estate and rental and leasing,13,Underground,2018,6
-current_gross_output,Real estate and rental and leasing,13,Underground,2019,8
-current_gross_output,Real estate and rental and leasing,13,Underground,2020,10
-current_gross_output,Real estate and rental and leasing,13,Underground,2021,9
-current_gross_output,Real estate and rental and leasing,13,Underground,2022,9
-current_gross_output,Real estate and rental and leasing,13,Underground,2023,10
-current_gross_output,Real estate,13,Underground,2012,0
-current_gross_output,Real estate,13,Underground,2013,1
-current_gross_output,Real estate,13,Underground,2014,1
-current_gross_output,Real estate,13,Underground,2015,2
-current_gross_output,Real estate,13,Underground,2016,3
-current_gross_output,Real estate,13,Underground,2017,4
-current_gross_output,Real estate,13,Underground,2018,4
-current_gross_output,Real estate,13,Underground,2019,4
-current_gross_output,Real estate,13,Underground,2020,6
-current_gross_output,Real estate,13,Underground,2021,5
-current_gross_output,Real estate,13,Underground,2022,6
-current_gross_output,Real estate,13,Underground,2023,6
-current_gross_output,Housing,13,Underground,2012,0
-current_gross_output,Housing,13,Underground,2013,0
-current_gross_output,Housing,13,Underground,2014,0
-current_gross_output,Housing,13,Underground,2015,0
-current_gross_output,Housing,13,Underground,2016,1
-current_gross_output,Housing,13,Underground,2017,1
-current_gross_output,Housing,13,Underground,2018,1
-current_gross_output,Housing,13,Underground,2019,1
-current_gross_output,Housing,13,Underground,2020,1
-current_gross_output,Housing,13,Underground,2021,1
-current_gross_output,Housing,13,Underground,2022,1
-current_gross_output,Housing,13,Underground,2023,1
-current_gross_output,Other real estate,13,Underground,2012,0
-current_gross_output,Other real estate,13,Underground,2013,1
-current_gross_output,Other real estate,13,Underground,2014,1
-current_gross_output,Other real estate,13,Underground,2015,1
-current_gross_output,Other real estate,13,Underground,2016,2
-current_gross_output,Other real estate,13,Underground,2017,3
-current_gross_output,Other real estate,13,Underground,2018,3
-current_gross_output,Other real estate,13,Underground,2019,3
-current_gross_output,Other real estate,13,Underground,2020,5
-current_gross_output,Other real estate,13,Underground,2021,4
-current_gross_output,Other real estate,13,Underground,2022,4
-current_gross_output,Other real estate,13,Underground,2023,4
-current_gross_output,Rental and leasing services and lessors of intangible assets,13,Underground,2012,1
-current_gross_output,Rental and leasing services and lessors of intangible assets,13,Underground,2013,1
-current_gross_output,Rental and leasing services and lessors of intangible assets,13,Underground,2014,1
-current_gross_output,Rental and leasing services and lessors of intangible assets,13,Underground,2015,2
-current_gross_output,Rental and leasing services and lessors of intangible assets,13,Underground,2016,3
-current_gross_output,Rental and leasing services and lessors of intangible assets,13,Underground,2017,3
-current_gross_output,Rental and leasing services and lessors of intangible assets,13,Underground,2018,3
-current_gross_output,Rental and leasing services and lessors of intangible assets,13,Underground,2019,3
-current_gross_output,Rental and leasing services and lessors of intangible assets,13,Underground,2020,3
-current_gross_output,Rental and leasing services and lessors of intangible assets,13,Underground,2021,3
-current_gross_output,Rental and leasing services and lessors of intangible assets,13,Underground,2022,4
-current_gross_output,Rental and leasing services and lessors of intangible assets,13,Underground,2023,4
-current_gross_output,Professional and business services,13,Underground,2012,10642
-current_gross_output,Professional and business services,13,Underground,2013,11185
-current_gross_output,Professional and business services,13,Underground,2014,11304
-current_gross_output,Professional and business services,13,Underground,2015,12005
-current_gross_output,Professional and business services,13,Underground,2016,11867
-current_gross_output,Professional and business services,13,Underground,2017,12568
-current_gross_output,Professional and business services,13,Underground,2018,11834
-current_gross_output,Professional and business services,13,Underground,2019,12535
-current_gross_output,Professional and business services,13,Underground,2020,11388
-current_gross_output,Professional and business services,13,Underground,2021,13067
-current_gross_output,Professional and business services,13,Underground,2022,17006
-current_gross_output,Professional and business services,13,Underground,2023,17193
-current_gross_output,"Professional, scientific, and technical services",13,Underground,2012,10418
-current_gross_output,"Professional, scientific, and technical services",13,Underground,2013,10929
-current_gross_output,"Professional, scientific, and technical services",13,Underground,2014,11087
-current_gross_output,"Professional, scientific, and technical services",13,Underground,2015,11722
-current_gross_output,"Professional, scientific, and technical services",13,Underground,2016,11451
-current_gross_output,"Professional, scientific, and technical services",13,Underground,2017,12176
-current_gross_output,"Professional, scientific, and technical services",13,Underground,2018,11506
-current_gross_output,"Professional, scientific, and technical services",13,Underground,2019,12177
-current_gross_output,"Professional, scientific, and technical services",13,Underground,2020,11074
-current_gross_output,"Professional, scientific, and technical services",13,Underground,2021,12741
-current_gross_output,"Professional, scientific, and technical services",13,Underground,2022,16631
-current_gross_output,"Professional, scientific, and technical services",13,Underground,2023,16764
-current_gross_output,Legal services,13,Underground,2012,1
-current_gross_output,Legal services,13,Underground,2013,1
-current_gross_output,Legal services,13,Underground,2014,1
-current_gross_output,Legal services,13,Underground,2015,2
-current_gross_output,Legal services,13,Underground,2016,2
-current_gross_output,Legal services,13,Underground,2017,2
-current_gross_output,Legal services,13,Underground,2018,2
-current_gross_output,Legal services,13,Underground,2019,2
-current_gross_output,Legal services,13,Underground,2020,2
-current_gross_output,Legal services,13,Underground,2021,2
-current_gross_output,Legal services,13,Underground,2022,2
-current_gross_output,Legal services,13,Underground,2023,2
+current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,NA,2012,436
+current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,NA,2013,265
+current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,NA,2014,212
+current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,NA,2015,318
+current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,NA,2016,377
+current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,NA,2017,312
+current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,NA,2018,245
+current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,NA,2019,207
+current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,NA,2020,151
+current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,NA,2021,167
+current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,NA,2022,348
+current_gross_output,"Finance, insurance, real estate, rental, and leasing",13,NA,2023,369
+current_gross_output,Finance and insurance,13,NA,2012,434
+current_gross_output,Finance and insurance,13,NA,2013,263
+current_gross_output,Finance and insurance,13,NA,2014,210
+current_gross_output,Finance and insurance,13,NA,2015,315
+current_gross_output,Finance and insurance,13,NA,2016,371
+current_gross_output,Finance and insurance,13,NA,2017,306
+current_gross_output,Finance and insurance,13,NA,2018,239
+current_gross_output,Finance and insurance,13,NA,2019,199
+current_gross_output,Finance and insurance,13,NA,2020,141
+current_gross_output,Finance and insurance,13,NA,2021,158
+current_gross_output,Finance and insurance,13,NA,2022,339
+current_gross_output,Finance and insurance,13,NA,2023,359
+current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2012,12
+current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2013,11
+current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2014,10
+current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2015,18
+current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2016,28
+current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2017,28
+current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2018,20
+current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2019,19
+current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2020,17
+current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2021,28
+current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2022,28
+current_gross_output,"Federal Reserve banks, credit intermediation, and related activities",13,NA,2023,28
+current_gross_output,"Securities, commodity contracts, and investments",13,NA,2012,5
+current_gross_output,"Securities, commodity contracts, and investments",13,NA,2013,6
+current_gross_output,"Securities, commodity contracts, and investments",13,NA,2014,7
+current_gross_output,"Securities, commodity contracts, and investments",13,NA,2015,8
+current_gross_output,"Securities, commodity contracts, and investments",13,NA,2016,12
+current_gross_output,"Securities, commodity contracts, and investments",13,NA,2017,40
+current_gross_output,"Securities, commodity contracts, and investments",13,NA,2018,10
+current_gross_output,"Securities, commodity contracts, and investments",13,NA,2019,9
+current_gross_output,"Securities, commodity contracts, and investments",13,NA,2020,11
+current_gross_output,"Securities, commodity contracts, and investments",13,NA,2021,13
+current_gross_output,"Securities, commodity contracts, and investments",13,NA,2022,14
+current_gross_output,"Securities, commodity contracts, and investments",13,NA,2023,15
+current_gross_output,Insurance carriers and related activities,13,NA,2012,417
+current_gross_output,Insurance carriers and related activities,13,NA,2013,246
+current_gross_output,Insurance carriers and related activities,13,NA,2014,193
+current_gross_output,Insurance carriers and related activities,13,NA,2015,288
+current_gross_output,Insurance carriers and related activities,13,NA,2016,331
+current_gross_output,Insurance carriers and related activities,13,NA,2017,238
+current_gross_output,Insurance carriers and related activities,13,NA,2018,210
+current_gross_output,Insurance carriers and related activities,13,NA,2019,171
+current_gross_output,Insurance carriers and related activities,13,NA,2020,114
+current_gross_output,Insurance carriers and related activities,13,NA,2021,117
+current_gross_output,Insurance carriers and related activities,13,NA,2022,297
+current_gross_output,Insurance carriers and related activities,13,NA,2023,315
+current_gross_output,"Funds, trusts, and other financial vehicles",12,Underground,2012,1
+current_gross_output,"Funds, trusts, and other financial vehicles",12,Underground,2013,0
+current_gross_output,"Funds, trusts, and other financial vehicles",12,Underground,2014,0
+current_gross_output,"Funds, trusts, and other financial vehicles",12,Underground,2015,0
+current_gross_output,"Funds, trusts, and other financial vehicles",12,Underground,2016,0
+current_gross_output,"Funds, trusts, and other financial vehicles",12,Underground,2017,0
+current_gross_output,"Funds, trusts, and other financial vehicles",12,Underground,2018,0
+current_gross_output,"Funds, trusts, and other financial vehicles",12,Underground,2019,0
+current_gross_output,"Funds, trusts, and other financial vehicles",12,Underground,2020,0
+current_gross_output,"Funds, trusts, and other financial vehicles",12,Underground,2021,0
+current_gross_output,"Funds, trusts, and other financial vehicles",12,Underground,2022,0
+current_gross_output,"Funds, trusts, and other financial vehicles",12,Underground,2023,0
+current_gross_output,Real estate and rental and leasing,13,NA,2012,1
+current_gross_output,Real estate and rental and leasing,13,NA,2013,2
+current_gross_output,Real estate and rental and leasing,13,NA,2014,2
+current_gross_output,Real estate and rental and leasing,13,NA,2015,3
+current_gross_output,Real estate and rental and leasing,13,NA,2016,6
+current_gross_output,Real estate and rental and leasing,13,NA,2017,7
+current_gross_output,Real estate and rental and leasing,13,NA,2018,6
+current_gross_output,Real estate and rental and leasing,13,NA,2019,8
+current_gross_output,Real estate and rental and leasing,13,NA,2020,10
+current_gross_output,Real estate and rental and leasing,13,NA,2021,9
+current_gross_output,Real estate and rental and leasing,13,NA,2022,9
+current_gross_output,Real estate and rental and leasing,13,NA,2023,10
+current_gross_output,Real estate,13,NA,2012,0
+current_gross_output,Real estate,13,NA,2013,1
+current_gross_output,Real estate,13,NA,2014,1
+current_gross_output,Real estate,13,NA,2015,2
+current_gross_output,Real estate,13,NA,2016,3
+current_gross_output,Real estate,13,NA,2017,4
+current_gross_output,Real estate,13,NA,2018,4
+current_gross_output,Real estate,13,NA,2019,4
+current_gross_output,Real estate,13,NA,2020,6
+current_gross_output,Real estate,13,NA,2021,5
+current_gross_output,Real estate,13,NA,2022,6
+current_gross_output,Real estate,13,NA,2023,6
+current_gross_output,Housing,13,NA,2012,0
+current_gross_output,Housing,13,NA,2013,0
+current_gross_output,Housing,13,NA,2014,0
+current_gross_output,Housing,13,NA,2015,0
+current_gross_output,Housing,13,NA,2016,1
+current_gross_output,Housing,13,NA,2017,1
+current_gross_output,Housing,13,NA,2018,1
+current_gross_output,Housing,13,NA,2019,1
+current_gross_output,Housing,13,NA,2020,1
+current_gross_output,Housing,13,NA,2021,1
+current_gross_output,Housing,13,NA,2022,1
+current_gross_output,Housing,13,NA,2023,1
+current_gross_output,Other real estate,12,Underground,2012,0
+current_gross_output,Other real estate,12,Underground,2013,1
+current_gross_output,Other real estate,12,Underground,2014,1
+current_gross_output,Other real estate,12,Underground,2015,1
+current_gross_output,Other real estate,12,Underground,2016,2
+current_gross_output,Other real estate,12,Underground,2017,3
+current_gross_output,Other real estate,12,Underground,2018,3
+current_gross_output,Other real estate,12,Underground,2019,3
+current_gross_output,Other real estate,12,Underground,2020,5
+current_gross_output,Other real estate,12,Underground,2021,4
+current_gross_output,Other real estate,12,Underground,2022,4
+current_gross_output,Other real estate,12,Underground,2023,4
+current_gross_output,Rental and leasing services and lessors of intangible assets,13,NA,2012,1
+current_gross_output,Rental and leasing services and lessors of intangible assets,13,NA,2013,1
+current_gross_output,Rental and leasing services and lessors of intangible assets,13,NA,2014,1
+current_gross_output,Rental and leasing services and lessors of intangible assets,13,NA,2015,2
+current_gross_output,Rental and leasing services and lessors of intangible assets,13,NA,2016,3
+current_gross_output,Rental and leasing services and lessors of intangible assets,13,NA,2017,3
+current_gross_output,Rental and leasing services and lessors of intangible assets,13,NA,2018,3
+current_gross_output,Rental and leasing services and lessors of intangible assets,13,NA,2019,3
+current_gross_output,Rental and leasing services and lessors of intangible assets,13,NA,2020,3
+current_gross_output,Rental and leasing services and lessors of intangible assets,13,NA,2021,3
+current_gross_output,Rental and leasing services and lessors of intangible assets,13,NA,2022,4
+current_gross_output,Rental and leasing services and lessors of intangible assets,13,NA,2023,4
+current_gross_output,Professional and business services,13,NA,2012,10642
+current_gross_output,Professional and business services,13,NA,2013,11185
+current_gross_output,Professional and business services,13,NA,2014,11304
+current_gross_output,Professional and business services,13,NA,2015,12005
+current_gross_output,Professional and business services,13,NA,2016,11867
+current_gross_output,Professional and business services,13,NA,2017,12568
+current_gross_output,Professional and business services,13,NA,2018,11834
+current_gross_output,Professional and business services,13,NA,2019,12535
+current_gross_output,Professional and business services,13,NA,2020,11388
+current_gross_output,Professional and business services,13,NA,2021,13067
+current_gross_output,Professional and business services,13,NA,2022,17006
+current_gross_output,Professional and business services,13,NA,2023,17193
+current_gross_output,"Professional, scientific, and technical services",13,NA,2012,10418
+current_gross_output,"Professional, scientific, and technical services",13,NA,2013,10929
+current_gross_output,"Professional, scientific, and technical services",13,NA,2014,11087
+current_gross_output,"Professional, scientific, and technical services",13,NA,2015,11722
+current_gross_output,"Professional, scientific, and technical services",13,NA,2016,11451
+current_gross_output,"Professional, scientific, and technical services",13,NA,2017,12176
+current_gross_output,"Professional, scientific, and technical services",13,NA,2018,11506
+current_gross_output,"Professional, scientific, and technical services",13,NA,2019,12177
+current_gross_output,"Professional, scientific, and technical services",13,NA,2020,11074
+current_gross_output,"Professional, scientific, and technical services",13,NA,2021,12741
+current_gross_output,"Professional, scientific, and technical services",13,NA,2022,16631
+current_gross_output,"Professional, scientific, and technical services",13,NA,2023,16764
+current_gross_output,Legal services,13,NA,2012,1
+current_gross_output,Legal services,13,NA,2013,1
+current_gross_output,Legal services,13,NA,2014,1
+current_gross_output,Legal services,13,NA,2015,2
+current_gross_output,Legal services,13,NA,2016,2
+current_gross_output,Legal services,13,NA,2017,2
+current_gross_output,Legal services,13,NA,2018,2
+current_gross_output,Legal services,13,NA,2019,2
+current_gross_output,Legal services,13,NA,2020,2
+current_gross_output,Legal services,13,NA,2021,2
+current_gross_output,Legal services,13,NA,2022,2
+current_gross_output,Legal services,13,NA,2023,2
 current_gross_output,Computer systems design and related services,3,Technology,2012,723
 current_gross_output,Computer systems design and related services,3,Technology,2013,515
 current_gross_output,Computer systems design and related services,3,Technology,2014,575
@@ -779,222 +779,222 @@ current_gross_output,Computer systems design and related services,3,Technology,2
 current_gross_output,Computer systems design and related services,3,Technology,2021,1165
 current_gross_output,Computer systems design and related services,3,Technology,2022,1336
 current_gross_output,Computer systems design and related services,3,Technology,2023,1205
-current_gross_output,"Miscellaneous professional, scientific, and technical services",13,Underground,2012,9693
-current_gross_output,"Miscellaneous professional, scientific, and technical services",13,Underground,2013,10413
-current_gross_output,"Miscellaneous professional, scientific, and technical services",13,Underground,2014,10511
-current_gross_output,"Miscellaneous professional, scientific, and technical services",13,Underground,2015,11042
-current_gross_output,"Miscellaneous professional, scientific, and technical services",13,Underground,2016,10739
-current_gross_output,"Miscellaneous professional, scientific, and technical services",13,Underground,2017,11153
-current_gross_output,"Miscellaneous professional, scientific, and technical services",13,Underground,2018,10671
-current_gross_output,"Miscellaneous professional, scientific, and technical services",13,Underground,2019,11304
-current_gross_output,"Miscellaneous professional, scientific, and technical services",13,Underground,2020,10189
-current_gross_output,"Miscellaneous professional, scientific, and technical services",13,Underground,2021,11573
-current_gross_output,"Miscellaneous professional, scientific, and technical services",13,Underground,2022,15293
-current_gross_output,"Miscellaneous professional, scientific, and technical services",13,Underground,2023,15557
-current_gross_output,Management of companies and enterprises,13,Underground,2012,203
-current_gross_output,Management of companies and enterprises,13,Underground,2013,210
-current_gross_output,Management of companies and enterprises,13,Underground,2014,147
-current_gross_output,Management of companies and enterprises,13,Underground,2015,189
-current_gross_output,Management of companies and enterprises,13,Underground,2016,296
-current_gross_output,Management of companies and enterprises,13,Underground,2017,252
-current_gross_output,Management of companies and enterprises,13,Underground,2018,200
-current_gross_output,Management of companies and enterprises,13,Underground,2019,225
-current_gross_output,Management of companies and enterprises,13,Underground,2020,189
-current_gross_output,Management of companies and enterprises,13,Underground,2021,190
-current_gross_output,Management of companies and enterprises,13,Underground,2022,204
-current_gross_output,Management of companies and enterprises,13,Underground,2023,233
-current_gross_output,Administrative and waste management services,13,Underground,2012,21
-current_gross_output,Administrative and waste management services,13,Underground,2013,45
-current_gross_output,Administrative and waste management services,13,Underground,2014,70
-current_gross_output,Administrative and waste management services,13,Underground,2015,94
-current_gross_output,Administrative and waste management services,13,Underground,2016,119
-current_gross_output,Administrative and waste management services,13,Underground,2017,140
-current_gross_output,Administrative and waste management services,13,Underground,2018,129
-current_gross_output,Administrative and waste management services,13,Underground,2019,132
-current_gross_output,Administrative and waste management services,13,Underground,2020,126
-current_gross_output,Administrative and waste management services,13,Underground,2021,137
-current_gross_output,Administrative and waste management services,13,Underground,2022,171
-current_gross_output,Administrative and waste management services,13,Underground,2023,196
-current_gross_output,Administrative and support services,13,Underground,2012,21
-current_gross_output,Administrative and support services,13,Underground,2013,45
-current_gross_output,Administrative and support services,13,Underground,2014,70
-current_gross_output,Administrative and support services,13,Underground,2015,94
-current_gross_output,Administrative and support services,13,Underground,2016,119
-current_gross_output,Administrative and support services,13,Underground,2017,140
-current_gross_output,Administrative and support services,13,Underground,2018,129
-current_gross_output,Administrative and support services,13,Underground,2019,132
-current_gross_output,Administrative and support services,13,Underground,2020,126
-current_gross_output,Administrative and support services,13,Underground,2021,137
-current_gross_output,Administrative and support services,13,Underground,2022,171
-current_gross_output,Administrative and support services,13,Underground,2023,196
-current_gross_output,"Educational services, health care, and social assistance",13,Underground,2012,2153
-current_gross_output,"Educational services, health care, and social assistance",13,Underground,2013,2129
-current_gross_output,"Educational services, health care, and social assistance",13,Underground,2014,2100
-current_gross_output,"Educational services, health care, and social assistance",13,Underground,2015,2209
-current_gross_output,"Educational services, health care, and social assistance",13,Underground,2016,2196
-current_gross_output,"Educational services, health care, and social assistance",13,Underground,2017,2175
-current_gross_output,"Educational services, health care, and social assistance",13,Underground,2018,2575
-current_gross_output,"Educational services, health care, and social assistance",13,Underground,2019,2787
-current_gross_output,"Educational services, health care, and social assistance",13,Underground,2020,3006
-current_gross_output,"Educational services, health care, and social assistance",13,Underground,2021,3074
-current_gross_output,"Educational services, health care, and social assistance",13,Underground,2022,3831
-current_gross_output,"Educational services, health care, and social assistance",13,Underground,2023,4806
-current_gross_output,Educational services,13,Underground,2012,2059
-current_gross_output,Educational services,13,Underground,2013,2031
-current_gross_output,Educational services,13,Underground,2014,2016
-current_gross_output,Educational services,13,Underground,2015,2111
-current_gross_output,Educational services,13,Underground,2016,2090
-current_gross_output,Educational services,13,Underground,2017,2063
-current_gross_output,Educational services,13,Underground,2018,2444
-current_gross_output,Educational services,13,Underground,2019,2678
-current_gross_output,Educational services,13,Underground,2020,2950
-current_gross_output,Educational services,13,Underground,2021,2953
-current_gross_output,Educational services,13,Underground,2022,3462
-current_gross_output,Educational services,13,Underground,2023,4675
-current_gross_output,Health care and social assistance,13,Underground,2012,94
-current_gross_output,Health care and social assistance,13,Underground,2013,97
-current_gross_output,Health care and social assistance,13,Underground,2014,84
-current_gross_output,Health care and social assistance,13,Underground,2015,98
-current_gross_output,Health care and social assistance,13,Underground,2016,106
-current_gross_output,Health care and social assistance,13,Underground,2017,111
-current_gross_output,Health care and social assistance,13,Underground,2018,131
-current_gross_output,Health care and social assistance,13,Underground,2019,109
-current_gross_output,Health care and social assistance,13,Underground,2020,56
-current_gross_output,Health care and social assistance,13,Underground,2021,121
-current_gross_output,Health care and social assistance,13,Underground,2022,369
-current_gross_output,Health care and social assistance,13,Underground,2023,131
-current_gross_output,Ambulatory health care services,13,Underground,2012,2
-current_gross_output,Ambulatory health care services,13,Underground,2013,2
-current_gross_output,Ambulatory health care services,13,Underground,2014,2
-current_gross_output,Ambulatory health care services,13,Underground,2015,3
-current_gross_output,Ambulatory health care services,13,Underground,2016,4
-current_gross_output,Ambulatory health care services,13,Underground,2017,4
-current_gross_output,Ambulatory health care services,13,Underground,2018,4
-current_gross_output,Ambulatory health care services,13,Underground,2019,4
-current_gross_output,Ambulatory health care services,13,Underground,2020,3
-current_gross_output,Ambulatory health care services,13,Underground,2021,4
-current_gross_output,Ambulatory health care services,13,Underground,2022,5
-current_gross_output,Ambulatory health care services,13,Underground,2023,4
-current_gross_output,Hospitals,13,Underground,2012,91
-current_gross_output,Hospitals,13,Underground,2013,95
-current_gross_output,Hospitals,13,Underground,2014,82
-current_gross_output,Hospitals,13,Underground,2015,95
-current_gross_output,Hospitals,13,Underground,2016,102
-current_gross_output,Hospitals,13,Underground,2017,107
-current_gross_output,Hospitals,13,Underground,2018,127
-current_gross_output,Hospitals,13,Underground,2019,104
-current_gross_output,Hospitals,13,Underground,2020,52
-current_gross_output,Hospitals,13,Underground,2021,116
-current_gross_output,Hospitals,13,Underground,2022,364
-current_gross_output,Hospitals,13,Underground,2023,126
-current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2012,114
-current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2013,129
-current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2014,142
-current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2015,142
-current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2016,150
-current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2017,170
-current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2018,176
-current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2019,189
-current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2020,174
-current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2021,183
-current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2022,178
-current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2023,194
-current_gross_output,"Arts, entertainment, and recreation",13,Underground,2012,111
-current_gross_output,"Arts, entertainment, and recreation",13,Underground,2013,125
-current_gross_output,"Arts, entertainment, and recreation",13,Underground,2014,138
-current_gross_output,"Arts, entertainment, and recreation",13,Underground,2015,139
-current_gross_output,"Arts, entertainment, and recreation",13,Underground,2016,147
-current_gross_output,"Arts, entertainment, and recreation",13,Underground,2017,167
-current_gross_output,"Arts, entertainment, and recreation",13,Underground,2018,173
-current_gross_output,"Arts, entertainment, and recreation",13,Underground,2019,186
-current_gross_output,"Arts, entertainment, and recreation",13,Underground,2020,173
-current_gross_output,"Arts, entertainment, and recreation",13,Underground,2021,181
-current_gross_output,"Arts, entertainment, and recreation",13,Underground,2022,175
-current_gross_output,"Arts, entertainment, and recreation",13,Underground,2023,189
-current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,Underground,2012,110
-current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,Underground,2013,125
-current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,Underground,2014,138
-current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,Underground,2015,138
-current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,Underground,2016,147
-current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,Underground,2017,167
-current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,Underground,2018,173
-current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,Underground,2019,186
-current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,Underground,2020,172
-current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,Underground,2021,181
-current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,Underground,2022,174
-current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,Underground,2023,189
-current_gross_output,Accommodation and food services,9,Grain,2012,3
-current_gross_output,Accommodation and food services,9,Grain,2013,4
-current_gross_output,Accommodation and food services,9,Grain,2014,4
-current_gross_output,Accommodation and food services,9,Grain,2015,4
-current_gross_output,Accommodation and food services,9,Grain,2016,3
-current_gross_output,Accommodation and food services,9,Grain,2017,3
-current_gross_output,Accommodation and food services,9,Grain,2018,3
-current_gross_output,Accommodation and food services,9,Grain,2019,3
-current_gross_output,Accommodation and food services,9,Grain,2020,2
-current_gross_output,Accommodation and food services,9,Grain,2021,2
-current_gross_output,Accommodation and food services,9,Grain,2022,3
-current_gross_output,Accommodation and food services,9,Grain,2023,5
-current_gross_output,Accommodation,13,Underground,2012,3
-current_gross_output,Accommodation,13,Underground,2013,4
-current_gross_output,Accommodation,13,Underground,2014,4
-current_gross_output,Accommodation,13,Underground,2015,4
-current_gross_output,Accommodation,13,Underground,2016,3
-current_gross_output,Accommodation,13,Underground,2017,3
-current_gross_output,Accommodation,13,Underground,2018,3
-current_gross_output,Accommodation,13,Underground,2019,3
-current_gross_output,Accommodation,13,Underground,2020,2
-current_gross_output,Accommodation,13,Underground,2021,2
-current_gross_output,Accommodation,13,Underground,2022,3
-current_gross_output,Accommodation,13,Underground,2023,5
-current_gross_output,"Other services, except government",13,Underground,2012,4
-current_gross_output,"Other services, except government",13,Underground,2013,4
-current_gross_output,"Other services, except government",13,Underground,2014,4
-current_gross_output,"Other services, except government",13,Underground,2015,4
-current_gross_output,"Other services, except government",13,Underground,2016,5
-current_gross_output,"Other services, except government",13,Underground,2017,5
-current_gross_output,"Other services, except government",13,Underground,2018,4
-current_gross_output,"Other services, except government",13,Underground,2019,5
-current_gross_output,"Other services, except government",13,Underground,2020,5
-current_gross_output,"Other services, except government",13,Underground,2021,6
-current_gross_output,"Other services, except government",13,Underground,2022,6
-current_gross_output,"Other services, except government",13,Underground,2023,6
-current_gross_output,Government5,13,Underground,2012,29343
-current_gross_output,Government5,13,Underground,2013,29362
-current_gross_output,Government5,13,Underground,2014,30319
-current_gross_output,Government5,13,Underground,2015,31349
-current_gross_output,Government5,13,Underground,2016,32080
-current_gross_output,Government5,13,Underground,2017,32122
-current_gross_output,Government5,13,Underground,2018,33946
-current_gross_output,Government5,13,Underground,2019,37824
-current_gross_output,Government5,13,Underground,2020,38439
-current_gross_output,Government5,13,Underground,2021,40308
-current_gross_output,Government5,13,Underground,2022,44397
-current_gross_output,Government5,13,Underground,2023,48494
-current_gross_output,Federal,13,Underground,2012,26743
-current_gross_output,Federal,13,Underground,2013,26894
-current_gross_output,Federal,13,Underground,2014,27861
-current_gross_output,Federal,13,Underground,2015,28840
-current_gross_output,Federal,13,Underground,2016,29618
-current_gross_output,Federal,13,Underground,2017,29730
-current_gross_output,Federal,13,Underground,2018,31205
-current_gross_output,Federal,13,Underground,2019,34771
-current_gross_output,Federal,13,Underground,2020,35065
-current_gross_output,Federal,13,Underground,2021,36836
-current_gross_output,Federal,13,Underground,2022,40205
-current_gross_output,Federal,13,Underground,2023,43561
-current_gross_output,General government,13,Underground,2012,26740
-current_gross_output,General government,13,Underground,2013,26891
-current_gross_output,General government,13,Underground,2014,27858
-current_gross_output,General government,13,Underground,2015,28837
-current_gross_output,General government,13,Underground,2016,29615
-current_gross_output,General government,13,Underground,2017,29727
-current_gross_output,General government,13,Underground,2018,31202
-current_gross_output,General government,13,Underground,2019,34767
-current_gross_output,General government,13,Underground,2020,35062
-current_gross_output,General government,13,Underground,2021,36826
-current_gross_output,General government,13,Underground,2022,40202
-current_gross_output,General government,13,Underground,2023,43558
+current_gross_output,"Miscellaneous professional, scientific, and technical services",12,Underground,2012,9693
+current_gross_output,"Miscellaneous professional, scientific, and technical services",12,Underground,2013,10413
+current_gross_output,"Miscellaneous professional, scientific, and technical services",12,Underground,2014,10511
+current_gross_output,"Miscellaneous professional, scientific, and technical services",12,Underground,2015,11042
+current_gross_output,"Miscellaneous professional, scientific, and technical services",12,Underground,2016,10739
+current_gross_output,"Miscellaneous professional, scientific, and technical services",12,Underground,2017,11153
+current_gross_output,"Miscellaneous professional, scientific, and technical services",12,Underground,2018,10671
+current_gross_output,"Miscellaneous professional, scientific, and technical services",12,Underground,2019,11304
+current_gross_output,"Miscellaneous professional, scientific, and technical services",12,Underground,2020,10189
+current_gross_output,"Miscellaneous professional, scientific, and technical services",12,Underground,2021,11573
+current_gross_output,"Miscellaneous professional, scientific, and technical services",12,Underground,2022,15293
+current_gross_output,"Miscellaneous professional, scientific, and technical services",12,Underground,2023,15557
+current_gross_output,Management of companies and enterprises,13,NA,2012,203
+current_gross_output,Management of companies and enterprises,13,NA,2013,210
+current_gross_output,Management of companies and enterprises,13,NA,2014,147
+current_gross_output,Management of companies and enterprises,13,NA,2015,189
+current_gross_output,Management of companies and enterprises,13,NA,2016,296
+current_gross_output,Management of companies and enterprises,13,NA,2017,252
+current_gross_output,Management of companies and enterprises,13,NA,2018,200
+current_gross_output,Management of companies and enterprises,13,NA,2019,225
+current_gross_output,Management of companies and enterprises,13,NA,2020,189
+current_gross_output,Management of companies and enterprises,13,NA,2021,190
+current_gross_output,Management of companies and enterprises,13,NA,2022,204
+current_gross_output,Management of companies and enterprises,13,NA,2023,233
+current_gross_output,Administrative and waste management services,13,NA,2012,21
+current_gross_output,Administrative and waste management services,13,NA,2013,45
+current_gross_output,Administrative and waste management services,13,NA,2014,70
+current_gross_output,Administrative and waste management services,13,NA,2015,94
+current_gross_output,Administrative and waste management services,13,NA,2016,119
+current_gross_output,Administrative and waste management services,13,NA,2017,140
+current_gross_output,Administrative and waste management services,13,NA,2018,129
+current_gross_output,Administrative and waste management services,13,NA,2019,132
+current_gross_output,Administrative and waste management services,13,NA,2020,126
+current_gross_output,Administrative and waste management services,13,NA,2021,137
+current_gross_output,Administrative and waste management services,13,NA,2022,171
+current_gross_output,Administrative and waste management services,13,NA,2023,196
+current_gross_output,Administrative and support services,13,NA,2012,21
+current_gross_output,Administrative and support services,13,NA,2013,45
+current_gross_output,Administrative and support services,13,NA,2014,70
+current_gross_output,Administrative and support services,13,NA,2015,94
+current_gross_output,Administrative and support services,13,NA,2016,119
+current_gross_output,Administrative and support services,13,NA,2017,140
+current_gross_output,Administrative and support services,13,NA,2018,129
+current_gross_output,Administrative and support services,13,NA,2019,132
+current_gross_output,Administrative and support services,13,NA,2020,126
+current_gross_output,Administrative and support services,13,NA,2021,137
+current_gross_output,Administrative and support services,13,NA,2022,171
+current_gross_output,Administrative and support services,13,NA,2023,196
+current_gross_output,"Educational services, health care, and social assistance",13,NA,2012,2153
+current_gross_output,"Educational services, health care, and social assistance",13,NA,2013,2129
+current_gross_output,"Educational services, health care, and social assistance",13,NA,2014,2100
+current_gross_output,"Educational services, health care, and social assistance",13,NA,2015,2209
+current_gross_output,"Educational services, health care, and social assistance",13,NA,2016,2196
+current_gross_output,"Educational services, health care, and social assistance",13,NA,2017,2175
+current_gross_output,"Educational services, health care, and social assistance",13,NA,2018,2575
+current_gross_output,"Educational services, health care, and social assistance",13,NA,2019,2787
+current_gross_output,"Educational services, health care, and social assistance",13,NA,2020,3006
+current_gross_output,"Educational services, health care, and social assistance",13,NA,2021,3074
+current_gross_output,"Educational services, health care, and social assistance",13,NA,2022,3831
+current_gross_output,"Educational services, health care, and social assistance",13,NA,2023,4806
+current_gross_output,Educational services,13,NA,2012,2059
+current_gross_output,Educational services,13,NA,2013,2031
+current_gross_output,Educational services,13,NA,2014,2016
+current_gross_output,Educational services,13,NA,2015,2111
+current_gross_output,Educational services,13,NA,2016,2090
+current_gross_output,Educational services,13,NA,2017,2063
+current_gross_output,Educational services,13,NA,2018,2444
+current_gross_output,Educational services,13,NA,2019,2678
+current_gross_output,Educational services,13,NA,2020,2950
+current_gross_output,Educational services,13,NA,2021,2953
+current_gross_output,Educational services,13,NA,2022,3462
+current_gross_output,Educational services,13,NA,2023,4675
+current_gross_output,Health care and social assistance,13,NA,2012,94
+current_gross_output,Health care and social assistance,13,NA,2013,97
+current_gross_output,Health care and social assistance,13,NA,2014,84
+current_gross_output,Health care and social assistance,13,NA,2015,98
+current_gross_output,Health care and social assistance,13,NA,2016,106
+current_gross_output,Health care and social assistance,13,NA,2017,111
+current_gross_output,Health care and social assistance,13,NA,2018,131
+current_gross_output,Health care and social assistance,13,NA,2019,109
+current_gross_output,Health care and social assistance,13,NA,2020,56
+current_gross_output,Health care and social assistance,13,NA,2021,121
+current_gross_output,Health care and social assistance,13,NA,2022,369
+current_gross_output,Health care and social assistance,13,NA,2023,131
+current_gross_output,Ambulatory health care services,13,NA,2012,2
+current_gross_output,Ambulatory health care services,13,NA,2013,2
+current_gross_output,Ambulatory health care services,13,NA,2014,2
+current_gross_output,Ambulatory health care services,13,NA,2015,3
+current_gross_output,Ambulatory health care services,13,NA,2016,4
+current_gross_output,Ambulatory health care services,13,NA,2017,4
+current_gross_output,Ambulatory health care services,13,NA,2018,4
+current_gross_output,Ambulatory health care services,13,NA,2019,4
+current_gross_output,Ambulatory health care services,13,NA,2020,3
+current_gross_output,Ambulatory health care services,13,NA,2021,4
+current_gross_output,Ambulatory health care services,13,NA,2022,5
+current_gross_output,Ambulatory health care services,13,NA,2023,4
+current_gross_output,Hospitals,13,NA,2012,91
+current_gross_output,Hospitals,13,NA,2013,95
+current_gross_output,Hospitals,13,NA,2014,82
+current_gross_output,Hospitals,13,NA,2015,95
+current_gross_output,Hospitals,13,NA,2016,102
+current_gross_output,Hospitals,13,NA,2017,107
+current_gross_output,Hospitals,13,NA,2018,127
+current_gross_output,Hospitals,13,NA,2019,104
+current_gross_output,Hospitals,13,NA,2020,52
+current_gross_output,Hospitals,13,NA,2021,116
+current_gross_output,Hospitals,13,NA,2022,364
+current_gross_output,Hospitals,13,NA,2023,126
+current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2012,114
+current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2013,129
+current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2014,142
+current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2015,142
+current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2016,150
+current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2017,170
+current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2018,176
+current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2019,189
+current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2020,174
+current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2021,183
+current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2022,178
+current_gross_output,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2023,194
+current_gross_output,"Arts, entertainment, and recreation",13,NA,2012,111
+current_gross_output,"Arts, entertainment, and recreation",13,NA,2013,125
+current_gross_output,"Arts, entertainment, and recreation",13,NA,2014,138
+current_gross_output,"Arts, entertainment, and recreation",13,NA,2015,139
+current_gross_output,"Arts, entertainment, and recreation",13,NA,2016,147
+current_gross_output,"Arts, entertainment, and recreation",13,NA,2017,167
+current_gross_output,"Arts, entertainment, and recreation",13,NA,2018,173
+current_gross_output,"Arts, entertainment, and recreation",13,NA,2019,186
+current_gross_output,"Arts, entertainment, and recreation",13,NA,2020,173
+current_gross_output,"Arts, entertainment, and recreation",13,NA,2021,181
+current_gross_output,"Arts, entertainment, and recreation",13,NA,2022,175
+current_gross_output,"Arts, entertainment, and recreation",13,NA,2023,189
+current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,NA,2012,110
+current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,NA,2013,125
+current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,NA,2014,138
+current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,NA,2015,138
+current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,NA,2016,147
+current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,NA,2017,167
+current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,NA,2018,173
+current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,NA,2019,186
+current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,NA,2020,172
+current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,NA,2021,181
+current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,NA,2022,174
+current_gross_output,"Performing arts, spectator sports, museums, and related activities",13,NA,2023,189
+current_gross_output,Accommodation and food services,8,Grain,2012,3
+current_gross_output,Accommodation and food services,8,Grain,2013,4
+current_gross_output,Accommodation and food services,8,Grain,2014,4
+current_gross_output,Accommodation and food services,8,Grain,2015,4
+current_gross_output,Accommodation and food services,8,Grain,2016,3
+current_gross_output,Accommodation and food services,8,Grain,2017,3
+current_gross_output,Accommodation and food services,8,Grain,2018,3
+current_gross_output,Accommodation and food services,8,Grain,2019,3
+current_gross_output,Accommodation and food services,8,Grain,2020,2
+current_gross_output,Accommodation and food services,8,Grain,2021,2
+current_gross_output,Accommodation and food services,8,Grain,2022,3
+current_gross_output,Accommodation and food services,8,Grain,2023,5
+current_gross_output,Accommodation,13,NA,2012,3
+current_gross_output,Accommodation,13,NA,2013,4
+current_gross_output,Accommodation,13,NA,2014,4
+current_gross_output,Accommodation,13,NA,2015,4
+current_gross_output,Accommodation,13,NA,2016,3
+current_gross_output,Accommodation,13,NA,2017,3
+current_gross_output,Accommodation,13,NA,2018,3
+current_gross_output,Accommodation,13,NA,2019,3
+current_gross_output,Accommodation,13,NA,2020,2
+current_gross_output,Accommodation,13,NA,2021,2
+current_gross_output,Accommodation,13,NA,2022,3
+current_gross_output,Accommodation,13,NA,2023,5
+current_gross_output,"Other services, except government",12,Underground,2012,4
+current_gross_output,"Other services, except government",12,Underground,2013,4
+current_gross_output,"Other services, except government",12,Underground,2014,4
+current_gross_output,"Other services, except government",12,Underground,2015,4
+current_gross_output,"Other services, except government",12,Underground,2016,5
+current_gross_output,"Other services, except government",12,Underground,2017,5
+current_gross_output,"Other services, except government",12,Underground,2018,4
+current_gross_output,"Other services, except government",12,Underground,2019,5
+current_gross_output,"Other services, except government",12,Underground,2020,5
+current_gross_output,"Other services, except government",12,Underground,2021,6
+current_gross_output,"Other services, except government",12,Underground,2022,6
+current_gross_output,"Other services, except government",12,Underground,2023,6
+current_gross_output,Government5,13,NA,2012,29343
+current_gross_output,Government5,13,NA,2013,29362
+current_gross_output,Government5,13,NA,2014,30319
+current_gross_output,Government5,13,NA,2015,31349
+current_gross_output,Government5,13,NA,2016,32080
+current_gross_output,Government5,13,NA,2017,32122
+current_gross_output,Government5,13,NA,2018,33946
+current_gross_output,Government5,13,NA,2019,37824
+current_gross_output,Government5,13,NA,2020,38439
+current_gross_output,Government5,13,NA,2021,40308
+current_gross_output,Government5,13,NA,2022,44397
+current_gross_output,Government5,13,NA,2023,48494
+current_gross_output,Federal,13,NA,2012,26743
+current_gross_output,Federal,13,NA,2013,26894
+current_gross_output,Federal,13,NA,2014,27861
+current_gross_output,Federal,13,NA,2015,28840
+current_gross_output,Federal,13,NA,2016,29618
+current_gross_output,Federal,13,NA,2017,29730
+current_gross_output,Federal,13,NA,2018,31205
+current_gross_output,Federal,13,NA,2019,34771
+current_gross_output,Federal,13,NA,2020,35065
+current_gross_output,Federal,13,NA,2021,36836
+current_gross_output,Federal,13,NA,2022,40205
+current_gross_output,Federal,13,NA,2023,43561
+current_gross_output,General government,13,NA,2012,26740
+current_gross_output,General government,13,NA,2013,26891
+current_gross_output,General government,13,NA,2014,27858
+current_gross_output,General government,13,NA,2015,28837
+current_gross_output,General government,13,NA,2016,29615
+current_gross_output,General government,13,NA,2017,29727
+current_gross_output,General government,13,NA,2018,31202
+current_gross_output,General government,13,NA,2019,34767
+current_gross_output,General government,13,NA,2020,35062
+current_gross_output,General government,13,NA,2021,36826
+current_gross_output,General government,13,NA,2022,40202
+current_gross_output,General government,13,NA,2023,43558
 current_gross_output,National defense,2,Weapons,2012,5308
 current_gross_output,National defense,2,Weapons,2013,5290
 current_gross_output,National defense,2,Weapons,2014,5429
@@ -1019,42 +1019,42 @@ current_gross_output,Nondefense,2,Weapons,2020,27019
 current_gross_output,Nondefense,2,Weapons,2021,27358
 current_gross_output,Nondefense,2,Weapons,2022,28734
 current_gross_output,Nondefense,2,Weapons,2023,30103
-current_gross_output,Government enterprises,13,Underground,2012,3
-current_gross_output,Government enterprises,13,Underground,2013,3
-current_gross_output,Government enterprises,13,Underground,2014,3
-current_gross_output,Government enterprises,13,Underground,2015,2
-current_gross_output,Government enterprises,13,Underground,2016,3
-current_gross_output,Government enterprises,13,Underground,2017,3
-current_gross_output,Government enterprises,13,Underground,2018,3
-current_gross_output,Government enterprises,13,Underground,2019,3
-current_gross_output,Government enterprises,13,Underground,2020,2
-current_gross_output,Government enterprises,13,Underground,2021,9
-current_gross_output,Government enterprises,13,Underground,2022,3
-current_gross_output,Government enterprises,13,Underground,2023,3
-current_gross_output,State and local,13,Underground,2012,2600
-current_gross_output,State and local,13,Underground,2013,2467
-current_gross_output,State and local,13,Underground,2014,2459
-current_gross_output,State and local,13,Underground,2015,2509
-current_gross_output,State and local,13,Underground,2016,2462
-current_gross_output,State and local,13,Underground,2017,2392
-current_gross_output,State and local,13,Underground,2018,2742
-current_gross_output,State and local,13,Underground,2019,3054
-current_gross_output,State and local,13,Underground,2020,3374
-current_gross_output,State and local,13,Underground,2021,3472
-current_gross_output,State and local,13,Underground,2022,4191
-current_gross_output,State and local,13,Underground,2023,4932
-current_gross_output,General government,13,Underground,2012,2600
-current_gross_output,General government,13,Underground,2013,2467
-current_gross_output,General government,13,Underground,2014,2459
-current_gross_output,General government,13,Underground,2015,2509
-current_gross_output,General government,13,Underground,2016,2462
-current_gross_output,General government,13,Underground,2017,2392
-current_gross_output,General government,13,Underground,2018,2742
-current_gross_output,General government,13,Underground,2019,3054
-current_gross_output,General government,13,Underground,2020,3374
-current_gross_output,General government,13,Underground,2021,3472
-current_gross_output,General government,13,Underground,2022,4191
-current_gross_output,General government,13,Underground,2023,4932
+current_gross_output,Government enterprises,13,NA,2012,3
+current_gross_output,Government enterprises,13,NA,2013,3
+current_gross_output,Government enterprises,13,NA,2014,3
+current_gross_output,Government enterprises,13,NA,2015,2
+current_gross_output,Government enterprises,13,NA,2016,3
+current_gross_output,Government enterprises,13,NA,2017,3
+current_gross_output,Government enterprises,13,NA,2018,3
+current_gross_output,Government enterprises,13,NA,2019,3
+current_gross_output,Government enterprises,13,NA,2020,2
+current_gross_output,Government enterprises,13,NA,2021,9
+current_gross_output,Government enterprises,13,NA,2022,3
+current_gross_output,Government enterprises,13,NA,2023,3
+current_gross_output,State and local,13,NA,2012,2600
+current_gross_output,State and local,13,NA,2013,2467
+current_gross_output,State and local,13,NA,2014,2459
+current_gross_output,State and local,13,NA,2015,2509
+current_gross_output,State and local,13,NA,2016,2462
+current_gross_output,State and local,13,NA,2017,2392
+current_gross_output,State and local,13,NA,2018,2742
+current_gross_output,State and local,13,NA,2019,3054
+current_gross_output,State and local,13,NA,2020,3374
+current_gross_output,State and local,13,NA,2021,3472
+current_gross_output,State and local,13,NA,2022,4191
+current_gross_output,State and local,13,NA,2023,4932
+current_gross_output,General government,13,NA,2012,2600
+current_gross_output,General government,13,NA,2013,2467
+current_gross_output,General government,13,NA,2014,2459
+current_gross_output,General government,13,NA,2015,2509
+current_gross_output,General government,13,NA,2016,2462
+current_gross_output,General government,13,NA,2017,2392
+current_gross_output,General government,13,NA,2018,2742
+current_gross_output,General government,13,NA,2019,3054
+current_gross_output,General government,13,NA,2020,3374
+current_gross_output,General government,13,NA,2021,3472
+current_gross_output,General government,13,NA,2022,4191
+current_gross_output,General government,13,NA,2023,4932
 current_gross_output,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2012,144575
 current_gross_output,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2013,147523
 current_gross_output,"Space economy excluding satellite television, satellite radio, and educational services6",1,Luxury,2014,148349

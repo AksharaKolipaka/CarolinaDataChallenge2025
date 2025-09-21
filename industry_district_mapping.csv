@@ -1,95 +1,95 @@
 industry,industry_clean,district_number,district_name
-Space economy1,Space Economy1,13,Underground
-Private industries,Private Industries,13,Underground
-Mining,Mining,12,Mining
-Oil and gas extraction,Oil And Gas Extraction,5,Power
-"Mining, except oil and gas","Mining, Except Oil And Gas",5,Power
-Support activities for mining,Support Activities For Mining,12,Mining
-Utilities,Utilities,5,Power
-Construction,Construction,13,Underground
-Manufacturing,Manufacturing,8,Textiles
-Durable goods,Durable Goods,13,Underground
-Wood products,Wood Products,7,Lumber
-Nonmetallic mineral products,Nonmetallic Mineral Products,12,Mining
-Primary metals,Primary Metals,12,Mining
-Fabricated metal products,Fabricated Metal Products,12,Mining
-Machinery,Machinery,13,Underground
+Space economy1,Space Economy1,13,NA
+Private industries,Private Industries,13,NA
+Mining,Mining,11,Mining
+Oil and gas extraction,Oil And Gas Extraction,4,Power
+"Mining, except oil and gas","Mining, Except Oil And Gas",4,Power
+Support activities for mining,Support Activities For Mining,11,Mining
+Utilities,Utilities,4,Power
+Construction,Construction,13,NA
+Manufacturing,Manufacturing,7,Textiles
+Durable goods,Durable Goods,13,NA
+Wood products,Wood Products,6,Lumber
+Nonmetallic mineral products,Nonmetallic Mineral Products,11,Mining
+Primary metals,Primary Metals,11,Mining
+Fabricated metal products,Fabricated Metal Products,11,Mining
+Machinery,Machinery,13,NA
 Computer and electronic products2,Computer And Electronic Products2,3,Technology
-"Electrical equipment, appliances, and components","Electrical Equipment, Appliances, And Components",5,Power
-"Motor vehicles, bodies and trailers, and parts","Motor Vehicles, Bodies And Trailers, And Parts",13,Underground
-Other transportation equipment3,Other Transportation Equipment3,6,Transportation
-Furniture and related products,Furniture And Related Products,13,Underground
-Miscellaneous manufacturing,Miscellaneous Manufacturing,8,Textiles
-Nondurable goods,Nondurable Goods,13,Underground
-Food and beverage and tobacco products,Food And Beverage And Tobacco Products,9,Grain
-Textile mills and textile product mills,Textile Mills And Textile Product Mills,8,Textiles
-Apparel and leather and allied products,Apparel And Leather And Allied Products,8,Textiles
-Paper products,Paper Products,7,Lumber
-Printing and related support activities,Printing And Related Support Activities,13,Underground
-Petroleum and coal products,Petroleum And Coal Products,12,Mining
-Chemical products,Chemical Products,8,Textiles
-Plastics and rubber products,Plastics And Rubber Products,8,Textiles
-Wholesale trade,Wholesale Trade,13,Underground
-Retail trade,Retail Trade,13,Underground
-Motor vehicle and parts dealers,Motor Vehicle And Parts Dealers,13,Underground
-Food and beverage stores,Food And Beverage Stores,9,Grain
-General merchandise stores,General Merchandise Stores,13,Underground
-Other retail,Other Retail,13,Underground
-Transportation and warehousing,Transportation And Warehousing,6,Transportation
-Air transportation,Air Transportation,6,Transportation
-Rail transportation,Rail Transportation,6,Transportation
-Water transportation,Water Transportation,4,Maritime
-Truck transportation,Truck Transportation,6,Transportation
-Transit and ground passenger transportation,Transit And Ground Passenger Transportation,6,Transportation
-Pipeline transportation,Pipeline Transportation,6,Transportation
-Other transportation and support activities,Other Transportation And Support Activities,6,Transportation
-Warehousing and storage,Warehousing And Storage,6,Transportation
-Information,Information,13,Underground
+"Electrical equipment, appliances, and components","Electrical Equipment, Appliances, And Components",4,Power
+"Motor vehicles, bodies and trailers, and parts","Motor Vehicles, Bodies And Trailers, And Parts",13,NA
+Other transportation equipment3,Other Transportation Equipment3,5,Transportation
+Furniture and related products,Furniture And Related Products,13,NA
+Miscellaneous manufacturing,Miscellaneous Manufacturing,7,Textiles
+Nondurable goods,Nondurable Goods,13,NA
+Food and beverage and tobacco products,Food And Beverage And Tobacco Products,8,Grain
+Textile mills and textile product mills,Textile Mills And Textile Product Mills,7,Textiles
+Apparel and leather and allied products,Apparel And Leather And Allied Products,7,Textiles
+Paper products,Paper Products,6,Lumber
+Printing and related support activities,Printing And Related Support Activities,13,NA
+Petroleum and coal products,Petroleum And Coal Products,11,Mining
+Chemical products,Chemical Products,7,Textiles
+Plastics and rubber products,Plastics And Rubber Products,7,Textiles
+Wholesale trade,Wholesale Trade,13,NA
+Retail trade,Retail Trade,13,NA
+Motor vehicle and parts dealers,Motor Vehicle And Parts Dealers,13,NA
+Food and beverage stores,Food And Beverage Stores,8,Grain
+General merchandise stores,General Merchandise Stores,13,NA
+Other retail,Other Retail,12,Underground
+Transportation and warehousing,Transportation And Warehousing,5,Transportation
+Air transportation,Air Transportation,5,Transportation
+Rail transportation,Rail Transportation,5,Transportation
+Water transportation,Water Transportation,5,Transportation
+Truck transportation,Truck Transportation,5,Transportation
+Transit and ground passenger transportation,Transit And Ground Passenger Transportation,5,Transportation
+Pipeline transportation,Pipeline Transportation,5,Transportation
+Other transportation and support activities,Other Transportation And Support Activities,5,Transportation
+Warehousing and storage,Warehousing And Storage,5,Transportation
+Information,Information,13,NA
 "Publishing industries, except internet (includes software)","Publishing Industries, Except Internet (Includes Software)",3,Technology
-Motion picture and sound recording industries,Motion Picture And Sound Recording Industries,13,Underground
+Motion picture and sound recording industries,Motion Picture And Sound Recording Industries,13,NA
 Broadcasting and telecommunications4,Broadcasting And Telecommunications4,1,Luxury
 "Data processing, internet publishing, and other information services","Data Processing, Internet Publishing, And Other Information Services",3,Technology
-"Finance, insurance, real estate, rental, and leasing","Finance, Insurance, Real Estate, Rental, And Leasing",13,Underground
-Finance and insurance,Finance And Insurance,13,Underground
-"Federal Reserve banks, credit intermediation, and related activities","Federal Reserve Banks, Credit Intermediation, And Related Activities",13,Underground
-"Securities, commodity contracts, and investments","Securities, Commodity Contracts, And Investments",13,Underground
-Insurance carriers and related activities,Insurance Carriers And Related Activities,13,Underground
-Real estate and rental and leasing,Real Estate And Rental And Leasing,13,Underground
-Real estate,Real Estate,13,Underground
-Housing,Housing,13,Underground
-Other real estate,Other Real Estate,13,Underground
-Rental and leasing services and lessors of intangible assets,Rental And Leasing Services And Lessors Of Intangible Assets,13,Underground
-Professional and business services,Professional And Business Services,13,Underground
-"Professional, scientific, and technical services","Professional, Scientific, And Technical Services",13,Underground
-Legal services,Legal Services,13,Underground
+"Finance, insurance, real estate, rental, and leasing","Finance, Insurance, Real Estate, Rental, And Leasing",13,NA
+Finance and insurance,Finance And Insurance,13,NA
+"Federal Reserve banks, credit intermediation, and related activities","Federal Reserve Banks, Credit Intermediation, And Related Activities",13,NA
+"Securities, commodity contracts, and investments","Securities, Commodity Contracts, And Investments",13,NA
+Insurance carriers and related activities,Insurance Carriers And Related Activities,13,NA
+Real estate and rental and leasing,Real Estate And Rental And Leasing,13,NA
+Real estate,Real Estate,13,NA
+Housing,Housing,13,NA
+Other real estate,Other Real Estate,12,Underground
+Rental and leasing services and lessors of intangible assets,Rental And Leasing Services And Lessors Of Intangible Assets,13,NA
+Professional and business services,Professional And Business Services,13,NA
+"Professional, scientific, and technical services","Professional, Scientific, And Technical Services",13,NA
+Legal services,Legal Services,13,NA
 Computer systems design and related services,Computer Systems Design And Related Services,3,Technology
-"Miscellaneous professional, scientific, and technical services","Miscellaneous Professional, Scientific, And Technical Services",13,Underground
-Management of companies and enterprises,Management Of Companies And Enterprises,13,Underground
-Administrative and waste management services,Administrative And Waste Management Services,13,Underground
-Administrative and support services,Administrative And Support Services,13,Underground
-"Educational services, health care, and social assistance","Educational Services, Health Care, And Social Assistance",13,Underground
-Educational services,Educational Services,13,Underground
-Health care and social assistance,Health Care And Social Assistance,13,Underground
-Ambulatory health care services,Ambulatory Health Care Services,13,Underground
-Hospitals,Hospitals,13,Underground
-"Arts, entertainment, recreation, accommodation, and food services","Arts, Entertainment, Recreation, Accommodation, And Food Services",9,Grain
-"Arts, entertainment, and recreation","Arts, Entertainment, And Recreation",13,Underground
-"Performing arts, spectator sports, museums, and related activities","Performing Arts, Spectator Sports, Museums, And Related Activities",13,Underground
-Accommodation and food services,Accommodation And Food Services,9,Grain
-Accommodation,Accommodation,13,Underground
-"Other services, except government","Other Services, Except Government",13,Underground
-Government5,Government5,13,Underground
-Federal,Federal,13,Underground
-General government,General Government,13,Underground
+"Miscellaneous professional, scientific, and technical services","Miscellaneous Professional, Scientific, And Technical Services",12,Underground
+Management of companies and enterprises,Management Of Companies And Enterprises,13,NA
+Administrative and waste management services,Administrative And Waste Management Services,13,NA
+Administrative and support services,Administrative And Support Services,13,NA
+"Educational services, health care, and social assistance","Educational Services, Health Care, And Social Assistance",13,NA
+Educational services,Educational Services,13,NA
+Health care and social assistance,Health Care And Social Assistance,13,NA
+Ambulatory health care services,Ambulatory Health Care Services,13,NA
+Hospitals,Hospitals,13,NA
+"Arts, entertainment, recreation, accommodation, and food services","Arts, Entertainment, Recreation, Accommodation, And Food Services",8,Grain
+"Arts, entertainment, and recreation","Arts, Entertainment, And Recreation",13,NA
+"Performing arts, spectator sports, museums, and related activities","Performing Arts, Spectator Sports, Museums, And Related Activities",13,NA
+Accommodation and food services,Accommodation And Food Services,8,Grain
+Accommodation,Accommodation,13,NA
+"Other services, except government","Other Services, Except Government",12,Underground
+Government5,Government5,13,NA
+Federal,Federal,13,NA
+General government,General Government,13,NA
 National defense,National Defense,2,Weapons
 Nondefense,Nondefense,2,Weapons
-Government enterprises,Government Enterprises,13,Underground
-State and local,State And Local,13,Underground
+Government enterprises,Government Enterprises,13,NA
+State and local,State And Local,13,NA
 "Space economy excluding satellite television, satellite radio, and educational services6","Space Economy Excluding Satellite Television, Satellite Radio, And Educational Services6",1,Luxury
-"Funds, trusts, and other financial vehicles","Funds, Trusts, And Other Financial Vehicles",13,Underground
-Waste management and remediation services,Waste Management And Remediation Services,13,Underground
-Nursing and residential care facilities,Nursing And Residential Care Facilities,13,Underground
-Social assistance,Social Assistance,13,Underground
-"Amusements, gambling, and recreation industries","Amusements, Gambling, And Recreation Industries",13,Underground
-Food services and drinking places,Food Services And Drinking Places,9,Grain
-"Space economy, private industries1","Space Economy, Private Industries1",13,Underground
+"Funds, trusts, and other financial vehicles","Funds, Trusts, And Other Financial Vehicles",12,Underground
+Waste management and remediation services,Waste Management And Remediation Services,13,NA
+Nursing and residential care facilities,Nursing And Residential Care Facilities,13,NA
+Social assistance,Social Assistance,13,NA
+"Amusements, gambling, and recreation industries","Amusements, Gambling, And Recreation Industries",13,NA
+Food services and drinking places,Food Services And Drinking Places,8,Grain
+"Space economy, private industries1","Space Economy, Private Industries1",13,NA

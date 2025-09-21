@@ -1,76 +1,76 @@
 table_name,industry,district_number,district_name,year,value
-employment,"Space economy, private industries1",13,Underground,2012,433
-employment,"Space economy, private industries1",13,Underground,2013,432
-employment,"Space economy, private industries1",13,Underground,2014,426
-employment,"Space economy, private industries1",13,Underground,2015,424
-employment,"Space economy, private industries1",13,Underground,2016,411
-employment,"Space economy, private industries1",13,Underground,2017,399
-employment,"Space economy, private industries1",13,Underground,2018,387
-employment,"Space economy, private industries1",13,Underground,2019,390
-employment,"Space economy, private industries1",13,Underground,2020,365
-employment,"Space economy, private industries1",13,Underground,2021,351
-employment,"Space economy, private industries1",13,Underground,2022,361
-employment,"Space economy, private industries1",13,Underground,2023,373
-employment,Construction,13,Underground,2012,1
-employment,Construction,13,Underground,2013,1
-employment,Construction,13,Underground,2014,1
-employment,Construction,13,Underground,2015,1
-employment,Construction,13,Underground,2016,1
-employment,Construction,13,Underground,2017,2
-employment,Construction,13,Underground,2018,1
-employment,Construction,13,Underground,2019,2
-employment,Construction,13,Underground,2020,2
-employment,Construction,13,Underground,2021,2
-employment,Construction,13,Underground,2022,3
-employment,Construction,13,Underground,2023,2
-employment,Manufacturing,8,Textiles,2012,136
-employment,Manufacturing,8,Textiles,2013,137
-employment,Manufacturing,8,Textiles,2014,133
-employment,Manufacturing,8,Textiles,2015,131
-employment,Manufacturing,8,Textiles,2016,128
-employment,Manufacturing,8,Textiles,2017,118
-employment,Manufacturing,8,Textiles,2018,116
-employment,Manufacturing,8,Textiles,2019,123
-employment,Manufacturing,8,Textiles,2020,112
-employment,Manufacturing,8,Textiles,2021,111
-employment,Manufacturing,8,Textiles,2022,104
-employment,Manufacturing,8,Textiles,2023,109
-employment,Durable goods,13,Underground,2012,134
-employment,Durable goods,13,Underground,2013,134
-employment,Durable goods,13,Underground,2014,131
-employment,Durable goods,13,Underground,2015,130
-employment,Durable goods,13,Underground,2016,127
-employment,Durable goods,13,Underground,2017,117
-employment,Durable goods,13,Underground,2018,115
-employment,Durable goods,13,Underground,2019,122
-employment,Durable goods,13,Underground,2020,111
-employment,Durable goods,13,Underground,2021,110
-employment,Durable goods,13,Underground,2022,103
-employment,Durable goods,13,Underground,2023,108
-employment,Fabricated metal products,12,Mining,2012,1
-employment,Fabricated metal products,12,Mining,2013,2
-employment,Fabricated metal products,12,Mining,2014,2
-employment,Fabricated metal products,12,Mining,2015,2
-employment,Fabricated metal products,12,Mining,2016,2
-employment,Fabricated metal products,12,Mining,2017,2
-employment,Fabricated metal products,12,Mining,2018,1
-employment,Fabricated metal products,12,Mining,2019,1
-employment,Fabricated metal products,12,Mining,2020,1
-employment,Fabricated metal products,12,Mining,2021,1
-employment,Fabricated metal products,12,Mining,2022,1
-employment,Fabricated metal products,12,Mining,2023,1
-employment,Machinery,13,Underground,2012,4
-employment,Machinery,13,Underground,2013,4
-employment,Machinery,13,Underground,2014,4
-employment,Machinery,13,Underground,2015,2
-employment,Machinery,13,Underground,2016,2
-employment,Machinery,13,Underground,2017,2
-employment,Machinery,13,Underground,2018,2
-employment,Machinery,13,Underground,2019,2
-employment,Machinery,13,Underground,2020,2
-employment,Machinery,13,Underground,2021,2
-employment,Machinery,13,Underground,2022,3
-employment,Machinery,13,Underground,2023,3
+employment,"Space economy, private industries1",13,NA,2012,433
+employment,"Space economy, private industries1",13,NA,2013,432
+employment,"Space economy, private industries1",13,NA,2014,426
+employment,"Space economy, private industries1",13,NA,2015,424
+employment,"Space economy, private industries1",13,NA,2016,411
+employment,"Space economy, private industries1",13,NA,2017,399
+employment,"Space economy, private industries1",13,NA,2018,387
+employment,"Space economy, private industries1",13,NA,2019,390
+employment,"Space economy, private industries1",13,NA,2020,365
+employment,"Space economy, private industries1",13,NA,2021,351
+employment,"Space economy, private industries1",13,NA,2022,361
+employment,"Space economy, private industries1",13,NA,2023,373
+employment,Construction,13,NA,2012,1
+employment,Construction,13,NA,2013,1
+employment,Construction,13,NA,2014,1
+employment,Construction,13,NA,2015,1
+employment,Construction,13,NA,2016,1
+employment,Construction,13,NA,2017,2
+employment,Construction,13,NA,2018,1
+employment,Construction,13,NA,2019,2
+employment,Construction,13,NA,2020,2
+employment,Construction,13,NA,2021,2
+employment,Construction,13,NA,2022,3
+employment,Construction,13,NA,2023,2
+employment,Manufacturing,7,Textiles,2012,136
+employment,Manufacturing,7,Textiles,2013,137
+employment,Manufacturing,7,Textiles,2014,133
+employment,Manufacturing,7,Textiles,2015,131
+employment,Manufacturing,7,Textiles,2016,128
+employment,Manufacturing,7,Textiles,2017,118
+employment,Manufacturing,7,Textiles,2018,116
+employment,Manufacturing,7,Textiles,2019,123
+employment,Manufacturing,7,Textiles,2020,112
+employment,Manufacturing,7,Textiles,2021,111
+employment,Manufacturing,7,Textiles,2022,104
+employment,Manufacturing,7,Textiles,2023,109
+employment,Durable goods,13,NA,2012,134
+employment,Durable goods,13,NA,2013,134
+employment,Durable goods,13,NA,2014,131
+employment,Durable goods,13,NA,2015,130
+employment,Durable goods,13,NA,2016,127
+employment,Durable goods,13,NA,2017,117
+employment,Durable goods,13,NA,2018,115
+employment,Durable goods,13,NA,2019,122
+employment,Durable goods,13,NA,2020,111
+employment,Durable goods,13,NA,2021,110
+employment,Durable goods,13,NA,2022,103
+employment,Durable goods,13,NA,2023,108
+employment,Fabricated metal products,11,Mining,2012,1
+employment,Fabricated metal products,11,Mining,2013,2
+employment,Fabricated metal products,11,Mining,2014,2
+employment,Fabricated metal products,11,Mining,2015,2
+employment,Fabricated metal products,11,Mining,2016,2
+employment,Fabricated metal products,11,Mining,2017,2
+employment,Fabricated metal products,11,Mining,2018,1
+employment,Fabricated metal products,11,Mining,2019,1
+employment,Fabricated metal products,11,Mining,2020,1
+employment,Fabricated metal products,11,Mining,2021,1
+employment,Fabricated metal products,11,Mining,2022,1
+employment,Fabricated metal products,11,Mining,2023,1
+employment,Machinery,13,NA,2012,4
+employment,Machinery,13,NA,2013,4
+employment,Machinery,13,NA,2014,4
+employment,Machinery,13,NA,2015,2
+employment,Machinery,13,NA,2016,2
+employment,Machinery,13,NA,2017,2
+employment,Machinery,13,NA,2018,2
+employment,Machinery,13,NA,2019,2
+employment,Machinery,13,NA,2020,2
+employment,Machinery,13,NA,2021,2
+employment,Machinery,13,NA,2022,3
+employment,Machinery,13,NA,2023,3
 employment,Computer and electronic products2,3,Technology,2012,55
 employment,Computer and electronic products2,3,Technology,2013,53
 employment,Computer and electronic products2,3,Technology,2014,51
@@ -83,174 +83,174 @@ employment,Computer and electronic products2,3,Technology,2020,48
 employment,Computer and electronic products2,3,Technology,2021,48
 employment,Computer and electronic products2,3,Technology,2022,49
 employment,Computer and electronic products2,3,Technology,2023,48
-employment,"Electrical equipment, appliances, and components",5,Power,2012,3
-employment,"Electrical equipment, appliances, and components",5,Power,2013,3
-employment,"Electrical equipment, appliances, and components",5,Power,2014,3
-employment,"Electrical equipment, appliances, and components",5,Power,2015,2
-employment,"Electrical equipment, appliances, and components",5,Power,2016,3
-employment,"Electrical equipment, appliances, and components",5,Power,2017,2
-employment,"Electrical equipment, appliances, and components",5,Power,2018,3
-employment,"Electrical equipment, appliances, and components",5,Power,2019,2
-employment,"Electrical equipment, appliances, and components",5,Power,2020,2
-employment,"Electrical equipment, appliances, and components",5,Power,2021,2
-employment,"Electrical equipment, appliances, and components",5,Power,2022,2
-employment,"Electrical equipment, appliances, and components",5,Power,2023,2
-employment,Other transportation equipment3,6,Transportation,2012,68
-employment,Other transportation equipment3,6,Transportation,2013,68
-employment,Other transportation equipment3,6,Transportation,2014,68
-employment,Other transportation equipment3,6,Transportation,2015,69
-employment,Other transportation equipment3,6,Transportation,2016,65
-employment,Other transportation equipment3,6,Transportation,2017,59
-employment,Other transportation equipment3,6,Transportation,2018,58
-employment,Other transportation equipment3,6,Transportation,2019,64
-employment,Other transportation equipment3,6,Transportation,2020,57
-employment,Other transportation equipment3,6,Transportation,2021,54
-employment,Other transportation equipment3,6,Transportation,2022,46
-employment,Other transportation equipment3,6,Transportation,2023,52
-employment,Miscellaneous manufacturing,8,Textiles,2012,3
-employment,Miscellaneous manufacturing,8,Textiles,2013,4
-employment,Miscellaneous manufacturing,8,Textiles,2014,3
-employment,Miscellaneous manufacturing,8,Textiles,2015,2
-employment,Miscellaneous manufacturing,8,Textiles,2016,2
-employment,Miscellaneous manufacturing,8,Textiles,2017,2
-employment,Miscellaneous manufacturing,8,Textiles,2018,2
-employment,Miscellaneous manufacturing,8,Textiles,2019,2
-employment,Miscellaneous manufacturing,8,Textiles,2020,2
-employment,Miscellaneous manufacturing,8,Textiles,2021,2
-employment,Miscellaneous manufacturing,8,Textiles,2022,2
-employment,Miscellaneous manufacturing,8,Textiles,2023,2
-employment,Nondurable goods,13,Underground,2012,2
-employment,Nondurable goods,13,Underground,2013,2
-employment,Nondurable goods,13,Underground,2014,2
-employment,Nondurable goods,13,Underground,2015,1
-employment,Nondurable goods,13,Underground,2016,1
-employment,Nondurable goods,13,Underground,2017,1
-employment,Nondurable goods,13,Underground,2018,1
-employment,Nondurable goods,13,Underground,2019,1
-employment,Nondurable goods,13,Underground,2020,1
-employment,Nondurable goods,13,Underground,2021,1
-employment,Nondurable goods,13,Underground,2022,1
-employment,Nondurable goods,13,Underground,2023,1
-employment,Food and beverage and tobacco products,9,Grain,2012,1
-employment,Food and beverage and tobacco products,9,Grain,2013,1
-employment,Food and beverage and tobacco products,9,Grain,2014,1
-employment,Food and beverage and tobacco products,9,Grain,2015,0
-employment,Food and beverage and tobacco products,9,Grain,2016,0
-employment,Food and beverage and tobacco products,9,Grain,2017,0
-employment,Food and beverage and tobacco products,9,Grain,2018,0
-employment,Food and beverage and tobacco products,9,Grain,2019,0
-employment,Food and beverage and tobacco products,9,Grain,2020,0
-employment,Food and beverage and tobacco products,9,Grain,2021,0
-employment,Food and beverage and tobacco products,9,Grain,2022,0
-employment,Food and beverage and tobacco products,9,Grain,2023,0
-employment,Plastics and rubber products,8,Textiles,2012,1
-employment,Plastics and rubber products,8,Textiles,2013,1
-employment,Plastics and rubber products,8,Textiles,2014,1
-employment,Plastics and rubber products,8,Textiles,2015,0
-employment,Plastics and rubber products,8,Textiles,2016,0
-employment,Plastics and rubber products,8,Textiles,2017,0
-employment,Plastics and rubber products,8,Textiles,2018,0
-employment,Plastics and rubber products,8,Textiles,2019,0
-employment,Plastics and rubber products,8,Textiles,2020,0
-employment,Plastics and rubber products,8,Textiles,2021,0
-employment,Plastics and rubber products,8,Textiles,2022,0
-employment,Plastics and rubber products,8,Textiles,2023,0
-employment,Wholesale trade,13,Underground,2012,94
-employment,Wholesale trade,13,Underground,2013,90
-employment,Wholesale trade,13,Underground,2014,87
-employment,Wholesale trade,13,Underground,2015,91
-employment,Wholesale trade,13,Underground,2016,91
-employment,Wholesale trade,13,Underground,2017,94
-employment,Wholesale trade,13,Underground,2018,93
-employment,Wholesale trade,13,Underground,2019,89
-employment,Wholesale trade,13,Underground,2020,87
-employment,Wholesale trade,13,Underground,2021,84
-employment,Wholesale trade,13,Underground,2022,88
-employment,Wholesale trade,13,Underground,2023,85
-employment,Retail trade,13,Underground,2012,3
-employment,Retail trade,13,Underground,2013,4
-employment,Retail trade,13,Underground,2014,4
-employment,Retail trade,13,Underground,2015,4
-employment,Retail trade,13,Underground,2016,6
-employment,Retail trade,13,Underground,2017,5
-employment,Retail trade,13,Underground,2018,6
-employment,Retail trade,13,Underground,2019,7
-employment,Retail trade,13,Underground,2020,5
-employment,Retail trade,13,Underground,2021,6
-employment,Retail trade,13,Underground,2022,6
-employment,Retail trade,13,Underground,2023,6
-employment,General merchandise stores,13,Underground,2012,0
-employment,General merchandise stores,13,Underground,2013,1
-employment,General merchandise stores,13,Underground,2014,1
-employment,General merchandise stores,13,Underground,2015,1
-employment,General merchandise stores,13,Underground,2016,1
-employment,General merchandise stores,13,Underground,2017,1
-employment,General merchandise stores,13,Underground,2018,1
-employment,General merchandise stores,13,Underground,2019,1
-employment,General merchandise stores,13,Underground,2020,1
-employment,General merchandise stores,13,Underground,2021,1
-employment,General merchandise stores,13,Underground,2022,1
-employment,General merchandise stores,13,Underground,2023,1
-employment,Other retail,13,Underground,2012,3
-employment,Other retail,13,Underground,2013,3
-employment,Other retail,13,Underground,2014,3
-employment,Other retail,13,Underground,2015,4
-employment,Other retail,13,Underground,2016,5
-employment,Other retail,13,Underground,2017,4
-employment,Other retail,13,Underground,2018,5
-employment,Other retail,13,Underground,2019,6
-employment,Other retail,13,Underground,2020,4
-employment,Other retail,13,Underground,2021,5
-employment,Other retail,13,Underground,2022,5
-employment,Other retail,13,Underground,2023,5
-employment,Transportation and warehousing,6,Transportation,2012,6
-employment,Transportation and warehousing,6,Transportation,2013,5
-employment,Transportation and warehousing,6,Transportation,2014,5
-employment,Transportation and warehousing,6,Transportation,2015,4
-employment,Transportation and warehousing,6,Transportation,2016,4
-employment,Transportation and warehousing,6,Transportation,2017,4
-employment,Transportation and warehousing,6,Transportation,2018,5
-employment,Transportation and warehousing,6,Transportation,2019,4
-employment,Transportation and warehousing,6,Transportation,2020,5
-employment,Transportation and warehousing,6,Transportation,2021,4
-employment,Transportation and warehousing,6,Transportation,2022,6
-employment,Transportation and warehousing,6,Transportation,2023,6
-employment,Air transportation,6,Transportation,2012,2
-employment,Air transportation,6,Transportation,2013,2
-employment,Air transportation,6,Transportation,2014,1
-employment,Air transportation,6,Transportation,2015,1
-employment,Air transportation,6,Transportation,2016,1
-employment,Air transportation,6,Transportation,2017,1
-employment,Air transportation,6,Transportation,2018,2
-employment,Air transportation,6,Transportation,2019,1
-employment,Air transportation,6,Transportation,2020,1
-employment,Air transportation,6,Transportation,2021,1
-employment,Air transportation,6,Transportation,2022,2
-employment,Air transportation,6,Transportation,2023,2
-employment,Truck transportation,6,Transportation,2012,3
-employment,Truck transportation,6,Transportation,2013,3
-employment,Truck transportation,6,Transportation,2014,3
-employment,Truck transportation,6,Transportation,2015,3
-employment,Truck transportation,6,Transportation,2016,3
-employment,Truck transportation,6,Transportation,2017,3
-employment,Truck transportation,6,Transportation,2018,3
-employment,Truck transportation,6,Transportation,2019,3
-employment,Truck transportation,6,Transportation,2020,3
-employment,Truck transportation,6,Transportation,2021,3
-employment,Truck transportation,6,Transportation,2022,4
-employment,Truck transportation,6,Transportation,2023,3
-employment,Information,13,Underground,2012,120
-employment,Information,13,Underground,2013,123
-employment,Information,13,Underground,2014,125
-employment,Information,13,Underground,2015,118
-employment,Information,13,Underground,2016,108
-employment,Information,13,Underground,2017,106
-employment,Information,13,Underground,2018,98
-employment,Information,13,Underground,2019,93
-employment,Information,13,Underground,2020,85
-employment,Information,13,Underground,2021,75
-employment,Information,13,Underground,2022,72
-employment,Information,13,Underground,2023,70
+employment,"Electrical equipment, appliances, and components",4,Power,2012,3
+employment,"Electrical equipment, appliances, and components",4,Power,2013,3
+employment,"Electrical equipment, appliances, and components",4,Power,2014,3
+employment,"Electrical equipment, appliances, and components",4,Power,2015,2
+employment,"Electrical equipment, appliances, and components",4,Power,2016,3
+employment,"Electrical equipment, appliances, and components",4,Power,2017,2
+employment,"Electrical equipment, appliances, and components",4,Power,2018,3
+employment,"Electrical equipment, appliances, and components",4,Power,2019,2
+employment,"Electrical equipment, appliances, and components",4,Power,2020,2
+employment,"Electrical equipment, appliances, and components",4,Power,2021,2
+employment,"Electrical equipment, appliances, and components",4,Power,2022,2
+employment,"Electrical equipment, appliances, and components",4,Power,2023,2
+employment,Other transportation equipment3,5,Transportation,2012,68
+employment,Other transportation equipment3,5,Transportation,2013,68
+employment,Other transportation equipment3,5,Transportation,2014,68
+employment,Other transportation equipment3,5,Transportation,2015,69
+employment,Other transportation equipment3,5,Transportation,2016,65
+employment,Other transportation equipment3,5,Transportation,2017,59
+employment,Other transportation equipment3,5,Transportation,2018,58
+employment,Other transportation equipment3,5,Transportation,2019,64
+employment,Other transportation equipment3,5,Transportation,2020,57
+employment,Other transportation equipment3,5,Transportation,2021,54
+employment,Other transportation equipment3,5,Transportation,2022,46
+employment,Other transportation equipment3,5,Transportation,2023,52
+employment,Miscellaneous manufacturing,7,Textiles,2012,3
+employment,Miscellaneous manufacturing,7,Textiles,2013,4
+employment,Miscellaneous manufacturing,7,Textiles,2014,3
+employment,Miscellaneous manufacturing,7,Textiles,2015,2
+employment,Miscellaneous manufacturing,7,Textiles,2016,2
+employment,Miscellaneous manufacturing,7,Textiles,2017,2
+employment,Miscellaneous manufacturing,7,Textiles,2018,2
+employment,Miscellaneous manufacturing,7,Textiles,2019,2
+employment,Miscellaneous manufacturing,7,Textiles,2020,2
+employment,Miscellaneous manufacturing,7,Textiles,2021,2
+employment,Miscellaneous manufacturing,7,Textiles,2022,2
+employment,Miscellaneous manufacturing,7,Textiles,2023,2
+employment,Nondurable goods,13,NA,2012,2
+employment,Nondurable goods,13,NA,2013,2
+employment,Nondurable goods,13,NA,2014,2
+employment,Nondurable goods,13,NA,2015,1
+employment,Nondurable goods,13,NA,2016,1
+employment,Nondurable goods,13,NA,2017,1
+employment,Nondurable goods,13,NA,2018,1
+employment,Nondurable goods,13,NA,2019,1
+employment,Nondurable goods,13,NA,2020,1
+employment,Nondurable goods,13,NA,2021,1
+employment,Nondurable goods,13,NA,2022,1
+employment,Nondurable goods,13,NA,2023,1
+employment,Food and beverage and tobacco products,8,Grain,2012,1
+employment,Food and beverage and tobacco products,8,Grain,2013,1
+employment,Food and beverage and tobacco products,8,Grain,2014,1
+employment,Food and beverage and tobacco products,8,Grain,2015,0
+employment,Food and beverage and tobacco products,8,Grain,2016,0
+employment,Food and beverage and tobacco products,8,Grain,2017,0
+employment,Food and beverage and tobacco products,8,Grain,2018,0
+employment,Food and beverage and tobacco products,8,Grain,2019,0
+employment,Food and beverage and tobacco products,8,Grain,2020,0
+employment,Food and beverage and tobacco products,8,Grain,2021,0
+employment,Food and beverage and tobacco products,8,Grain,2022,0
+employment,Food and beverage and tobacco products,8,Grain,2023,0
+employment,Plastics and rubber products,7,Textiles,2012,1
+employment,Plastics and rubber products,7,Textiles,2013,1
+employment,Plastics and rubber products,7,Textiles,2014,1
+employment,Plastics and rubber products,7,Textiles,2015,0
+employment,Plastics and rubber products,7,Textiles,2016,0
+employment,Plastics and rubber products,7,Textiles,2017,0
+employment,Plastics and rubber products,7,Textiles,2018,0
+employment,Plastics and rubber products,7,Textiles,2019,0
+employment,Plastics and rubber products,7,Textiles,2020,0
+employment,Plastics and rubber products,7,Textiles,2021,0
+employment,Plastics and rubber products,7,Textiles,2022,0
+employment,Plastics and rubber products,7,Textiles,2023,0
+employment,Wholesale trade,13,NA,2012,94
+employment,Wholesale trade,13,NA,2013,90
+employment,Wholesale trade,13,NA,2014,87
+employment,Wholesale trade,13,NA,2015,91
+employment,Wholesale trade,13,NA,2016,91
+employment,Wholesale trade,13,NA,2017,94
+employment,Wholesale trade,13,NA,2018,93
+employment,Wholesale trade,13,NA,2019,89
+employment,Wholesale trade,13,NA,2020,87
+employment,Wholesale trade,13,NA,2021,84
+employment,Wholesale trade,13,NA,2022,88
+employment,Wholesale trade,13,NA,2023,85
+employment,Retail trade,13,NA,2012,3
+employment,Retail trade,13,NA,2013,4
+employment,Retail trade,13,NA,2014,4
+employment,Retail trade,13,NA,2015,4
+employment,Retail trade,13,NA,2016,6
+employment,Retail trade,13,NA,2017,5
+employment,Retail trade,13,NA,2018,6
+employment,Retail trade,13,NA,2019,7
+employment,Retail trade,13,NA,2020,5
+employment,Retail trade,13,NA,2021,6
+employment,Retail trade,13,NA,2022,6
+employment,Retail trade,13,NA,2023,6
+employment,General merchandise stores,13,NA,2012,0
+employment,General merchandise stores,13,NA,2013,1
+employment,General merchandise stores,13,NA,2014,1
+employment,General merchandise stores,13,NA,2015,1
+employment,General merchandise stores,13,NA,2016,1
+employment,General merchandise stores,13,NA,2017,1
+employment,General merchandise stores,13,NA,2018,1
+employment,General merchandise stores,13,NA,2019,1
+employment,General merchandise stores,13,NA,2020,1
+employment,General merchandise stores,13,NA,2021,1
+employment,General merchandise stores,13,NA,2022,1
+employment,General merchandise stores,13,NA,2023,1
+employment,Other retail,12,Underground,2012,3
+employment,Other retail,12,Underground,2013,3
+employment,Other retail,12,Underground,2014,3
+employment,Other retail,12,Underground,2015,4
+employment,Other retail,12,Underground,2016,5
+employment,Other retail,12,Underground,2017,4
+employment,Other retail,12,Underground,2018,5
+employment,Other retail,12,Underground,2019,6
+employment,Other retail,12,Underground,2020,4
+employment,Other retail,12,Underground,2021,5
+employment,Other retail,12,Underground,2022,5
+employment,Other retail,12,Underground,2023,5
+employment,Transportation and warehousing,5,Transportation,2012,6
+employment,Transportation and warehousing,5,Transportation,2013,5
+employment,Transportation and warehousing,5,Transportation,2014,5
+employment,Transportation and warehousing,5,Transportation,2015,4
+employment,Transportation and warehousing,5,Transportation,2016,4
+employment,Transportation and warehousing,5,Transportation,2017,4
+employment,Transportation and warehousing,5,Transportation,2018,5
+employment,Transportation and warehousing,5,Transportation,2019,4
+employment,Transportation and warehousing,5,Transportation,2020,5
+employment,Transportation and warehousing,5,Transportation,2021,4
+employment,Transportation and warehousing,5,Transportation,2022,6
+employment,Transportation and warehousing,5,Transportation,2023,6
+employment,Air transportation,5,Transportation,2012,2
+employment,Air transportation,5,Transportation,2013,2
+employment,Air transportation,5,Transportation,2014,1
+employment,Air transportation,5,Transportation,2015,1
+employment,Air transportation,5,Transportation,2016,1
+employment,Air transportation,5,Transportation,2017,1
+employment,Air transportation,5,Transportation,2018,2
+employment,Air transportation,5,Transportation,2019,1
+employment,Air transportation,5,Transportation,2020,1
+employment,Air transportation,5,Transportation,2021,1
+employment,Air transportation,5,Transportation,2022,2
+employment,Air transportation,5,Transportation,2023,2
+employment,Truck transportation,5,Transportation,2012,3
+employment,Truck transportation,5,Transportation,2013,3
+employment,Truck transportation,5,Transportation,2014,3
+employment,Truck transportation,5,Transportation,2015,3
+employment,Truck transportation,5,Transportation,2016,3
+employment,Truck transportation,5,Transportation,2017,3
+employment,Truck transportation,5,Transportation,2018,3
+employment,Truck transportation,5,Transportation,2019,3
+employment,Truck transportation,5,Transportation,2020,3
+employment,Truck transportation,5,Transportation,2021,3
+employment,Truck transportation,5,Transportation,2022,4
+employment,Truck transportation,5,Transportation,2023,3
+employment,Information,13,NA,2012,120
+employment,Information,13,NA,2013,123
+employment,Information,13,NA,2014,125
+employment,Information,13,NA,2015,118
+employment,Information,13,NA,2016,108
+employment,Information,13,NA,2017,106
+employment,Information,13,NA,2018,98
+employment,Information,13,NA,2019,93
+employment,Information,13,NA,2020,85
+employment,Information,13,NA,2021,75
+employment,Information,13,NA,2022,72
+employment,Information,13,NA,2023,70
 employment,"Publishing industries, except internet (includes software)",3,Technology,2012,1
 employment,"Publishing industries, except internet (includes software)",3,Technology,2013,1
 employment,"Publishing industries, except internet (includes software)",3,Technology,2014,1
@@ -287,66 +287,66 @@ employment,"Data processing, internet publishing, and other information services
 employment,"Data processing, internet publishing, and other information services",3,Technology,2021,2
 employment,"Data processing, internet publishing, and other information services",3,Technology,2022,2
 employment,"Data processing, internet publishing, and other information services",3,Technology,2023,2
-employment,"Finance, insurance, real estate, rental, and leasing",13,Underground,2012,1
-employment,"Finance, insurance, real estate, rental, and leasing",13,Underground,2013,1
-employment,"Finance, insurance, real estate, rental, and leasing",13,Underground,2014,0
-employment,"Finance, insurance, real estate, rental, and leasing",13,Underground,2015,1
-employment,"Finance, insurance, real estate, rental, and leasing",13,Underground,2016,1
-employment,"Finance, insurance, real estate, rental, and leasing",13,Underground,2017,1
-employment,"Finance, insurance, real estate, rental, and leasing",13,Underground,2018,0
-employment,"Finance, insurance, real estate, rental, and leasing",13,Underground,2019,0
-employment,"Finance, insurance, real estate, rental, and leasing",13,Underground,2020,0
-employment,"Finance, insurance, real estate, rental, and leasing",13,Underground,2021,0
-employment,"Finance, insurance, real estate, rental, and leasing",13,Underground,2022,1
-employment,"Finance, insurance, real estate, rental, and leasing",13,Underground,2023,1
-employment,Finance and insurance,13,Underground,2012,1
-employment,Finance and insurance,13,Underground,2013,1
-employment,Finance and insurance,13,Underground,2014,0
-employment,Finance and insurance,13,Underground,2015,1
-employment,Finance and insurance,13,Underground,2016,1
-employment,Finance and insurance,13,Underground,2017,1
-employment,Finance and insurance,13,Underground,2018,0
-employment,Finance and insurance,13,Underground,2019,0
-employment,Finance and insurance,13,Underground,2020,0
-employment,Finance and insurance,13,Underground,2021,0
-employment,Finance and insurance,13,Underground,2022,1
-employment,Finance and insurance,13,Underground,2023,1
-employment,Insurance carriers and related activities,13,Underground,2012,1
-employment,Insurance carriers and related activities,13,Underground,2013,1
-employment,Insurance carriers and related activities,13,Underground,2014,0
-employment,Insurance carriers and related activities,13,Underground,2015,1
-employment,Insurance carriers and related activities,13,Underground,2016,1
-employment,Insurance carriers and related activities,13,Underground,2017,0
-employment,Insurance carriers and related activities,13,Underground,2018,0
-employment,Insurance carriers and related activities,13,Underground,2019,0
-employment,Insurance carriers and related activities,13,Underground,2020,0
-employment,Insurance carriers and related activities,13,Underground,2021,0
-employment,Insurance carriers and related activities,13,Underground,2022,1
-employment,Insurance carriers and related activities,13,Underground,2023,1
-employment,Professional and business services,13,Underground,2012,49
-employment,Professional and business services,13,Underground,2013,50
-employment,Professional and business services,13,Underground,2014,50
-employment,Professional and business services,13,Underground,2015,51
-employment,Professional and business services,13,Underground,2016,49
-employment,Professional and business services,13,Underground,2017,47
-employment,Professional and business services,13,Underground,2018,42
-employment,Professional and business services,13,Underground,2019,42
-employment,Professional and business services,13,Underground,2020,39
-employment,Professional and business services,13,Underground,2021,40
-employment,Professional and business services,13,Underground,2022,49
-employment,Professional and business services,13,Underground,2023,52
-employment,"Professional, scientific, and technical services",13,Underground,2012,48
-employment,"Professional, scientific, and technical services",13,Underground,2013,48
-employment,"Professional, scientific, and technical services",13,Underground,2014,48
-employment,"Professional, scientific, and technical services",13,Underground,2015,48
-employment,"Professional, scientific, and technical services",13,Underground,2016,45
-employment,"Professional, scientific, and technical services",13,Underground,2017,43
-employment,"Professional, scientific, and technical services",13,Underground,2018,40
-employment,"Professional, scientific, and technical services",13,Underground,2019,39
-employment,"Professional, scientific, and technical services",13,Underground,2020,37
-employment,"Professional, scientific, and technical services",13,Underground,2021,37
-employment,"Professional, scientific, and technical services",13,Underground,2022,46
-employment,"Professional, scientific, and technical services",13,Underground,2023,49
+employment,"Finance, insurance, real estate, rental, and leasing",13,NA,2012,1
+employment,"Finance, insurance, real estate, rental, and leasing",13,NA,2013,1
+employment,"Finance, insurance, real estate, rental, and leasing",13,NA,2014,0
+employment,"Finance, insurance, real estate, rental, and leasing",13,NA,2015,1
+employment,"Finance, insurance, real estate, rental, and leasing",13,NA,2016,1
+employment,"Finance, insurance, real estate, rental, and leasing",13,NA,2017,1
+employment,"Finance, insurance, real estate, rental, and leasing",13,NA,2018,0
+employment,"Finance, insurance, real estate, rental, and leasing",13,NA,2019,0
+employment,"Finance, insurance, real estate, rental, and leasing",13,NA,2020,0
+employment,"Finance, insurance, real estate, rental, and leasing",13,NA,2021,0
+employment,"Finance, insurance, real estate, rental, and leasing",13,NA,2022,1
+employment,"Finance, insurance, real estate, rental, and leasing",13,NA,2023,1
+employment,Finance and insurance,13,NA,2012,1
+employment,Finance and insurance,13,NA,2013,1
+employment,Finance and insurance,13,NA,2014,0
+employment,Finance and insurance,13,NA,2015,1
+employment,Finance and insurance,13,NA,2016,1
+employment,Finance and insurance,13,NA,2017,1
+employment,Finance and insurance,13,NA,2018,0
+employment,Finance and insurance,13,NA,2019,0
+employment,Finance and insurance,13,NA,2020,0
+employment,Finance and insurance,13,NA,2021,0
+employment,Finance and insurance,13,NA,2022,1
+employment,Finance and insurance,13,NA,2023,1
+employment,Insurance carriers and related activities,13,NA,2012,1
+employment,Insurance carriers and related activities,13,NA,2013,1
+employment,Insurance carriers and related activities,13,NA,2014,0
+employment,Insurance carriers and related activities,13,NA,2015,1
+employment,Insurance carriers and related activities,13,NA,2016,1
+employment,Insurance carriers and related activities,13,NA,2017,0
+employment,Insurance carriers and related activities,13,NA,2018,0
+employment,Insurance carriers and related activities,13,NA,2019,0
+employment,Insurance carriers and related activities,13,NA,2020,0
+employment,Insurance carriers and related activities,13,NA,2021,0
+employment,Insurance carriers and related activities,13,NA,2022,1
+employment,Insurance carriers and related activities,13,NA,2023,1
+employment,Professional and business services,13,NA,2012,49
+employment,Professional and business services,13,NA,2013,50
+employment,Professional and business services,13,NA,2014,50
+employment,Professional and business services,13,NA,2015,51
+employment,Professional and business services,13,NA,2016,49
+employment,Professional and business services,13,NA,2017,47
+employment,Professional and business services,13,NA,2018,42
+employment,Professional and business services,13,NA,2019,42
+employment,Professional and business services,13,NA,2020,39
+employment,Professional and business services,13,NA,2021,40
+employment,Professional and business services,13,NA,2022,49
+employment,Professional and business services,13,NA,2023,52
+employment,"Professional, scientific, and technical services",13,NA,2012,48
+employment,"Professional, scientific, and technical services",13,NA,2013,48
+employment,"Professional, scientific, and technical services",13,NA,2014,48
+employment,"Professional, scientific, and technical services",13,NA,2015,48
+employment,"Professional, scientific, and technical services",13,NA,2016,45
+employment,"Professional, scientific, and technical services",13,NA,2017,43
+employment,"Professional, scientific, and technical services",13,NA,2018,40
+employment,"Professional, scientific, and technical services",13,NA,2019,39
+employment,"Professional, scientific, and technical services",13,NA,2020,37
+employment,"Professional, scientific, and technical services",13,NA,2021,37
+employment,"Professional, scientific, and technical services",13,NA,2022,46
+employment,"Professional, scientific, and technical services",13,NA,2023,49
 employment,Computer systems design and related services,3,Technology,2012,4
 employment,Computer systems design and related services,3,Technology,2013,3
 employment,Computer systems design and related services,3,Technology,2014,3
@@ -359,135 +359,135 @@ employment,Computer systems design and related services,3,Technology,2020,4
 employment,Computer systems design and related services,3,Technology,2021,5
 employment,Computer systems design and related services,3,Technology,2022,5
 employment,Computer systems design and related services,3,Technology,2023,4
-employment,"Miscellaneous professional, scientific, and technical services",13,Underground,2012,44
-employment,"Miscellaneous professional, scientific, and technical services",13,Underground,2013,46
-employment,"Miscellaneous professional, scientific, and technical services",13,Underground,2014,45
-employment,"Miscellaneous professional, scientific, and technical services",13,Underground,2015,45
-employment,"Miscellaneous professional, scientific, and technical services",13,Underground,2016,42
-employment,"Miscellaneous professional, scientific, and technical services",13,Underground,2017,39
-employment,"Miscellaneous professional, scientific, and technical services",13,Underground,2018,36
-employment,"Miscellaneous professional, scientific, and technical services",13,Underground,2019,36
-employment,"Miscellaneous professional, scientific, and technical services",13,Underground,2020,33
-employment,"Miscellaneous professional, scientific, and technical services",13,Underground,2021,33
-employment,"Miscellaneous professional, scientific, and technical services",13,Underground,2022,41
-employment,"Miscellaneous professional, scientific, and technical services",13,Underground,2023,44
-employment,Management of companies and enterprises,13,Underground,2012,1
-employment,Management of companies and enterprises,13,Underground,2013,1
-employment,Management of companies and enterprises,13,Underground,2014,1
-employment,Management of companies and enterprises,13,Underground,2015,1
-employment,Management of companies and enterprises,13,Underground,2016,1
-employment,Management of companies and enterprises,13,Underground,2017,1
-employment,Management of companies and enterprises,13,Underground,2018,1
-employment,Management of companies and enterprises,13,Underground,2019,1
-employment,Management of companies and enterprises,13,Underground,2020,1
-employment,Management of companies and enterprises,13,Underground,2021,1
-employment,Management of companies and enterprises,13,Underground,2022,1
-employment,Management of companies and enterprises,13,Underground,2023,1
-employment,Administrative and waste management services,13,Underground,2012,0
-employment,Administrative and waste management services,13,Underground,2013,1
-employment,Administrative and waste management services,13,Underground,2014,1
-employment,Administrative and waste management services,13,Underground,2015,2
-employment,Administrative and waste management services,13,Underground,2016,2
-employment,Administrative and waste management services,13,Underground,2017,2
-employment,Administrative and waste management services,13,Underground,2018,2
-employment,Administrative and waste management services,13,Underground,2019,2
-employment,Administrative and waste management services,13,Underground,2020,2
-employment,Administrative and waste management services,13,Underground,2021,2
-employment,Administrative and waste management services,13,Underground,2022,2
-employment,Administrative and waste management services,13,Underground,2023,2
-employment,Administrative and support services,13,Underground,2012,0
-employment,Administrative and support services,13,Underground,2013,1
-employment,Administrative and support services,13,Underground,2014,1
-employment,Administrative and support services,13,Underground,2015,2
-employment,Administrative and support services,13,Underground,2016,2
-employment,Administrative and support services,13,Underground,2017,2
-employment,Administrative and support services,13,Underground,2018,2
-employment,Administrative and support services,13,Underground,2019,2
-employment,Administrative and support services,13,Underground,2020,2
-employment,Administrative and support services,13,Underground,2021,2
-employment,Administrative and support services,13,Underground,2022,2
-employment,Administrative and support services,13,Underground,2023,2
-employment,"Educational services, health care, and social assistance",13,Underground,2012,22
-employment,"Educational services, health care, and social assistance",13,Underground,2013,21
-employment,"Educational services, health care, and social assistance",13,Underground,2014,21
-employment,"Educational services, health care, and social assistance",13,Underground,2015,22
-employment,"Educational services, health care, and social assistance",13,Underground,2016,21
-employment,"Educational services, health care, and social assistance",13,Underground,2017,21
-employment,"Educational services, health care, and social assistance",13,Underground,2018,24
-employment,"Educational services, health care, and social assistance",13,Underground,2019,26
-employment,"Educational services, health care, and social assistance",13,Underground,2020,30
-employment,"Educational services, health care, and social assistance",13,Underground,2021,29
-employment,"Educational services, health care, and social assistance",13,Underground,2022,33
-employment,"Educational services, health care, and social assistance",13,Underground,2023,41
-employment,Educational services,13,Underground,2012,21
-employment,Educational services,13,Underground,2013,21
-employment,Educational services,13,Underground,2014,20
-employment,Educational services,13,Underground,2015,21
-employment,Educational services,13,Underground,2016,20
-employment,Educational services,13,Underground,2017,20
-employment,Educational services,13,Underground,2018,23
-employment,Educational services,13,Underground,2019,25
-employment,Educational services,13,Underground,2020,29
-employment,Educational services,13,Underground,2021,28
-employment,Educational services,13,Underground,2022,31
-employment,Educational services,13,Underground,2023,41
-employment,Health care and social assistance,13,Underground,2012,1
-employment,Health care and social assistance,13,Underground,2013,1
-employment,Health care and social assistance,13,Underground,2014,1
-employment,Health care and social assistance,13,Underground,2015,1
-employment,Health care and social assistance,13,Underground,2016,1
-employment,Health care and social assistance,13,Underground,2017,1
-employment,Health care and social assistance,13,Underground,2018,1
-employment,Health care and social assistance,13,Underground,2019,1
-employment,Health care and social assistance,13,Underground,2020,0
-employment,Health care and social assistance,13,Underground,2021,1
-employment,Health care and social assistance,13,Underground,2022,2
-employment,Health care and social assistance,13,Underground,2023,1
-employment,Hospitals,13,Underground,2012,1
-employment,Hospitals,13,Underground,2013,1
-employment,Hospitals,13,Underground,2014,1
-employment,Hospitals,13,Underground,2015,1
-employment,Hospitals,13,Underground,2016,1
-employment,Hospitals,13,Underground,2017,1
-employment,Hospitals,13,Underground,2018,1
-employment,Hospitals,13,Underground,2019,1
-employment,Hospitals,13,Underground,2020,0
-employment,Hospitals,13,Underground,2021,1
-employment,Hospitals,13,Underground,2022,2
-employment,Hospitals,13,Underground,2023,1
-employment,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2012,1
-employment,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2013,1
-employment,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2014,1
-employment,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2015,1
-employment,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2016,1
-employment,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2017,1
-employment,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2018,1
-employment,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2019,1
-employment,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2020,1
-employment,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2021,1
-employment,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2022,1
-employment,"Arts, entertainment, recreation, accommodation, and food services",9,Grain,2023,1
-employment,"Arts, entertainment, and recreation",13,Underground,2012,1
-employment,"Arts, entertainment, and recreation",13,Underground,2013,1
-employment,"Arts, entertainment, and recreation",13,Underground,2014,1
-employment,"Arts, entertainment, and recreation",13,Underground,2015,1
-employment,"Arts, entertainment, and recreation",13,Underground,2016,1
-employment,"Arts, entertainment, and recreation",13,Underground,2017,1
-employment,"Arts, entertainment, and recreation",13,Underground,2018,1
-employment,"Arts, entertainment, and recreation",13,Underground,2019,1
-employment,"Arts, entertainment, and recreation",13,Underground,2020,1
-employment,"Arts, entertainment, and recreation",13,Underground,2021,1
-employment,"Arts, entertainment, and recreation",13,Underground,2022,1
-employment,"Arts, entertainment, and recreation",13,Underground,2023,1
-employment,"Performing arts, spectator sports, museums, and related activities",13,Underground,2012,1
-employment,"Performing arts, spectator sports, museums, and related activities",13,Underground,2013,1
-employment,"Performing arts, spectator sports, museums, and related activities",13,Underground,2014,1
-employment,"Performing arts, spectator sports, museums, and related activities",13,Underground,2015,1
-employment,"Performing arts, spectator sports, museums, and related activities",13,Underground,2016,1
-employment,"Performing arts, spectator sports, museums, and related activities",13,Underground,2017,1
-employment,"Performing arts, spectator sports, museums, and related activities",13,Underground,2018,1
-employment,"Performing arts, spectator sports, museums, and related activities",13,Underground,2019,1
-employment,"Performing arts, spectator sports, museums, and related activities",13,Underground,2020,1
-employment,"Performing arts, spectator sports, museums, and related activities",13,Underground,2021,1
-employment,"Performing arts, spectator sports, museums, and related activities",13,Underground,2022,1
-employment,"Performing arts, spectator sports, museums, and related activities",13,Underground,2023,1
+employment,"Miscellaneous professional, scientific, and technical services",12,Underground,2012,44
+employment,"Miscellaneous professional, scientific, and technical services",12,Underground,2013,46
+employment,"Miscellaneous professional, scientific, and technical services",12,Underground,2014,45
+employment,"Miscellaneous professional, scientific, and technical services",12,Underground,2015,45
+employment,"Miscellaneous professional, scientific, and technical services",12,Underground,2016,42
+employment,"Miscellaneous professional, scientific, and technical services",12,Underground,2017,39
+employment,"Miscellaneous professional, scientific, and technical services",12,Underground,2018,36
+employment,"Miscellaneous professional, scientific, and technical services",12,Underground,2019,36
+employment,"Miscellaneous professional, scientific, and technical services",12,Underground,2020,33
+employment,"Miscellaneous professional, scientific, and technical services",12,Underground,2021,33
+employment,"Miscellaneous professional, scientific, and technical services",12,Underground,2022,41
+employment,"Miscellaneous professional, scientific, and technical services",12,Underground,2023,44
+employment,Management of companies and enterprises,13,NA,2012,1
+employment,Management of companies and enterprises,13,NA,2013,1
+employment,Management of companies and enterprises,13,NA,2014,1
+employment,Management of companies and enterprises,13,NA,2015,1
+employment,Management of companies and enterprises,13,NA,2016,1
+employment,Management of companies and enterprises,13,NA,2017,1
+employment,Management of companies and enterprises,13,NA,2018,1
+employment,Management of companies and enterprises,13,NA,2019,1
+employment,Management of companies and enterprises,13,NA,2020,1
+employment,Management of companies and enterprises,13,NA,2021,1
+employment,Management of companies and enterprises,13,NA,2022,1
+employment,Management of companies and enterprises,13,NA,2023,1
+employment,Administrative and waste management services,13,NA,2012,0
+employment,Administrative and waste management services,13,NA,2013,1
+employment,Administrative and waste management services,13,NA,2014,1
+employment,Administrative and waste management services,13,NA,2015,2
+employment,Administrative and waste management services,13,NA,2016,2
+employment,Administrative and waste management services,13,NA,2017,2
+employment,Administrative and waste management services,13,NA,2018,2
+employment,Administrative and waste management services,13,NA,2019,2
+employment,Administrative and waste management services,13,NA,2020,2
+employment,Administrative and waste management services,13,NA,2021,2
+employment,Administrative and waste management services,13,NA,2022,2
+employment,Administrative and waste management services,13,NA,2023,2
+employment,Administrative and support services,13,NA,2012,0
+employment,Administrative and support services,13,NA,2013,1
+employment,Administrative and support services,13,NA,2014,1
+employment,Administrative and support services,13,NA,2015,2
+employment,Administrative and support services,13,NA,2016,2
+employment,Administrative and support services,13,NA,2017,2
+employment,Administrative and support services,13,NA,2018,2
+employment,Administrative and support services,13,NA,2019,2
+employment,Administrative and support services,13,NA,2020,2
+employment,Administrative and support services,13,NA,2021,2
+employment,Administrative and support services,13,NA,2022,2
+employment,Administrative and support services,13,NA,2023,2
+employment,"Educational services, health care, and social assistance",13,NA,2012,22
+employment,"Educational services, health care, and social assistance",13,NA,2013,21
+employment,"Educational services, health care, and social assistance",13,NA,2014,21
+employment,"Educational services, health care, and social assistance",13,NA,2015,22
+employment,"Educational services, health care, and social assistance",13,NA,2016,21
+employment,"Educational services, health care, and social assistance",13,NA,2017,21
+employment,"Educational services, health care, and social assistance",13,NA,2018,24
+employment,"Educational services, health care, and social assistance",13,NA,2019,26
+employment,"Educational services, health care, and social assistance",13,NA,2020,30
+employment,"Educational services, health care, and social assistance",13,NA,2021,29
+employment,"Educational services, health care, and social assistance",13,NA,2022,33
+employment,"Educational services, health care, and social assistance",13,NA,2023,41
+employment,Educational services,13,NA,2012,21
+employment,Educational services,13,NA,2013,21
+employment,Educational services,13,NA,2014,20
+employment,Educational services,13,NA,2015,21
+employment,Educational services,13,NA,2016,20
+employment,Educational services,13,NA,2017,20
+employment,Educational services,13,NA,2018,23
+employment,Educational services,13,NA,2019,25
+employment,Educational services,13,NA,2020,29
+employment,Educational services,13,NA,2021,28
+employment,Educational services,13,NA,2022,31
+employment,Educational services,13,NA,2023,41
+employment,Health care and social assistance,13,NA,2012,1
+employment,Health care and social assistance,13,NA,2013,1
+employment,Health care and social assistance,13,NA,2014,1
+employment,Health care and social assistance,13,NA,2015,1
+employment,Health care and social assistance,13,NA,2016,1
+employment,Health care and social assistance,13,NA,2017,1
+employment,Health care and social assistance,13,NA,2018,1
+employment,Health care and social assistance,13,NA,2019,1
+employment,Health care and social assistance,13,NA,2020,0
+employment,Health care and social assistance,13,NA,2021,1
+employment,Health care and social assistance,13,NA,2022,2
+employment,Health care and social assistance,13,NA,2023,1
+employment,Hospitals,13,NA,2012,1
+employment,Hospitals,13,NA,2013,1
+employment,Hospitals,13,NA,2014,1
+employment,Hospitals,13,NA,2015,1
+employment,Hospitals,13,NA,2016,1
+employment,Hospitals,13,NA,2017,1
+employment,Hospitals,13,NA,2018,1
+employment,Hospitals,13,NA,2019,1
+employment,Hospitals,13,NA,2020,0
+employment,Hospitals,13,NA,2021,1
+employment,Hospitals,13,NA,2022,2
+employment,Hospitals,13,NA,2023,1
+employment,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2012,1
+employment,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2013,1
+employment,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2014,1
+employment,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2015,1
+employment,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2016,1
+employment,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2017,1
+employment,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2018,1
+employment,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2019,1
+employment,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2020,1
+employment,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2021,1
+employment,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2022,1
+employment,"Arts, entertainment, recreation, accommodation, and food services",8,Grain,2023,1
+employment,"Arts, entertainment, and recreation",13,NA,2012,1
+employment,"Arts, entertainment, and recreation",13,NA,2013,1
+employment,"Arts, entertainment, and recreation",13,NA,2014,1
+employment,"Arts, entertainment, and recreation",13,NA,2015,1
+employment,"Arts, entertainment, and recreation",13,NA,2016,1
+employment,"Arts, entertainment, and recreation",13,NA,2017,1
+employment,"Arts, entertainment, and recreation",13,NA,2018,1
+employment,"Arts, entertainment, and recreation",13,NA,2019,1
+employment,"Arts, entertainment, and recreation",13,NA,2020,1
+employment,"Arts, entertainment, and recreation",13,NA,2021,1
+employment,"Arts, entertainment, and recreation",13,NA,2022,1
+employment,"Arts, entertainment, and recreation",13,NA,2023,1
+employment,"Performing arts, spectator sports, museums, and related activities",13,NA,2012,1
+employment,"Performing arts, spectator sports, museums, and related activities",13,NA,2013,1
+employment,"Performing arts, spectator sports, museums, and related activities",13,NA,2014,1
+employment,"Performing arts, spectator sports, museums, and related activities",13,NA,2015,1
+employment,"Performing arts, spectator sports, museums, and related activities",13,NA,2016,1
+employment,"Performing arts, spectator sports, museums, and related activities",13,NA,2017,1
+employment,"Performing arts, spectator sports, museums, and related activities",13,NA,2018,1
+employment,"Performing arts, spectator sports, museums, and related activities",13,NA,2019,1
+employment,"Performing arts, spectator sports, museums, and related activities",13,NA,2020,1
+employment,"Performing arts, spectator sports, museums, and related activities",13,NA,2021,1
+employment,"Performing arts, spectator sports, museums, and related activities",13,NA,2022,1
+employment,"Performing arts, spectator sports, museums, and related activities",13,NA,2023,1
