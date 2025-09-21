@@ -1,0 +1,714 @@
+---
+title: "futureprediction"
+output: html_document
+---
+
+```{r}
+# Load required libraries
+library(tidyverse)
+library(caret)
+library(randomForest)
+library(xgboost)
+library(forecast)
+library(lubridate)
+library(scales)
+library(knitr)
+library(DT)
+library(plotly)
+library(viridis)
+library(zoo)  # For rollmean function
+library(broom)  # For tidy model outputs
+
+```
+
+```{r}
+
+df <- read_csv("all_tables_combined.csv", show_col_types = FALSE)
+district_mapping <- read_csv("industry_district_mapping.csv", show_col_types = FALSE)
+
+# Remove Maritime district completely from analysis
+df <- df %>% filter(district_number != 4 & district_name != "Maritime")
+district_mapping <- district_mapping %>% filter(district_number != 4 & district_name != "Maritime")
+
+classify_advanced_sector <- function(industry_name) {
+  industry_lower <- tolower(industry_name)
+  
+  if (grepl("government|federal|nasa|defense|military|dod|air force|army|navy|public", industry_lower)) {
+    return("Government")
+  }
+  
+  if (grepl("commercial|private|manufacturing|professional|scientific|computer|software|telecommunications|broadcasting|information|satellite", industry_lower)) {
+    return("Private")
+  }
+  
+  return("Private")
+}
+```
+
+```{r}
+# Prepare data for machine learning
+prepare_ml_data <- function(df, forecast_years = 5) {
+  # Check if data is available
+  if (nrow(df) == 0) {
+    stop("No data available for analysis")
+  }
+  
+  # Add sector classification
+  df_enhanced <- df %>%
+    mutate(
+      sector_type = map_chr(industry, classify_advanced_sector),
+      industry_type = case_when(
+        grepl("manufacturing|production|equipment", tolower(industry)) ~ "Manufacturing",
+        grepl("professional|scientific|technical|computer|software", tolower(industry)) ~ "Professional Services",
+        grepl("information|broadcasting|telecommunications|satellite", tolower(industry)) ~ "Information Services",
+        grepl("government|federal|nasa|defense|military", tolower(industry)) ~ "Government",
+        TRUE ~ "Other"
+      )
+    )
+  
+  # Create features for each district-year combination
+  district_features <- df_enhanced %>%
+    group_by(district_number, district_name, table_name, year) %>%
+    summarise(
+      total_value = sum(value, na.rm = TRUE),
+      avg_value = mean(value, na.rm = TRUE),
+      industry_count = n_distinct(industry),
+      private_share = ifelse(sum(value, na.rm = TRUE) > 0, 
+                            sum(value[sector_type == "Private"], na.rm = TRUE) / sum(value, na.rm = TRUE), 
+                            0),
+      .groups = 'drop'
+    ) %>%
+    pivot_wider(
+      names_from = table_name,
+      values_from = c(total_value, avg_value),
+      names_sep = "_"
+    )
+  
+  # Calculate growth rates and trends
+  growth_data <- district_features %>%
+    group_by(district_number, district_name) %>%
+    arrange(year) %>%
+    mutate(
+      # Growth rates for key metrics (with safe division)
+      real_value_growth = ifelse(lag(total_value_real_value_added) > 0 & !is.na(lag(total_value_real_value_added)),
+                                (total_value_real_value_added / lag(total_value_real_value_added) - 1) * 100,
+                                NA),
+      employment_growth = ifelse(lag(total_value_employment) > 0 & !is.na(lag(total_value_employment)),
+                                (total_value_employment / lag(total_value_employment) - 1) * 100,
+                                NA),
+      compensation_growth = ifelse(lag(total_value_compensation) > 0 & !is.na(lag(total_value_compensation)),
+                                  (total_value_compensation / lag(total_value_compensation) - 1) * 100,
+                                  NA),
+      
+      # Moving averages for smoothing (with error handling)
+      real_value_ma3 = ifelse(n() >= 3, rollmean(total_value_real_value_added, 3, fill = NA, align = 'right'), NA),
+      employment_ma3 = ifelse(n() >= 3, rollmean(total_value_employment, 3, fill = NA, align = 'right'), NA),
+      
+      # Trend indicators
+      value_trend = ifelse(!is.na(total_value_real_value_added) & !is.na(lag(total_value_real_value_added)),
+                          ifelse(total_value_real_value_added > lag(total_value_real_value_added), 1, 0), 0),
+      employment_trend = ifelse(!is.na(total_value_employment) & !is.na(lag(total_value_employment)),
+                               ifelse(total_value_employment > lag(total_value_employment), 1, 0), 0)
+    ) %>%
+    ungroup() %>%
+    filter(!is.na(real_value_growth))  # Remove rows with missing growth data
+  
+  return(growth_data)
+}
+
+# Prepare the data with error handling
+tryCatch({
+  ml_data <- prepare_ml_data(df)
+  cat("Prepared ML data with", nrow(ml_data), "observations\n")
+  
+  if (nrow(ml_data) == 0) {
+    stop("No valid data available after processing")
+  }
+}, error = function(e) {
+  cat("Error in data preparation:", e$message, "\n")
+  stop("Cannot proceed without valid data")
+})
+
+```
+
+```{r}
+
+# Display data structure
+cat("Data Structure:\n")
+glimpse(ml_data)
+
+cat("\nAvailable Years:", paste(sort(unique(ml_data$year)), collapse = ", "), "\n")
+cat("Number of Districts:", n_distinct(ml_data$district_number), "\n")
+
+# Summary statistics
+summary_stats <- ml_data %>%
+  summarise(
+    Observations = n(),
+    Districts = n_distinct(district_number),
+    Years = n_distinct(year),
+    Avg_Real_Value_Growth = mean(real_value_growth, na.rm = TRUE),
+    Avg_Employment_Growth = mean(employment_growth, na.rm = TRUE)
+  )
+
+kable(summary_stats, caption = "Dataset Summary Statistics")
+
+
+```
+
+
+```{r}
+# Split into training and testing sets with validation
+set.seed(42)
+
+# Check if we have enough data for splitting
+if (nrow(ml_data) < 10) {
+  warning("Limited data available. Using all data for training.")
+  train_data <- ml_data
+  test_data <- ml_data
+} else {
+  train_index <- createDataPartition(ml_data$district_number, p = 0.8, list = FALSE)
+  train_data <- ml_data[train_index, ]
+  test_data <- ml_data[-train_index, ]
+}
+
+# Define target variable: Future growth (next year's real value growth)
+train_data <- train_data %>%
+  group_by(district_number) %>%
+  mutate(
+    target_growth = lead(real_value_growth, 1),
+    target_class = ifelse(lead(real_value_growth, 1) > median(real_value_growth, na.rm = TRUE), "High", "Low")
+  ) %>%
+  ungroup() %>%
+  filter(!is.na(target_growth))
+
+test_data <- test_data %>%
+  group_by(district_number) %>%
+  mutate(
+    target_growth = lead(real_value_growth, 1),
+    target_class = ifelse(lead(real_value_growth, 1) > median(real_value_growth, na.rm = TRUE), "High", "Low")
+  ) %>%
+  ungroup() %>%
+  filter(!is.na(target_growth))
+
+```
+
+```{r}
+# 1. LINEAR REGRESSION MODEL
+cat("=== TRAINING LINEAR REGRESSION MODEL ===\n")
+
+# Check if we have sufficient data for modeling
+if (nrow(train_data) < 5) {
+  cat("Insufficient data for linear regression model\n")
+  lm_model <- NULL
+  lm_predictions <- rep(0, nrow(test_data))
+  lm_rmse <- NA
+  lm_mae <- NA
+  lm_r2 <- NA
+} else {
+  tryCatch({
+    lm_model <- lm(
+      target_growth ~ real_value_growth + employment_growth + compensation_growth +
+        total_value_real_value_added + private_share + real_value_ma3,
+      data = train_data
+    )
+    
+    # Make predictions
+    lm_predictions <- predict(lm_model, newdata = test_data)
+    
+    # Evaluate linear regression
+    lm_rmse <- sqrt(mean((test_data$target_growth - lm_predictions)^2, na.rm = TRUE))
+    lm_mae <- mean(abs(test_data$target_growth - lm_predictions), na.rm = TRUE)
+    lm_r2 <- summary(lm_model)$r.squared
+    
+  }, error = function(e) {
+    cat("Error in linear regression:", e$message, "\n")
+    lm_model <<- NULL
+    lm_predictions <<- rep(0, nrow(test_data))
+    lm_rmse <<- NA
+    lm_mae <<- NA
+    lm_r2 <<- NA
+  })
+}
+```
+
+```{r}
+
+# Display linear regression results
+if (!is.null(lm_model) && !is.na(lm_rmse)) {
+  lm_results <- data.frame(
+    Metric = c("RMSE", "MAE", "R-squared"),
+    Value = c(round(lm_rmse, 3), round(lm_mae, 3), round(lm_r2, 3))
+  )
+  
+  kable(lm_results, caption = "Linear Regression Performance Metrics")
+  
+  cat("\nLinear Regression Coefficients:\n")
+  lm_coeffs <- summary(lm_model)$coefficients %>%
+    as.data.frame() %>%
+    rownames_to_column("Feature") %>%
+    select(Feature, Estimate = Estimate, Significance = `Pr(>|t|)`) %>%
+    mutate(Significance = ifelse(Significance < 0.001, "***", 
+                                ifelse(Significance < 0.01, "**",
+                                      ifelse(Significance < 0.05, "*", ""))))
+  
+  kable(lm_coeffs, caption = "Linear Regression Coefficients")
+} else {
+  cat("Linear regression model could not be trained due to insufficient data\n")
+}
+
+```
+
+
+```{r}
+# 2. RANDOM FOREST MODEL
+cat("=== TRAINING RANDOM FOREST MODEL ===\n")
+
+# Select features for modeling
+features <- c(
+  "real_value_growth", "employment_growth", "compensation_growth",
+  "total_value_real_value_added", "total_value_employment", "total_value_compensation",
+  "private_share", "real_value_ma3", "employment_ma3",
+  "value_trend", "employment_trend"
+)
+
+# Prepare data for random forest with error handling
+tryCatch({
+  rf_data <- train_data %>%
+    select(all_of(features), target_growth) %>%
+    na.omit()
+  
+  if (nrow(rf_data) < 5) {
+    stop("Insufficient data for random forest model")
+  }
+  
+  set.seed(42)
+  rf_model <- randomForest(
+    target_growth ~ .,
+    data = rf_data,
+    ntree = 100,
+    importance = TRUE
+  )
+  
+  # Make predictions
+  rf_predictions <- predict(rf_model, newdata = test_data)
+  
+  # Evaluate random forest
+  rf_rmse <- sqrt(mean((test_data$target_growth - rf_predictions)^2, na.rm = TRUE))
+  rf_mae <- mean(abs(test_data$target_growth - rf_predictions), na.rm = TRUE)
+  
+}, error = function(e) {
+  cat("Error in random forest model:", e$message, "\n")
+  rf_model <<- NULL
+  rf_predictions <<- rep(0, nrow(test_data))
+  rf_rmse <<- NA
+  rf_mae <<- NA
+})
+
+```
+
+```{r}
+# Display random forest results
+if (!is.null(rf_model) && !is.na(rf_rmse)) {
+  rf_results <- data.frame(
+    Metric = c("RMSE", "MAE"),
+    Value = c(round(rf_rmse, 3), round(rf_mae, 3))
+  )
+  
+  kable(rf_results, caption = "Random Forest Performance Metrics")
+  
+  # Feature importance
+  importance_df <- as.data.frame(importance(rf_model)) %>%
+    rownames_to_column("Feature") %>%
+    arrange(desc(`%IncMSE`))
+  
+  cat("\nTop 10 Most Important Features:\n")
+  kable(importance_df[1:min(10, nrow(importance_df)), c("Feature", "%IncMSE", "IncNodePurity")], 
+        caption = "Random Forest Feature Importance")
+} else {
+  cat("Random forest model could not be trained due to insufficient data\n")
+  importance_df <- data.frame(Feature = character(), `%IncMSE` = numeric(), IncNodePurity = numeric())
+}
+
+```
+
+```{r}
+# Plot feature importance
+if (nrow(importance_df) > 0) {
+  importance_plot <- importance_df %>%
+    head(min(10, nrow(importance_df))) %>%
+    mutate(Feature = fct_reorder(Feature, `%IncMSE`)) %>%
+    ggplot(aes(x = `%IncMSE`, y = Feature, fill = `%IncMSE`)) +
+    geom_col() +
+    scale_fill_viridis_c() +
+    labs(title = "Top 10 Most Important Features for Growth Prediction",
+         x = "Importance (% Increase in MSE)",
+         y = "") +
+    theme_minimal() +
+    theme(legend.position = "none")
+  
+  print(importance_plot)
+} else {
+  cat("No feature importance data available to plot\n")
+}
+
+```
+
+```{r}
+# 3. CLASSIFICATION MODEL (High/Low Growth)
+cat("=== TRAINING CLASSIFICATION MODEL ===\n")
+
+# Prepare classification data with error handling
+tryCatch({
+  class_data <- train_data %>%
+    select(all_of(features), target_class) %>%
+    na.omit() %>%
+    mutate(target_class = as.factor(target_class))
+  
+  if (nrow(class_data) < 5) {
+    stop("Insufficient data for classification model")
+  }
+  
+  set.seed(42)
+  class_model <- randomForest(
+    target_class ~ .,
+    data = class_data,
+    ntree = 100,
+    importance = TRUE
+  )
+  
+  # Make classification predictions
+  class_predictions <- predict(class_model, newdata = test_data)
+  
+  # Evaluate classification
+  conf_matrix <- confusionMatrix(class_predictions, as.factor(test_data$target_class))
+  
+}, error = function(e) {
+  cat("Error in classification model:", e$message, "\n")
+  class_model <<- NULL
+  class_predictions <<- factor(rep("Low", nrow(test_data)), levels = c("High", "Low"))
+  conf_matrix <<- NULL
+})
+
+```
+
+```{r}
+# Display classification results
+if (!is.null(class_model) && !is.null(conf_matrix)) {
+  class_results <- data.frame(
+    Metric = c("Accuracy", "Kappa", "Sensitivity", "Specificity"),
+    Value = c(
+      round(conf_matrix$overall["Accuracy"], 3),
+      round(conf_matrix$overall["Kappa"], 3),
+      round(conf_matrix$byClass["Sensitivity"], 3),
+      round(conf_matrix$byClass["Specificity"], 3)
+    )
+  )
+  
+  kable(class_results, caption = "Classification Model Performance")
+  
+  cat("\nConfusion Matrix:\n")
+  conf_matrix_df <- as.data.frame(conf_matrix$table)
+  kable(conf_matrix_df, caption = "Confusion Matrix")
+} else {
+  cat("Classification model could not be trained due to insufficient data\n")
+}
+
+```
+
+
+```{r}
+# Function to predict future growth
+predict_future_growth <- function(model, district_data, years_ahead = 3) {
+  # Get the most recent data for each district
+  recent_data <- district_data %>%
+    group_by(district_number) %>%
+    filter(year == max(year)) %>%
+    ungroup()
+  
+  # Make predictions
+  predictions <- predict(model, newdata = recent_data)
+  
+  # Create future outlook
+  future_outlook <- recent_data %>%
+    select(district_number, district_name, total_value_real_value_added, real_value_growth) %>%
+    mutate(
+      predicted_growth = predictions,
+      future_outlook = case_when(
+        predicted_growth > 5 ~ "🚀 Rapid Growth",
+        predicted_growth > 2 ~ "📈 Steady Growth",
+        predicted_growth > -2 ~ "↔️ Stable",
+        predicted_growth > -5 ~ "⚠️ Moderate Decline",
+        TRUE ~ "🔻 Significant Decline"
+      ),
+      investment_priority = case_when(
+        predicted_growth > 5 ~ "High Priority",
+        predicted_growth > 2 ~ "Medium Priority",
+        predicted_growth > -2 ~ "Low Priority",
+        TRUE ~ "Avoid"
+      )
+    ) %>%
+    arrange(desc(predicted_growth))
+  
+  return(future_outlook)
+}
+
+# Get predictions using the best available model
+if (!is.null(rf_model)) {
+  future_predictions <- predict_future_growth(rf_model, ml_data)
+  cat("Using Random Forest model for predictions\n")
+} else if (!is.null(lm_model)) {
+  future_predictions <- predict_future_growth(lm_model, ml_data)
+  cat("Using Linear Regression model for predictions\n")
+} else {
+  cat("No valid models available for predictions. Creating placeholder predictions.\n")
+  future_predictions <- ml_data %>%
+    group_by(district_number) %>%
+    filter(year == max(year)) %>%
+    ungroup() %>%
+    select(district_number, district_name, total_value_real_value_added, real_value_growth) %>%
+    mutate(
+      predicted_growth = real_value_growth,  # Use current growth as prediction
+      future_outlook = "⚠️ Model Unavailable",
+      investment_priority = "Data Insufficient"
+    ) %>%
+    arrange(desc(predicted_growth))
+}
+```
+
+```{r}
+
+cat("## Top 5 Districts Predicted for Future Growth\n")
+
+top_districts <- future_predictions %>%
+  head(5) %>%
+  select(District = district_name, 
+         `Current Growth (%)` = real_value_growth,
+         `Predicted Growth (%)` = predicted_growth,
+         Outlook = future_outlook,
+         Priority = investment_priority)
+
+kable(top_districts, caption = "Top 5 Growth Districts")
+
+cat("\n## Bottom 5 Districts (Caution)\n")
+
+bottom_districts <- future_predictions %>%
+  tail(5) %>%
+  select(District = district_name, 
+         `Current Growth (%)` = real_value_growth,
+         `Predicted Growth (%)` = predicted_growth,
+         Outlook = future_outlook,
+         Priority = investment_priority)
+
+kable(bottom_districts, caption = "Bottom 5 Growth Districts")
+
+# Visualize predictions
+growth_plot <- future_predictions %>%
+  mutate(district_name = fct_reorder(district_name, predicted_growth)) %>%
+  ggplot(aes(x = predicted_growth, y = district_name, fill = predicted_growth)) +
+  geom_col() +
+  scale_fill_gradient2(low = "red", mid = "yellow", high = "green", 
+                       midpoint = 0, name = "Predicted Growth (%)") +
+  labs(title = "Predicted Future Growth by District",
+       x = "Predicted Growth Rate (%)",
+       y = "District") +
+  theme_minimal() +
+  theme(axis.text.y = element_text(size = 10))
+
+growth_plot
+
+```
+
+```{r}
+# Analyze historical trends with safe joining
+trend_analysis <- ml_data %>%
+  group_by(district_number, district_name) %>%
+  summarise(
+    avg_growth = mean(real_value_growth, na.rm = TRUE),
+    growth_volatility = sd(real_value_growth, na.rm = TRUE),
+    trend_stability = cor(real_value_growth, year, use = "complete.obs"),
+    total_value_2023 = max(total_value_real_value_added[year == max(year)], na.rm = TRUE),
+    .groups = 'drop'
+  )
+
+# Safely join with future predictions
+if ("predicted_growth" %in% names(future_predictions)) {
+  trend_analysis <- trend_analysis %>%
+    left_join(future_predictions %>% select(district_number, predicted_growth), by = "district_number") %>%
+    mutate(
+      growth_momentum = ifelse(!is.na(predicted_growth) & predicted_growth > avg_growth, "Accelerating", "Decelerating"),
+      risk_profile = case_when(
+        growth_volatility < 2 ~ "Low Risk",
+        growth_volatility < 5 ~ "Medium Risk",
+        TRUE ~ "High Risk"
+      )
+    ) %>%
+    arrange(desc(predicted_growth))
+} else {
+  # If no predicted_growth column, use historical growth as fallback
+  trend_analysis <- trend_analysis %>%
+    mutate(
+      predicted_growth = avg_growth,  # Use historical average as prediction
+      growth_momentum = "Unknown",
+      risk_profile = case_when(
+        growth_volatility < 2 ~ "Low Risk",
+        growth_volatility < 5 ~ "Medium Risk",
+        TRUE ~ "High Risk"
+      )
+    ) %>%
+    arrange(desc(predicted_growth))
+}
+
+
+```
+
+```{r}
+cat("## Comprehensive Trend Analysis\n")
+
+trend_display <- trend_analysis %>%
+  select(District = district_name,
+         `Historical Avg Growth (%)` = avg_growth,
+         `Predicted Growth (%)` = predicted_growth,
+         `Growth Volatility` = growth_volatility,
+         `Momentum` = growth_momentum,
+         `Risk Profile` = risk_profile) %>%
+  head(10)
+
+kable(trend_display, caption = "Trend Analysis for Top 10 Districts", digits = 2)
+
+
+```
+
+```{r}
+# Generate investment recommendations with safe column handling
+tryCatch({
+  recommendations <- future_predictions %>%
+    left_join(trend_analysis, by = c("district_number", "district_name")) %>%
+    select(
+      district_number,
+      district_name,
+      current_size = total_value_2023,
+      historical_growth = avg_growth,
+      predicted_growth = predicted_growth.x,  # Handle potential duplicate column names
+      growth_momentum,
+      investment_priority,
+      future_outlook,
+      risk_profile
+    ) %>%
+    mutate(
+      # Handle missing predicted_growth
+      predicted_growth = ifelse(is.na(predicted_growth), historical_growth, predicted_growth),
+      recommendation = case_when(
+        investment_priority == "High Priority" & growth_momentum == "Accelerating" ~ "🚀 STRONG BUY - High growth potential with positive momentum",
+        investment_priority == "High Priority" ~ "📈 BUY - High growth potential",
+        investment_priority == "Medium Priority" & growth_momentum == "Accelerating" ~ "👍 ACCUMULATE - Moderate growth with improving momentum",
+        investment_priority == "Medium Priority" ~ "🤔 HOLD - Moderate growth potential",
+        investment_priority == "Low Priority" ~ "⚠️ HOLD - Limited growth expected",
+        TRUE ~ "🔻 REDUCE - Expected decline"
+      ),
+      confidence_score = case_when(
+        investment_priority == "High Priority" & growth_momentum == "Accelerating" ~ 95,
+        investment_priority == "High Priority" ~ 85,
+        investment_priority == "Medium Priority" & growth_momentum == "Accelerating" ~ 75,
+        investment_priority == "Medium Priority" ~ 65,
+        investment_priority == "Low Priority" ~ 50,
+        TRUE ~ 30
+      )
+    ) %>%
+    arrange(desc(predicted_growth))
+}, error = function(e) {
+  cat("Error creating recommendations:", e$message, "\n")
+  # Create a simple fallback recommendations table
+  recommendations <<- trend_analysis %>%
+    mutate(
+      current_size = total_value_2023,
+      historical_growth = avg_growth,
+      investment_priority = "Data Insufficient",
+      future_outlook = "⚠️ Analysis Incomplete",
+      recommendation = "🤔 HOLD - Insufficient data for recommendation",
+      confidence_score = 30
+    ) %>%
+    arrange(desc(predicted_growth))
+})
+
+cat("## Top Investment Recommendations\n")
+
+# Display top recommendations with error handling
+tryCatch({
+  top_recommendations <- recommendations %>%
+    filter(investment_priority %in% c("High Priority", "Medium Priority")) %>%
+    head(10) %>%
+    select(District = district_name,
+           `Predicted Growth (%)` = predicted_growth,
+           Recommendation = recommendation,
+           `Confidence Score` = confidence_score)
+  
+  if (nrow(top_recommendations) > 0) {
+    kable(top_recommendations, caption = "Top Investment Opportunities")
+  } else {
+    cat("No high or medium priority investment opportunities identified\n")
+    # Show all recommendations instead
+    all_recommendations <- recommendations %>%
+      head(5) %>%
+      select(District = district_name,
+             `Predicted Growth (%)` = predicted_growth,
+             Recommendation = recommendation,
+             `Confidence Score` = confidence_score)
+    kable(all_recommendations, caption = "Available Investment Analysis")
+  }
+}, error = function(e) {
+  cat("Error displaying recommendations:", e$message, "\n")
+  cat("Recommendations data structure may be incomplete\n")
+})
+
+
+# Create recommendation matrix visualization with error handling
+tryCatch({
+  recommendation_matrix <- recommendations %>%
+    filter(!is.na(predicted_growth) & !is.na(historical_growth)) %>%
+    ggplot(aes(x = predicted_growth, y = historical_growth, 
+               size = current_size, color = investment_priority)) +
+    geom_point(alpha = 0.7) +
+    scale_color_manual(values = c("High Priority" = "green", 
+                                 "Medium Priority" = "orange",
+                                 "Low Priority" = "yellow",
+                                 "Avoid" = "red",
+                                 "Data Insufficient" = "gray")) +
+    scale_size_continuous(range = c(3, 10), name = "Current Size") +
+    labs(title = "Investment Recommendation Matrix",
+         x = "Predicted Future Growth (%)",
+         y = "Historical Average Growth (%)",
+         color = "Investment Priority") +
+    theme_minimal() +
+    geom_hline(yintercept = 0, linetype = "dashed") +
+    geom_vline(xintercept = 0, linetype = "dashed")
+  
+  print(recommendation_matrix)
+}, error = function(e) {
+  cat("Error creating recommendation matrix plot:", e$message, "\n")
+  cat("Visualization could not be generated due to data structure issues\n")
+})
+```
+
+```{r}
+# Export all results with error handling
+tryCatch({
+  write_csv(future_predictions, "district_growth_predictions.csv")
+  write_csv(trend_analysis, "district_trend_analysis.csv")
+  write_csv(importance_df, "feature_importance.csv")
+  write_csv(recommendations, "investment_recommendations.csv")
+  
+  cat("## Exported Files:\n")
+  cat("1. `district_growth_predictions.csv` - Future growth predictions for all districts\n")
+  cat("2. `district_trend_analysis.csv` - Comprehensive trend analysis\n")
+  cat("3. `feature_importance.csv` - Feature importance from random forest model\n")
+  cat("4. `investment_recommendations.csv` - Detailed investment recommendations\n")
+  
+}, error = function(e) {
+  cat("Error exporting files:", e$message, "\n")
+  cat("Results are available in memory but could not be exported to CSV files\n")
+})
+
+
+```
+
+
