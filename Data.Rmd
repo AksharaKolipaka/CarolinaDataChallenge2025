@@ -295,3 +295,244 @@ industry_to_district %>%
   arrange(desc(n)) %>%
   kable(col.names = c("District", "Industries", "Percentage"))
 ```
+
+```{r}
+
+library(tidyverse)
+library(knitr)
+library(scales)
+
+# Load the data
+cat("Loading space economy data...\n")
+df <- read_csv("all_tables_combined.csv", show_col_types = FALSE)
+district_mapping <- read_csv("industry_district_mapping.csv", show_col_types = FALSE)
+
+# Enhanced sector classification based on your actual industry data
+get_industry_sample <- function() {
+  df %>% 
+    distinct(industry) %>% 
+    slice_head(n = 10) %>%
+    pull(industry)
+}
+
+
+# Enhanced classification function based on BEA space economy industry patterns
+classify_advanced_sector <- function(industry_name) {
+  industry_lower <- tolower(industry_name)
+  
+  # Government/Defense patterns
+  if (grepl("government|federal|nasa|defense|military|dod|air force|army|navy|public", industry_lower)) {
+    return("Government")
+  }
+  
+  # High-tech private patterns
+  if (grepl("commercial|private|manufacturing|professional|scientific|computer|software|telecommunications|broadcasting|information|satellite", industry_lower)) {
+    return("Private")
+  }
+  
+  # Default to private for space economy analysis
+  return("Private")
+}
+
+# Apply enhanced classification
+df_enhanced <- df %>%
+  mutate(
+    sector_type = map_chr(industry, classify_advanced_sector),
+    industry_type = case_when(
+      grepl("manufacturing|production|equipment", tolower(industry)) ~ "Manufacturing",
+      grepl("professional|scientific|technical|computer|software", tolower(industry)) ~ "Professional Services",
+      grepl("information|broadcasting|telecommunications|satellite", tolower(industry)) ~ "Information Services",
+      grepl("government|federal|nasa|defense|military", tolower(industry)) ~ "Government",
+      TRUE ~ "Other"
+    )
+  )
+
+# Simplified but robust metrics calculation
+calculate_district_metrics <- function(district_data) {
+  
+  # 1. Economic Output Growth (Real Value Added CAGR 2020-2023)
+  output_growth <- district_data %>%
+    filter(table_name == "real_value_added", year %in% c(2020, 2023)) %>%
+    group_by(year) %>%
+    summarise(total = sum(value, na.rm = TRUE), .groups = 'drop') %>%
+    arrange(year)
+  
+  if (nrow(output_growth) == 2 && output_growth$total[1] > 0) {
+    growth_rate <- ((output_growth$total[2] / output_growth$total[1])^(1/3) - 1) * 100
+  } else {
+    growth_rate <- 0
+  }
+  
+  # 2. Employment Resilience (2023 vs 2019)
+  employment_data <- district_data %>%
+    filter(table_name == "employment", year %in% c(2019, 2023)) %>%
+    group_by(year) %>%
+    summarise(total = sum(value, na.rm = TRUE), .groups = 'drop')
+  
+  if (nrow(employment_data) == 2 && employment_data$total[1] > 0) {
+    employment_change <- ((employment_data$total[2] / employment_data$total[1]) - 1) * 100
+  } else {
+    employment_change <- 0
+  }
+  
+  # 3. Private Sector Dominance (Private % of total output)
+  sector_split <- district_data %>%
+    filter(table_name == "current_value_added", year == 2023) %>%
+    group_by(sector_type) %>%
+    summarise(total = sum(value, na.rm = TRUE), .groups = 'drop') %>%
+    mutate(percentage = total / sum(total) * 100)
+  
+  private_share <- sector_split %>% 
+    filter(sector_type == "Private") %>% 
+    pull(percentage)
+  if (length(private_share) == 0) private_share <- 0
+  
+  # 4. Innovation Intensity (Professional Services % of total)
+  innovation_share <- district_data %>%
+    filter(table_name == "current_value_added", year == 2023) %>%
+    group_by(industry_type) %>%
+    summarise(total = sum(value, na.rm = TRUE), .groups = 'drop') %>%
+    mutate(percentage = total / sum(total) * 100) %>%
+    filter(industry_type == "Professional Services") %>%
+    pull(percentage)
+  if (length(innovation_share) == 0) innovation_share <- 0
+  
+  # 5. Economic Scale (Total 2023 Output)
+  total_output <- district_data %>%
+    filter(table_name == "current_value_added", year == 2023) %>%
+    summarise(total = sum(value, na.rm = TRUE)) %>%
+    pull(total)
+  
+  # 6. Manufacturing Strength (Manufacturing % of total)
+  manufacturing_share <- district_data %>%
+    filter(table_name == "current_value_added", year == 2023) %>%
+    group_by(industry_type) %>%
+    summarise(total = sum(value, na.rm = TRUE), .groups = 'drop') %>%
+    mutate(percentage = total / sum(total) * 100) %>%
+    filter(industry_type == "Manufacturing") %>%
+    pull(percentage)
+  if (length(manufacturing_share) == 0) manufacturing_share <- 0
+  
+  return(tibble(
+    economic_growth = growth_rate,
+    employment_resilience = employment_change,
+    private_dominance = private_share,
+    innovation_intensity = innovation_share,
+    economic_scale = total_output,
+    manufacturing_strength = manufacturing_share
+  ))
+}
+
+# Calculate metrics for all districts
+cat("\nCalculating competitive metrics for all 13 districts...\n")
+
+district_competition <- df_enhanced %>%
+  group_by(district_number, district_name) %>%
+  group_modify(~ calculate_district_metrics(.x)) %>%
+  ungroup() %>%
+  # Create composite competitiveness score
+  mutate(
+    # Normalize all metrics to 0-100 scale
+    growth_score = pmax(0, pmin(100, (economic_growth + 10) * 5)), # -10% to +10% maps to 0-100
+    resilience_score = pmax(0, pmin(100, (employment_resilience + 20) * 2.5)), # -20% to +20% maps to 0-100
+    private_score = pmax(0, pmin(100, private_dominance)), # 0-100% already
+    innovation_score = pmax(0, pmin(100, innovation_intensity * 4)), # 0-25% maps to 0-100
+    scale_score = pmax(0, pmin(100, log10(pmax(1, economic_scale)) * 20)), # Log scale for output size
+    manufacturing_score = pmax(0, pmin(100, manufacturing_strength * 2)), # 0-50% maps to 0-100
+    
+    # Weighted composite score
+    competitive_index = (
+      growth_score * 0.25 +           # 25% weight on growth
+      resilience_score * 0.20 +       # 20% weight on employment resilience  
+      private_score * 0.20 +          # 20% weight on private sector strength
+      innovation_score * 0.15 +       # 15% weight on innovation
+      scale_score * 0.10 +            # 10% weight on economic scale
+      manufacturing_score * 0.10      # 10% weight on manufacturing
+    )
+  ) %>%
+  arrange(desc(competitive_index)) %>%
+  mutate(
+    rank = row_number(),
+    tier = case_when(
+      rank <= 3 ~ "🥇 TIER 1 - Investment Magnets",
+      rank <= 6 ~ "🥈 TIER 2 - Emerging Champions", 
+      rank <= 9 ~ "🥉 TIER 3 - Steady Performers",
+      TRUE ~ "⚠️ TIER 4 - Improvement Needed"
+    )
+  )
+
+# Display the competition results
+cat("\n" %+% "="*60 %+% "\n")
+cat("🚀 SPACE ECONOMY DISTRICT CHAMPIONSHIP RESULTS 🚀\n")
+cat(strrep("=", 60) %+% "\n\n")
+
+# Championship podium
+podium <- district_competition %>% slice_head(n = 3)
+
+cat("🏆 CHAMPIONSHIP PODIUM:\n")
+cat("🥇 1st Place:", podium$district_name[1], sprintf("(District %d) - Score: %.1f\n", podium$district_number[1], podium$competitive_index[1]))
+cat("🥈 2nd Place:", podium$district_name[2], sprintf("(District %d) - Score: %.1f\n", podium$district_number[2], podium$competitive_index[2]))
+cat("🥉 3rd Place:", podium$district_name[3], sprintf("(District %d) - Score: %.1f\n", podium$district_number[3], podium$competitive_index[3]))
+
+cat("\n" %+% "-"*50 %+% "\n")
+
+# Full rankings by tier
+for (tier_name in unique(district_competition$tier)) {
+  cat("\n", tier_name, "\n")
+  cat(rep("=", nchar(tier_name) - 2), "\n") # -2 for emoji characters
+  
+  tier_districts <- district_competition %>% filter(tier == tier_name)
+  
+  for (i in 1:nrow(tier_districts)) {
+    district <- tier_districts[i, ]
+    cat(sprintf("#%d - District %d: %s (Score: %.1f)\n", 
+                district$rank, district$district_number, 
+                district$district_name, district$competitive_index))
+    
+    # Show top 2 strengths
+    strengths <- c(
+  if (!is.na(district$growth_score) && district$growth_score > 60) sprintf("Growth: %.1f%%", district$economic_growth),
+  if (!is.na(district$resilience_score) && district$resilience_score > 60) sprintf("Resilience: %.1f%%", district$employment_resilience),
+  if (!is.na(district$private_score) && district$private_score > 70) sprintf("Private: %.1f%%", district$private_dominance),
+  if (!is.na(district$innovation_score) && district$innovation_score > 50) sprintf("Innovation: %.1f%%", district$innovation_intensity)
+)
+
+
+    
+    if (length(strengths) > 0) {
+      cat("     💪 Strengths:", paste(head(strengths, 2), collapse = ", "), "\n")
+    }
+  }
+}
+
+# Export championship results
+write_csv(district_competition, "space_economy_championship.csv")
+
+# Create investor presentation summary
+presentation_data <- district_competition %>%
+  select(rank, district_number, district_name, tier, competitive_index,
+         economic_growth, employment_resilience, private_dominance, 
+         innovation_intensity, economic_scale, manufacturing_strength) %>%
+  mutate(across(where(is.numeric), ~ round(., 1)))
+
+write_csv(presentation_data, "investor_presentation_data.csv")
+
+
+
+# Final insights
+cat("\n🎯 KEY CHAMPIONSHIP INSIGHTS:\n")
+cat("🏆 Champion District:", district_competition$district_name[1], 
+    sprintf("dominates with %.1f competitive index\n", district_competition$competitive_index[1]))
+
+fastest_growth <- district_competition %>% slice_max(economic_growth, n = 1)
+cat("📈 Fastest Growing:", fastest_growth$district_name, sprintf("(%.1f%% annual growth)\n", fastest_growth$economic_growth))
+
+most_resilient <- district_competition %>% slice_max(employment_resilience, n = 1)
+cat("💪 Most Resilient:", most_resilient$district_name, sprintf("(%.1f%% employment change)\n", most_resilient$employment_resilience))
+
+most_private <- district_competition %>% slice_max(private_dominance, n = 1)
+cat("🏢 Most Commercial:", most_private$district_name, sprintf("(%.1f%% private sector)\n", most_private$private_dominance))
+
+
+
+```
